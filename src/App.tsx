@@ -142,7 +142,11 @@ function App() {
     };
 
     const handleSelect = (option: string) => {
-        if (hasSubmitted) return;
+        // 已提交后点击任意选项跳到下一题
+        if (hasSubmitted) {
+            handleNext();
+            return;
+        }
 
         if (currentQuestion.type === 'single') {
             setSelectedAnswers([option]);
@@ -216,8 +220,13 @@ function App() {
             };
 
             const idx = indexMap[e.code];
-            if (idx !== undefined && currentOptionsOrder[idx]) {
-                handleSelect(currentOptionsOrder[idx]);
+            if (idx !== undefined) {
+                // 已提交后按任意选择键跳到下一题
+                if (hasSubmitted) {
+                    handleNext();
+                } else if (currentOptionsOrder[idx]) {
+                    handleSelect(currentOptionsOrder[idx]);
+                }
             }
         };
 
@@ -454,10 +463,10 @@ function App() {
     const isCorrect = currentRecord?.isCorrect ?? false;
 
     return (
-        <div className="min-h-screen bg-black p-6">
+        <div className="min-h-screen bg-black p-4 md:p-6">
             <div className="max-w-2xl mx-auto">
                 {/* 进度条 */}
-                <div className="h-1 bg-vercel-elevated rounded-full mb-6 overflow-hidden">
+                <div className="h-1 bg-vercel-elevated rounded-full mb-4 md:mb-6 overflow-hidden">
                     <div
                         className="h-full bg-white transition-all duration-300"
                         style={{ width: `${(answersMap.size / questions.length) * 100}%` }}
@@ -465,22 +474,22 @@ function App() {
                 </div>
 
                 {/* 头部信息 */}
-                <div className="flex items-center justify-between mb-6">
-                    <div className="flex items-center gap-3">
+                <div className="flex items-center justify-between mb-4 md:mb-6">
+                    <div className="flex items-center gap-2 md:gap-3 flex-wrap">
                         <button
                             onClick={handleExit}
-                            className="px-2 py-0.5 text-xs rounded bg-vercel-elevated text-vercel-text-muted border border-vercel-border hover:text-vercel-text hover:border-vercel-border-light transition-colors">
+                            className="px-1.5 md:px-2 py-0.5 text-[10px] md:text-xs rounded bg-vercel-elevated text-vercel-text-muted border border-vercel-border hover:text-vercel-text hover:border-vercel-border-light transition-colors">
                             ✕ 退出
                         </button>
-                        <span className="px-2 py-0.5 text-xs rounded bg-vercel-elevated text-vercel-text-secondary border border-vercel-border">
+                        <span className="px-1.5 md:px-2 py-0.5 text-[10px] md:text-xs rounded bg-vercel-elevated text-vercel-text-secondary border border-vercel-border hidden md:inline">
                             {currentQuestion.part}
                         </span>
-                        <span className="text-sm text-vercel-text">
+                        <span className="text-xs md:text-sm text-vercel-text">
                             {currentIndex + 1}
                             <span className="text-vercel-text-muted"> / {questions.length}</span>
                         </span>
                         <span
-                            className={`px-2 py-0.5 text-xs rounded border ${
+                            className={`px-1.5 md:px-2 py-0.5 text-[10px] md:text-xs rounded border ${
                                 currentQuestion.type === 'multiple'
                                     ? 'bg-yellow-500/10 text-yellow-500 border-yellow-500/20'
                                     : 'bg-vercel-elevated text-vercel-text-secondary border-vercel-border'
@@ -488,7 +497,7 @@ function App() {
                             {currentQuestion.type === 'single' ? '单选' : '多选'}
                         </span>
                     </div>
-                    <div className="text-sm">
+                    <div className="text-xs md:text-sm">
                         <span className="text-green-500">{stats.correct}</span>
                         <span className="text-vercel-text-muted"> / {stats.total}</span>
                     </div>
@@ -496,11 +505,13 @@ function App() {
 
                 {/* 题目卡片 */}
                 <div className="border border-vercel-border rounded-lg bg-vercel-card mb-4">
-                    <div className="p-6 border-b border-vercel-border">
-                        <h2 className="text-lg text-vercel-text leading-relaxed">{currentQuestion.title}</h2>
+                    <div className="p-4 md:p-6 border-b border-vercel-border">
+                        <h2 className="text-base md:text-lg text-vercel-text leading-relaxed">
+                            {currentQuestion.title}
+                        </h2>
                     </div>
 
-                    <div className="p-4 space-y-2">
+                    <div className="p-3 md:p-4 space-y-2">
                         {currentOptionsOrder.map((key, idx) => {
                             const value = currentQuestion.options[key];
                             const isSelected = selectedAnswers.includes(key);
@@ -524,12 +535,9 @@ function App() {
                                 <button
                                     key={key}
                                     onClick={() => handleSelect(key)}
-                                    disabled={hasSubmitted}
-                                    className={`w-full flex items-start gap-4 p-4 rounded-md border transition-all text-left ${optionStyle} ${
-                                        hasSubmitted ? 'cursor-default' : 'cursor-pointer'
-                                    }`}>
+                                    className={`w-full flex items-start gap-4 p-3 md:p-4 rounded-md border transition-all text-left ${optionStyle} cursor-pointer`}>
                                     <span
-                                        className={`flex items-center justify-center w-7 h-7 rounded-full text-sm font-medium flex-shrink-0 ${
+                                        className={`flex items-center justify-center w-6 h-6 md:w-7 md:h-7 rounded-full text-xs md:text-sm font-medium flex-shrink-0 ${
                                             hasSubmitted && isCorrectAnswer
                                                 ? 'bg-green-500 text-black'
                                                 : hasSubmitted && isSelected
@@ -541,7 +549,7 @@ function App() {
                                         {displayKey}
                                     </span>
                                     <span
-                                        className={`flex-1 ${
+                                        className={`flex-1 text-sm md:text-base ${
                                             hasSubmitted && isCorrectAnswer
                                                 ? 'text-green-400'
                                                 : hasSubmitted && isSelected && !isCorrectAnswer
@@ -563,24 +571,27 @@ function App() {
                 </div>
 
                 {/* 操作提示 */}
-                <div className="text-xs text-vercel-text-muted mb-4 px-1">
+                <div className="text-[10px] md:text-xs text-vercel-text-muted mb-3 md:mb-4 px-1">
                     {currentQuestion.type === 'single' ? (
-                        <span>💡 单选题：点击选项或按 1-5/ASDFG 立即作答，按空格跳过并显示答案</span>
+                        <span>💡 点击选项作答，点击任意位置继续下一题</span>
                     ) : (
-                        <span>💡 多选题：点击选项或按 1-5/ASDFG 勾选，完成后点击「确认选择」或按空格提交</span>
+                        <span>💡 多选题：点击勾选，完成后点击「确认选择」</span>
                     )}
                 </div>
 
                 {/* 反馈区域 */}
                 {hasSubmitted && (
                     <div
-                        className={`rounded-lg p-5 mb-6 border ${
+                        className={`rounded-lg p-4 md:p-5 mb-4 md:mb-6 border ${
                             isCorrect ? 'bg-green-500/5 border-green-500/20' : 'bg-red-500/5 border-red-500/20'
                         }`}>
-                        <div className={`font-medium mb-3 ${isCorrect ? 'text-green-500' : 'text-red-500'}`}>
+                        <div
+                            className={`font-medium mb-2 md:mb-3 text-sm md:text-base ${
+                                isCorrect ? 'text-green-500' : 'text-red-500'
+                            }`}>
                             {isCorrect ? '✓ 回答正确' : '✗ 回答错误'}
                         </div>
-                        <div className="text-sm text-vercel-text-secondary mb-2">
+                        <div className="text-xs md:text-sm text-vercel-text-secondary mb-2">
                             正确答案：
                             <span className="text-green-500 ml-1">
                                 {currentQuestion.answers
@@ -591,7 +602,7 @@ function App() {
                                     .join('；')}
                             </span>
                         </div>
-                        <div className="text-sm text-vercel-text-muted">
+                        <div className="text-xs md:text-sm text-vercel-text-muted">
                             <span className="text-vercel-text-secondary">解析：</span>
                             {replaceOptionLetters(currentQuestion.explanation, currentOptionsOrder)}
                         </div>
@@ -599,20 +610,20 @@ function App() {
                 )}
 
                 {/* 操作按钮 */}
-                <div className="flex items-center justify-between gap-3">
+                <div className="flex items-center justify-between gap-2 md:gap-3">
                     <button
                         onClick={handlePrev}
                         disabled={currentIndex === 0}
-                        className="h-10 px-4 border border-vercel-border text-vercel-text rounded-md hover:bg-vercel-elevated transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+                        className="h-9 md:h-10 px-3 md:px-4 text-xs md:text-sm border border-vercel-border text-vercel-text rounded-md hover:bg-vercel-elevated transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
                         ← 上一题
                     </button>
 
-                    <div className="flex gap-3">
+                    <div className="flex gap-2 md:gap-3">
                         {!hasSubmitted && currentQuestion.type === 'multiple' && (
                             <button
                                 onClick={handleConfirmMultiple}
                                 disabled={selectedAnswers.length === 0}
-                                className="h-10 px-6 bg-white text-black font-medium rounded-md hover:bg-gray-200 transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+                                className="h-9 md:h-10 px-4 md:px-6 text-xs md:text-sm bg-white text-black font-medium rounded-md hover:bg-gray-200 transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
                                 确认选择
                             </button>
                         )}
@@ -621,14 +632,14 @@ function App() {
                     {currentIndex < questions.length - 1 ? (
                         <button
                             onClick={handleNext}
-                            className="h-10 px-4 border border-vercel-border text-vercel-text rounded-md hover:bg-vercel-elevated transition-colors">
+                            className="h-9 md:h-10 px-3 md:px-4 text-xs md:text-sm border border-vercel-border text-vercel-text rounded-md hover:bg-vercel-elevated transition-colors">
                             下一题 →
                         </button>
                     ) : (
                         <button
                             onClick={handleFinish}
                             disabled={!allAnswered}
-                            className="h-10 px-6 bg-white text-black font-medium rounded-md hover:bg-gray-200 transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
+                            className="h-9 md:h-10 px-4 md:px-6 text-xs md:text-sm bg-white text-black font-medium rounded-md hover:bg-gray-200 transition-colors disabled:opacity-30 disabled:cursor-not-allowed">
                             查看结果
                         </button>
                     )}
@@ -636,7 +647,7 @@ function App() {
 
                 {/* 未答题提示 */}
                 {!allAnswered && (
-                    <p className="text-center text-vercel-text-muted text-sm mt-4">
+                    <p className="text-center text-vercel-text-muted text-xs md:text-sm mt-3 md:mt-4">
                         还有 {questions.length - answersMap.size} 题未作答
                     </p>
                 )}
