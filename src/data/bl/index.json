@@ -1,0 +1,72 @@
+{
+  "title": "病理学",
+  "description": "本解析依据「病理学题库」整理",
+  "totalQuestions": 2643,
+  "chapters": [
+    {
+      "id": "1",
+      "title": "细胞和组织的损伤",
+      "questionCount": 228
+    },
+    {
+      "id": "2",
+      "title": "局部血液及体液循环障碍",
+      "questionCount": 227
+    },
+    {
+      "id": "3",
+      "title": "炎症",
+      "questionCount": 208
+    },
+    {
+      "id": "4",
+      "title": "肿瘤",
+      "questionCount": 233
+    },
+    {
+      "id": "5",
+      "title": "心血管疾病",
+      "questionCount": 210
+    },
+    {
+      "id": "6",
+      "title": "呼吸系统疾病",
+      "questionCount": 261
+    },
+    {
+      "id": "7",
+      "title": "消化系统疾病",
+      "questionCount": 257
+    },
+    {
+      "id": "8",
+      "title": "泌尿系统疾病",
+      "questionCount": 256
+    },
+    {
+      "id": "9",
+      "title": "生殖系统疾病",
+      "questionCount": 241
+    },
+    {
+      "id": "10",
+      "title": "淋巴造血系统疾病",
+      "questionCount": 142
+    },
+    {
+      "id": "11",
+      "title": "内分泌系统疾病",
+      "questionCount": 103
+    },
+    {
+      "id": "12",
+      "title": "神经系统疾病",
+      "questionCount": 117
+    },
+    {
+      "id": "13",
+      "title": "传染病",
+      "questionCount": 160
+    }
+  ]
+}

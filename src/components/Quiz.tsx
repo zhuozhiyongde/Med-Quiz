@@ -605,7 +605,7 @@ export function Quiz({ data }: QuizProps) {
                                 <button
                                     key={key}
                                     onClick={() => handleSelect(key)}
-                                    className={`w-full flex items-start gap-4 p-3 md:p-4 rounded-md border transition-all text-left ${optionStyle} cursor-pointer`}>
+                                    className={`w-full flex items-center gap-4 p-3 md:p-4 rounded-md border transition-all text-left ${optionStyle} cursor-pointer`}>
                                     <span
                                         className={`flex items-center justify-center w-6 h-6 md:w-7 md:h-7 rounded-full text-xs md:text-sm font-medium flex-shrink-0 ${
                                             hasSubmitted && isCorrectAnswer

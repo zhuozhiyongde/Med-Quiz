@@ -368,6 +368,13 @@ def main():
             "title": "局部解剖学",
             "description": "本解析依据「局部解剖学在线闯关网站」整理",
             "enable_chapters": True,
+        },
+        {
+            "input_file": data_dir / "病理学.txt",
+            "slug": "bl",
+            "title": "病理学",
+            "description": "本解析依据「病理学题库」整理",
+            "enable_chapters": True,
         }
     ]
 
