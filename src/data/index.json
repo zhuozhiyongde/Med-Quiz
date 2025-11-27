@@ -1,0 +1,12 @@
+{
+  "courses": [
+    {
+      "slug": "gwcb",
+      "title": "公共卫生传播学"
+    },
+    {
+      "slug": "jkjy",
+      "title": "健康教育与健康促进"
+    }
+  ]
+}

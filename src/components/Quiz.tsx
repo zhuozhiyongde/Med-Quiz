@@ -1,0 +1,767 @@
+import { useState, useMemo, useCallback, useEffect } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
+import { ArrowLeft, ArrowRight, Check, X, LogOut, RotateCcw, Shuffle, ListOrdered, AlertCircle } from 'lucide-react';
+import type { QuizData, Question, AnswerRecord } from '../types';
+import { ThemeToggle } from './ThemeToggle';
+
+type QuizMode = 'sequential' | 'random';
+type QuizState = 'start' | 'quiz' | 'result';
+
+interface SavedProgress {
+    state: QuizState;
+    mode: QuizMode;
+    currentIndex: number;
+    questions: Question[];
+    answersMap: [number, AnswerRecord][];
+    optionsOrderMap: [number, string[]][];
+}
+
+function shuffleArray<T>(array: T[]): T[] {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
+interface QuizProps {
+    data: QuizData;
+}
+
+export function Quiz({ data }: QuizProps) {
+    const navigate = useNavigate();
+    const { courseSlug } = useParams<{ courseSlug: string }>();
+    const STORAGE_KEY = `quiz-progress-${courseSlug}`;
+
+    const [state, setState] = useState<QuizState>('start');
+    const [mode, setMode] = useState<QuizMode>('sequential');
+    const [currentIndex, setCurrentIndex] = useState(0);
+    const [selectedAnswers, setSelectedAnswers] = useState<string[]>([]);
+    const [questions, setQuestions] = useState<Question[]>([]);
+    const [answersMap, setAnswersMap] = useState<Map<number, AnswerRecord>>(new Map());
+    const [optionsOrderMap, setOptionsOrderMap] = useState<Map<number, string[]>>(new Map());
+    const [isLoaded, setIsLoaded] = useState(false);
+
+    const currentQuestion = questions[currentIndex];
+    const currentOptionsOrder = optionsOrderMap.get(currentIndex) || [];
+    const currentRecord = answersMap.get(currentIndex);
+    const hasSubmitted = !!currentRecord;
+
+    // 计算统计数据
+    const quizStats = useMemo(() => {
+        const singleCount = data.questions.filter((q) => q.type === 'single').length;
+        const multipleCount = data.questions.filter((q) => q.type === 'multiple').length;
+        return { singleCount, multipleCount, total: data.questions.length };
+    }, [data.questions]);
+
+    // 从 localStorage 加载进度
+    useEffect(() => {
+        try {
+            const saved = localStorage.getItem(STORAGE_KEY);
+            if (saved) {
+                const progress: SavedProgress = JSON.parse(saved);
+                if (progress.state === 'quiz' && progress.questions.length > 0) {
+                    setState(progress.state);
+                    setMode(progress.mode);
+                    setCurrentIndex(progress.currentIndex);
+                    setQuestions(progress.questions);
+                    setAnswersMap(new Map(progress.answersMap));
+                    setOptionsOrderMap(new Map(progress.optionsOrderMap));
+                }
+            }
+        } catch (e) {
+            console.error('Failed to load progress:', e);
+        }
+        setIsLoaded(true);
+    }, [STORAGE_KEY]);
+
+    // 保存进度到 localStorage
+    useEffect(() => {
+        if (!isLoaded) return;
+        if (state === 'quiz' && questions.length > 0) {
+            const progress: SavedProgress = {
+                state,
+                mode,
+                currentIndex,
+                questions,
+                answersMap: Array.from(answersMap.entries()),
+                optionsOrderMap: Array.from(optionsOrderMap.entries()),
+            };
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+        } else if (state === 'start') {
+            localStorage.removeItem(STORAGE_KEY);
+        }
+    }, [isLoaded, state, mode, currentIndex, questions, answersMap, optionsOrderMap, STORAGE_KEY]);
+
+    const startQuiz = useCallback(
+        (selectedMode: QuizMode, customQuestions?: Question[]) => {
+            setMode(selectedMode);
+            const baseQuestions = customQuestions || data.questions;
+            const qs = selectedMode === 'random' ? shuffleArray(baseQuestions) : baseQuestions;
+            setQuestions(qs);
+            setCurrentIndex(0);
+            setSelectedAnswers([]);
+            setAnswersMap(new Map());
+
+            const newOptionsOrderMap = new Map<number, string[]>();
+            qs.forEach((q, idx) => {
+                const optionKeys = Object.keys(q.options);
+                newOptionsOrderMap.set(idx, shuffleArray(optionKeys));
+            });
+            setOptionsOrderMap(newOptionsOrderMap);
+            setState('quiz');
+        },
+        [data.questions]
+    );
+
+    const startWrongQuiz = useCallback(() => {
+        const wrongQuestionIndices = Array.from(answersMap.values())
+            .filter((r) => !r.isCorrect)
+            .map((r) => r.questionIndex);
+        const wrongQuestions = wrongQuestionIndices.map((idx) => questions[idx]);
+        if (wrongQuestions.length > 0) {
+            startQuiz('random', wrongQuestions);
+        }
+    }, [answersMap, questions, startQuiz]);
+
+    const handleExit = useCallback(() => {
+        localStorage.removeItem(STORAGE_KEY);
+        setState('start');
+        setQuestions([]);
+        setAnswersMap(new Map());
+        setOptionsOrderMap(new Map());
+        setCurrentIndex(0);
+        setSelectedAnswers([]);
+    }, [STORAGE_KEY]);
+
+    const handleBackToCourses = useCallback(() => {
+        navigate('/');
+    }, [navigate]);
+
+    useEffect(() => {
+        if (currentRecord) {
+            setSelectedAnswers(currentRecord.userAnswers);
+        } else {
+            setSelectedAnswers([]);
+        }
+    }, [currentIndex, currentRecord]);
+
+    const submitAnswer = (answers: string[]) => {
+        const correct = currentQuestion.answers;
+        const isAnswerCorrect = answers.length === correct.length && answers.every((a) => correct.includes(a));
+
+        setAnswersMap((prev) => {
+            const newMap = new Map(prev);
+            newMap.set(currentIndex, {
+                questionIndex: currentIndex,
+                userAnswers: answers,
+                isCorrect: isAnswerCorrect,
+            });
+            return newMap;
+        });
+    };
+
+    const handleSelect = (option: string) => {
+        // 已提交后点击任意选项跳到下一题
+        if (hasSubmitted) {
+            handleNext();
+            return;
+        }
+
+        if (currentQuestion.type === 'single') {
+            setSelectedAnswers([option]);
+            setTimeout(() => submitAnswer([option]), 0);
+        } else {
+            setSelectedAnswers((prev) =>
+                prev.includes(option) ? prev.filter((a) => a !== option) : [...prev, option].sort()
+            );
+        }
+    };
+
+    const handleConfirmMultiple = () => {
+        if (selectedAnswers.length === 0 || hasSubmitted) return;
+        submitAnswer(selectedAnswers);
+    };
+
+    const handlePrev = useCallback(() => {
+        if (currentIndex > 0) setCurrentIndex((prev) => prev - 1);
+    }, [currentIndex]);
+
+    const handleNext = useCallback(() => {
+        if (currentIndex < questions.length - 1) setCurrentIndex((prev) => prev + 1);
+    }, [currentIndex, questions.length]);
+
+    const handleFinish = () => setState('result');
+
+    useEffect(() => {
+        if (state !== 'quiz') return;
+
+        const handleKeyDown = (e: KeyboardEvent) => {
+            if (e.code === 'ArrowLeft') {
+                e.preventDefault();
+                handlePrev();
+                return;
+            }
+            if (e.code === 'ArrowRight') {
+                e.preventDefault();
+                handleNext();
+                return;
+            }
+            if (e.code === 'Space') {
+                e.preventDefault();
+                if (hasSubmitted) {
+                    handleNext();
+                } else if (currentQuestion.type === 'single' && selectedAnswers.length === 0) {
+                    // 单选题：空格跳过，自动选择正确答案
+                    const correctAnswer = currentQuestion.answers[0];
+                    setSelectedAnswers([correctAnswer]);
+                    submitAnswer([correctAnswer]);
+                } else if (currentQuestion.type === 'multiple') {
+                    if (selectedAnswers.length === 0) {
+                        // 多选题：没有选择时，空格全选正确答案
+                        const correctAnswers = currentQuestion.answers;
+                        setSelectedAnswers(correctAnswers);
+                        submitAnswer(correctAnswers);
+                    } else {
+                        // 多选题：已有选择时，提交当前选择
+                        submitAnswer(selectedAnswers);
+                    }
+                }
+                return;
+            }
+
+            const indexMap: Record<string, number> = {
+                Digit1: 0,
+                Numpad1: 0,
+                KeyA: 0,
+                Digit2: 1,
+                Numpad2: 1,
+                KeyS: 1,
+                Digit3: 2,
+                Numpad3: 2,
+                KeyD: 2,
+                Digit4: 3,
+                Numpad4: 3,
+                KeyF: 3,
+                Digit5: 4,
+                Numpad5: 4,
+                KeyG: 4,
+            };
+
+            const idx = indexMap[e.code];
+            if (idx !== undefined) {
+                // 已提交后按任意选择键跳到下一题
+                if (hasSubmitted) {
+                    handleNext();
+                } else if (currentOptionsOrder[idx]) {
+                    handleSelect(currentOptionsOrder[idx]);
+                }
+            }
+        };
+
+        window.addEventListener('keydown', handleKeyDown);
+        return () => window.removeEventListener('keydown', handleKeyDown);
+    }, [state, hasSubmitted, currentQuestion, selectedAnswers, currentOptionsOrder, handlePrev, handleNext]);
+
+    const handleRestart = () => {
+        localStorage.removeItem(STORAGE_KEY);
+        setState('start');
+        setAnswersMap(new Map());
+    };
+
+    const stats = useMemo(() => {
+        const records = Array.from(answersMap.values());
+        const correct = records.filter((r) => r.isCorrect).length;
+        const total = records.length;
+        const rate = total > 0 ? ((correct / total) * 100).toFixed(1) : '0';
+        return { correct, total, rate };
+    }, [answersMap]);
+
+    const allAnswered = answersMap.size === questions.length;
+
+    const replaceOptionLetters = (text: string, optionsOrder: string[]) => {
+        return text.replace(/(?<![A-Za-z])([A-E])(?![A-Za-z])/g, (match, letter) => {
+            const idx = optionsOrder.indexOf(letter);
+            if (idx !== -1) {
+                return String(idx + 1);
+            }
+            return match;
+        });
+    };
+
+    // 加载中
+    if (!isLoaded) {
+        return (
+            <div className="min-h-screen bg-theme-bg flex items-center justify-center">
+                <div className="text-theme-text-muted">加载中...</div>
+            </div>
+        );
+    }
+
+    // 开始界面
+    if (state === 'start') {
+        return (
+            <div className="min-h-screen bg-theme-bg flex items-center justify-center p-6">
+                <div className="w-full max-w-lg">
+                    <div className="flex justify-between items-center mb-4">
+                        <button
+                            onClick={handleBackToCourses}
+                            className="flex items-center gap-2 px-3 py-2 text-sm text-theme-text-secondary hover:text-theme-text transition-colors">
+                            <ArrowLeft className="w-4 h-4" />
+                            返回课程列表
+                        </button>
+                        <ThemeToggle />
+                    </div>
+
+                    <div className="border border-theme-border rounded-lg bg-theme-card p-8">
+                        <h1 className="text-2xl font-semibold text-theme-text text-center mb-2">{data.title}</h1>
+                        <p className="text-theme-text-secondary text-center text-sm mb-8">{data.description}</p>
+
+                        <div className="flex justify-center gap-6 mb-8 text-sm">
+                            <div className="text-center">
+                                <div className="text-theme-text font-medium">{quizStats.singleCount}</div>
+                                <div className="text-theme-text-muted">单选题</div>
+                            </div>
+                            <div className="w-px bg-theme-border" />
+                            <div className="text-center">
+                                <div className="text-theme-text font-medium">{quizStats.multipleCount}</div>
+                                <div className="text-theme-text-muted">多选题</div>
+                            </div>
+                            <div className="w-px bg-theme-border" />
+                            <div className="text-center">
+                                <div className="text-theme-text font-medium">{quizStats.total}</div>
+                                <div className="text-theme-text-muted">总计</div>
+                            </div>
+                        </div>
+
+                        <div className="flex gap-3">
+                            <button
+                                onClick={() => startQuiz('sequential')}
+                                className="flex-1 h-10 bg-theme-text text-theme-bg font-medium rounded-md hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
+                                <ListOrdered className="w-4 h-4" />
+                                顺序练习
+                            </button>
+                            <button
+                                onClick={() => startQuiz('random')}
+                                className="flex-1 h-10 border border-theme-border text-theme-text font-medium rounded-md hover:bg-theme-elevated transition-colors flex items-center justify-center gap-2">
+                                <Shuffle className="w-4 h-4" />
+                                随机练习
+                            </button>
+                        </div>
+                    </div>
+
+                    <p className="text-theme-text-muted text-xs text-center mt-4">
+                        快捷键：1-5 或 ASDFG 选择 · ← → 切换题目 · 空格 下一题/跳过
+                    </p>
+                    <p className="text-theme-text-muted text-xs text-center mt-4">
+                        如果你想投稿更多题目，欢迎联系我：
+                        <a
+                            href="mailto:zhuozhiyongde@126.com"
+                            className="text-theme-text-muted hover:text-theme-text transition-colors">
+                            <code>zhuozhiyongde@126.com</code>
+                        </a>
+                    </p>
+
+                    <p className="text-theme-text-muted text-xs text-center mt-4">
+                        网站制作：21 级预防医学{' '}
+                        <a
+                            href="https://arthals.ink"
+                            className="text-theme-text-muted hover:text-theme-text transition-colors">
+                            卓致用
+                        </a>
+                    </p>
+                </div>
+            </div>
+        );
+    }
+
+    // 结果界面
+    if (state === 'result') {
+        const records = Array.from(answersMap.values());
+        const wrongRecords = records.filter((r) => !r.isCorrect);
+
+        return (
+            <div className="min-h-screen bg-theme-bg p-4 md:p-6">
+                <div className="max-w-3xl mx-auto">
+                    <div className="flex justify-end mb-4">
+                        <ThemeToggle />
+                    </div>
+
+                    <div className="border border-theme-border rounded-lg bg-theme-card p-6 md:p-8 mb-6">
+                        <h1 className="text-xl font-semibold text-theme-text text-center mb-6">练习完成</h1>
+
+                        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 mb-6">
+                            <div className="text-center p-3 md:p-4 rounded-md bg-theme-elevated border border-theme-border">
+                                <div className="text-xl md:text-2xl font-semibold text-theme-text">{stats.total}</div>
+                                <div className="text-[10px] md:text-xs text-theme-text-muted mt-1">总题数</div>
+                            </div>
+                            <div className="text-center p-3 md:p-4 rounded-md bg-theme-elevated border border-theme-border">
+                                <div className="text-xl md:text-2xl font-semibold text-green-500">{stats.correct}</div>
+                                <div className="text-[10px] md:text-xs text-theme-text-muted mt-1">正确</div>
+                            </div>
+                            <div className="text-center p-3 md:p-4 rounded-md bg-theme-elevated border border-theme-border">
+                                <div className="text-xl md:text-2xl font-semibold text-red-500">
+                                    {stats.total - stats.correct}
+                                </div>
+                                <div className="text-[10px] md:text-xs text-theme-text-muted mt-1">错误</div>
+                            </div>
+                            <div className="text-center p-3 md:p-4 rounded-md bg-theme-elevated border border-theme-border">
+                                <div className="text-xl md:text-2xl font-semibold text-theme-accent">{stats.rate}%</div>
+                                <div className="text-[10px] md:text-xs text-theme-text-muted mt-1">正确率</div>
+                            </div>
+                        </div>
+
+                        <div className="space-y-3">
+                            {wrongRecords.length > 0 && (
+                                <button
+                                    onClick={startWrongQuiz}
+                                    className="w-full h-10 bg-red-500 text-white font-medium rounded-md hover:bg-red-600 transition-colors flex items-center justify-center gap-2">
+                                    <AlertCircle className="w-4 h-4" />
+                                    <span>错题训练 ({wrongRecords.length})</span>
+                                </button>
+                            )}
+                            <div className="flex gap-3">
+                                <button
+                                    onClick={handleRestart}
+                                    className="flex-1 h-10 bg-theme-text text-theme-bg font-medium rounded-md hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
+                                    <RotateCcw className="w-4 h-4" />
+                                    <span>重新开始</span>
+                                </button>
+                                <button
+                                    onClick={handleBackToCourses}
+                                    className="flex-1 h-10 border border-theme-border text-theme-text font-medium rounded-md hover:bg-theme-elevated transition-colors flex items-center justify-center gap-2">
+                                    <ArrowLeft className="w-4 h-4" />
+                                    <span>返回列表</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    {wrongRecords.length > 0 && (
+                        <div className="border border-theme-border rounded-lg bg-theme-card">
+                            <div className="px-4 md:px-6 py-4 border-b border-theme-border">
+                                <h2 className="text-sm font-medium text-theme-text">
+                                    错题回顾 ({wrongRecords.length})
+                                </h2>
+                            </div>
+
+                            <div className="divide-y divide-theme-border">
+                                {wrongRecords.map((record) => {
+                                    const q = questions[record.questionIndex];
+                                    return (
+                                        <div key={record.questionIndex} className="p-4 md:p-6">
+                                            <div className="flex items-center gap-2 mb-3 flex-wrap">
+                                                <span className="text-xs text-theme-text-muted">
+                                                    第 {record.questionIndex + 1} 题
+                                                </span>
+                                                {q.type === 'multiple' && (
+                                                    <span className="px-2 py-0.5 text-xs rounded bg-yellow-500/10 text-yellow-500 border border-yellow-500/20">
+                                                        多选
+                                                    </span>
+                                                )}
+                                            </div>
+
+                                            <p className="text-theme-text mb-4 text-sm md:text-base">{q.title}</p>
+
+                                            <div className="space-y-2 mb-4">
+                                                {Object.entries(q.options).map(([key, value]) => {
+                                                    const isCorrectAnswer = q.answers.includes(key);
+                                                    const isUserAnswer = record.userAnswers.includes(key);
+                                                    const isWrongAnswer = isUserAnswer && !isCorrectAnswer;
+
+                                                    return (
+                                                        <div
+                                                            key={key}
+                                                            className={`flex items-start gap-3 p-3 rounded-md text-sm ${
+                                                                isCorrectAnswer
+                                                                    ? 'bg-green-500/10 border border-green-500/20'
+                                                                    : isWrongAnswer
+                                                                    ? 'bg-red-500/10 border border-red-500/20'
+                                                                    : 'bg-theme-elevated border border-theme-border'
+                                                            }`}>
+                                                            <span
+                                                                className={`font-medium flex-shrink-0 ${
+                                                                    isCorrectAnswer
+                                                                        ? 'text-green-500'
+                                                                        : isWrongAnswer
+                                                                        ? 'text-red-500'
+                                                                        : 'text-theme-text-secondary'
+                                                                }`}>
+                                                                {key}
+                                                            </span>
+                                                            <span
+                                                                className={`flex-1 break-words ${
+                                                                    isCorrectAnswer
+                                                                        ? 'text-green-400'
+                                                                        : isWrongAnswer
+                                                                        ? 'text-red-400'
+                                                                        : 'text-theme-text-secondary'
+                                                                }`}>
+                                                                {value}
+                                                            </span>
+                                                            {isCorrectAnswer && (
+                                                                <Check className="w-4 h-4 text-green-500 flex-shrink-0" />
+                                                            )}
+                                                            {isWrongAnswer && (
+                                                                <X className="w-4 h-4 text-red-500 flex-shrink-0" />
+                                                            )}
+                                                        </div>
+                                                    );
+                                                })}
+                                            </div>
+
+                                            <div className="text-sm space-y-1 mb-3">
+                                                <p className="text-theme-text-secondary">
+                                                    你的答案：
+                                                    <span className="text-red-500 ml-1">
+                                                        {record.userAnswers.join(', ')}
+                                                    </span>
+                                                </p>
+                                                <p className="text-theme-text-secondary">
+                                                    正确答案：
+                                                    <span className="text-green-500 ml-1">{q.answers.join(', ')}</span>
+                                                </p>
+                                            </div>
+
+                                            {q.explanation && (
+                                                <div className="text-sm text-theme-text-muted bg-theme-elevated rounded-md p-3 border border-theme-border">
+                                                    <span className="text-theme-text-secondary">解析：</span>
+                                                    {q.explanation}
+                                                </div>
+                                            )}
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        </div>
+                    )}
+                </div>
+            </div>
+        );
+    }
+
+    // 答题界面
+    const isCorrect = currentRecord?.isCorrect ?? false;
+
+    return (
+        <div className="min-h-screen bg-theme-bg p-4 md:p-6">
+            <div className="max-w-2xl mx-auto">
+                {/* 进度条 */}
+                <div className="h-1 bg-theme-elevated rounded-full mb-4 md:mb-6 overflow-hidden">
+                    <div
+                        className="h-full bg-theme-text transition-all duration-300"
+                        style={{ width: `${(answersMap.size / questions.length) * 100}%` }}
+                    />
+                </div>
+
+                {/* 头部信息 */}
+                <div className="flex items-center justify-between mb-4 md:mb-6">
+                    <div className="flex items-center gap-2 md:gap-3 flex-wrap">
+                        <button
+                            onClick={handleExit}
+                            className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-text hover:border-theme-border-light transition-colors flex items-center gap-1">
+                            <LogOut className="w-3 h-3" />
+                            退出
+                        </button>
+                        <span className="text-xs md:text-sm text-theme-text">
+                            {currentIndex + 1}
+                            <span className="text-theme-text-muted"> / {questions.length}</span>
+                        </span>
+                        <span
+                            className={`px-1.5 md:px-2 py-0.5 text-[10px] md:text-xs rounded border ${
+                                currentQuestion.type === 'multiple'
+                                    ? 'bg-yellow-500/10 text-yellow-500 border-yellow-500/20'
+                                    : 'bg-theme-elevated text-theme-text-secondary border-theme-border'
+                            }`}>
+                            {currentQuestion.type === 'single' ? '单选' : '多选'}
+                        </span>
+                    </div>
+                    <div className="flex items-center gap-3">
+                        <div className="text-xs md:text-sm">
+                            <span className="text-green-500">{stats.correct}</span>
+                            <span className="text-theme-text-muted"> / {stats.total}</span>
+                        </div>
+                        <ThemeToggle />
+                    </div>
+                </div>
+
+                {/* 题目卡片 */}
+                <div className="border border-theme-border rounded-lg bg-theme-card mb-4">
+                    <div className="p-4 md:p-6 border-b border-theme-border">
+                        <h2 className="text-base md:text-lg text-theme-text leading-relaxed">
+                            {currentQuestion.title}
+                        </h2>
+                    </div>
+
+                    <div className="p-3 md:p-4 space-y-2">
+                        {currentOptionsOrder.map((key, idx) => {
+                            const value = currentQuestion.options[key];
+                            const isSelected = selectedAnswers.includes(key);
+                            const isCorrectAnswer = currentQuestion.answers.includes(key);
+                            const displayKey = String(idx + 1);
+
+                            let optionStyle =
+                                'border-theme-border hover:border-theme-border-light hover:bg-theme-elevated';
+                            if (isSelected && !hasSubmitted) {
+                                optionStyle = 'border-theme-text bg-theme-text/5';
+                            }
+                            if (hasSubmitted) {
+                                if (isCorrectAnswer) {
+                                    optionStyle = 'border-green-500 bg-green-500/10';
+                                } else if (isSelected) {
+                                    optionStyle = 'border-red-500 bg-red-500/10';
+                                }
+                            }
+
+                            return (
+                                <button
+                                    key={key}
+                                    onClick={() => handleSelect(key)}
+                                    className={`w-full flex items-start gap-4 p-3 md:p-4 rounded-md border transition-all text-left ${optionStyle} cursor-pointer`}>
+                                    <span
+                                        className={`flex items-center justify-center w-6 h-6 md:w-7 md:h-7 rounded-full text-xs md:text-sm font-medium flex-shrink-0 ${
+                                            hasSubmitted && isCorrectAnswer
+                                                ? 'bg-green-500 text-white'
+                                                : hasSubmitted && isSelected
+                                                ? 'bg-red-500 text-white'
+                                                : isSelected
+                                                ? 'bg-theme-text text-theme-bg'
+                                                : 'bg-theme-elevated text-theme-text-secondary border border-theme-border'
+                                        }`}>
+                                        {displayKey}
+                                    </span>
+                                    <span
+                                        className={`flex-1 text-sm md:text-base ${
+                                            hasSubmitted && isCorrectAnswer
+                                                ? 'text-green-500'
+                                                : hasSubmitted && isSelected && !isCorrectAnswer
+                                                ? 'text-red-500'
+                                                : 'text-theme-text'
+                                        }`}>
+                                        {value}
+                                    </span>
+                                    {hasSubmitted && isCorrectAnswer && (
+                                        <Check className="w-5 h-5 text-green-500 flex-shrink-0" />
+                                    )}
+                                    {hasSubmitted && isSelected && !isCorrectAnswer && (
+                                        <X className="w-5 h-5 text-red-500 flex-shrink-0" />
+                                    )}
+                                </button>
+                            );
+                        })}
+                    </div>
+                </div>
+
+                {/* 操作提示 */}
+                <div className="text-[10px] md:text-xs text-theme-text-muted mb-3 md:mb-4 px-1">
+                    {currentQuestion.type === 'single' ? (
+                        <span>
+                            💡 点击选项作答（未选情况下空格自动选出正确答案），出结果后，点击任意选项或空格继续下一题
+                        </span>
+                    ) : (
+                        <span>💡 多选题：点击勾选（未选情况下空格自动勾选所有正确答案），完成后点击「确认选择」</span>
+                    )}
+                </div>
+
+                {/* 反馈区域 */}
+                {hasSubmitted && (
+                    <div
+                        className={`rounded-lg p-4 md:p-5 mb-4 md:mb-6 border ${
+                            isCorrect ? 'bg-green-500/5 border-green-500/20' : 'bg-red-500/5 border-red-500/20'
+                        }`}>
+                        <div
+                            className={`font-medium mb-2 md:mb-3 text-sm md:text-base flex items-center gap-2 ${
+                                isCorrect ? 'text-green-500' : 'text-red-500'
+                            }`}>
+                            {isCorrect ? (
+                                <>
+                                    <Check className="w-5 h-5" />
+                                    回答正确
+                                </>
+                            ) : (
+                                <>
+                                    <X className="w-5 h-5" />
+                                    回答错误
+                                </>
+                            )}
+                        </div>
+                        <div className="text-xs md:text-sm text-theme-text-secondary mb-2">
+                            正确答案：
+                            <span className="text-green-500 ml-1">
+                                {currentQuestion.answers
+                                    .map((ans) => {
+                                        const idx = currentOptionsOrder.indexOf(ans);
+                                        return `${idx + 1}. ${currentQuestion.options[ans]}`;
+                                    })
+                                    .join('；')}
+                            </span>
+                        </div>
+                        {currentQuestion.explanation && (
+                            <div className="text-xs md:text-sm text-theme-text-muted">
+                                <span className="text-theme-text-secondary">解析：</span>
+                                {replaceOptionLetters(currentQuestion.explanation, currentOptionsOrder)}
+                            </div>
+                        )}
+                    </div>
+                )}
+
+                {/* 操作按钮 */}
+                <div className="flex items-center justify-between gap-2 md:gap-3">
+                    <button
+                        onClick={handlePrev}
+                        disabled={currentIndex === 0}
+                        className="h-9 md:h-10 px-3 md:px-4 text-xs md:text-sm border border-theme-border text-theme-text rounded-md hover:bg-theme-elevated transition-colors disabled:opacity-30 disabled:cursor-not-allowed flex items-center gap-1">
+                        <ArrowLeft className="w-4 h-4" />
+                        <span className="hidden sm:inline">上一题</span>
+                    </button>
+
+                    <div className="flex gap-2 md:gap-3">
+                        {!hasSubmitted && currentQuestion.type === 'multiple' && (
+                            <button
+                                onClick={handleConfirmMultiple}
+                                disabled={selectedAnswers.length === 0}
+                                className="h-9 md:h-10 px-4 md:px-6 text-xs md:text-sm bg-theme-text text-theme-bg font-medium rounded-md hover:opacity-90 transition-opacity disabled:opacity-30 disabled:cursor-not-allowed flex items-center gap-2">
+                                <Check className="w-4 h-4" />
+                                确认选择
+                            </button>
+                        )}
+                    </div>
+
+                    {currentIndex < questions.length - 1 ? (
+                        <button
+                            onClick={handleNext}
+                            className="h-9 md:h-10 px-3 md:px-4 text-xs md:text-sm border border-theme-border text-theme-text rounded-md hover:bg-theme-elevated transition-colors flex items-center gap-1">
+                            <span className="hidden sm:inline">下一题</span>
+                            <ArrowRight className="w-4 h-4" />
+                        </button>
+                    ) : (
+                        <button
+                            onClick={handleFinish}
+                            disabled={!allAnswered}
+                            className="h-9 md:h-10 px-4 md:px-6 text-xs md:text-sm bg-theme-text text-theme-bg font-medium rounded-md hover:opacity-90 transition-opacity disabled:opacity-30 disabled:cursor-not-allowed">
+                            查看结果
+                        </button>
+                    )}
+                </div>
+
+                {/* 未答题提示 */}
+                {!allAnswered && (
+                    <>
+                        <p className="text-center text-theme-text-muted text-xs md:text-sm mt-3 md:mt-4">
+                            还有 {questions.length - answersMap.size} 题未作答
+                        </p>
+                        <p className="text-theme-text-muted text-xs text-center mt-4">
+                            网站制作：21 级预防医学{' '}
+                            <a
+                                href="https://arthals.ink"
+                                className="text-theme-text-muted hover:text-theme-text transition-colors">
+                                卓致用
+                            </a>
+                        </p>
+                    </>
+                )}
+            </div>
+        </div>
+    );
+}

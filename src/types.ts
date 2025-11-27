@@ -1,7 +1,4 @@
 export interface Question {
-  id: string;
-  part: string;
-  number: number;
   type: "single" | "multiple";
   title: string;
   options: Record<string, string>;
@@ -12,15 +9,20 @@ export interface Question {
 export interface QuizData {
   title: string;
   description: string;
-  total: number;
-  single_count: number;
-  multiple_count: number;
   questions: Question[];
 }
 
+export interface CourseInfo {
+  slug: string;
+  title: string;
+}
+
+export interface CourseIndex {
+  courses: CourseInfo[];
+}
+
 export interface AnswerRecord {
-  questionId: string;
+  questionIndex: number;
   userAnswers: string[];
   isCorrect: boolean;
 }
-

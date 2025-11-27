@@ -4,10 +4,24 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        // Vercel 风格配色
+        // 动态主题色（使用 CSS 变量）
+        'theme': {
+          'bg': 'var(--color-bg)',
+          'card': 'var(--color-card)',
+          'elevated': 'var(--color-elevated)',
+          'border': 'var(--color-border)',
+          'border-light': 'var(--color-border-light)',
+          'text': 'var(--color-text)',
+          'text-secondary': 'var(--color-text-secondary)',
+          'text-muted': 'var(--color-text-muted)',
+          'accent': 'var(--color-accent)',
+          'accent-light': 'var(--color-accent-light)',
+        },
+        // Vercel 风格配色（保留用于参考）
         'vercel': {
           'bg': '#000000',
           'card': '#0a0a0a',

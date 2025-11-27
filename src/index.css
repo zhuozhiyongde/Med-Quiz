@@ -13,10 +13,39 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* 亮色主题变量 */
+:root {
+  --color-bg: #fafafa;
+  --color-card: #ffffff;
+  --color-elevated: #f5f5f5;
+  --color-border: #e5e5e5;
+  --color-border-light: #d4d4d4;
+  --color-text: #171717;
+  --color-text-secondary: #525252;
+  --color-text-muted: #737373;
+  --color-accent: #0070f3;
+  --color-accent-light: #3291ff;
+}
+
+/* 暗色主题变量 */
+.dark {
+  --color-bg: #000000;
+  --color-card: #0a0a0a;
+  --color-elevated: #111111;
+  --color-border: #333333;
+  --color-border-light: #444444;
+  --color-text: #ededed;
+  --color-text-secondary: #888888;
+  --color-text-muted: #666666;
+  --color-accent: #0070f3;
+  --color-accent-light: #3291ff;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-  background: #000000;
-  color: #ededed;
+  background: var(--color-bg);
+  color: var(--color-text);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 ::selection {
@@ -29,14 +58,14 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #0a0a0a;
+  background: var(--color-elevated);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333333;
+  background: var(--color-border);
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #444444;
+  background: var(--color-border-light);
 }
