@@ -342,28 +342,28 @@ def main():
     # enable_chapters: 是否启用章节解析，默认为 True
     courses = [
         {
-            "input_file": data_dir / "公共卫生传播学.md",
+            "input_file": data_dir / "公共卫生传播学.txt",
             "slug": "gwcb",
             "title": "公共卫生传播学",
             "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理",
             "enable_chapters": True,
         },
         {
-            "input_file": data_dir / "健康教育与健康促进.md",
+            "input_file": data_dir / "健康教育与健康促进.txt",
             "slug": "jkjy",
             "title": "健康教育与健康促进",
             "description": "本解析依据「18级杨子铭」期末复习笔记及公共卫生专业知识整理",
             "enable_chapters": False,  # 不启用章节解析
         },
         {
-            "input_file": data_dir / "系统解剖学.md",
+            "input_file": data_dir / "系统解剖学.txt",
             "slug": "xtjp",
             "title": "系统解剖学",
             "description": "本解析依据「系统解剖学在线闯关网站」整理",
             "enable_chapters": True,
         },
         {
-            "input_file": data_dir / "局部解剖学.md",
+            "input_file": data_dir / "局部解剖学.txt",
             "slug": "jbjp",
             "title": "局部解剖学",
             "description": "本解析依据「局部解剖学在线闯关网站」整理",

@@ -3,25 +3,25 @@
     {
       "slug": "xtjp",
       "title": "系统解剖学",
-      "source": "系统解剖学.md",
+      "source": "系统解剖学.txt",
       "hasChapters": true
     },
     {
       "slug": "jbjp",
       "title": "局部解剖学",
-      "source": "局部解剖学.md",
+      "source": "局部解剖学.txt",
       "hasChapters": true
     },
     {
       "slug": "gwcb",
       "title": "公共卫生传播学",
-      "source": "公共卫生传播学.md",
+      "source": "公共卫生传播学.txt",
       "hasChapters": true
     },
     {
       "slug": "jkjy",
       "title": "健康教育与健康促进",
-      "source": "健康教育与健康促进.md",
+      "source": "健康教育与健康促进.txt",
       "hasChapters": false
     }
   ]
