@@ -1,0 +1,156 @@
+{
+  "title": "系统解剖学 - 心血管系统",
+  "description": "本解析依据「系统解剖学在线闯关网站」整理 - 心血管系统",
+  "questions": [
+    {
+      "type": "single",
+      "title": "左心室流入道与流出道的分界是",
+      "options": {
+        "A": "主动脉前庭",
+        "B": "主动脉瓣",
+        "C": "二尖瓣前尖瓣",
+        "D": "二尖瓣后尖瓣",
+        "E": "Valsalva窦"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "心肌正常收缩的起搏点是",
+      "options": {
+        "A": "Sinuatrial node",
+        "B": "Atrioventricular node",
+        "C": "His bundle",
+        "D": "Atrioventricular crux",
+        "E": "Carotid sinus"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "冠状动脉发自的动脉",
+      "options": {
+        "A": "升主动脉",
+        "B": "主动脉弓",
+        "C": "降主动脉",
+        "D": "冠状窦",
+        "E": "主动脉窦"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "不属于右冠状动脉分支的是",
+      "options": {
+        "A": "窦房结支",
+        "B": "房室结支",
+        "C": "后室间支",
+        "D": "前室间支",
+        "E": "室间隔后支"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，55岁，诊断为束支传导阻滞，最可能发生异常的是",
+      "options": {
+        "A": "右束支",
+        "B": "左束支",
+        "C": "结间束",
+        "D": "房室束",
+        "E": "房室结"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "经枕骨大孔入颅腔的动脉是",
+      "options": {
+        "A": "Internal carotid artery",
+        "B": "Middle meningeal artery",
+        "C": "Superficial temporal artery",
+        "D": "Facial artery",
+        "E": "Vertebral artery"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男，70岁。经冠状脉造影后发现左冠状动脉前室间支狭窄（85%），需做冠状搭桥手术，冠状动脉搭桥最常用的动脉是",
+      "options": {
+        "A": "桡动脉",
+        "B": "胸廓内动脉",
+        "C": "胃网膜左动脉",
+        "D": "胃网膜右动脉",
+        "E": "腓动脉"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，67岁。因老年性支气管炎入院行血液监控，体内感受二氧化碳分压的感受器是",
+      "options": {
+        "A": "动脉韧带",
+        "B": "主动脉窦",
+        "C": "颈动脉窦",
+        "D": "颈动脉小球",
+        "E": "压力感受器"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "小隐静脉注入",
+      "options": {
+        "A": "Femoral vein",
+        "B": "Deep femoral vein",
+        "C": "Popliteal vein",
+        "D": "Great saphenous vein",
+        "E": "Posterior tibial vein"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，72岁。因长期静脉注射药物，在胸锁乳突肌锁骨头外侧缘与锁骨上缘所形成的夹角处穿刺进针，所穿刺的静脉是",
+      "options": {
+        "A": "面静脉",
+        "B": "上颌静脉",
+        "C": "颈内静脉",
+        "D": "颈外静脉",
+        "E": "锁骨下静脉"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    }
+  ]
+}

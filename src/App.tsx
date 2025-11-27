@@ -10,6 +10,7 @@ function App() {
                 <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/course/:courseSlug" element={<CoursePage />} />
+                    <Route path="/course/:courseSlug/:chapterId" element={<CoursePage />} />
                     <Route path="*" element={<Navigate to="/" replace />} />
                 </Routes>
             </BrowserRouter>

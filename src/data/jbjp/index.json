@@ -1,0 +1,102 @@
+{
+  "title": "局部解剖学",
+  "description": "本解析依据「局部解剖学在线闯关网站」整理",
+  "totalQuestions": 200,
+  "chapters": [
+    {
+      "id": "1",
+      "title": "胸前壁",
+      "questionCount": 10
+    },
+    {
+      "id": "2",
+      "title": "胸壁和纵隔",
+      "questionCount": 10
+    },
+    {
+      "id": "3",
+      "title": "纵隔-2",
+      "questionCount": 10
+    },
+    {
+      "id": "4",
+      "title": "上肢-腋窝",
+      "questionCount": 10
+    },
+    {
+      "id": "5",
+      "title": "上肢-肩胛区",
+      "questionCount": 10
+    },
+    {
+      "id": "6",
+      "title": "上肢-臂前区、前臂前区和手掌",
+      "questionCount": 10
+    },
+    {
+      "id": "7",
+      "title": "上肢-臂后区、前臂后区和手背",
+      "questionCount": 10
+    },
+    {
+      "id": "8",
+      "title": "腹前外侧壁",
+      "questionCount": 10
+    },
+    {
+      "id": "9",
+      "title": "结肠上区",
+      "questionCount": 10
+    },
+    {
+      "id": "10",
+      "title": "结肠下区",
+      "questionCount": 10
+    },
+    {
+      "id": "11",
+      "title": "腹膜后间隙",
+      "questionCount": 10
+    },
+    {
+      "id": "12",
+      "title": "盆部和会阴",
+      "questionCount": 10
+    },
+    {
+      "id": "13",
+      "title": "背部和臀部",
+      "questionCount": 10
+    },
+    {
+      "id": "14",
+      "title": "下肢-前面",
+      "questionCount": 10
+    },
+    {
+      "id": "15",
+      "title": "下肢-后面",
+      "questionCount": 10
+    },
+    {
+      "id": "16",
+      "title": "颈前区",
+      "questionCount": 10
+    },
+    {
+      "id": "17",
+      "title": "颈外侧区和颈根部",
+      "questionCount": 10
+    },
+    {
+      "id": "18",
+      "title": "头面部",
+      "questionCount": 10
+    },
+    {
+      "id": "19",
+      "title": "局解总攻",
+      "questionCount": 20
+    }
+  ]
+}

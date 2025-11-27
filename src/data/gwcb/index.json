@@ -1,0 +1,52 @@
+{
+  "title": "公共卫生传播学",
+  "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理",
+  "totalQuestions": 60,
+  "chapters": [
+    {
+      "id": "1",
+      "title": "绪论",
+      "questionCount": 5
+    },
+    {
+      "id": "2",
+      "title": "健康传播效果理论",
+      "questionCount": 5
+    },
+    {
+      "id": "3",
+      "title": "大众传播",
+      "questionCount": 5
+    },
+    {
+      "id": "4",
+      "title": "新媒体",
+      "questionCount": 5
+    },
+    {
+      "id": "5",
+      "title": "传播材料开发与使用测验",
+      "questionCount": 5
+    },
+    {
+      "id": "6",
+      "title": "人际传播",
+      "questionCount": 5
+    },
+    {
+      "id": "7",
+      "title": "风险沟通",
+      "questionCount": 5
+    },
+    {
+      "id": "8",
+      "title": "研究方法",
+      "questionCount": 5
+    },
+    {
+      "id": "9",
+      "title": "总考试",
+      "questionCount": 20
+    }
+  ]
+}

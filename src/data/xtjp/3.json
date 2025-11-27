@@ -1,0 +1,156 @@
+{
+  "title": "系统解剖学 - 运动系统-肌学",
+  "description": "本解析依据「系统解剖学在线闯关网站」整理 - 运动系统-肌学",
+  "questions": [
+    {
+      "type": "single",
+      "title": "走行在三边孔内的结构是",
+      "options": {
+        "A": "肩胛下神经",
+        "B": "旋肩胛动脉",
+        "C": "旋肱后动脉",
+        "D": "腋神经",
+        "E": "肩胛下动脉"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "与主动脉伴行穿膈的主动脉裂孔的结构是",
+      "options": {
+        "A": "胸导管",
+        "B": "膈神经",
+        "C": "食管",
+        "D": "下腔静脉",
+        "E": "迷走神经"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "腱纤维未编入肩关节囊的肌是",
+      "options": {
+        "A": "冈上肌",
+        "B": "冈下肌",
+        "C": "大圆肌",
+        "D": "小圆肌",
+        "E": "肩胛下肌"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "既可屈髋关节又可屈膝关节的肌是",
+      "options": {
+        "A": "缝匠肌",
+        "B": "股二头肌",
+        "C": "股直肌",
+        "D": "髂腰肌",
+        "E": "半腱肌"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "收肌管内通过的结构为",
+      "options": {
+        "A": "大隐静脉",
+        "B": "股血管",
+        "C": "小隐静脉",
+        "D": "股深动脉",
+        "E": "闭孔神经"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，32岁。因颈部外伤出现“塌肩”，最可能出现瘫痪的骨骼肌是",
+      "options": {
+        "A": "背阔肌",
+        "B": "肩胛提肌",
+        "C": "菱形肌",
+        "D": "斜方肌",
+        "E": "肩胛下肌"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，45岁。因乳腺癌手术后出现肩胛骨内侧缘和下角突出于皮下，形成“翼状肩”，可能瘫痪的肌肉是",
+      "options": {
+        "A": "背阔肌",
+        "B": "肩胛提肌",
+        "C": "前锯肌",
+        "D": "斜方肌",
+        "E": "肩胛下肌"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，26岁。因肱骨上部骨折出现“方肩”，可能发生萎缩的肌肉是",
+      "options": {
+        "A": "冈上肌",
+        "B": "三角肌",
+        "C": "冈下肌",
+        "D": "小圆肌",
+        "E": "大圆肌"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，18岁。入伍体检时叩击髌韧带观察深反射，形成髌韧带的骨骼肌是",
+      "options": {
+        "A": "quadriceps femoris",
+        "B": "soleus",
+        "C": "tibialis posterior",
+        "D": "gastrocnemius",
+        "E": "adductor magnus"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，13岁。因车祸造成小腿骨折，足内翻障碍，可能瘫痪的骨骼肌是",
+      "options": {
+        "A": "腓肠肌",
+        "B": "胫骨前肌",
+        "C": "腓骨长肌",
+        "D": "腓骨短肌",
+        "E": "比目鱼肌"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    }
+  ]
+}

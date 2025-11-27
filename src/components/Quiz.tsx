@@ -3,6 +3,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Check, X, LogOut, RotateCcw, Shuffle, ListOrdered, AlertCircle } from 'lucide-react';
 import type { QuizData, Question, AnswerRecord } from '../types';
 import { ThemeToggle } from './ThemeToggle';
+import { Footer } from './Footer';
 
 type QuizMode = 'sequential' | 'random';
 type QuizState = 'start' | 'quiz' | 'result';
@@ -31,8 +32,8 @@ interface QuizProps {
 
 export function Quiz({ data }: QuizProps) {
     const navigate = useNavigate();
-    const { courseSlug } = useParams<{ courseSlug: string }>();
-    const STORAGE_KEY = `quiz-progress-${courseSlug}`;
+    const { courseSlug, chapterId } = useParams<{ courseSlug: string; chapterId?: string }>();
+    const STORAGE_KEY = chapterId ? `quiz-progress-${courseSlug}-${chapterId}` : `quiz-progress-${courseSlug}`;
 
     const [state, setState] = useState<QuizState>('start');
     const [mode, setMode] = useState<QuizMode>('sequential');
@@ -136,8 +137,13 @@ export function Quiz({ data }: QuizProps) {
     }, [STORAGE_KEY]);
 
     const handleBackToCourses = useCallback(() => {
-        navigate('/');
-    }, [navigate]);
+        // 如果有章节ID，返回到章节选择页面；否则返回到课程列表
+        if (chapterId) {
+            navigate(`/course/${courseSlug}`);
+        } else {
+            navigate('/');
+        }
+    }, [navigate, courseSlug, chapterId]);
 
     useEffect(() => {
         if (currentRecord) {
@@ -309,7 +315,7 @@ export function Quiz({ data }: QuizProps) {
                             onClick={handleBackToCourses}
                             className="flex items-center gap-2 px-3 py-2 text-sm text-theme-text-secondary hover:text-theme-text transition-colors">
                             <ArrowLeft className="w-4 h-4" />
-                            返回课程列表
+                            {chapterId ? '返回章节列表' : '返回课程列表'}
                         </button>
                         <ThemeToggle />
                     </div>
@@ -351,26 +357,7 @@ export function Quiz({ data }: QuizProps) {
                         </div>
                     </div>
 
-                    <p className="text-theme-text-muted text-xs text-center mt-4">
-                        快捷键：1-5 或 ASDFG 选择 · ← → 切换题目 · 空格 下一题/跳过
-                    </p>
-                    <p className="text-theme-text-muted text-xs text-center mt-4">
-                        如果你想投稿更多题目，欢迎联系我：
-                        <a
-                            href="mailto:zhuozhiyongde@126.com"
-                            className="text-theme-text-muted hover:text-theme-text transition-colors">
-                            <code>zhuozhiyongde@126.com</code>
-                        </a>
-                    </p>
-
-                    <p className="text-theme-text-muted text-xs text-center mt-4">
-                        网站制作：21 级预防医学{' '}
-                        <a
-                            href="https://arthals.ink"
-                            className="text-theme-text-muted hover:text-theme-text transition-colors">
-                            卓致用
-                        </a>
-                    </p>
+                    <Footer showShortcuts={true} />
                 </div>
             </div>
         );
@@ -432,7 +419,7 @@ export function Quiz({ data }: QuizProps) {
                                     onClick={handleBackToCourses}
                                     className="flex-1 h-10 border border-theme-border text-theme-text font-medium rounded-md hover:bg-theme-elevated transition-colors flex items-center justify-center gap-2">
                                     <ArrowLeft className="w-4 h-4" />
-                                    <span>返回列表</span>
+                                    <span>{chapterId ? '返回章节' : '返回列表'}</span>
                                 </button>
                             </div>
                         </div>
@@ -747,20 +734,12 @@ export function Quiz({ data }: QuizProps) {
 
                 {/* 未答题提示 */}
                 {!allAnswered && (
-                    <>
-                        <p className="text-center text-theme-text-muted text-xs md:text-sm mt-3 md:mt-4">
-                            还有 {questions.length - answersMap.size} 题未作答
-                        </p>
-                        <p className="text-theme-text-muted text-xs text-center mt-4">
-                            网站制作：21 级预防医学{' '}
-                            <a
-                                href="https://arthals.ink"
-                                className="text-theme-text-muted hover:text-theme-text transition-colors">
-                                卓致用
-                            </a>
-                        </p>
-                    </>
+                    <p className="text-center text-theme-text-muted text-xs md:text-sm mt-3 md:mt-4">
+                        还有 {questions.length - answersMap.size} 题未作答
+                    </p>
                 )}
+
+                <Footer compact={true} />
             </div>
         </div>
     );

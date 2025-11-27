@@ -1,0 +1,156 @@
+{
+  "title": "局部解剖学 - 上肢-臂前区、前臂前区和手掌",
+  "description": "本解析依据「局部解剖学在线闯关网站」整理 - 上肢-臂前区、前臂前区和手掌",
+  "questions": [
+    {
+      "type": "single",
+      "title": "男性，25岁。因迷于游戏出现腕部疼痛，诊断为腕管综合症，可能受累的神经是",
+      "options": {
+        "A": "ulnar nerve",
+        "B": "axillary nerve",
+        "C": "median nerve",
+        "D": "radial nerve",
+        "E": "musculocutaneous nerve"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "不在腕管内穿行的结构是",
+      "options": {
+        "A": "正中神经",
+        "B": "掌长肌腱",
+        "C": "指浅屈肌腱",
+        "D": "指深屈肌腱",
+        "E": "拇长屈肌腱"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，23岁。因左手腕内侧刀伤，导致手指不能相互靠拢，可能瘫痪的骨骼肌是",
+      "options": {
+        "A": "指伸肌",
+        "B": "掌长肌",
+        "C": "拇收肌",
+        "D": "蚓状肌",
+        "E": "骨间肌"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女童，3岁。因爸爸牵拉左手上台阶时女童意外摔倒，造成肘部疼痛明显，处于半屈曲状态，能够屈伸，但不愿活动和取东西，该异常最可能涉及的结构是",
+      "options": {
+        "A": "下斜韧带",
+        "B": "方形韧带",
+        "C": "环状韧带",
+        "D": "尺侧副韧带",
+        "E": "桡侧副韧带"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "构成肘窝下内侧界的结构是",
+      "options": {
+        "A": "肱桡肌",
+        "B": "掌长肌",
+        "C": "指浅屈肌",
+        "D": "旋前圆肌",
+        "E": "尺侧腕屈肌"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，25岁。工作时，右侧手掌刀伤后出现拇指不能内收，可能损伤的神经是",
+      "options": {
+        "A": "尺神经浅支",
+        "B": "尺神经深支",
+        "C": "桡神经浅支",
+        "D": "桡神经深支",
+        "E": "正中神经返支"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，45岁。因肩背部外伤出现左侧肱二头肌腱反射减弱，可能受损伤的神经根是",
+      "options": {
+        "A": "C3-C4",
+        "B": "C5-C6",
+        "C": "C7-C8",
+        "D": "T1-T2",
+        "E": "T3-T4"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "分布于前臂外侧皮肤的神经是",
+      "options": {
+        "A": "ulnar nerve",
+        "B": "axillary nerve",
+        "C": "median nerve",
+        "D": "radial nerve",
+        "E": "musculocutaneous nerve"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，21岁。因长时间打羽毛球后出现右侧肘关节上方疼痛，局部压痛明显，肘关节屈伸正常，右手用力握物、拧毛巾时疼痛加重，该异常可能涉及的结构是",
+      "options": {
+        "A": "尺神经",
+        "B": "桡神经",
+        "C": "环状韧带",
+        "D": "肱骨外上髁",
+        "E": "肱骨内上髁"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "当肘关节伸直，前臂处于旋后位时，前臂的远侧端偏向外侧，臂与前臂形成一向外开放的钝角，即肘关节的提携角，临床上常记录其互补角，正常情况下的角度是",
+      "options": {
+        "A": "5°-10°",
+        "B": "10°-15°",
+        "C": "15°-20°",
+        "D": "20°-25°",
+        "E": "25°-30°"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    }
+  ]
+}

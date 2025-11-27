@@ -1,0 +1,76 @@
+{
+  "title": "公共卫生传播学 - 大众传播",
+  "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理 - 大众传播",
+  "questions": [
+    {
+      "type": "single",
+      "title": "不属于大众传播的是",
+      "options": {
+        "A": "电视",
+        "B": "咨询",
+        "C": "报纸",
+        "D": "微博"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple",
+      "title": "大众传播的特点包括",
+      "options": {
+        "A": "传播速度快",
+        "B": "传播范围广",
+        "C": "信息公开",
+        "D": "反馈快"
+      },
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "选择传播媒介时的可及性原则是指",
+      "options": {
+        "A": "是否可以找到传播者",
+        "B": "传播内容是否可以被理解",
+        "C": "是否符合受众使用习惯",
+        "D": "是否符合受众的健康状况"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "大众传播的对象是确定的。",
+      "options": {
+        "A": "✔",
+        "B": "✖"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "下面哪个理论不适用于大众传播",
+      "options": {
+        "A": "把关人理论",
+        "B": "议程设置理论",
+        "C": "使用与满足理论",
+        "D": "言语行为理论"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    }
+  ]
+}

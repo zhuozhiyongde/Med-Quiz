@@ -1,0 +1,78 @@
+{
+  "title": "公共卫生传播学 - 研究方法",
+  "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理 - 研究方法",
+  "questions": [
+    {
+      "type": "single",
+      "title": "属于内容分析法特点的是",
+      "options": {
+        "A": "具有语境敏感性",
+        "B": "质性研究特点突出",
+        "C": "主观性强",
+        "D": "适用于研究传播者动机"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple",
+      "title": "把关人可以包括",
+      "options": {
+        "A": "记者",
+        "B": "编辑",
+        "C": "专家",
+        "D": "编辑部主任"
+      },
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple",
+      "title": "健康传播学研究选题原则包括",
+      "options": {
+        "A": "科学性",
+        "B": "创新性",
+        "C": "应用性",
+        "D": "时效性"
+      },
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "控制实验是一种观察性研究",
+      "options": {
+        "A": "✔",
+        "B": "✖"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "健康传播的研究只能采用定性研究方法。",
+      "options": {
+        "A": "✔",
+        "B": "✖"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    }
+  ]
+}

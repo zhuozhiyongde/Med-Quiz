@@ -1,0 +1,76 @@
+{
+  "title": "公共卫生传播学 - 新媒体",
+  "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理 - 新媒体",
+  "questions": [
+    {
+      "type": "multiple",
+      "title": "新媒体的特点包括",
+      "options": {
+        "A": "沟通充分",
+        "B": "可以不使用媒介",
+        "C": "碎片化知识点",
+        "D": "可以复制"
+      },
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "与传统大众媒介相比，新媒体的突出特点是",
+      "options": {
+        "A": "可复制",
+        "B": "传播速度快",
+        "C": "互动性好",
+        "D": "范围广"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple",
+      "title": "属于新媒体的是",
+      "options": {
+        "A": "微信",
+        "B": "短视频app",
+        "C": "微博",
+        "D": "数字电视"
+      },
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "新媒体的监管存在困难。",
+      "options": {
+        "A": "✔",
+        "B": "✖"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "新媒体具有群圈化的特点。",
+      "options": {
+        "A": "✔",
+        "B": "✖"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    }
+  ]
+}

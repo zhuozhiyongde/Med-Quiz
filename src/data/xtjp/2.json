@@ -1,0 +1,156 @@
+{
+  "title": "系统解剖学 - 运动系统-关节学",
+  "description": "本解析依据「系统解剖学在线闯关网站」整理 - 运动系统-关节学",
+  "questions": [
+    {
+      "type": "single",
+      "title": "属于椎弓间的连结是",
+      "options": {
+        "A": "股骨头韧带",
+        "B": "前纵韧带",
+        "C": "膝交叉韧带",
+        "D": "黄韧带",
+        "E": "翼状韧带"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "位于椎管前壁的韧带是",
+      "options": {
+        "A": "前纵韧带",
+        "B": "后纵韧带",
+        "C": "弓间韧带",
+        "D": "骶棘韧带",
+        "E": "棘上韧带"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "具有囊内韧带的关节是",
+      "options": {
+        "A": "atlantoaxial joint",
+        "B": "temporomandibular joint",
+        "C": "elbow joint",
+        "D": "hip joint",
+        "E": "radiocarpal joint"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "闭膜管内走行的结构是",
+      "options": {
+        "A": "闭孔神经",
+        "B": "股神经",
+        "C": "阴部神经",
+        "D": "阴部内动脉",
+        "E": "髂腹下神经"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，52岁。因搬重物造成腰椎间盘突出，椎间盘中髓核脱出最可能的方向是",
+      "options": {
+        "A": "正后方",
+        "B": "正前方",
+        "C": "后外方",
+        "D": "外方",
+        "E": "前外方"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，4岁。因牵拉造成肘关节脱位，肘关节易脱位的方向是",
+      "options": {
+        "A": "前方",
+        "B": "后方",
+        "C": "前外",
+        "D": "后外",
+        "E": "前内"
+      },
+      "answers": [
+        "B"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，22岁。因外伤导致扁平足，维持足弓横弓最重要的肌腱是",
+      "options": {
+        "A": "跟腱",
+        "B": "趾长伸肌肌腱",
+        "C": "胫骨前肌肌腱",
+        "D": "腓骨长肌肌腱",
+        "E": "腓骨短肌肌腱"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "男性，19岁。打篮球时膝关节扭伤，内侧半月板容易发生损伤的原因是",
+      "options": {
+        "A": "呈“O”形",
+        "B": "体积小",
+        "C": "与外侧半月板相连",
+        "D": "下面平坦，上面凹陷",
+        "E": "与内侧副韧带相连"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，16岁。因跳马造成右膝关节肿胀、剧痛和活动受限，膝关节内最可能受损伤的结构是",
+      "options": {
+        "A": "翼状囊",
+        "B": "外侧半月板",
+        "C": "内侧半月板",
+        "D": "后交叉韧带",
+        "E": "前交叉韧带"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "女性，60岁。登山时踝关节过度内翻，疼痛、肿胀和活动受限，可能伤及",
+      "options": {
+        "A": "伸肌支持带",
+        "B": "屈肌支持带",
+        "C": "分歧韧带",
+        "D": "外侧韧带",
+        "E": "内侧韧带"
+      },
+      "answers": [
+        "D"
+      ],
+      "explanation": ""
+    }
+  ]
+}
