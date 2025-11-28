@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, ChevronUp, Heart, Mail, ExternalLink } from 'lucide-react';
+import { ChevronDown, ChevronUp, Heart, Mail, ExternalLink, Github } from 'lucide-react';
 
 interface FooterProps {
     showShortcuts?: boolean;
@@ -31,8 +31,8 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
     return (
         <footer className="mt-6 space-y-3">
             {showShortcuts && (
-                <p className="text-theme-text-muted text-xs text-center">
-                    <span className="inline-flex items-center gap-1.5 flex-wrap justify-center">
+                <div className="text-theme-text-muted text-xs text-center space-y-1.5">
+                    <p className="inline-flex items-center gap-1.5 justify-center">
                         <kbd className="px-1.5 py-0.5 text-[10px] bg-theme-elevated border border-theme-border rounded">
                             1-5
                         </kbd>
@@ -41,7 +41,9 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
                             ASDFG
                         </kbd>
                         <span>选择</span>
-                        <span className="mx-1 text-theme-border">·</span>
+                        <span className="mx-1 text-theme-border hidden sm:inline">·</span>
+                    </p>
+                    <p className="inline-flex items-center gap-1.5 justify-center">
                         <kbd className="px-1.5 py-0.5 text-[10px] bg-theme-elevated border border-theme-border rounded">
                             ← →
                         </kbd>
@@ -51,8 +53,8 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
                             Space
                         </kbd>
                         <span>下一题/跳过</span>
-                    </span>
-                </p>
+                    </p>
+                </div>
             )}
 
             <div className="text-center">
@@ -95,6 +97,20 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
                         </span>
                     </div>
 
+                    <div className="flex items-center justify-center gap-2 text-xs">
+                        <Github className="w-3 h-3 text-theme-text-muted" />
+                        <span className="text-theme-text-secondary">
+                            网站源码：
+                            <a
+                                href="https://github.com/zhuozhiyongde/Med-Quiz"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-theme-accent hover:underline">
+                                Med-Quiz
+                            </a>
+                        </span>
+                    </div>
+
                     <div className="pt-2 border-t border-theme-border">
                         <p className="text-[10px] text-theme-text-muted text-center mb-2">我的其他项目</p>
                         <div className="flex items-center justify-center gap-4 text-xs">
@@ -121,4 +137,3 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
         </footer>
     );
 }
-

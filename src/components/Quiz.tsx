@@ -270,13 +270,17 @@ export function Quiz({ data }: QuizProps) {
         const answerText = currentQuestion.answers.join('');
         const explanationText = currentQuestion.explanation ? `\n【解析】${currentQuestion.explanation}` : '';
 
-        const text = `${currentQuestion.title}\n${optionLines}\n【参考答案】${answerText}${explanationText}`;
+        // 如果答错了，带上用户选择的错误选项
+        const userAnswerText =
+            currentRecord && !currentRecord.isCorrect ? `\n【我的答案】${currentRecord.userAnswers.join('')}` : '';
+
+        const text = `${currentQuestion.title}\n${optionLines}${userAnswerText}\n【参考答案】${answerText}${explanationText}`;
 
         navigator.clipboard.writeText(text).then(() => {
             setCopied(true);
             setTimeout(() => setCopied(false), 2000);
         });
-    }, [currentQuestion]);
+    }, [currentQuestion, currentRecord]);
 
     // 复制错题（包含用户的错误答案）
     const handleCopyWrongQuestion = useCallback((questionIndex: number, question: Question, userAnswers: string[]) => {

@@ -26,8 +26,10 @@ export function CourseSelector({ courses }: CourseSelectorProps) {
 
                 <div className="border border-theme-border rounded-lg bg-theme-card p-8">
                     <div className="flex items-center justify-center gap-3 mb-6">
-                        <BookOpen className="w-8 h-8 text-theme-accent" />
-                        <h1 className="text-2xl font-semibold text-theme-text">北京大学医学部刷题网站</h1>
+                        <BookOpen className="w-8 h-8 text-theme-accent flex-shrink-0" />
+                        <h1 className="text-xl sm:text-2xl font-semibold text-theme-text whitespace-nowrap">
+                            北京大学医学部刷题网站
+                        </h1>
                     </div>
 
                     <p className="text-theme-text-secondary text-center text-sm mb-6">请选择要练习的课程题库</p>
