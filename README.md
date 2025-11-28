@@ -20,7 +20,7 @@
 
 ```bash
 bun install
-bun dev      # 本地开发
+bun dev          # 本地开发
 bun run build    # 生成静态站点
 bun run preview  # 预览构建产物
 ```
