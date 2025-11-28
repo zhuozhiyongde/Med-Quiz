@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { BookOpen, ChevronRight, Download } from 'lucide-react';
+import { BookOpen, ChevronRight, Download, ExternalLink } from 'lucide-react';
 import type { CourseInfo } from '../types';
 import { ThemeToggle } from './ThemeToggle';
 import { Footer } from './Footer';
@@ -12,14 +12,22 @@ export function CourseSelector({ courses }: CourseSelectorProps) {
     return (
         <div className="min-h-screen bg-theme-bg flex items-center justify-center p-6">
             <div className="w-full max-w-lg">
-                <div className="flex justify-end mb-4">
+                <div className="flex justify-between items-center mb-4">
+                    <a
+                        href="https://arthals.ink"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-2 px-3 py-2 text-sm text-theme-text-secondary hover:text-theme-text transition-colors">
+                        <ExternalLink className="w-4 h-4" />
+                        作者博客
+                    </a>
                     <ThemeToggle />
                 </div>
 
                 <div className="border border-theme-border rounded-lg bg-theme-card p-8">
                     <div className="flex items-center justify-center gap-3 mb-6">
                         <BookOpen className="w-8 h-8 text-theme-accent" />
-                        <h1 className="text-2xl font-semibold text-theme-text">选择课程</h1>
+                        <h1 className="text-2xl font-semibold text-theme-text">北京大学医学部刷题网站</h1>
                     </div>
 
                     <p className="text-theme-text-secondary text-center text-sm mb-6">请选择要练习的课程题库</p>

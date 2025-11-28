@@ -1,6 +1,21 @@
 import { useState, useMemo, useCallback, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-import { ArrowLeft, ArrowRight, Check, X, LogOut, RotateCcw, Shuffle, ListOrdered, AlertCircle } from 'lucide-react';
+import {
+    ArrowLeft,
+    ArrowRight,
+    Check,
+    X,
+    LogOut,
+    RotateCcw,
+    Shuffle,
+    ListOrdered,
+    AlertCircle,
+    Send,
+    Home,
+    PlayCircle,
+    Copy,
+    CheckCheck,
+} from 'lucide-react';
 import type { QuizData, Question, AnswerRecord } from '../types';
 import { ThemeToggle } from './ThemeToggle';
 import { Footer } from './Footer';
@@ -15,6 +30,7 @@ interface SavedProgress {
     questions: Question[];
     answersMap: [number, AnswerRecord][];
     optionsOrderMap: [number, string[]][];
+    isPartialSubmit?: boolean; // 是否为提前交卷（部分提交）
 }
 
 function shuffleArray<T>(array: T[]): T[] {
@@ -43,6 +59,9 @@ export function Quiz({ data }: QuizProps) {
     const [answersMap, setAnswersMap] = useState<Map<number, AnswerRecord>>(new Map());
     const [optionsOrderMap, setOptionsOrderMap] = useState<Map<number, string[]>>(new Map());
     const [isLoaded, setIsLoaded] = useState(false);
+    const [isPartialSubmit, setIsPartialSubmit] = useState(false); // 是否为提前交卷
+    const [copied, setCopied] = useState(false); // 复制成功状态
+    const [copiedWrongIndex, setCopiedWrongIndex] = useState<number | null>(null); // 复制成功的错题索引
 
     const currentQuestion = questions[currentIndex];
     const currentOptionsOrder = optionsOrderMap.get(currentIndex) || [];
@@ -62,13 +81,14 @@ export function Quiz({ data }: QuizProps) {
             const saved = localStorage.getItem(STORAGE_KEY);
             if (saved) {
                 const progress: SavedProgress = JSON.parse(saved);
-                if (progress.state === 'quiz' && progress.questions.length > 0) {
+                if ((progress.state === 'quiz' || progress.isPartialSubmit) && progress.questions.length > 0) {
                     setState(progress.state);
                     setMode(progress.mode);
                     setCurrentIndex(progress.currentIndex);
                     setQuestions(progress.questions);
                     setAnswersMap(new Map(progress.answersMap));
                     setOptionsOrderMap(new Map(progress.optionsOrderMap));
+                    setIsPartialSubmit(progress.isPartialSubmit || false);
                 }
             }
         } catch (e) {
@@ -88,12 +108,25 @@ export function Quiz({ data }: QuizProps) {
                 questions,
                 answersMap: Array.from(answersMap.entries()),
                 optionsOrderMap: Array.from(optionsOrderMap.entries()),
+                isPartialSubmit: false,
+            };
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+        } else if (state === 'result' && isPartialSubmit && questions.length > 0) {
+            // 提前交卷时保存进度，以便下次继续
+            const progress: SavedProgress = {
+                state: 'quiz', // 保存为 quiz 状态以便继续
+                mode,
+                currentIndex,
+                questions,
+                answersMap: Array.from(answersMap.entries()),
+                optionsOrderMap: Array.from(optionsOrderMap.entries()),
+                isPartialSubmit: true,
             };
             localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
         } else if (state === 'start') {
             localStorage.removeItem(STORAGE_KEY);
         }
-    }, [isLoaded, state, mode, currentIndex, questions, answersMap, optionsOrderMap, STORAGE_KEY]);
+    }, [isLoaded, state, mode, currentIndex, questions, answersMap, optionsOrderMap, isPartialSubmit, STORAGE_KEY]);
 
     const startQuiz = useCallback(
         (selectedMode: QuizMode, customQuestions?: Question[]) => {
@@ -151,6 +184,7 @@ export function Quiz({ data }: QuizProps) {
         } else {
             setSelectedAnswers([]);
         }
+        setCopied(false); // 切换题目时重置复制状态
     }, [currentIndex, currentRecord]);
 
     const submitAnswer = (answers: string[]) => {
@@ -198,7 +232,69 @@ export function Quiz({ data }: QuizProps) {
         if (currentIndex < questions.length - 1) setCurrentIndex((prev) => prev + 1);
     }, [currentIndex, questions.length]);
 
-    const handleFinish = () => setState('result');
+    const handleFinish = () => {
+        setIsPartialSubmit(false);
+        setState('result');
+    };
+
+    // 提前交卷（保存进度）
+    const handleEarlySubmit = useCallback(() => {
+        if (answersMap.size === 0) return; // 至少要答一题
+        setIsPartialSubmit(true);
+        setState('result');
+    }, [answersMap.size]);
+
+    // 继续答题（从提前交卷的状态恢复）
+    const handleContinueQuiz = useCallback(() => {
+        setIsPartialSubmit(false);
+        setState('quiz');
+        // 找到第一个未回答的题目
+        for (let i = 0; i < questions.length; i++) {
+            if (!answersMap.has(i)) {
+                setCurrentIndex(i);
+                return;
+            }
+        }
+        // 如果都答完了，回到第一题
+        setCurrentIndex(0);
+    }, [questions.length, answersMap]);
+
+    // 复制题目和答案到剪贴板
+    const handleCopyQuestion = useCallback(() => {
+        if (!currentQuestion) return;
+
+        const optionLines = Object.entries(currentQuestion.options)
+            .map(([key, value]) => `${key}. ${value}`)
+            .join('\n');
+
+        const answerText = currentQuestion.answers.join('');
+        const explanationText = currentQuestion.explanation ? `\n【解析】${currentQuestion.explanation}` : '';
+
+        const text = `${currentQuestion.title}\n${optionLines}\n【参考答案】${answerText}${explanationText}`;
+
+        navigator.clipboard.writeText(text).then(() => {
+            setCopied(true);
+            setTimeout(() => setCopied(false), 2000);
+        });
+    }, [currentQuestion]);
+
+    // 复制错题（包含用户的错误答案）
+    const handleCopyWrongQuestion = useCallback((questionIndex: number, question: Question, userAnswers: string[]) => {
+        const optionLines = Object.entries(question.options)
+            .map(([key, value]) => `${key}. ${value}`)
+            .join('\n');
+
+        const userAnswerText = userAnswers.join('');
+        const correctAnswerText = question.answers.join('');
+        const explanationText = question.explanation ? `\n【解析】${question.explanation}` : '';
+
+        const text = `${question.title}\n${optionLines}\n【我的答案】${userAnswerText}\n【参考答案】${correctAnswerText}${explanationText}`;
+
+        navigator.clipboard.writeText(text).then(() => {
+            setCopiedWrongIndex(questionIndex);
+            setTimeout(() => setCopiedWrongIndex(null), 2000);
+        });
+    }, []);
 
     useEffect(() => {
         if (state !== 'quiz') return;
@@ -274,6 +370,7 @@ export function Quiz({ data }: QuizProps) {
         localStorage.removeItem(STORAGE_KEY);
         setState('start');
         setAnswersMap(new Map());
+        setIsPartialSubmit(false);
     };
 
     const stats = useMemo(() => {
@@ -367,21 +464,38 @@ export function Quiz({ data }: QuizProps) {
     if (state === 'result') {
         const records = Array.from(answersMap.values());
         const wrongRecords = records.filter((r) => !r.isCorrect);
+        const unansweredCount = questions.length - answersMap.size;
 
         return (
             <div className="min-h-screen bg-theme-bg p-4 md:p-6">
                 <div className="max-w-3xl mx-auto">
-                    <div className="flex justify-end mb-4">
+                    <div className="flex justify-between items-center mb-4">
+                        <button
+                            onClick={() => navigate('/')}
+                            className="flex items-center gap-2 px-3 py-2 text-sm text-theme-text-secondary hover:text-theme-text transition-colors">
+                            <Home className="w-4 h-4" />
+                            返回首页
+                        </button>
                         <ThemeToggle />
                     </div>
 
                     <div className="border border-theme-border rounded-lg bg-theme-card p-6 md:p-8 mb-6">
-                        <h1 className="text-xl font-semibold text-theme-text text-center mb-6">练习完成</h1>
+                        <h1 className="text-xl font-semibold text-theme-text text-center mb-6">
+                            {isPartialSubmit ? '提前交卷' : '练习完成'}
+                        </h1>
+
+                        {isPartialSubmit && unansweredCount > 0 && (
+                            <div className="mb-4 p-3 rounded-md bg-yellow-500/10 border border-yellow-500/20 text-center">
+                                <span className="text-yellow-500 text-sm">
+                                    还有 {unansweredCount} 题未作答，进度已保存
+                                </span>
+                            </div>
+                        )}
 
                         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 mb-6">
                             <div className="text-center p-3 md:p-4 rounded-md bg-theme-elevated border border-theme-border">
                                 <div className="text-xl md:text-2xl font-semibold text-theme-text">{stats.total}</div>
-                                <div className="text-[10px] md:text-xs text-theme-text-muted mt-1">总题数</div>
+                                <div className="text-[10px] md:text-xs text-theme-text-muted mt-1">已答题数</div>
                             </div>
                             <div className="text-center p-3 md:p-4 rounded-md bg-theme-elevated border border-theme-border">
                                 <div className="text-xl md:text-2xl font-semibold text-green-500">{stats.correct}</div>
@@ -400,12 +514,21 @@ export function Quiz({ data }: QuizProps) {
                         </div>
 
                         <div className="space-y-3">
+                            {/* 继续答题按钮（仅在提前交卷且有未答题目时显示） */}
+                            {isPartialSubmit && unansweredCount > 0 && (
+                                <button
+                                    onClick={handleContinueQuiz}
+                                    className="w-full h-10 bg-theme-accent text-white font-medium rounded-md hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
+                                    <PlayCircle className="w-4 h-4" />
+                                    <span>继续答题 ({unansweredCount} 题)</span>
+                                </button>
+                            )}
                             {wrongRecords.length > 0 && (
                                 <button
                                     onClick={startWrongQuiz}
                                     className="w-full h-10 bg-red-500 text-white font-medium rounded-md hover:bg-red-600 transition-colors flex items-center justify-center gap-2">
                                     <AlertCircle className="w-4 h-4" />
-                                    <span>错题训练 ({wrongRecords.length})</span>
+                                    <span>错题训练 ({wrongRecords.length} 题)</span>
                                 </button>
                             )}
                             <div className="flex gap-3">
@@ -438,15 +561,39 @@ export function Quiz({ data }: QuizProps) {
                                     const q = questions[record.questionIndex];
                                     return (
                                         <div key={record.questionIndex} className="p-4 md:p-6">
-                                            <div className="flex items-center gap-2 mb-3 flex-wrap">
-                                                <span className="text-xs text-theme-text-muted">
-                                                    第 {record.questionIndex + 1} 题
-                                                </span>
-                                                {q.type === 'multiple' && (
-                                                    <span className="px-2 py-0.5 text-xs rounded bg-yellow-500/10 text-yellow-500 border border-yellow-500/20">
-                                                        多选
+                                            <div className="flex items-center justify-between mb-3">
+                                                <div className="flex items-center gap-2 flex-wrap">
+                                                    <span className="text-xs text-theme-text-muted">
+                                                        第 {record.questionIndex + 1} 题
                                                     </span>
-                                                )}
+                                                    {q.type === 'multiple' && (
+                                                        <span className="px-2 py-0.5 text-xs rounded bg-yellow-500/10 text-yellow-500 border border-yellow-500/20">
+                                                            多选
+                                                        </span>
+                                                    )}
+                                                </div>
+                                                <button
+                                                    onClick={() =>
+                                                        handleCopyWrongQuestion(
+                                                            record.questionIndex,
+                                                            q,
+                                                            record.userAnswers
+                                                        )
+                                                    }
+                                                    className="flex items-center gap-1 px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-text hover:border-theme-border-light transition-colors"
+                                                    title="复制题目和答案">
+                                                    {copiedWrongIndex === record.questionIndex ? (
+                                                        <>
+                                                            <CheckCheck className="w-3 h-3 text-green-500" />
+                                                            <span className="text-green-500">已复制</span>
+                                                        </>
+                                                    ) : (
+                                                        <>
+                                                            <Copy className="w-3 h-3" />
+                                                            <span>复制本题</span>
+                                                        </>
+                                                    )}
+                                                </button>
                                             </div>
 
                                             <p className="text-theme-text mb-4 text-sm md:text-base">{q.title}</p>
@@ -547,9 +694,18 @@ export function Quiz({ data }: QuizProps) {
                     <div className="flex items-center gap-2 md:gap-3 flex-wrap">
                         <button
                             onClick={handleExit}
-                            className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-text hover:border-theme-border-light transition-colors flex items-center gap-1">
+                            className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-red-500 hover:border-red-500/30 transition-colors flex items-center gap-1"
+                            title="放弃回答，重置进度">
                             <LogOut className="w-3 h-3" />
-                            退出
+                            放弃
+                        </button>
+                        <button
+                            onClick={handleEarlySubmit}
+                            disabled={answersMap.size === 0}
+                            className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-accent hover:border-theme-accent/30 transition-colors flex items-center gap-1 disabled:opacity-30 disabled:cursor-not-allowed"
+                            title="提前交卷，保存进度">
+                            <Send className="w-3 h-3" />
+                            交卷
                         </button>
                         <span className="text-xs md:text-sm text-theme-text">
                             {currentIndex + 1}
@@ -657,21 +813,39 @@ export function Quiz({ data }: QuizProps) {
                         className={`rounded-lg p-4 md:p-5 mb-4 md:mb-6 border ${
                             isCorrect ? 'bg-green-500/5 border-green-500/20' : 'bg-red-500/5 border-red-500/20'
                         }`}>
-                        <div
-                            className={`font-medium mb-2 md:mb-3 text-sm md:text-base flex items-center gap-2 ${
-                                isCorrect ? 'text-green-500' : 'text-red-500'
-                            }`}>
-                            {isCorrect ? (
-                                <>
-                                    <Check className="w-5 h-5" />
-                                    回答正确
-                                </>
-                            ) : (
-                                <>
-                                    <X className="w-5 h-5" />
-                                    回答错误
-                                </>
-                            )}
+                        <div className="flex items-center justify-between mb-2 md:mb-3">
+                            <div
+                                className={`font-medium text-sm md:text-base flex items-center gap-2 ${
+                                    isCorrect ? 'text-green-500' : 'text-red-500'
+                                }`}>
+                                {isCorrect ? (
+                                    <>
+                                        <Check className="w-5 h-5" />
+                                        回答正确
+                                    </>
+                                ) : (
+                                    <>
+                                        <X className="w-5 h-5" />
+                                        回答错误
+                                    </>
+                                )}
+                            </div>
+                            <button
+                                onClick={handleCopyQuestion}
+                                className="flex items-center gap-1 px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-text hover:border-theme-border-light transition-colors"
+                                title="复制题目和答案">
+                                {copied ? (
+                                    <>
+                                        <CheckCheck className="w-3 h-3 text-green-500" />
+                                        <span className="text-green-500">已复制</span>
+                                    </>
+                                ) : (
+                                    <>
+                                        <Copy className="w-3 h-3" />
+                                        <span>复制本题</span>
+                                    </>
+                                )}
+                            </button>
                         </div>
                         <div className="text-xs md:text-sm text-theme-text-secondary mb-2">
                             正确答案：

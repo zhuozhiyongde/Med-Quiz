@@ -1,0 +1,937 @@
+## 神经系统疾病
+
+红色神经元是指
+A. 神经元萎缩
+B. 神经元尼氏小体溶解
+C. 神经元胞体固缩
+D. 神经元水肿
+E. 神经元坏死
+【参考答案】 E
+
+神经元胞浆或核内出现包含体的原因是
+A. 病毒感染
+B. 细菌感染
+C. 立克次体感染
+D. 螺旋体感染
+E. 真菌感染
+【参考答案】 A
+
+Wallerian 变性是指
+A. 神经元变性
+B. 神经元尼氏小体溶解
+C. 髓鞘崩解消失
+D. 轴突断裂后的一系列变化
+E. 神经原纤维缠结
+【参考答案】 D
+
+小胶质细胞吞噬变性、坏死神经细胞的现象,被称为
+A. 卫星现象
+B. 嗜神经细胞现象
+C. 胶质瘢痕形成
+D. 包含体形成
+E. 胶质结节形成
+【参考答案】 B
+
+神经系统中可转化为格子细胞的是
+A. 神经细胞
+B. 星形胶质细胞
+C. 小胶质细胞
+D. 室管膜细胞
+E. 施万细胞
+【参考答案】 B
+
+构成胶质结节的细胞成分是
+A. 神经细胞
+B. 星形胶质细胞
+C. 小胶质细胞
+D. 室管膜细胞
+E. 少突胶质细胞
+【参考答案】 B
+
+围绕在变性、坏死神经元形成卫星现象的细胞是
+A. 神经细胞
+B. 星形胶质细胞
+C. 小胶质细胞
+D. 室管膜细胞
+E. 少突胶质细胞
+【参考答案】 E
+
+卫星现象是指围绕变性、坏死神经元的少突胶质细胞数大于或等于
+A. 1个
+B. 2个
+C. 3个
+D. 4个
+E. 5个
+【参考答案】 E
+
+细胞毒性脑水肿的主要镜下改变是
+A. 细胞体积增大、水样肿胀
+B. 细胞和血管周间隙增大
+C. 胶质瘢痕形成
+D. 胶质结节形成
+E. 髓鞘崩解消失
+【参考答案】 A
+
+血管源性脑水肿的主要镜下改变是
+A. 细胞体积增大、水样肿胀
+B. 细胞和血管周间隙增大
+C. 胶质瘢痕形成
+D. 胶质结节形成
+E. 髓鞘崩解消失
+【参考答案】 B
+
+颅内压增高是指侧卧位时,颅内压持续超过
+A. 0.5 kPa
+B. 1.0 kPa
+C. 1.5 kPa
+D. 2.0 kPa
+E. 2.5 kPa
+【参考答案】 D
+
+枕骨大孔疝可以引起
+A. 同侧眼上视和内视障碍
+B. 扣带回受压
+C. 延髓受压
+D. 中脑和脑干受压
+E. 同侧肢体瘫痪
+【参考答案】 C
+
+大脑镰下疝可以引起
+A. 同侧眼上视和内视障碍
+B. 扣带回受压
+C. 延髓受压
+D. 中脑和脑干受压
+E. 同侧肢体瘫痪
+【参考答案】 B
+
+小脑天幕疝不会引起
+A. 同侧眼上视和内视障碍
+B. 扣带回受压
+C. 枕叶距状裂出血性梗死
+D. 中脑和脑干受压
+E. 同侧肢体瘫痪
+【参考答案】 B
+
+交通性脑积水可见于
+A. 脉络丛乳头状瘤
+B. 室间孔阻塞
+C. 室管膜瘤
+D. 流行性脑脊髓膜炎
+E. 蛛网膜下腔出血
+【参考答案】 A
+
+对缺血缺氧最敏感的脑内细胞是
+A. 神经元
+B. 星形胶质细胞
+C. 少突胶质细胞
+D. 室管膜细胞
+E. 小胶质细胞
+【参考答案】 A
+
+脑血流自动调节机制发生障碍的收缩压是
+A. < 50mmHg
+B. < 60mmHg
+C. < 70mmHg
+D. < 80mmHg
+E. < 90mmHg
+【参考答案】 A
+
+缺血缺氧引起脑组织发生病理组织学改变的时间是
+A. > 2h
+B. > 4h
+C. > 6h
+D. > 12h
+E. > 24h
+【参考答案】 D
+
+缺血性脑病最常累及的部位是
+A. 血供边缘带
+B. 顶叶
+C. 颞叶
+D. 枕叶
+E. 脑干
+【参考答案】 A
+
+引起脑梗死最常见的原因是
+A. 脑细小动脉硬化
+B. 脑动脉粥样硬化
+C. 脑动脉栓塞
+D. 先天性脑血管畸形
+E. 脑血管创伤
+【参考答案】 B
+
+脑栓塞的最常见的原因是
+A. 脂肪栓塞
+B. 心源性栓子
+C. 血液高凝状态
+D. 空气栓塞
+E. 羊水栓塞
+【参考答案】 B
+
+脑出血的最常见原因是
+A. 高血压病
+B. 血液病
+C. 动脉粥样硬化症
+D. 动脉瘤
+E. 脑动脉瘤
+【参考答案】 A
+
+脑出血最常累及的部位是
+A. 脑室出血
+B. 小脑出血
+C. 基底节出血
+D. 中脑出血
+E. 脑桥出血
+【参考答案】 C
+
+原发性蛛网膜下腔出血的最常见原因是
+A. 动静脉畸形
+B. 先天性囊状动脉瘤
+C. 血液病
+D. 脑动脉炎
+E. 脑底异常血管网
+【参考答案】 B
+
+高度恶性的星形胶质细胞瘤是
+A. 纤维型星形胶质细胞瘤
+B. 肥胖型星形胶质细胞瘤
+C. 原浆型星形胶质细胞瘤
+D. 间变型星形胶质细胞瘤
+E. 多形性胶质母细胞瘤
+【参考答案】 E
+
+据世界卫生组织的分类,属于 III 级的星形胶质细胞瘤是
+A. 纤维型星形胶质细胞瘤
+B. 肥胖型星形胶质细胞瘤
+C. 原浆型星形胶质细胞瘤
+D. 间变型星形胶质细胞瘤
+E. 多形性胶质母细胞瘤
+【参考答案】 D
+
+介于良恶性之间的星形胶质细胞瘤是
+A. 纤维型星形胶质细胞瘤
+B. 肥胖型星形胶质细胞瘤
+C. 原浆型星形胶质细胞瘤
+D. 间变型星形胶质细胞瘤
+E. 多形性胶质母细胞瘤
+【参考答案】 B
+
+室管膜细胞瘤最常见于
+A. 侧脑室
+B. 第三脑室
+C. 第四脑室
+D. 中脑水管
+E. 脊髓腰骶部
+【参考答案】 C
+
+髓母细胞瘤最常见于
+A. 小脑引部
+B. 小脑半球
+C. 额叶
+D. 顶叶
+E. 枕叶
+【参考答案】 A
+
+髓母细胞瘤的组织学特点是
+A. 瘤细胞呈栅栏状排列
+B. 肿瘤出血、坏死明显
+C. 瘤细胞形成纤维心菊形团
+D. 瘤细胞围绕血管形成菊形团
+E. 瘤细胞呈上皮样
+【参考答案】 C
+
+脑膜瘤最常见的部位是
+A. 上矢状窦两侧
+B. 蝶骨底
+C. 嗅沟
+D. 脑室
+E. 椎管
+【参考答案】 A
+
+大多数脑膜瘤的起源于
+A. 脉络丛上皮细胞
+B. 室管膜上皮细胞
+C. 蛛网膜颗粒细胞
+D. 血管内皮细胞
+E. 脑膜纤维母细胞
+【参考答案】 C
+
+多发性硬化属于
+A. 肉芽肿性炎
+B. 继发性免疫缺陷病
+C. 原发性免疫缺陷病
+D. 自身免疫性疾病
+E. 获得性免疫缺陷病
+【参考答案】 D
+
+多发性硬化的中枢神经系统主要病变是
+A. 白质脱髓鞘
+B. 血管周淋巴细胞、浆细胞浸润
+C. 病变区淋巴细胞浸润
+D. 病变区可见格子细胞
+E. 轴突肿胀、断裂
+【参考答案】 A
+
+Devic 病的脱髓鞘病变特点是
+A. 主要累及视神经和脊髓
+B. 主要累及脑室周围白质
+C. 主要累及脑干白质
+D. 病变呈同心圆分布
+E. 主要累及小脑白质
+【参考答案】 A
+
+Balo 病的病变特点是
+A. 小静脉周围淋巴细胞为主的炎细胞浸润
+B. 脱髓鞘带和正常髓鞘带呈同心圆分层排列
+C. 病变区可见格子细胞
+D. 轴突肿胀、断裂
+E. 病变区淋巴细胞浸润
+【参考答案】 B
+
+病情凶险的中枢神经脱髓鞘病是
+A. 多发性硬化
+B. 同心圆性硬化
+C. 视神经脊髓炎
+D. 急性播散性脑脊髓炎
+E. 急性出血性白质脑炎
+【参考答案】 E
+
+急性播散性脑脊髓炎的病变特点是
+A. 主要累及视神经和脊髓
+B. 主要累及脑室周围白质
+C. 主要累及脑干白质
+D. CNS 弥漫受累
+E. 主要累及小脑白质
+【参考答案】 D
+
+急性出血性坏死性脑脊髓炎的病变特点是
+A. 脑白质弥漫分布的点状出血
+B. 蛛网膜下腔出血
+C. 硬脑膜下出血
+D. 硬脑膜外出血
+E. 基底节出血
+【参考答案】 A
+
+有关流行性乙型脑炎的主要病理变化,哪项是错误的?
+A. 神经细胞的变性,坏死
+B. 筛状软化灶形成
+C. 淋巴细胞套袖状浸润
+D. 病变以小脑,延髓和桥脑最严重
+E. 胶质结节
+【参考答案】 D
+
+流行性乙型脑炎的病变,下列哪个部位最为轻微?
+A. 大脑皮质
+B. 基底节
+C. 丘脑
+D. 中脑
+E. 脊髓
+【参考答案】 E
+
+流行性乙型脑炎属于
+A. 化脓性炎症
+B. 变质性炎症
+C. 纤维素性炎症
+D. 浆液性炎症
+E. 肉芽肿性炎症
+【参考答案】 B
+
+流行性乙型脑炎的主要病理变化是
+A. 神经细胞变性坏死
+B. 蛛网膜下腔积脓
+C. 肉芽肿形成
+D. 微小动脉瘤形成
+E. 脑疝形成
+【参考答案】 A
+
+流行性乙型脑炎的主要侵犯部位是
+A. 脊髓灰质
+B. 延脑
+C. 小脑
+D. 大脑灰质及神经核团
+E. 神经节
+【参考答案】 D
+
+符合流行性乙型脑炎的描述是
+A. 经呼吸道传播
+B. 冬春发病
+C. 可发生华-弗综合征
+D. 可引起智力低下
+E. 克氏征阳性
+【参考答案】 D
+
+不符合流行性乙型脑炎的描述是
+A. 大脑内有软化灶形成
+B. 小血管周淋巴细胞和单核细胞套袖状浸润
+C. 大脑神经元变性坏死
+D. 蛛网膜下腔大量白细胞
+E. 小胶质细胞结节形成
+【参考答案】 D
+
+流行性乙型脑炎的病原体属于
+A. RNA 病毒
+B. 细菌
+C. 真菌
+D. 支原体
+E. DNA 病毒
+【参考答案】 A
+
+流行性乙型脑炎的传播途径是
+A. 消化道传播
+B. 呼吸道传播
+C. 经血液传播
+D. 性传播
+E. 蚊虫传播
+【参考答案】 E
+
+流行性乙型脑炎的患者多为
+A. 男性
+B. 女性
+C. 儿童
+D. 成人
+E. 老人
+【参考答案】 C
+
+不符合流行性乙型脑炎的临床表现是
+A. 嗜睡
+B. 昏迷
+C. 角弓反张
+D. 头痛
+E. 呕吐
+【参考答案】 C
+
+不符合流行性乙型脑炎的预后的描述是
+A. 可引起痴呆
+B. 可引起语言障碍
+C. 可引起智力低下
+D. 可引起脑积水
+E. 可引起肢体瘫痪
+【参考答案】 D
+
+有关急性暴发性流行性脑脊髓膜炎的描述,哪项不正确?
+A. 起病急,进展快,死亡率高
+B. 脑膜病变重
+C. 常伴中毒性休克和 DIC
+D. 由脑膜炎双球菌释放的內毒素所致
+E. 常伴肾上腺皮质出血和功能衰竭
+【参考答案】 B
+
+有关暴发性脊髓脑膜炎时的临床病理表现的描述,哪一项是错误的?
+A. 皮肤粘膜广泛淤点及淤斑
+B. 双侧肾上腺广泛出血
+C. 蛛网膜下腔充满脓性渗出物
+D. 起病急骤,高热,头痛,呕吐
+E. 伴有周围循环衰竭
+【参考答案】 C
+
+不符合流行性脑脊髓膜炎的临床表现是
+A. 颈强直
+B. 脑脊液淋巴细胞增多
+C. 角弓反张
+D. 头痛
+E. 呕吐
+【参考答案】 B
+
+不符合流行性脑脊髓膜炎的预后的是
+A. 大多可痊愈
+B. 可引起脑积水
+C. 可引起面神经麻痹
+D. 常引起智力低下
+E. 可引起耳聋
+【参考答案】 D
+
+流行性脑脊髓膜炎的病原体属于
+A. RNA 病毒
+B. 细菌
+C. 真菌
+D. 支原体
+E. DNA 病毒
+【参考答案】 B
+
+流行性脊髓脑膜炎的主要病理变化是
+A. 软化灶形成
+B. 神经细胞变性坏死
+C. 淋巴细胞血管周围套状浸润
+D. 蛛网膜下腔积脓
+E. 小胶质细胞结节状增生
+【参考答案】 D
+
+流行性脑脊髓膜炎属于
+A. 变质性炎症
+B. 增生性炎症
+C. 化脓性炎症
+D. 浆液性炎症
+E. 肉芽肿性炎症
+【参考答案】 C
+
+流行性脑脊髓膜炎主要侵犯
+A. 硬脑膜外
+B. 硬脑膜
+C. 软脑膜
+D. 大脑皮质
+E. 蛛网膜和软脑膜
+【参考答案】 E
+
+导致脑疝的大脑疾病是
+A. 流行性乙型脑炎
+B. 脑水肿
+C. 脑出血
+D. 脑内肿瘤
+E. 以上都可能
+【参考答案】 E
+
+流行性脑脊髓膜炎一般不引起
+A. 皮肤、粘膜有出血点和瘀斑
+B. 脑软化灶形成
+C. 脑疝形成
+D. 高热、头痛、呕吐
+E. 脑膜刺激症明显
+【参考答案】 B
+
+不符合流行性脑脊髓膜炎的描述是
+A. 引起脑膜刺激症
+B. 引起颅内压升高症状
+C. 引起脑脊液浑浊或脓样
+D. 引起神经细胞变性坏死
+E. 引起皮肤瘀点和瘀斑
+【参考答案】 D
+
+流行性脑脊髓膜炎的病变最明显的部位是
+A. 脑底部脑膜
+B. 脑顶部脑膜
+C. 大脑灰质
+D. 脊髓灰质前角
+E. 大脑白质
+【参考答案】 B
+
+小儿麻痹症病变主要累及
+A. 脊髓前角运动神经元
+B. 脊髓后角感觉神经元
+C. 延髓神经核团
+D. 脑干神经核团
+E. 大脑灰质神经元
+【参考答案】 A
+
+脊髓灰质炎的病变最重的部位是
+A. 脊髓腰膨大
+B. 脊髓颈膨大
+C. 延髓
+D. 脑干
+E. 大脑
+【参考答案】 A
+
+脊髓灰质炎最主要的传播途径是
+A. 消化道传播
+B. 呼吸道传播
+C. 经血液传播
+D. 性传播
+E. 蚊虫传播
+【参考答案】 A
+
+脊髓灰质炎的病原体属于
+A. RNA 病毒
+B. 细菌
+C. 真菌
+D. 支原体
+E. DNA 病毒
+【参考答案】 A
+
+脊髓灰质炎病变最轻的部位是
+A. 脊髓腰膨大
+B. 脊髓颈膨大
+C. 延髓
+D. 脑桥
+E. 大脑皮质
+【参考答案】 E
+
+脊髓灰质炎引起下肢麻痹主要是由于
+A. 充血水肿
+B. 胶质瘢痕形成
+C. 小胶质细胞增生
+D. 运动神经元变性坏死
+E. 中性粒细胞浸润
+【参考答案】 D
+
+脊髓灰质炎病毒感染的大多数表现为
+A. 隐性感染
+B. 轻型
+C. 非麻痹型
+D. 麻痹型
+E. 显性感染
+【参考答案】 A
+
+引起死亡的脊髓灰质炎类型是
+A. 隐性感染
+B. 顿挫型
+C. 非麻痹型
+D. 脊髓型
+E. 延髓型
+【参考答案】 E
+
+狂犬病的特征性病变是
+A. 小胶质细胞增生
+B. 脑水肿
+C. 神经细胞胞浆内出现 Negri 小体
+D. 神经细胞变性、坏死
+E. 血管周淋巴细胞为主的炎细胞浸润
+【参考答案】 C
+
+Negri 小体内含有的病毒颗粒是
+A. 单纯疱疹病毒
+B. 乳头瘤病毒
+C. 狂犬病病毒
+D. 巨细胞病毒
+E. 麻疹病毒
+【参考答案】 C
+
+引起海绵状脑病的病原体是
+A. DNA 病毒
+B. RNA 病毒
+C. 慢病毒
+D. 朊蛋白
+E. 逆转录病毒
+【参考答案】 D
+
+不符合朊蛋白的描述是
+A. PrP是神经元的跨膜蛋白
+B. PrPsc 是ẞ折叠构型的 PrP
+C. PrPsc 具有感染性
+D. PrPsc 可被蛋白酶消化
+E. PrPsc 可被漂白粉消毒
+【参考答案】 D
+
+人类 Prion 病的病变特点是
+A. 神经细胞固缩
+B. 噬神经细胞现象
+C. 神经细胞卫星现象
+D. 神经细胞红色变性
+E. 神经细胞胞浆及神经毡空泡形成
+【参考答案】 E
+
+Alzheimer 病常发生于
+A. 30岁以后
+B. 40岁以后
+C. 50岁以后
+D. 60岁以后
+E. 70岁以后
+【参考答案】 C
+
+老年人最常见的神经变性疾病是
+A. Alzheimer 病
+B. Pick病
+C. Lewy body 病
+D. Parkinson 病
+E. 肌萎缩性侧索硬化
+【参考答案】 A
+
+不属于 Alzheimer 病的病理变化是
+A. 老年斑
+B. 神经原纤维缠结
+C. Hirano 小体
+D. 颗粒空泡变性
+E. Lewy 小体
+【参考答案】 E
+
+属于 Parkinson 病的病理变化是
+A. 老年斑
+B. 神经原纤维缠结
+C. Hirano 小体
+D. 颗粒空泡变性
+E. Lewy 小体
+【参考答案】 E
+
+痴呆是指
+A. 智能障碍
+B. 意识障碍
+C. 失语症
+D. 失用症
+E. 失认症
+【参考答案】 A
+
+引起神经原纤维缠结的主要原因是
+A. 淀粉样物质沉积
+B. t蛋白过度磷酸化
+C. 早老蛋白基因突变
+D. 巨球蛋白基因突变
+E. Prion 感染
+【参考答案】 B
+
+不属于 Alzheimer 病的病理变化是
+A. Hirano 小体
+B. 神经原纤维缠结
+C. 颗粒空泡变性
+D. 神经细胞胞浆及神经毡空泡形成
+E. 老年斑
+【参考答案】 A
+
+老年斑的主要成分是
+A. 微丝蛋白
+B. 微管蛋白
+C. B淀粉样物质
+D. 胶质纤维酸性蛋白
+E. S-100 蛋白
+【参考答案】 C
+
+Parkinson 病脑损害的部位是
+A. 大脑皮质
+B. 基底节
+C. 纹状体黑质
+D. 小脑
+E. 脊髓
+【参考答案】 C
+
+Parkinson 病的特征性病理变化是
+A. 黑质多巴胺细胞脱失
+B. 额颞叶萎缩
+C. 壳核神经元脱失
+D. 大脑皮质神经元丧失
+E. 脊髓前角运动神经元减少
+【参考答案】 A
+
+最常见的神经系统真菌感染性疾病是
+A. 曲菌
+B. 毛霉菌
+C. 放线菌
+D. 新型隐球菌
+E. 白色念珠菌
+【参考答案】 D
+
+A 38-year-old man with AIDS presents with decreasing mental status. Cere-brospinal fluid (CSF) is stained with a mu-cicarmine stain and India ink. The muci-carmine stain reveals numerous yeast that stain bright red. The India ink staining shows that these yeast have a capsule. Which of the following is the most likely diagnosis?
+A. Chromomycosis
+B. Coccidioidomycosis
+C. Cryptococcosis
+D. Cryptosporidiosis
+E. Paracoccidioidomycosis
+【参考答案】 C
+
+A 45-year-old woman presents with uni-lateral tinnitus and unilateral hearing loss. Physical examination reveals facial weak-ness and loss of corneal reflex on the same side as the tinnitus and hearing loss. Where would a tumor need to be located to produce these clinical signs and symp-toms?
+A. Anterior horn of the spinal cord
+B. Anterior pituitary
+C. Cerebellopontine angle
+D. Frontal cortex
+E. Lateral ventricle
+【参考答案】 C
+
+A 38-year-old woman presents with se-vere headaches which show increasing frequency. A CT scan of her head shows a 2-cm mass attached to the dura in her right frontal area. Which of the following his-tologic changes is most likely to be seen in a biopsy specimen taken from this tumor?
+A. Antoni A areas with Verocay bodies
+B. A whorled pattern with psammoma bodies
+C. Endothelial proliferation with serpen-tine areas of necrosis
+D. Fried-egg appearance of tumor cells without necrosis
+E. True rosettes and pseudorosettes
+【参考答案】 B
+
+Which of the following is the characteris-tic pathological change of prion disease?
+A. Presence of vacuoles within neuropil and cell bodies in gray matter
+B. Coagulation necrosis
+C. Red neurons
+D. Condensation of nuclear material (py-knosis)
+E. Loss of nuclear staining (karyolosis)
+【参考答案】 A
+
+Which of the following tumors displays the most malignant behavior?
+A. Meningioma
+B. Diffuse astrocytoma
+C. Anaplastic astrocytoma
+D. Oligodendroglia
+E. Glioblastoma multiforme
+【参考答案】 E
+
+Within the central nervous system, which of the following regions is most suscepti-ble to hypoxic-ischemic injury?
+A. Arterial border zones
+B. Cerebellum
+C. Frontal lobe
+D. Temporal lobe
+E. Brain stem
+【参考答案】 A
+
+Brain parenchymal hemorrhages caused by hypertension most commonly occur in which of these sites:maldinisong
+A. Basal ganglia
+B. Thalamus
+C. Cerebellum
+D. Pons
+E. Cerebral white matter
+【参考答案】 A
+
+Which of the following disorders is not the cause of communicating hydrocephalus:
+A. Papilloma of choroid plexus
+B. Obstruction of foramen of Luschka
+C. Ependymoma
+D. Meningitis
+E. Subarachnoid hemorrhage
+【参考答案】 B
+
+Which of the following descriptions is in-correct regarding tonsillar herniation:
+A. A life threatening herniation
+B. Brain stem compression
+C. Hemorrhagic lesions in the midbrainand pons
+D. Respiratory inhibition
+E. Impairment of ocular movement on the same side as the lesion
+【参考答案】 E
+
+A 55-year-old woman presents with a new onset of seizure activity. Computerized tomography (CT) scans and skull x rays demonstrate a mass in the right cerebral hemisphere that is markedly calcific. The mass is removed and histologic sections reveal sheets of cells with clear halos (“fried-egg” appearance) and scattered calcifications. What type of tumor is does this woman have?
+A. Oligodendroglima
+B. Meningioma
+C. Astrocytoma
+D. Glioblastoma multiforme
+E. Medullobalstoma
+【参考答案】 A
+
+A 65-year-old man presents with tremors at rest and muscular rigidity. Physical examination reveals the patient has a "masklike" face. In this patient, from which one of the following sites would biopsies most likely reveal intracytoplasmic eosinophilic inclusions within neurons?
+A. Basal ganglia
+B. Caudate nucleus
+C. Hippocampus
+D. Midbrain
+E. Substantia nigra
+【参考答案】 E
+
+An elderly woman presented with progressive dementia. Within 2 years she had to be admitted to a nursing home, where she died 3 years later. Autopsy revealed bilateral, symmetrical atrophy of the frontal lobes with wide sulci and narrow gyri. Microscopic examination of tissue taken from this area revealed bundles of filaments in the cytoplasm of neurons and focal collections of neuritic processes surrounding central amyloid cores. Which one of the following diseases is responsible for her death?
+A. Parkinson disease
+B. Alzheimer disease
+C. Hypertention
+D. Diabetes mellitus
+E. Spongiform encephalopathy
+【参考答案】 B
+
+Physical examination of a 34-year-old woman with a new onset of intentionmal-dinisong tremor finds medial rectus palsy on attempted lateral gaze in the adducting eye and monocular nystagmus in the abducting eye with convergence. Which of the following is the most likely cause of these clinical findings?
+A. An apical lung cancer
+B. A pituitary adenoma
+C. Diabetes mellitus
+D. Multiple sclerosis
+E. Tertiary syphilis
+【参考答案】 B
+
+A 62-year-old man presents with rapidlyprogressive dementia and dies. At autopsy, marked spongiform degeneration of the brain is found. The familial form of this disorder is associated with mutations of. what gene?
+A. FGFR3
+B. PRNP
+C. PTEN
+D. SOD1
+E. UBE3A
+【参考答案】 B
+
+A lumbar puncture is performed on a patient with headaches, photophobia, clouding of consciousness, and stiffness of the neck. If these symptoms are the result of bacterial infection of the meninges, examination of the cerebrospinal fluid (CSF) will most likely reveal which of the following patterns?
+A. Increased, Cloudy, Increased, Decreased, Neutrophils
+B. Increased, Clear, Increased, Normal, Lymphocytes
+C. Increased, Clear, Increased, Normal, Mononuclear cells
+D. Decreased, Clear, Decreased, Normal, Lymphocytes
+E. Increased, Clear, Increased, Normal, mixed
+【参考答案】 A
+
+Which of the following clinical findings is not the characteristic of purulent meningitis:
+A. Large numbers of lymphocytes in the cerebrospinal fluid (CSF)
+B. Stiff neck
+C. Headache
+D. Turbid appearance of CSF
+E. Large numbers of neutrophils in the CSF
+【参考答案】 A
+
+Which of the following pathological changes is not associated with Herpes Simplex encephalitis:
+A. Perivascular mononuclear inflammatory infilation
+B. Localized aggregates of microglial cells (microglial nodule)
+C. Smudgy inclusion bodies within the nuclei of neurons
+D. Necrotizing foci involving the temporal lobe
+E. Negri body
+【参考答案】 E
+
+Which of the following disorders is not included in the spongiform encephalopathies:
+A. Creutzfeldt-Jakob disease (CJD)
+B. Kuru disease
+C. Gerstmann-Straussler syndrome
+D. Mad cow disease
+E. Guillain-Barre syndrome
+【参考答案】 E
+
+Which of the following is the pathogen of spongiform encephalopathies:
+A. DNA virus
+B. RNA virus
+C. Reverse transcription virus
+D. Prionsmaldinisong
+E. Chronic virus
+【参考答案】 D
+
+Which of the following pathological changes is not associated with Alzheimer disease:
+A. Wild-spread senile plaque
+B. Senile plaque
+C. Neurofibrillary tangles
+D. Amyloid angiopathy
+E. Lewy body
+【参考答案】 E
+
+Which of the following pathological changes is associated with Parkinson disease:
+A. Hirano body
+B. Russell body
+C. Aschoff body
+D. Mallory body
+E. Lewy body
+【参考答案】 E
+
+Which of the following is the major component of neurofibrillary tangles:
+A. ẞ-amyloid (Aẞ)
+B. Hyperphosphorylated tau protein
+C. Apoprotein E
+D. Glial filament acidic protein
+E. S-100 protein
+【参考答案】 B
+
+Which of the following morphological changes is not associated with Alzheimer disease:
+A. Cerebral atrophy
+B. Depigmentation of substantia nigra
+C. Dilation of the cerebral ventricles
+D. Neurofibrillary tangles
+E. Senile plaque
+【参考答案】 B
+
+The substance deposited in senile plaque is the breakdown product of which of the following proteins:
+A. Neurofilaments
+B. Microtubule protein
+C. Amyloid precursor protein (APP)
+D. Glial filament acidic protein
+E. S-100 protein
+【参考答案】 C
+
+A 79-year-old woman who had a medical history of poorly controlled chronic hypertension died while at home. During the autopsy the pathologist finds a recent intracerebral hemorrhage involving the putamen. Histologic sections from this area reveal hyaline material deposited in the walls of cerebral arterioles, an abnormality that is associated with the formation of which of the following types of aneurysm?
+A. Atherosclerotic aneurysm
+B. Berry aneurysm
+C. Charcot-Bouchard aneurysm formed in chronic hypertension
+D. Septic aneurysm
+E. Saccular aneurysm
+【参考答案】 C
+
+Which of the following is the most common cause of dementia in the elderly:
+A. Alzheimer disease
+B. Cerebrovascular disease
+C. Parkinson disease
+D. Pick diseasemaldinisong
+E. Prion-associated disorders
+【参考答案】 A
+
+Which of the following pathological changes is typically found in Alzheimer disease:
+A. Hirano body
+B. Russell body
+C. Aschoff body
+D. Mallory body
+E. Lewy body
+【参考答案】 A
+
+Which of the following is the major component of senile plaque:
+A. Neurofilaments
+B. Microtubule protein
+C. ẞ-amyloid substance
+D. Glial filament acidic protein
+E. S-100 protein
+【参考答案】 B
+
+Parkinson disease is an abnormality of which one of the following anatomic sites?
+A. Cerebral cortex
+B. Basal ganglia
+C. Substantia nigra
+D. Cerebellum
+E. Spinal cord
+【参考答案】 C
+
+Which of the following is the basic pathological change of Parkinson disease:
+A. Loss of dopamine-secreting neurons of the substantia nigra
+B. Atrophy of the cerebral temporal lobe
+C. Loss of neurons in the frontal lobe
+D. Loss of cerebral cortical neurons
+E. Loss of anterior horn motor neurons of the spinal cord
+【参考答案】 A

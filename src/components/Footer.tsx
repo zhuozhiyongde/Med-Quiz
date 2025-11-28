@@ -22,7 +22,7 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
                         卓致用
                     </a>
                     <span className="mx-1.5 text-theme-border">·</span>
-                    <span className="text-theme-text-muted">21 级预防医学</span>
+                    <span className="text-theme-text-muted">21 级预防&信双</span>
                 </p>
             </footer>
         );
@@ -72,7 +72,7 @@ export function Footer({ showShortcuts = true, compact = false }: FooterProps) {
                     <div className="flex items-center justify-center gap-2 text-xs">
                         <Heart className="w-3 h-3 text-red-400" />
                         <span className="text-theme-text-secondary">
-                            网站制作：21 级预防医学{' '}
+                            网站制作：21 级预防&信双{' '}
                             <a
                                 href="https://arthals.ink"
                                 target="_blank"

@@ -175,21 +175,34 @@ export function CoursePage() {
 
                             {/* 各章节入口 */}
                             {chapterIndex.chapters.map((chapter) => (
-                                <Link
+                                <div
                                     key={chapter.id}
-                                    to={`/course/${courseSlug}/${chapter.id}`}
-                                    className="flex items-center gap-3 p-4 rounded-lg border border-theme-border bg-theme-elevated hover:border-theme-border-light hover:bg-theme-card transition-all group">
-                                    <div className="w-10 h-10 rounded-lg bg-theme-accent/10 flex items-center justify-center">
-                                        <span className="text-theme-accent font-medium">{chapter.id}</span>
+                                    className="flex items-center gap-2 p-4 rounded-lg border border-theme-border bg-theme-elevated hover:border-theme-border-light hover:bg-theme-card transition-all group">
+                                    <Link
+                                        to={`/course/${courseSlug}/${chapter.id}`}
+                                        className="flex items-center flex-1 gap-3">
+                                        <div className="w-10 h-10 rounded-lg bg-theme-accent/10 flex items-center justify-center">
+                                            <span className="text-theme-accent font-medium">{chapter.id}</span>
+                                        </div>
+                                        <div className="flex-1">
+                                            <span className="text-theme-text font-medium">{chapter.title}</span>
+                                            <span className="text-theme-text-muted text-sm ml-2">
+                                                ({chapter.questionCount} 题)
+                                            </span>
+                                        </div>
+                                    </Link>
+                                    <div className="flex items-center gap-2">
+                                        <a
+                                            href={`/data/${courseSlug}/${chapter.id}.txt`}
+                                            download={`${chapter.title}.txt`}
+                                            onClick={(e) => e.stopPropagation()}
+                                            className="p-2 rounded-md text-theme-text-muted hover:text-theme-accent hover:bg-theme-accent/10 transition-colors"
+                                            title={`下载 ${chapter.title}`}>
+                                            <Download className="w-4 h-4" />
+                                        </a>
+                                        <ChevronRight className="w-5 h-5 text-theme-text-muted group-hover:text-theme-text transition-colors" />
                                     </div>
-                                    <div className="flex-1">
-                                        <span className="text-theme-text font-medium">{chapter.title}</span>
-                                        <span className="text-theme-text-muted text-sm ml-2">
-                                            ({chapter.questionCount} 题)
-                                        </span>
-                                    </div>
-                                    <ChevronRight className="w-5 h-5 text-theme-text-muted group-hover:text-theme-text group-hover:translate-x-1 transition-all" />
-                                </Link>
+                                </div>
                             ))}
                         </div>
 

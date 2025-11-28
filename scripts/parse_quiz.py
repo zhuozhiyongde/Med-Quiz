@@ -168,6 +168,39 @@ def parse_content_block(content: str) -> list[dict]:
     return questions
 
 
+def format_question_to_txt(question: dict) -> str:
+    """将题目格式化为 txt 格式"""
+    lines = [question["title"]]
+    for key, value in question["options"].items():
+        lines.append(f"{key}. {value}")
+    lines.append(f"【参考答案】 {''.join(question['answers'])}")
+    if question.get("explanation"):
+        lines.append(f"【解析】{question['explanation']}")
+    return "\n".join(lines)
+
+
+def save_chapter_txt(
+    public_data_dir: str,
+    slug: str,
+    chapter_id: str,
+    chapter_title: str,
+    questions: list[dict],
+):
+    """保存章节的 txt 文件到 public/data/{slug}/ 目录"""
+    chapter_dir = os.path.join(public_data_dir, slug)
+    os.makedirs(chapter_dir, exist_ok=True)
+
+    txt_file = os.path.join(chapter_dir, f"{chapter_id}.txt")
+    lines = [f"## {chapter_title}\n"]
+    for q in questions:
+        lines.append(format_question_to_txt(q))
+        lines.append("")  # 空行分隔
+
+    with open(txt_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"已保存章节 txt: {txt_file}")
+
+
 def save_course_with_chapters(
     output_dir: str,
     slug: str,
@@ -175,6 +208,7 @@ def save_course_with_chapters(
     description: str,
     all_questions: list[dict],
     chapters: list[Chapter],
+    public_data_dir: str = None,
 ):
     """保存带章节的课程数据"""
     course_dir = os.path.join(output_dir, slug)
@@ -219,6 +253,12 @@ def save_course_with_chapters(
                 "questionCount": len(chapter.questions),
             }
         )
+
+        # 保存章节的 txt 文件用于下载
+        if public_data_dir:
+            save_chapter_txt(
+                public_data_dir, slug, str(idx), chapter.title, chapter.questions
+            )
 
     # 保存章节索引 index.json
     index_file = os.path.join(course_dir, "index.json")
@@ -294,11 +334,13 @@ def process_course(
     title: str,
     description: str,
     enable_chapters: bool = True,
+    public_data_dir: Path = None,
 ):
     """处理单个课程文件
 
     Args:
         enable_chapters: 是否启用章节解析。如果为 False，即使 MD 文件中有章节标题也会忽略
+        public_data_dir: public/data 目录路径，用于生成分章节的 txt 文件
     """
     print(f"\n处理课程: {title}")
     print(f"输入文件: {input_file}")
@@ -323,7 +365,13 @@ def process_course(
 
     if has_chapters:
         save_course_with_chapters(
-            str(output_dir), slug, title, description, all_questions, chapters
+            str(output_dir),
+            slug,
+            title,
+            description,
+            all_questions,
+            chapters,
+            str(public_data_dir) if public_data_dir else None,
         )
     else:
         save_course_flat(str(output_dir), slug, title, description, all_questions)
@@ -332,64 +380,42 @@ def process_course(
     update_course_index(str(output_dir), slug, title, source_file, has_chapters)
 
 
+def load_config(config_path: Path) -> list[dict]:
+    """从 JSON 配置文件加载课程配置"""
+    with open(config_path, "r", encoding="utf-8") as f:
+        config = json.load(f)
+    return config.get("courses", [])
+
+
 def main():
     script_dir = Path(__file__).parent
     project_dir = script_dir.parent
     data_dir = project_dir / "public" / "data"
     output_dir = project_dir / "src" / "data"
+    config_path = script_dir / "config.json"
 
-    # 课程配置列表
-    # enable_chapters: 是否启用章节解析，默认为 True
-    courses = [
-        {
-            "input_file": data_dir / "公共卫生传播学.txt",
-            "slug": "gwcb",
-            "title": "公共卫生传播学",
-            "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理",
-            "enable_chapters": True,
-        },
-        {
-            "input_file": data_dir / "健康教育与健康促进.txt",
-            "slug": "jkjy",
-            "title": "健康教育与健康促进",
-            "description": "本解析依据「18级杨子铭」期末复习笔记及公共卫生专业知识整理",
-            "enable_chapters": False,  # 不启用章节解析
-        },
-        {
-            "input_file": data_dir / "系统解剖学.txt",
-            "slug": "xtjp",
-            "title": "系统解剖学",
-            "description": "本解析依据「系统解剖学在线闯关网站」整理",
-            "enable_chapters": True,
-        },
-        {
-            "input_file": data_dir / "局部解剖学.txt",
-            "slug": "jbjp",
-            "title": "局部解剖学",
-            "description": "本解析依据「局部解剖学在线闯关网站」整理",
-            "enable_chapters": True,
-        },
-        {
-            "input_file": data_dir / "病理学.txt",
-            "slug": "bl",
-            "title": "病理学",
-            "description": "本解析依据「病理学题库」整理",
-            "enable_chapters": True,
-        }
-    ]
+    # 从配置文件加载课程配置
+    if not config_path.exists():
+        print(f"错误: 配置文件不存在 - {config_path}")
+        return
+
+    courses = load_config(config_path)
+    print(f"从配置文件加载了 {len(courses)} 个课程")
 
     for course in courses:
-        if course["input_file"].exists():
+        input_file = data_dir / course["input_file"]
+        if input_file.exists():
             process_course(
-                course["input_file"],
+                input_file,
                 output_dir,
                 course["slug"],
                 course["title"],
                 course["description"],
                 course.get("enable_chapters", True),
+                data_dir,  # 传递 public/data 目录用于生成分章节 txt 文件
             )
         else:
-            print(f"警告: 文件不存在 - {course['input_file']}")
+            print(f"警告: 文件不存在 - {input_file}")
 
 
 if __name__ == "__main__":

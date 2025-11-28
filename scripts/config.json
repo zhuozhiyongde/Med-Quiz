@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "input_file": "公共卫生传播学.txt",
+      "slug": "gwcb",
+      "title": "公共卫生传播学",
+      "description": "本解析依据「公共卫生传播学 Mooc 选择题库标准答案」整理",
+      "enable_chapters": true
+    },
+    {
+      "input_file": "健康教育与健康促进.txt",
+      "slug": "jkjy",
+      "title": "健康教育与健康促进",
+      "description": "本解析依据「18级杨子铭」期末复习笔记及公共卫生专业知识整理",
+      "enable_chapters": false
+    },
+    {
+      "input_file": "系统解剖学.txt",
+      "slug": "xtjp",
+      "title": "系统解剖学",
+      "description": "本解析依据「系统解剖学在线闯关网站」整理",
+      "enable_chapters": true
+    },
+    {
+      "input_file": "局部解剖学.txt",
+      "slug": "jbjp",
+      "title": "局部解剖学",
+      "description": "本解析依据「局部解剖学在线闯关网站」整理",
+      "enable_chapters": true
+    },
+    {
+      "input_file": "病理学.txt",
+      "slug": "bl",
+      "title": "病理学",
+      "description": "本解析依据「病理学题库」整理",
+      "enable_chapters": true
+    }
+  ]
+}

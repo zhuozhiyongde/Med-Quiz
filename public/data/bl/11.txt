@@ -1,0 +1,825 @@
+## 内分泌系统疾病
+
+符合单纯性甲状腺肿的描述是
+A. 男性多于女性
+B. 老年患者多见
+C. 甲状腺多呈结节状肿大
+D. 一般不伴有甲状腺功能异常
+E. 属良性肿瘤
+【参考答案】 C
+
+不符合结节性甲状腺肿的描述是
+A. 结节具有完整的包膜
+B. 结节不压迫周围甲状腺组织
+C. 常有纤维组织增生
+D. 常有出血、坏死
+E. 一般不伴有甲状腺功能异常
+【参考答案】 A
+
+不符合地方性甲状腺肿的描述是
+A. 多见于内陆山区、半山区
+B. 女性患者多见
+C. 可引起克汀病
+D. 与缺碘有关
+E. 与甲状腺素合成障碍有关
+【参考答案】 E
+
+青春期甲状腺肿发生的原因是
+A. 缺碘
+B. 甲状腺素合成障碍
+C. 机体对碘和甲状腺素的需求增加
+D. 药物影响酪氨酸的转化
+E. 碘在肠道吸收障碍
+【参考答案】 C
+
+弥漫性胶样甲状腺肿的肉眼特点是
+A. 甲状腺弥漫肿大、光滑、质软
+B. 甲状腺弥漫肿大、多结节状
+C. 甲状腺轻度肿大、质硬
+D. 甲状腺内单一结节形成、质软、边界清楚
+E. 甲状腺内单一结节形成、质硬、边界不清
+【参考答案】 A
+
+结节性甲状腺肿的肉眼特点是
+A. 甲状腺弥漫肿大、光滑、质软
+B. 甲状腺弥漫肿大、多结节状
+C. 甲状腺轻度肿大、质硬
+D. 甲状腺内单一结节形成、质软、边界清楚
+E. 甲状腺内单一结节形成、质硬、边界不清
+【参考答案】 B
+
+弥漫性胶样甲状腺肿的镜下特点是
+A. 滤泡显著扩大,类胶质潴留
+B. 滤泡上皮增生与复旧混杂
+C. 滤泡上皮增生呈柱状
+D. 多级乳头形成
+E. 肉芽肿形成
+【参考答案】 A
+
+结节性甲状腺肿的镜下特点是
+A. 滤泡显著扩大,类胶质潴留
+B. 滤泡上皮增生与复旧混杂,多数结节形成
+C. 滤泡上皮增生呈柱状
+D. 多级乳头形成
+E. 肉芽肿形成
+【参考答案】 B
+
+最常见的甲状腺功能亢进的原因是
+A. Graves 病
+B. 毒性结节性甲状腺肿
+C. 毒性甲状腺腺瘤
+D. 甲状腺素摄入过多
+E. 垂体腺瘤(分泌TSH)
+【参考答案】 A
+
+不符合 Graves 病的描述是
+A. 又称 Basedow 病
+B. 又称毒性弥漫性甲状腺肿
+C. 是一种自身免疫性疾病
+D. T3、T4 分泌过高
+E. 继发于甲状腺炎
+【参考答案】 E
+
+Graves 病中,引起甲状腺素分泌过高的抗体是
+A. 甲状腺生长免疫球蛋白
+B. 甲状腺生长抑制免疫球蛋白
+C. 甲状腺刺激免疫球蛋白和 TSH 结合抑制免疫球蛋白
+D. 抗甲状腺线粒体抗体
+E. 抗核抗体
+【参考答案】 C
+
+Graves 病中,引起甲状腺腺上皮增生的抗体是
+A. 甲状腺生长免疫球蛋白和甲状腺生长抑制免疫球蛋白
+B. TSH 结合抑制免疫球蛋白
+C. 甲状腺刺激免疫球蛋白
+D. 抗甲状腺线粒体抗体
+E. 抗核抗体
+【参考答案】 A
+
+不符合 Graves 病的临床表现的是
+A. 男性多见
+B. 甲状腺肿大
+C. 代谢率增高
+D. 心悸、多食、多汗、消瘦、易激动
+E. 可伴有眼球突出
+【参考答案】 A
+
+Graves 病的甲状腺肉眼特点是
+A. 甲状腺弥漫肿大、光滑、质软,伴有血管杂音
+B. 甲状腺弥漫肿大、多结节状
+C. 甲状腺轻度肿大、质硬
+D. 甲状腺内单一结节形成、质软、边界清楚
+E. 甲状腺内单一结节形成、质硬、边界不清
+【参考答案】 A
+
+Graves 病甲状腺的镜下特点是
+A. 滤泡显著扩大,类胶质潴留
+B. 滤泡上皮增生与复旧混杂,多数结节形成
+C. 滤泡上皮增生呈柱状,伴乳头状突起,类胶质少
+D. 多级乳头形成
+E. 肉芽肿形成
+【参考答案】 C
+
+Graves 病伴有眼球突出的原因是
+A. 球后神经纤维增生
+B. 球后淤血
+C. 球后毛细血管增生
+D. 球后脂肪纤维组织增生
+E. 球后淋巴水肿
+【参考答案】 D
+
+不符合地方性克汀病的描述是
+A. 发生于地方性甲状腺肿的流行区
+B. 患者身材矮小,智力低下
+C. 与近亲婚姻有关
+D. 甲状腺高度萎缩
+E. 表情痴呆
+【参考答案】 C
+
+克汀病的发病原因是
+A. 甲状腺生长抑制免疫球蛋白增高
+B. 缺碘
+C. 抗甲状腺抗体产生
+D. 病毒感染
+E. 甲状腺摘除
+【参考答案】 B
+
+与粘液水肿无关的甲状腺疾病是
+A. 垂体坏死
+B. 甲状腺全切
+C. 亚急性甲状腺炎
+D. 甲状腺腺瘤
+E. 慢性淋巴细胞性甲状腺炎
+【参考答案】 D
+
+符合粘液水肿的描述是
+A. 基础代谢率正常
+B. 组织间隙大量氨基多糖沉积
+C. 声音高亢
+D. 多食
+E. 易激动
+【参考答案】 B
+
+克汀病甲状腺病变特点是
+A. 滤泡显著扩大,类胶质潴留
+B. 滤泡上皮增生与复旧混杂,多数结节形成
+C. 滤泡萎缩或缺如
+D. 多级乳头形成
+E. 肉芽肿形成
+【参考答案】 C
+
+不符合克汀病的描述是
+A. 头颅较大
+B. 智力正常
+C. 粘液水肿
+D. 身材矮小
+E. 鼻根宽平
+【参考答案】 B
+
+不符合克汀病的描述是
+A. 头颅较大
+B. 散发病例也由缺碘引起
+C. 粘液水肿
+D. 身材矮小
+E. 鼻根宽平
+【参考答案】 B
+
+不符合粘液水肿的描述是
+A. 基础代谢率低
+B. 组织间隙大量粘液沉积
+C. 声音嘶哑
+D. 胃肠蠕动减慢
+E. 说话、动作、思维迟钝
+【参考答案】 B
+
+不符合亚急性甲状腺炎的是
+A. 女性多于男性
+B. 与病毒感染有关
+C. 易转变为慢性甲状腺炎
+D. 形成有巨细胞的肉芽肿
+E. 引起甲状腺肿大
+【参考答案】 C
+
+不符合慢性淋巴细胞性甲状腺炎的描述是
+A. 又称桥本甲状腺炎
+B. 为自身免疫性疾病
+C. 引起甲状腺肿大
+D. 大量淋巴细胞浸润
+E. 滤泡上皮增生
+【参考答案】 E
+
+不符合慢性纤维性甲状腺炎的描述是
+A. 又称 Riedel 甲状腺肿
+B. 甲状腺不对称肿大
+C. 病变质地硬如木样
+D. 纤维增生,伴玻璃样变
+E. 病变边界清楚
+【参考答案】 E
+
+慢性淋巴细胞性甲状腺炎病变的特点是
+A. 玻璃样变纤维增生,呈浸润性生长
+B. 大量淋巴细胞浸润伴滤泡萎缩
+C. 滤泡破坏,形成有巨细胞的肉芽肿
+D. 多发性脓肿形成
+E. 以上都不是
+【参考答案】 B
+
+亚急性甲状腺炎的主要病理变化为
+A. 玻璃样变纤维增生,呈浸润性生长
+B. 大量淋巴细胞浸润伴滤泡萎缩
+C. 滤泡破坏,形成有巨细胞的肉芽肿
+D. 多发性脓肿形成
+E. 以上都不是
+【参考答案】 C
+
+慢性纤维性甲状腺炎的病变特点是
+A. 玻璃样变纤维增生,呈浸润性生长
+B. 大量淋巴细胞浸润伴滤泡萎缩
+C. 滤泡破坏,形成有巨细胞的肉芽肿
+D. 多发性脓肿形成
+E. 以上都不是
+【参考答案】 A
+
+急性血源播散性化脓性甲状腺炎的病变特点是
+A. 玻璃样变纤维增生,呈浸润性生长
+B. 大量淋巴细胞浸润伴滤泡萎缩
+C. 滤泡破坏,形成有巨细胞的肉芽肿
+D. 多发性脓肿形成
+E. 以上都不是
+【参考答案】 D
+
+可以恶变为B细胞淋巴瘤的甲状腺炎是
+A. 亚急性甲状腺炎
+B. 桥本甲状腺炎
+C. 纤维性甲状腺炎
+D. 急性甲状腺炎
+E. 非特异性淋巴细胞性甲状腺炎
+【参考答案】 B
+
+不属于甲状腺腺瘤的描述是
+A. 多为单发
+B. 包膜不完整
+C. 可发生囊性变
+D. 可发生纤维化
+E. 可发生钙化
+【参考答案】 B
+
+甲状腺胚胎性腺瘤的特点是
+A. 瘤细胞小,排列为条索状
+B. 由小滤泡构成
+C. 由较正常的滤泡构成
+D. 由嗜酸性细胞构成
+E. 囊壁被覆单层细胞,并由乳头构成
+【参考答案】 A
+
+甲状腺胎儿性腺瘤的特点是
+A. 瘤细胞小,排列为条索状
+B. 由小滤泡构成
+C. 由较正常的滤泡构成
+D. 由嗜酸性细胞构成
+E. 囊壁被覆单层细胞,并由乳头构成
+【参考答案】 B
+
+甲状腺单纯性腺瘤的特点是
+A. 瘤细胞小,排列为条索状
+B. 由小滤泡构成
+C. 由较正常的滤泡构成
+D. 由嗜酸性细胞构成
+E. 囊壁被覆单层细胞,并由乳头构成
+【参考答案】 C
+
+甲状腺嗜酸性细胞腺瘤的特点是
+A. 瘤细胞小,排列为条索状
+B. 由小滤泡构成
+C. 由较正常的滤泡构成
+D. 由嗜酸性细胞构成
+E. 囊壁被覆单层细胞,并由乳头构成
+【参考答案】 D
+
+甲状腺乳头状腺瘤的特点是
+A. 瘤细胞小,排列为条索状
+B. 由小滤泡构成
+C. 由较正常的滤泡构成
+D. 由嗜酸性细胞构成
+E. 囊壁被覆单层细胞,并由乳头构成
+【参考答案】 E
+
+最常见的恶性甲状腺肿瘤是
+A. 滤泡性癌
+B. 乳头状癌
+C. 髓样癌
+D. 未分化癌
+E. 鳞癌
+【参考答案】 B
+
+伴有砂砾体的甲状腺癌是
+A. 滤泡性癌
+B. 乳头状癌
+C. 髓样癌
+D. 未分化癌
+E. 鳞状细胞癌
+【参考答案】 B
+
+分泌降钙素的甲状腺癌是
+A. 滤泡性癌
+B. 乳头状癌
+C. 髓样癌
+D. 未分化癌
+E. 鳞状细胞癌
+【参考答案】 C
+
+恶性度最高的甲状腺癌是
+A. 滤泡性癌
+B. 乳头状癌
+C. 髓样癌
+D. 未分化癌
+E. 鳞状细胞癌
+【参考答案】 D
+
+甲状腺乳头状腺癌的病理组织学特点是
+A. 瘤细胞大小不一,可见奇异的巨核细胞
+B. 乳头分支多,被覆上皮细胞核呈毛玻璃样
+C. 滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管
+D. 瘤细胞圆形或多边形,排列成团,分泌降钙素
+E. 瘤细胞呈梭形,异型性明显
+【参考答案】 B
+
+甲状腺滤泡腺癌的病理组织学特点是
+A. 瘤细胞大小不一,可见奇异的巨核细胞
+B. 乳头分支多,被覆上皮细胞核呈毛玻璃样
+C. 滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管
+D. 瘤细胞圆形或多边形,排列成团,分泌降钙素
+E. 瘤细胞呈梭形,异型性明显
+【参考答案】 C
+
+甲状腺髓样癌的病理组织学特点是
+A. 瘤细胞大小不一,可见奇异的巨核细胞
+B. 乳头分支多,被覆上皮细胞核呈毛玻璃样
+C. 滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管
+D. 瘤细胞圆形或多边形,排列成团,分泌降钙素
+E. 瘤细胞呈梭形,异型性明显
+【参考答案】 D
+
+甲状腺梭形细胞未分化癌的病理组织学特点是
+A. 瘤细胞大小不一,可见奇异的巨核细胞
+B. 乳头分支多,被覆上皮细胞核呈毛玻璃样
+C. 滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管
+D. 瘤细胞圆形或多边形,排列成团,分泌降钙素
+E. 瘤细胞呈梭形,异型性明显
+【参考答案】 E
+
+甲状腺巨细胞型未分化癌的病理组织学特点是
+A. 瘤细胞大小不一, 可见奇异的巨核细胞
+B. 乳头分支多, 被覆上皮细胞核呈毛玻璃样
+C. 滤泡结构, 上皮具有不同程度的异型性, 浸润被膜和血管
+D. 瘤细胞圆形或多边形, 排列成团,分泌降钙素
+E. 瘤细胞呈梭形, 异型性明显
+【参考答案】 A
+
+不符合甲状腺癌的描述是
+A. 乳头状癌恶性度高，易发生血道转移
+B. 滤泡腺癌恶性度较高，易发生血道转移
+C. 未分化癌恶性度高, 易发生血道转移
+D. 髓样癌为 C 细胞发生的恶性肿瘤
+E. 鳞癌罕见
+【参考答案】 A
+
+不符合胰岛素依赖型糖尿病的特点是
+A. 患者多为青少年
+B. 胰岛无明显病理变化
+C. 血中胰岛素明显降低
+D. 易合并酮症甚至昏迷
+E. 治疗依赖胰岛素
+【参考答案】 B
+
+不符合非胰岛素依赖型糖尿病的特点是
+A. 患者发病年龄多在 40 岁以上
+B. 胰岛 B 细胞明显减少, 胰岛数目亦减少
+C. 血中胰岛素可以不下降
+D. 无自家免疫反应的表现
+E. 肥胖与本型发病有重要关系
+【参考答案】 B
+
+I型糖尿病的病变特点是
+A. 胰岛无炎症改变
+B. 胰岛进行性破坏, B 细胞减少
+C. 胰岛体积正常
+D. 胰岛数目正常
+E. 胰岛数量正常
+【参考答案】 B
+
+II型糖尿病的病变特点是
+A. 胰岛内淋巴细胞浸润
+B. 胰岛进行性破坏, B 细胞减少
+C. 胰岛细胞无明显减少
+D. 胰岛纤维化
+E. 胰岛变小
+【参考答案】 C
+
+不符合 I 型糖尿病的病因的描述是
+A. 与病毒感染有关
+B. 与自身免疫有关
+C. 与遗传因素有关
+D. 与肥胖有关
+E. 以上都是
+【参考答案】 D
+
+不符合 II 型糖尿病的病因的描述是
+A. 与胰岛素作用不足有关
+B. 与自身免疫有关
+C. 与遗传因素有关
+D. 与肥胖有关
+E. 与胰岛素抵抗性有关
+【参考答案】 B
+
+符合 II 型糖尿病的病因的描述是
+A. 与感染有关
+B. 与自身免疫有关
+C. 与遗传因素有关
+D. 与胰岛素分泌减少有关
+E. 以上都不是
+【参考答案】 C
+
+符合I型糖尿病的病因的描述是
+A. 与胰岛素作用不足有关
+B. 与自身免疫有关
+C. 与胰岛素抵抗性有关
+D. 与肥胖有关
+E. 以上都不是
+【参考答案】 B
+
+糖尿病引起的动脉病变是
+A. 结节性动脉炎
+B. 动脉粥样硬化及细动脉玻璃样变
+C. 动脉中层钙化
+D. 高安动脉炎
+E. 血栓闭塞性脉管炎
+【参考答案】 B
+
+不符合糖尿病引起的肾脏病变是
+A. 弥漫性肾小球硬化
+B. 结节性肾小球硬化
+C. 细动脉硬化
+D. 脂性肾病
+E. 肾盂肾炎
+【参考答案】 D
+
+糖尿病引起患者失明的主要原因是
+A. 视网膜水肿
+B. 视网膜出血
+C. 视网膜纤维组织增生
+D. 毛细血管基底膜增厚
+E. 视网膜剥离
+【参考答案】 E
+
+不符合糖尿病引起的神经系统病变的描述是
+A. 主要累及外周神经
+B. 可引起肢体疼痛
+C. 可引起肌肉麻痹
+D. 可引起胃肠功能障碍
+E. 脑细胞不受累
+【参考答案】 E
+
+糖尿病引起的动脉病变特点是
+A. 引起动脉壁纤维素样坏死
+B. 动脉粥样硬化发病年龄早,进展快
+C. 引起动脉中层钙化
+D. 累及大、中动脉
+E. 引起心、脑血管病
+【参考答案】 B
+
+糖尿病引起的最常见的肾脏病变是
+A. 肾小球硬化
+B. 急性肾盂肾炎
+C. 细动脉硬化
+D. 脂性肾病
+E. 慢性肾盂肾炎
+【参考答案】 A
+
+糖尿病引起的具有特异性的血管病变是
+A. 血管壁纤维素样坏死
+B. 粥瘤形成
+C. 毛细血管基底膜增厚
+D. 细动脉玻璃样变
+E. 静脉血栓形成
+【参考答案】 C
+
+不符合糖尿病的描述是
+A. 高血糖为主要指标
+B. 多食、多饮、多尿、体重减少为主要症状
+C. 易发生酮症酸中毒
+D. 易发生心、脑血管病
+E. 抗感染能力正常
+【参考答案】 E
+
+APUD 细胞来源于
+A. 外胚层
+B. 内胚层
+C. 间叶组织
+D. 神经嵴
+E. 以上都不是
+【参考答案】 D
+
+不符合 APUD 细胞的描述是
+A. 具有摄取氨前提脫羧的功能
+B. 分泌多肽激素
+C. 胞浆内有神经内分泌颗粒
+D. 存在于内分泌腺体内
+E. 不存在于皮肤粘膜
+【参考答案】 E
+
+不属于 APUD 瘤的是
+A. 肺小细胞癌
+B. 胃肠道类癌
+C. 胃泌素瘤
+D. 胰岛细胞瘤
+E. 神经纤维瘤
+【参考答案】 E
+
+属于 APUD 瘤的是
+A. 肺鳞癌
+B. 肺腺癌
+C. 支气管类癌
+D. 肺大细胞癌
+E. 细支气管肺泡细胞癌
+【参考答案】 C
+
+不符合异位激素肿瘤的描述是
+A. 肺癌可产生异位激素
+B. 胰腺癌可产生异位激素
+C. 肝癌可产生异位激素
+D. 肾癌不产生异位激素
+E. 肉瘤可产生异位激素
+【参考答案】 D
+
+异位激素肿瘤一般不产生
+A. ACTH
+B. 甲状旁腺素
+C. 甲状腺素
+D. 降钙素
+E. 绒毛膜促性腺激素
+【参考答案】 C
+
+不符合多发性内分泌肿瘤的描述是
+A. 累及两个以上的內分泌腺体
+B. 多有内分泌障碍
+C. 无家族遗传性
+D. 可分为MEN-I、II、III 型
+E. 可发生肿瘤和增生病变
+【参考答案】 C
+
+不属于 APUD 瘤的是
+A. 甲状腺未分化癌
+B. 嗜铬细胞瘤
+C. 胃泌素瘤
+D. 胰岛细胞瘤
+E. 甲状旁腺腺瘤
+【参考答案】 A
+
+hypothyroidism
+A. 甲状腺功能亢进
+B. 甲状腺功能低下
+C. 甲状腺肿
+D. 甲状腺毒症
+E. 糖尿病
+【参考答案】 B
+
+diadetes mellitus
+A. 甲状腺功能亢进
+B. 甲状腺功能低下
+C. 甲状腺肿
+D. 桥本病
+E. 糖尿病
+【参考答案】 E
+
+exophthalmic goiter
+A. 甲状腺功能亢进
+B. 甲状腺功能低下
+C. 突眼性甲状腺肿
+D. 单纯性甲状腺肿
+E. 糖尿病
+【参考答案】 C
+
+follicular carcinoma
+A. 梭形细胞癌
+B. 髓样癌
+C. 未分化癌
+D. 滤泡癌
+E. 乳头状癌
+【参考答案】 D
+
+pheochromocytoma
+A. 梭形细胞癌
+B. 髓样癌
+C. 未分化癌
+D. 滤泡癌
+E. 乳头状癌
+【参考答案】 B
+
+multiple endocrine neoplasia syndrome
+A. 巨人症
+B. 呆小症
+C. 多发性内分泌肿瘤综合征
+D. 急性呼吸窘迫综合征
+E. 继发性免役缺陷综合征
+【参考答案】 C
+
+pituitary adenoma
+A. 垂体腺癌
+B. 垂体腺瘤
+C. 甲状腺癌
+D. 甲状腺腺瘤
+E. 胰岛细胞瘤
+【参考答案】 B
+
+hypopituitarism
+A. 甲状腺功能亢进
+B. 甲状腺功能低下
+C. 垂体功能亢进
+D. 垂体功能低下
+E. 尿崩症
+【参考答案】 D
+
+A 57-year-old woman presents with dif-ficulty swallowing, drooping eyelids, anddouble vision. A mass in the anterior me-diastinum is found. Biopsies from thismass reveal thymus tissue with scatteredreactive lymphoid follicles which containgerminal centers. Which of the followingis the most likely diagnosis?
+A. Malignant thymoma
+B. Thymic carcinoma
+C. Thymic hyperplasia
+D. Thymic hypoplasia
+E. Thymic lymphoma
+【参考答案】 C
+
+A 65-year-old man presents with bonepain and is found to have hypocalcemiaand increased parathyroid hormone. Sur-gical exploration of his neck finds all fourof his parathyroid glands to be enlarged.Which of the following disorders is themost likely cause of this patient's enlargedparathyroid glands?
+A. Primary hyperplasia
+B. Parathyroid adenoma
+C. Secondary hyperplasia
+D. Parathyroid carcinoma
+E. Lung carcinoma
+【参考答案】 C
+
+A 37-year-old man presents with a single,firm mass within the thyroid gland. His-tologic examination of the mass revealsnests of tumor cells separated by broadbands of stroma. The stroma stains posi-tively with Congo red stain. Which of thefollowing is the most likely diagnosis?
+A. Follicular carcinoma
+B. Papillary carcinoma
+C. Squamous cell carcinoma
+D. Medullary carcinoma
+E. Anaplastic carcinoma
+【参考答案】 D
+
+A 58-year-old woman presents with amass in her neck. Physical examina-tion shows a single, nonfunctioning masswithin the thyroid. Clinically her serumTSH level is within normal limits. His-tologic sections from this mass reveal asingle nodule composed of follicles sim-ilar to normal thyroid tissue. The noduleis surrounded by a complete fibrous cap-sule that compresses adjacent normal thy-roid tissue. Focal invasion into the cap-sule is found. Further evaluation of the tu-mor cells demostrates the presence of thePAX8-PPAR-gamma fusion gene. Whichof the following is the most likely diagno-sis?
+A. Colloid carcinoma
+B. Colloid goiter
+C. Diffuse nontoxic goiter
+D. Follicular adenoma
+E. Follicular carcinoma
+【参考答案】 E
+
+A 35-year-old woman presents with pro-gressive muscle weakness and cold intol-erance. Physical examination finds en-largement of her thyroid gland, whichis rubbery in consistency. Laboratoryevaluation finds decreased serum levelsof both triiodothyronine (T3) and thyrox-ine (T4), but serum levels of thyroid-stimulating hormone (TSH) are increased.No thyroid-stimulating immunoglobulinsare identified in the serum, but thyroidalperoxidase autoantibodies are present.Which of the following histologic find-ings is most consistent with a diagnosis ofHashimoto's thyroiditis?
+A. Diffuse fibrous deposition between at-rophic follicles
+B. Follicular cell hyperplasia with scal-loping of the colloid
+C. Granulomatous inflammation withmultinucleated giant cells
+D. Lymphoid infiltrate with scatteredHurthle cells
+E. Parafollicular hyperplasia with depo-sition of amyloid
+【参考答案】 E
+
+Which of the following tumors is not amember of the APUD tumors?
+A. Carcinoid tumor
+B. Small cell carcinoma of the lung
+C. Medullary thyroid carcinoma
+D. Papillary thyroid carcinoma
+E. Pheochromocytoma
+【参考答案】 E
+
+Which of the following secretes calcitonin?
+A. Follicular carcinoma
+B. Papillary carcinoma
+C. Medullary carcinoma
+D. Squamous cell carcinoma
+E. Undifferentiated carcinoma
+【参考答案】 C
+
+Which of the following thyroid carcinomas is a low grade malignancy with a good prognosis?
+A. Follicular carcinoma
+B. Papillary carcinoma
+C. Medullary carcinoma
+D. Squamous cell carcinoma
+E. Undifferentiated carcinoma
+【参考答案】 B
+
+Which of the following is incorrect regarding thyroid papillary carcinoma?
+A. Nuclei have an optically clear appearance
+B. There is intranuclear inclusion formation
+C. Papillary architecture may be absent in some cases
+D. Psammoma bodies are often present
+E. Tend to metastasize through the bloodstream
+【参考答案】 E
+
+Which is the following is the most common type of cancer of the thyroid:
+A. Follicular carcinoma
+B. Papillary carcinoma
+C. Medullary carcinoma
+D. Squamous cell carcinoma
+E. Undifferentiated carcinoma
+【参考答案】 B
+
+An 8-month-old infant is being evaluated for growth and mental retardation. Physical examination reveals a small infant with dry, rough skin, a protuberant abdomen, periorbital edema, a flattened, broad nose, and a large, protuberant tongue. Which of the following disorders is the most likely cause of this infant's signs and symptoms?
+A. Graves' disease
+B. Cretinism
+C. Toxic multinodular goiter
+D. Toxic adenoma
+E. Struma ovarii
+【参考答案】 B
+
+A 25-year-old woman presents with the acute onset of cessation of lactation. She delivered her first child several months ago and has been breast-feeding since then. She reports that she has not menstruated since the delivery. She also says that lately she has been tired and has been "feeling cold" all of the time. Laboratory workup reveals a deficiency of ACTH and other anterior pituitary hormones. Which of the following is the most likely cause of this patient's signs and symptoms?
+A. Craniopharyngioma
+B. Cushings disease
+C. Empty sella syndrome
+D. Nonsecretory chromophobe adenoma
+E. Sheehan's syndrome
+【参考答案】 E
+
+A 42-year-old man presents with increasing fatigue and occasional headaches. He states that recently he has had to change his shoe size from 9 to 10, and he also thinks that his hands and jaw are now slightly larger. Physical examination reveals a prominent forehead and lower jaw, enlarged tongue, and large hands and feet. Initial laboratory examination reveals increased serum glucose. Which of the following is the most likely explanation for this constellation of clinical findings?
+A. Acromegaly
+B. Apoplexy
+C. Cretinism
+D. Diabetes
+E. Gigantism
+【参考答案】 A
+
+Which kind of thyroiditis is associated with increased risk for the development of B cell lymphoma?
+A. Subacute thyroiditis
+B. Hashimoto thyroiditis
+C. Acute thyroiditis
+D. Subacute thyroiditis
+E. Riedel thyroiditis
+【参考答案】 B
+
+What is the major pathological change of subacute thyroiditis?
+A. Fibrosis of thyroid tissue
+B. Destruction of follicle and granulomatous inflammation
+C. Abscess formation
+D. Abundant lymphocyte infiltration and follicle atrophy
+E. Multinodular enlargement of the thyroid
+【参考答案】 B
+
+Which of the following is incorrect regarding chronic lymphocytic thyroiditis?
+A. It is also called Hashimoto thyroiditis
+B. It is caused by autoimmune inflammatory disorder
+C. It is associated with enlargement of thyroid
+D. There are large numbers mononuclear inflammatory infiltrate
+E. There is hyperplasia of follicle epithelium
+【参考答案】 E
+
+Which of the following is the typical morphological feature of Grave's disease?
+A. Multinodular enlargement of the thyroid
+B. Colloid-rich follicles lined by flattened, inactive epithelium
+C. Regenerative changes are common
+D. Diffuse hypertrophy and hyperplasia of follicular epithelial cells with formation of small papillae
+E. Destruction of follicles and formation of granulomas
+【参考答案】 D
+
+Which of the following autoantibodies results in the increased thyroxin synthesis in Grave's disease?
+A. Thyroid stimulating immunoglobulin (TSI)
+B. Anti-thyroglobulin antibody
+C. Thyroid growth stimulating immunoglobulin (TGI)
+D. TSH binding inhibitor immunoglobin (TBIIS)
+E. Anti-thyroid peroxisomes antibody
+【参考答案】 C
+
+Which of the following is the cause of puberty sporadic goiter?
+A. Lack of iodine associated with geographic region
+B. Increased physiologic demand for thyroxin
+C. Impairment in the synthesis of thyroxin
+D. Hereditary enzyme defect
+E. Taking medication that interferes with thyroid hormone synthesis
+【参考答案】 B
+
+An eosinophilic adenoma of the pituitary gland is not associated with:
+A. Enlargement of the sella turcica
+B. Hypertrophy and hyperplasia of the soft tissues throughout the body
+C. Excessive growth of acral parts
+D. Premature closure of the epiphyses
+E. Impaired glucose tolerance
+【参考答案】 D
+
+Which of the following is not likely to occur in patients with pheochromocytoma?
+A. Paroxysmal hypertention
+B. Sweating
+C. Neurofibromatosis
+D. A fall in blood pressure on palpating the abdomen
+E. Paroxysmal hypotension
+【参考答案】 D
+
+A 25-year-old woman who has never been pregnant presents with 3 months of amenorrhea and a milky discharge from her nipple. She states that her menstrual cycles have been irregular for the past year. Laboratory tests show that her serum LH and estradiol levels are below normal, and a pregnancy test is negative. Which of the following is the most likely cause of these signs and symptoms?
+A. Craniopharyngioma of the hypothalamus
+B. Germinoma of the pineal gland
+C. Islet cell adenoma of the pancreas
+D. Medullary carcinoma of the thyroid gland
+E. Prolactinoma of the pituitary gland
+【参考答案】 E
+
+A 40-year-old male patient presents with an abrupt elevation of blood pressure. A CT scan reveals a mass in his adrenal region. Laboratory examination reveals increased urinary levels of metanephrine and vanillylmandelic acid (VMA). A histologic section from the mass reveals a tumor composed of polygonal and spindle cells with abundant granular cytoplasm, arranged in a nested pattern. Electron microscopy reveals variable numbers of electron-dense granules. Which of the following is the most likely diagnosis?
+A. Adrenal cortical carcinoma
+B. Ganglioneuroma
+C. Nephroblastoma
+D. Neuroblastoma
+E. Pheochromocytoma
+【参考答案】 E
