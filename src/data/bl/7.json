@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 消化系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 消化系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 消化系统疾病",
   "questions": [
     {
       "type": "single",
@@ -19,7 +19,7 @@
     },
     {
       "type": "single",
-      "title": "符合慢性萎缩性胃炎 B型表现为",
+      "title": "符合慢性萎缩性胃炎 B 型表现为",
       "options": {
         "A": "胃体部弥漫性病变",
         "B": "不发生癌变",
@@ -94,12 +94,12 @@
     },
     {
       "type": "single",
-      "title": "不符合A型慢性萎缩性胃炎的描述是",
+      "title": "不符合 A 型慢性萎缩性胃炎的描述是",
       "options": {
         "A": "可发生肠上皮化生",
         "B": "可引起胃酸增高",
         "C": "可引起壁细胞减少",
-        "D": "可引起G细胞增多",
+        "D": "可引起 G 细胞增多",
         "E": "可引起恶性贫血"
       },
       "answers": [
@@ -109,7 +109,7 @@
     },
     {
       "type": "single",
-      "title": "不符合B型慢性萎缩性胃炎的描述是",
+      "title": "不符合 B 型慢性萎缩性胃炎的描述是",
       "options": {
         "A": "可发生肠上皮化生",
         "B": "可引起胃酸减少",
@@ -154,7 +154,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 40岁, 10多年来, 反酸、嗳气、上腹部饱胀, 伴有规律性上腹痛, 空腹发作, 夜间更重, 进食可缓解。胃镜检查, 十二指肠球部可见直径约1cm 的圆形溃疡。不符合该患者疾病的病因发病的描述是",
+      "title": "男性，40 岁，10 多年来，反酸、嗳气、上腹部饱胀，伴有规律性上腹痛，空腹发作，夜间更重，进食可缓解。胃镜检查，十二指肠球部可见直径约 1 cm 的圆形溃疡。不符合该患者疾病的病因发病的描述是",
       "options": {
         "A": "胃酸分泌过多",
         "B": "幽门螺杆菌感染",
@@ -187,7 +187,7 @@
       "title": "不符合慢性十二指肠溃疡的描述是",
       "options": {
         "A": "多位于十二指肠球部",
-        "B": "直径多在 1cm以内",
+        "B": "直径多在 1 cm 以内",
         "C": "易发生癌变",
         "D": "易合并穿孔",
         "E": "易发生出血"
@@ -203,7 +203,7 @@
       "options": {
         "A": "胃酸分泌增多",
         "B": "胃泌素瘤",
-        "C": "胃窦部G细胞增多",
+        "C": "胃窦部 G 细胞增多",
         "D": "迷走神经兴奋性降低",
         "E": "胆汁反流"
       },
@@ -233,7 +233,7 @@
       "options": {
         "A": "幽门螺杆菌感染",
         "B": "胆汁反流入胃",
-        "C": "胃窦部C细胞减少",
+        "C": "胃窦部 C 细胞减少",
         "D": "正常粘膜屏障被破坏",
         "E": "胃酸分泌过多"
       },
@@ -259,10 +259,10 @@
     },
     {
       "type": "single",
-      "title": "关于胃溃疡的描述, 错误的是",
+      "title": "关于胃溃疡的描述，错误的是",
       "options": {
         "A": "可发生癌变",
-        "B": "直径多在2.5cm以内",
+        "B": "直径多在 2.5 cm 以内",
         "C": "呈圆形或椭圆形",
         "D": "多局限于粘膜下层",
         "E": "多位于小弯侧"
@@ -304,7 +304,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 48岁, 10多年来, 反酸、嗳气、上腹部饱胀, 伴有规律性上腹痛, 空腹发作, 夜间更重, 进食可缓解。符合该患者疾病的诊断是",
+      "title": "女性，48 岁，10 多年来，反酸、嗳气、上腹部饱胀，伴有规律性上腹痛，空腹发作，夜间更重，进食可缓解。符合该患者疾病的诊断是",
       "options": {
         "A": "慢性胃炎",
         "B": "食管炎",
@@ -319,7 +319,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 38岁, 10多年来, 反酸、嗳气、上腹部饱胀, 伴有规律性上腹痛, 空腹发作, 夜间更重, 进食可缓解。胃镜检查, 十二指肠球部可见直径约 1cm 的圆形溃疡。不符合该患者疾病的描述是",
+      "title": "男性，38 岁，10 多年来，反酸、嗳气、上腹部饱胀，伴有规律性上腹痛，空腹发作，夜间更重，进食可缓解。胃镜检查，十二指肠球部可见直径约 1 cm 的圆形溃疡。不符合该患者疾病的描述是",
       "options": {
         "A": "易发生穿孔",
         "B": "易发生出血",
@@ -349,9 +349,9 @@
     },
     {
       "type": "single",
-      "title": "女性, 30岁, 10年来, 反酸、嗳气、上腹部饱胀, 伴有规律性上腹痛, 进食后加重。胃镜检查, 胃窦小弯侧可见溃疡。不支持消化溃疡诊断的是",
+      "title": "女性，30 岁，10 年来，反酸、嗳气、上腹部饱胀，伴有规律性上腹痛，进食后加重。胃镜检查，胃窦小弯侧可见溃疡。不支持消化溃疡诊断的是",
       "options": {
-        "A": "溃疡直径小于2cm",
+        "A": "溃疡直径小于 2 cm",
         "B": "溃疡边缘整齐",
         "C": "溃疡底部平坦",
         "D": "溃疡周围粘膜皱襞中断、结节状肥厚",
@@ -430,7 +430,7 @@
         "B": "阑尾壁局部坏疽",
         "C": "阑尾粘膜坏死伴中性粒细胞浸润",
         "D": "阑尾壁纤维组织增生伴慢性炎细胞浸润",
-        "E": "阑尾腔闭塞, 远端粘液潴留"
+        "E": "阑尾腔闭塞，远端粘液潴留"
       },
       "answers": [
         "C"
@@ -445,7 +445,7 @@
         "B": "阑尾壁局部坏疽",
         "C": "阑尾粘膜坏死伴中性粒细胞浸润",
         "D": "阑尾壁纤维组织增生伴慢性炎细胞浸润",
-        "E": "阑尾腔闭塞, 远端粘液潴留"
+        "E": "阑尾腔闭塞，远端粘液潴留"
       },
       "answers": [
         "A"
@@ -460,7 +460,7 @@
         "B": "阑尾壁局部坏疽",
         "C": "阑尾粘膜坏死伴中性粒细胞浸润",
         "D": "阑尾壁纤维组织增生伴慢性炎细胞浸润",
-        "E": "阑尾腔闭塞, 远端粘液潴留"
+        "E": "阑尾腔闭塞，远端粘液潴留"
       },
       "answers": [
         "D"
@@ -469,7 +469,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 18岁, 转移性右下腹痛1天, 伴恶心、呕吐。急诊入院, 查体: 体温 38.5℃,血液检查: 中性粒细胞 18×109/L, 右下腹压痛反跳痛明显。患者的疾病诊断最可能是",
+      "title": "女性，18 岁，转移性右下腹痛 1 天，伴恶心、呕吐。急诊入院，查体：体温 38.5°C，血液检查：中性粒细胞 18 × 10^9/L，右下腹压痛反跳痛明显。患者的疾病诊断最可能是",
       "options": {
         "A": "Meckel 憩室炎",
         "B": "宫外孕",
@@ -529,7 +529,7 @@
     },
     {
       "type": "single",
-      "title": "丙型肝炎病毒(HCV)的主要传播途径是",
+      "title": "丙型肝炎病毒（HCV）的主要传播途径是",
       "options": {
         "A": "经血传播",
         "B": "经消化道传播",
@@ -544,7 +544,7 @@
     },
     {
       "type": "single",
-      "title": "乙型肝炎病毒(HBV)的主要传播途径是",
+      "title": "乙型肝炎病毒（HBV）的主要传播途径是",
       "options": {
         "A": "经血传播",
         "B": "经消化道传播",
@@ -559,7 +559,7 @@
     },
     {
       "type": "single",
-      "title": "甲型肝炎病毒(HAV)的主要传播途径是",
+      "title": "甲型肝炎病毒（HAV）的主要传播途径是",
       "options": {
         "A": "经血传播",
         "B": "经消化道传播",
@@ -574,7 +574,7 @@
     },
     {
       "type": "single",
-      "title": "丁型肝炎病毒(HDV)主要感染",
+      "title": "丁型肝炎病毒（HDV）主要感染",
       "options": {
         "A": "HAV 携带者",
         "B": "HBV 携带者",
@@ -636,11 +636,11 @@
       "type": "single",
       "title": "急性普通型肝炎的病变特点是",
       "options": {
-        "A": "肝细胞广泛变性,点灶状坏死",
-        "B": "肝细胞广泛变性,碎片状坏死",
-        "C": "肝细胞广泛变性,桥接坏死",
+        "A": "肝细胞广泛变性，点灶状坏死",
+        "B": "肝细胞广泛变性，碎片状坏死",
+        "C": "肝细胞广泛变性，桥接坏死",
         "D": "肝细胞大片坏死",
-        "E": "肝细胞广泛变性,亚大片坏死"
+        "E": "肝细胞广泛变性，亚大片坏死"
       },
       "answers": [
         "A"
@@ -694,7 +694,7 @@
     },
     {
       "type": "single",
-      "title": "病毒性肝炎时,肝细胞凋亡的病变是",
+      "title": "病毒性肝炎时，肝细胞凋亡的病变是",
       "options": {
         "A": "肝细胞灶状坏死",
         "B": "肝细胞桥接坏死",
@@ -712,7 +712,10 @@
       "title": "不符合肝细胞气球样变的描述是",
       "options": {
         "A": "细胞内水分增多",
-        "B": "细胞内糖原增多"
+        "B": "细胞内糖原增多",
+        "C": "内质网扩张，囊泡变",
+        "D": "线粒体肿胀嵴消失",
+        "E": "粗面内质网核蛋白体颗粒消失"
       },
       "answers": [
         "B"
@@ -738,7 +741,7 @@
       "type": "single",
       "title": "健康携带者多见于",
       "options": {
-        "A": "HBV感染",
+        "A": "HBV 感染",
         "B": "HCV 感染",
         "C": "HAV 感染",
         "D": "HEV 感染",
@@ -751,7 +754,7 @@
     },
     {
       "type": "single",
-      "title": "肝细胞亚大片坏死,伴肝细胞结节状再生常见于",
+      "title": "肝细胞亚大片坏死，伴肝细胞结节状再生常见于",
       "options": {
         "A": "慢性持续性肝炎",
         "B": "慢性活动性肝炎",
@@ -769,7 +772,7 @@
       "title": "急性重型肝炎最常发生于",
       "options": {
         "A": "HBV 感染",
-        "B": "HCV感染",
+        "B": "HCV 感染",
         "C": "HAV 感染",
         "D": "HEV 感染",
         "E": "药物中毒"
@@ -796,7 +799,7 @@
     },
     {
       "type": "single",
-      "title": "女性,25岁,近2周来,食欲不振,恶心、乏力,皮肤、巩膜黄染。肝区疼痛,肝功检查:ALT 100U,血总胆红素18mg%, HBsAg(+)。肝穿刺检查,组织学改变有:弥漫性肝细胞水肿,Kupffer细胞增生,局灶性肝细胞脂肪变性,肝小叶内淋巴细胞浸润,肝细胞点灶状坏死,病变符合",
+      "title": "女性，25 岁，近 2 周来，食欲不振，恶心、乏力，皮肤、巩膜黄染。肝区疼痛，肝功检查：ALT 100 U，血总胆红素 18 mg%，HBsAg（+）。肝穿刺检查，组织学改变有：弥漫性肝细胞水肿， Kupffer 细胞增生，局灶性肝细胞脂肪变性，肝小叶内淋巴细胞浸润，肝细胞点灶状坏死，病变符合",
       "options": {
         "A": "急性重症肝炎",
         "B": "亚急性重症肝炎",
@@ -811,7 +814,7 @@
     },
     {
       "type": "single",
-      "title": "男性,27岁,5年前,食欲不振,恶心、乏力,皮肤、巩膜黄染。肝区疼痛,肝功检查:ALT 100U,血总胆红素 18mg%,HBsAg(+)。肝穿刺诊断为急性普通型肝炎,经治疗好转。近半年来,又出现乏力、肝区隐痛,ALT60U~80U。符合该患者疾病的描述是",
+      "title": "男性，27 岁，5 年前，食欲不振，恶心、乏力，皮肤、巩膜黄染。肝区疼痛，肝功检查： ALT 100 U，血总胆红素 18 mg%，HBsAg（+）。肝穿刺诊断为急性普通型肝炎，经治疗好转。近半年来，又出现乏力、肝区隐痛，ALT 60 U ~80 U。符合该患者疾病的描述是",
       "options": {
         "A": "肝细胞大片坏死",
         "B": "肝细胞亚大片坏死",
@@ -826,7 +829,7 @@
     },
     {
       "type": "single",
-      "title": "女性,18岁,1周来高热、恶心、呕吐,嗜睡,皮肤、巩膜黄染,肝区疼痛。ALT 150U, 胆红素35mg%, HBsAg(+)。住院2天,出现肝臭,昏迷。因胃肠道广泛出血而死亡。符合患者疾病的诊断是",
+      "title": "女性，18 岁，1 周来高热、恶心、呕吐，嗜睡，皮肤、巩膜黄染，肝区疼痛。ALT 150 U，胆红素 35 mg%，HBsAg（+）。住院 2 天，出现肝臭，昏迷。因胃肠道广泛出血而死亡。符合患者疾病的诊断是",
       "options": {
         "A": "急性重症肝炎",
         "B": "亚急性重症肝炎",
@@ -859,7 +862,7 @@
       "title": "门脉性肝硬化的特点是",
       "options": {
         "A": "结节大小不等",
-        "B": "结节大小相仿,纤维间隔薄而均匀",
+        "B": "结节大小相仿，纤维间隔薄而均匀",
         "C": "肝脏呈深绿色",
         "D": "纤维组织沿门静脉分支大量增生",
         "E": "纤维间隔厚薄不均"
@@ -873,7 +876,7 @@
       "type": "single",
       "title": "坏死后肝硬化的特点是",
       "options": {
-        "A": "结节大小不等,纤维间隔厚薄不均",
+        "A": "结节大小不等，纤维间隔厚薄不均",
         "B": "结节大小相仿",
         "C": "肝脏呈深绿色",
         "D": "纤维组织沿门静脉分支大量增生",
@@ -888,11 +891,11 @@
       "type": "single",
       "title": "血吸虫性肝硬化病变特点是",
       "options": {
-        "A": "结节大小较一致,纤维间隔薄而均匀",
+        "A": "结节大小较一致，纤维间隔薄而均匀",
         "B": "肝脏变小、变硬、深绿色",
-        "C": "结节大小不一,纤维间隔厚薄不均",
-        "D": "纤维结缔组织沿门静脉分支增生,将肝脏分隔为结节状",
-        "E": "肝脏淤血,纤维组织增生,分隔肝小叶"
+        "C": "结节大小不一，纤维间隔厚薄不均",
+        "D": "纤维结缔组织沿门静脉分支增生，将肝脏分隔为结节状",
+        "E": "肝脏淤血，纤维组织增生，分隔肝小叶"
       },
       "answers": [
         "D"
@@ -903,11 +906,11 @@
       "type": "single",
       "title": "胆汁性肝硬化病变特点是",
       "options": {
-        "A": "结节大小较一致,纤维间隔薄而均匀",
+        "A": "结节大小较一致，纤维间隔薄而均匀",
         "B": "肝脏变小、变硬、深绿色",
-        "C": "结节大小不一,纤维间隔厚薄不均",
-        "D": "纤维结缔组织沿门静脉分支增生,将肝脏分隔为结节状",
-        "E": "肝脏淤血,纤维组织增生,分隔肝小叶"
+        "C": "结节大小不一，纤维间隔厚薄不均",
+        "D": "纤维结缔组织沿门静脉分支增生，将肝脏分隔为结节状",
+        "E": "肝脏淤血，纤维组织增生，分隔肝小叶"
       },
       "answers": [
         "B"
@@ -950,7 +953,7 @@
       "options": {
         "A": "肝细胞索围绕中央静脉呈放射状排列",
         "B": "缺少中央静脉",
-        "C": "中央静脉偏位或有2个以上",
+        "C": "中央静脉偏位或有 2 个以上",
         "D": "肝细胞排列紊乱",
         "E": "出现汇管区"
       },
@@ -961,7 +964,7 @@
     },
     {
       "type": "single",
-      "title": "肝硬化时,门脉高压症的主要原因是",
+      "title": "肝硬化时，门脉高压症的主要原因是",
       "options": {
         "A": "肝细胞索排列紊乱",
         "B": "小叶下静脉、中央静脉及肝血窦受压",
@@ -976,7 +979,7 @@
     },
     {
       "type": "single",
-      "title": "肝硬化时,肝功能不全的表现有",
+      "title": "肝硬化时，肝功能不全的表现有",
       "options": {
         "A": "出血倾向",
         "B": "食道下段静脉曲张及破裂出血",
@@ -1000,7 +1003,7 @@
         "E": "肝动脉与肝静脉异常吻合形成"
       },
       "answers": [
-        "C"
+        "E"
       ],
       "explanation": ""
     },
@@ -1038,7 +1041,7 @@
       "type": "single",
       "title": "不符合肝硬化腹水的描述是",
       "options": {
-        "A": "混浊,可自行凝固",
+        "A": "混浊，可自行凝固",
         "B": "与门脉高压有关",
         "C": "与白蛋白减少有关",
         "D": "与醛固酮升高有关",
@@ -1051,7 +1054,7 @@
     },
     {
       "type": "single",
-      "title": "男性,59岁。慢性肝炎病史20年。近3年来双下肢浮肿,因上消化道出血急诊入院。查体:巩膜黄染,皮肤蜘蛛痣,腹水(+),脾肋缘下 3cm。符合该患者疾病的描述是",
+      "title": "男性，59 岁。慢性肝炎病史 20 年。近 3 年来双下肢浮肿，因上消化道出血急诊入院。查体：巩膜黄染，皮肤蜘蛛痣，腹水（+），脾肋缘下 3 cm。符合该患者疾病的描述是",
       "options": {
         "A": "酒精性肝硬化",
         "B": "慢性肝淤血",
@@ -1066,7 +1069,7 @@
     },
     {
       "type": "single",
-      "title": "男性,59岁。慢性肝炎病史20年。近3年来双下肢浮肿,因上消化道出血急诊入院。查体:巩膜黄染,皮肤蜘蛛痣,腹水(+),脾肋缘下 3cm。对该患者疾病最有诊断意义的是",
+      "title": "男性，59 岁。慢性肝炎病史 20 年。近 3 年来双下肢浮肿，因上消化道出血急诊入院。查体：巩膜黄染，皮肤蜘蛛痣，腹水（+），脾肋缘下 3 cm。对该患者疾病最有诊断意义的是",
       "options": {
         "A": "假小叶形成",
         "B": "肝细胞增生",
@@ -1113,7 +1116,7 @@
       "type": "single",
       "title": "不符合早期食管癌的描述是",
       "options": {
-        "A": "癌的直径小于2.0cm",
+        "A": "癌的直径小于 2.0 cm",
         "B": "浸润深度不超过粘膜下层",
         "C": "钡餐检查可有轻度局限性僵硬",
         "D": "无明显临床症状",
@@ -1309,7 +1312,7 @@
       "title": "不符合溃疡型胃癌的描述是",
       "options": {
         "A": "呈火山口状",
-        "B": "多大于 2cm",
+        "B": "多大于 2 cm",
         "C": "粘膜皱襞向溃疡集中",
         "D": "边缘隆起不整齐",
         "E": "底部凹凸不平"
@@ -1326,7 +1329,7 @@
         "A": "可转移至左锁骨上淋巴结",
         "B": "可转移至肝门淋巴结",
         "C": "可血行转移至肝脏",
-        "D": "血行转移引起克鲁根博(Krukenberg)瘤",
+        "D": "血行转移引起克鲁根博（Krukenberg）瘤",
         "E": "可种植转移至大网膜"
       },
       "answers": [
@@ -1426,11 +1429,11 @@
     },
     {
       "type": "single",
-      "title": "女性, 50岁, 慢性萎缩性胃炎20余年。胃镜检查, 胃窦部大弯侧可见一直径约1cm 的息肉状隆起。活体检查, 病理诊断为中分化腺癌。手术切除癌组织局限于粘膜内。符合该患者早期胃癌的肉眼类型是",
+      "title": "女性，50 岁，慢性萎缩性胃炎 20 余年。胃镜检查，胃窦部大弯侧可见一直径约 1 cm 的息肉状隆起。活体检查，病理诊断为中分化腺癌。手术切除癌组织局限于粘膜内。符合该患者早期胃癌的肉眼类型是",
       "options": {
         "A": "I型",
         "B": "IIa 型",
-        "C": "IIb型",
+        "C": "IIb 型",
         "D": "IIc 型",
         "E": "III型"
       },
@@ -1474,9 +1477,9 @@
       "title": "早期大肠癌最常见的肉眼类型是",
       "options": {
         "A": "I型",
-        "B": "IIa型",
-        "C": "IIb型",
-        "D": "IIc型",
+        "B": "IIa 型",
+        "C": "IIb 型",
+        "D": "IIc 型",
         "E": "III型"
       },
       "answers": [
@@ -1596,7 +1599,7 @@
         "A": "大多数经腺瘤癌变而来",
         "B": "癌变是一个多步骤的演化过程",
         "C": "累及多个基因",
-        "D": "p53 基因的改变是早期事件",
+        "D": "P53 基因的改变是早期事件",
         "E": "遗传因素起重要作用"
       },
       "answers": [
@@ -1624,8 +1627,8 @@
       "title": "不符合胃肠道淋巴瘤的描述是",
       "options": {
         "A": "与幽门螺杆菌感染有关",
-        "B": "多为T细胞源性",
-        "C": "可引起粘膜增厚, 溃疡形成",
+        "B": "多为 T 细胞源性",
+        "C": "可引起粘膜增厚，溃疡形成",
         "D": "早期治疗预后良好",
         "E": "肿瘤体积、浸润深度及组织学类型决定预后"
       },
@@ -1651,7 +1654,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 60岁, 半年来大便带血。结肠镜检查, 距肛门 10cm 处可见一溃疡形肿物, 约3cm×5cm 大小, 呈火山口状, 底部凹凸不平。符合该肿物的病理学改变是",
+      "title": "男性，60 岁，半年来大便带血。结肠镜检查，距肛门 10 cm 处可见一溃疡形肿物，约 3 cm × 5 cm 大小，呈火山口状，底部凹凸不平。符合该肿物的病理学改变是",
       "options": {
         "A": "肠粘膜腺体正常",
         "B": "肠粘膜慢性炎",
@@ -1666,13 +1669,13 @@
     },
     {
       "type": "single",
-      "title": "男性, 62岁, 直肠癌切除标本, 病理检查为低分化腺癌, 浸及肠壁深肌层, 肠系膜淋巴结无转移。其分期为",
+      "title": "男性，62 岁，直肠癌切除标本，病理检查为低分化腺癌，浸及肠壁深肌层，肠系膜淋巴结无转移。其分期为",
       "options": {
-        "A": "Dukes A1 期",
-        "B": "Dukes A2 期",
-        "C": "Dukes B期",
-        "D": "Dukes C期",
-        "E": "Dukes D期"
+        "A": "Dukes A_1期",
+        "B": "Dukes A_2期",
+        "C": "Dukes B 期",
+        "D": "Dukes C 期",
+        "E": "Dukes D 期"
       },
       "answers": [
         "B"
@@ -1685,7 +1688,7 @@
       "options": {
         "A": "形成腺腔",
         "B": "肿瘤细胞弥漫散在",
-        "C": "与肝细胞相似的癌细胞形成团块, 其间为血窦",
+        "C": "与肝细胞相似的癌细胞形成团块，其间为血窦",
         "D": "形成巨细胞",
         "E": "分泌胆汁"
       },
@@ -1726,13 +1729,13 @@
     },
     {
       "type": "single",
-      "title": "早期肝癌(小肝癌)的诊断标准是",
+      "title": "早期肝癌（小肝癌）的诊断标准是",
       "options": {
-        "A": "直径在 1cm 以下, 单个瘤结节",
-        "B": "直径在 5cm 以下, 不超过2个瘤结节",
-        "C": "直径在 3cm 以下, 单个瘤结节",
-        "D": "直径在 3cm 以下, 不超过2个瘤结节",
-        "E": "直径在5cm以下, 单个瘤结节"
+        "A": "直径在 1 cm 以下，单个瘤结节",
+        "B": "直径在 5 cm 以下，不超过 2 个瘤结节",
+        "C": "直径在 3 cm 以下，单个瘤结节",
+        "D": "直径在 3 cm 以下，不超过 2 个瘤结节",
+        "E": "直径在 5 cm 以下，单个瘤结节"
       },
       "answers": [
         "D"
@@ -1743,8 +1746,8 @@
       "type": "single",
       "title": "与肝细胞癌的发生无关的是",
       "options": {
-        "A": "HBV感染",
-        "B": "HCV感染",
+        "A": "HBV 感染",
+        "B": "HCV 感染",
         "C": "中华睾吸虫感染",
         "D": "黄曲霉毒素",
         "E": "亚硝胺类化合物"
@@ -1786,7 +1789,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 50岁, 慢性肝炎30年。2月来恶心、食欲不振、乏力伴肝区疼痛。超声波显示肝右叶有一直径 5cm 的实性肿物。肝穿刺活检支持肝细胞癌的病理变化是",
+      "title": "男性，50 岁，慢性肝炎 30 年。2 月来恶心、食欲不振、乏力伴肝区疼痛。超声波显示肝右叶有一直径 5 cm 的实性肿物。肝穿刺活检支持肝细胞癌的病理变化是",
       "options": {
         "A": "假小叶形成",
         "B": "肝细胞结节状增生",
@@ -1852,7 +1855,7 @@
         "B": "病变多局限于粘膜和粘膜下层",
         "C": "形成大量腺瘤性息肉",
         "D": "由金黄色葡萄球菌感染引起",
-        "E": "溃疡圆形或椭圆形, 其长轴与肠管相平行"
+        "E": "溃疡圆形或椭圆形，其长轴与肠管相平行"
       },
       "answers": [
         "B"
@@ -1878,10 +1881,10 @@
       "type": "single",
       "title": "符合 Crohn 病的描述是",
       "options": {
-        "A": "肠壁粘膜高度水肿呈鹅卵石状, 有匐行溃疡",
+        "A": "肠壁粘膜高度水肿呈鹅卵石状，有匐行溃疡",
         "B": "肠粘膜出现大片坏死并形成大的溃疡",
-        "C": "溃疡呈环状与肠轴垂直, 边缘不整齐",
-        "D": "溃疡边缘整齐, 长轴与肠轴平行",
+        "C": "溃疡呈环状与肠轴垂直，边缘不整齐",
+        "D": "溃疡边缘整齐，长轴与肠轴平行",
         "E": "溃疡与正常粘膜相间存在"
       },
       "answers": [
@@ -2209,7 +2212,7 @@
       "title": "符合慢性胰腺炎的病变是",
       "options": {
         "A": "间质充血水肿",
-        "B": "腺泡及胰岛组织萎缩消失,伴有纤维化",
+        "B": "腺泡及胰岛组织萎缩消失，伴有纤维化",
         "C": "胰腺组织结构模糊不清",
         "D": "胰腺周围脂肪钙皂形成",
         "E": "间质中性粒细胞浸润"
@@ -2224,7 +2227,7 @@
       "title": "急性出血性胰腺炎的病变特点是",
       "options": {
         "A": "间质充血水肿",
-        "B": "腺泡及胰岛组织萎缩消失,伴有纤维化",
+        "B": "腺泡及胰岛组织萎缩消失，伴有纤维化",
         "C": "胰腺组织大片坏死",
         "D": "胰腺周围脂肪钙皂形成",
         "E": "间质单核细胞浸润"
@@ -2298,7 +2301,7 @@
       "type": "single",
       "title": "peptic ulcer",
       "options": {
-        "A": "胃溃瘍",
+        "A": "胃溃疡",
         "B": "十二指肠溃疡",
         "C": "溃疡穿孔",
         "D": "幽门梗阻",
@@ -2401,7 +2404,7 @@
     },
     {
       "type": "single",
-      "title": "After a long weekend of binge drinking, a 44-year-old man has a sudden onset of severe abdominal pain. On physical examination the pain is centered in the mid-epigastric region with radiation to the back, though there is marked diffuse tenderness in all quadrants. Bowel sounds are absent. No masses are palpable. Laboratory studies show his serum amylase and lipase are markedly increased. His symptoms become worse, and he passes away 2 days later. An autopsy is performed and the pancreas is shown above. Which of the following microscopic findings is most likely to be present in this patient?[图片]",
+      "title": "After a long weekend of binge drinking, a 44-year-old man has a sudden onset of severe abdominal pain. On physical examination the pain is centered in the mid-epigastric region with radiation to the back, though there is marked diffuse tenderness in all quadrants. Bowel sounds are absent. No masses are palpable. Laboratory studies show his serum amylase and lipase are markedly increased. His symptoms become worse, and he passes away 2 days later. An autopsy is performed and the pancreas is shown above. Which of the following microscopic findings is most likely to be present in this patient?",
       "options": {
         "A": "Fat necrosis",
         "B": "Prominent lymphocytes infiltration",
@@ -2427,11 +2430,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-02.jpg"
     },
     {
       "type": "single",
-      "title": "A 50 year-old woman comes to her physician because of colicky right upper quadrant pain for the past week. She has nausea, but no vomiting or diarrhea. On physical examination, she is afebrile. There is marked tenderness in the right upper quadrant. The liver span is normal. An abdominal ultrasound scan shows calculi within the lumen of the gallbladder, and the gallbladder wall appears thickened. The patient's gallbladder is removed by laparoscopic cholecystectomy and has the appearance shown above. Which of the following mechanisms is most likely to have played a role in development of this disease?[图片]",
+      "title": "A 50 year-old woman comes to her physician because of colicky right upper quadrant pain for the past week. She has nausea, but no vomiting or diarrhea. On physical examination, she is afebrile. There is marked tenderness in the right upper quadrant. The liver span is normal. An abdominal ultrasound scan shows calculi within the lumen of the gallbladder, and the gallbladder wall appears thickened. The patient's gallbladder is removed by laparoscopic cholecystectomy and has the appearance shown above. Which of the following mechanisms is most likely to have played a role in development of this disease?",
       "options": {
         "A": "Ascaris lumbricoides within bile ducts",
         "B": "Bile supersaturated with cholesterol",
@@ -2442,11 +2446,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-02.jpg"
     },
     {
       "type": "single",
-      "title": "A 45-year-old man sees his physician because he has had nausea and colicky right upper quadrant pain for the past 2 days. On physical examination, his temperature is 38.7°C. No scleral icterus or generalized jaundice is noted. Laboratory studiesshow a WBC count of 10.5×109/L with 75% segmented neutrophils, 8% bands, 10% lymphocytes, and 7% monocytes. Serum levels of AST and ALT are within normal limits. Which of the following is the most likely diagnosis?",
+      "title": "A 45-year-old man sees his physician because he has had nausea and colicky right upper quadrant pain for the past 2 days. On physical examination, his temperature is 38.7°C. No scleral icterus or generalized jaundice is noted. Laboratory studies show a WBC count of 10.5 × 10^9/L with 75% segmented neutrophils, 8% bands, 10% lymphocytes, and 7% monocytes. Serum levels of AST and ALT are within normal limits. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Acute HAV infection",
         "B": "Acute appendicitis",
@@ -2457,11 +2462,12 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-03.jpg"
     },
     {
       "type": "single",
-      "title": "A 44-year-old farmer from south China presents with right upper quadrant abdominal pain and is found to have ascites. CT scan reveals a nodular liver. Laboratory tests reveal increased levels of AST and ALT together with decreased levels of albumin and total protein. A liver biopsy is performed and findings are as shown above. Which of the following is the most likely cause of his disease?[图片]Low power field High power field",
+      "title": "A 44-year-old farmer from south China presents with right upper quadrant abdominal pain and is found to have ascites. CT scan reveals a nodular liver. Laboratory tests reveal increased levels of AST and ALT together with decreased levels of albumin and total protein. A liver biopsy is performed and findings are as shown above. Which of the follow-ing is the most likely cause of his disease?",
       "options": {
         "A": "Mycobacterium tuberculosis",
         "B": "Amebic protozoa",
@@ -2472,7 +2478,8 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-03.jpg"
     },
     {
       "type": "single",
@@ -2491,7 +2498,7 @@
     },
     {
       "type": "single",
-      "title": "A previously healthy 38-year-old woman has had become increasingly obtunded. On physical examination, she has scleral icterus and her temperature is 38.9°C. Her blood pressure is 110/55mm Hg. Laboratory findings show a prolonged prothrombin time, elevated levels of serum ALT, AST, and ammonia and decreased levels of albumin and total protein. Her symptoms become worse with continuously increasing serum levels of liver enzymesand ammonia and dies within 2 weeks. An autopsy is performed and reveals a soft and shrunken liver. Which of the following microscopic changes of liver is most likely to be reported in this patient's report?",
+      "title": "A previously healthy 38-year-old woman has had become increasingly obtunded. On physical examination, she has scleral icterus and her temperature is 38.9°C. Her blood pressure is 110/55 mmHg. Laboratory findings show a prolonged prothrombin time, elevated levels of serum ALT, AST, and ammonia and decreased levels of albumin and total protein. Her symptoms become worse with continuously increasing serum levels of liver enzymes and ammonia and dies within 2 weeks. An autopsy is performed and reveals a soft and shrunken liver. Which of the following microscopic changes of liver is most likely to be reported in this patient's report?",
       "options": {
         "A": "Spotty necrosis",
         "B": "Bridging necrosis",
@@ -2506,12 +2513,12 @@
     },
     {
       "type": "single",
-      "title": "A 48-year-old man with fatigue is being evaluated for a 1 year history of elevated serum liver enzymes. A liver biopsy is taken and the pathology report for this specimen states there is grade 2 inflammatory activity with bridging necrosis and stage 1 fibrosis. The term “bridging necrosis” refers to which one of the following pathologic abnormalities?",
+      "title": "A 48-year-old man with fatigue is being evaluated for a 1 year history of elevated serum liver enzymes. A liver biopsy is taken and the pathology report for this specimen states there is grade 2 inflammatory activity with bridging necrosis and stage 1 fibrosis. The term \"bridging necrosis\" refers to which one of the following pathologic abnormalities?",
       "options": {
-        "A": "Congo red-positive extracellular deposits surrounding necrotic hepatocytes in acinar zone 1",
+        "A": "Congo red-positive extracellular deposits surrounding necrotic hepatocytes in acinar zone",
         "B": "Destruction of the limiting plate with necrosis of hepatocytes surrounding the portal triad",
         "C": "Fibrosis around the central hepatic veins with apoptosis of adjacent hepatocytes",
-        "D": "Necrosis of hepatocytes extending from the portal area of one hepatic lobule to the central vein of an adjacentlobule",
+        "D": "Necrosis of hepatocytes extending from the portal area of one hepatic lobule to the central vein of an adjacent lobule",
         "E": "Random necrosis of individual or small clusters of hepatocytes in acinar zone 3"
       },
       "answers": [
@@ -2536,7 +2543,7 @@
     },
     {
       "type": "single",
-      "title": "An epidemiologic study is conducted on patients infected with HBV in Singapore. These patients are followed for 10 years from the time of diagnosis. Historical data is collected to determine the mode of transmission of HBV. The patients receive periodic serologic testing for HBsAg, anti-HBs, and anti-HBc, as well as evaluation of serum for total bilirubin, AST, ALT, alkaline phosphatase, and prothrombin time. The study identifies a subset of patients who are positive for HBsAg and negative for anti-HBs antibody dur-ing the 10 year period of the study. However, these patients lack symptoms and have normal total serum bilirubin, AST, ALT, alkaline phosphatase, and albumin. Which of the following modes of transmission of HBV is most likely occurred in these patients?",
+      "title": "An epidemiologic study is conducted on patients infected with HBV in Singapore. These patients are followed for 10 years from the time of diagnosis. Historical data is collected to determine the mode of transmission of HBV. The patients receive periodic serologic testing for HBsAg, anti-HBs, and anti-HBc, as well as evaluation of serum for total bilirubin, AST, ALT, alkaline phosphatase, and prothrombin time. The study identifies a subset of patients who are positive for HBsAg and negative for anti-HBs antibody during the 10 year period of the study. However, these patients lack symptoms and have normal total serum bilirubin, AST, ALT, alkaline phosphatase, and albumin. Which of the following modes of transmission of HBV is most likely occurred in these patients?",
       "options": {
         "A": "Blood transfusion",
         "B": "Heterosexual transmission",
@@ -2551,7 +2558,7 @@
     },
     {
       "type": "single",
-      "title": "A 53-year-old man comes to the emergency department because of marked hematemesis that has continued for the past 3 hours. On physical examination, he has a temperature of 35.9°C, pulse 112/min, respirations 26/min, and blood pressure 90/45 mm Hg. He has a distended abdomen with a fluid wave, and the spleen tip is palpable. Which of the following diseases is most likely to be present in this patient?",
+      "title": "A 53-year-old man comes to the emergency department because of marked hematemesis that has continued for the past 3 hours. On physical examination, he has a temperature of 35.9°C, pulse 112/min, respirations 26/min, and blood pressure 90/45 mmHg. He has a distended abdomen with a fluid wave, and the spleen tip is palpable. Which of the following diseases is most likely to be present in this patient?",
       "options": {
         "A": "Fulminate hepatitis",
         "B": "Liver Cirrhosis",
@@ -2566,7 +2573,7 @@
     },
     {
       "type": "single",
-      "title": "A 45-year-old woman from south China experienced increasing malaise and 10kg weight loss in the last year of her life. She became increasingly obtunded, lapsed into a coma, and died. At autopsy, the liver has the gross appearance shown above. Ingestion of which of the following is most likely to have played a role in the development of this condition?[图片]",
+      "title": "A 45-year-old woman from south China experienced increasing malaise and 10 kg weight loss in the last year of her life. She became increasingly obtunded, lapsed into a coma, and died. At autopsy, the liver has the gross appearance shown above. Ingestion of which of the following is most likely to have played a role in the development of this condition?",
       "options": {
         "A": "Not fully cooked river-snail",
         "B": "Mildewed peanuts",
@@ -2577,11 +2584,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-04.jpg"
     },
     {
       "type": "single",
-      "title": "A 51-year-old man has had increasing malaise and swelling of the lower legs for the past 4 months. On physical examination, he is afebrile and normotensive. There is pitting edema to the knees. The abdomen is slightly distended with a fluid wave, but there is no tenderness. The liver span is increased. Laboratory studies show decreased levels of total serum protein and albumin, increased serum levels of AST, ALT, and total bilirubin. A liver biopsy is performed, and the microscopic appearance of a trichrome stained specimen is shown above. Which of the following is most likely to have caused this illness?[图片]",
+      "title": "A 51-year-old man has had increasing malaise and swelling of the lower legs for the past 4 months. On physical examination, he is afebrile and normotensive. There is pitting edema to the knees. The abdomen is slightly distended with a fluid wave, but there is no tenderness. The liver span is increased. Laboratory studies show decreased levels of total serum protein and albumin, increased serum levels of AST, ALT, and total bilirubin. A liver biopsy is performed, and the microscopic appearance of a trichrome stained specimen is shown above. Which of the following is most likely to have caused this illness?",
       "options": {
         "A": "HAV infection",
         "B": "HBV infection",
@@ -2592,7 +2600,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-04.jpg"
     },
     {
       "type": "single",
@@ -2671,7 +2680,7 @@
     },
     {
       "type": "single",
-      "title": "A 48-year-old Chinese man has noticed increasing abdominal girth and a yellowish color to his skin over the past 5 months. On physical examination, he has scleral icterus and generalized jaundice. His abdomen is distended, and a fluid wave is present. Laboratory studies include markedly elevated total serum bilirubin, direct bilirubin, AST, ALT, and a decreased albumin level. The prothrombin time is prolonged. The blood ammonia level is also elevated. No mass is notedwith ultrasound scan. Serologic tests are performed. Which of the following is the most likely serologic finding in this patient?",
+      "title": "A 48-year-old Chinese man has noticed increasing abdominal girth and a yellowish color to his skin over the past 5 months. On physical examination, he has scleral icterus and generalized jaundice. His abdomen is distended, and a fluid wave is present. Laboratory studies include markedly elevated total serum bilirubin, direct bilirubin, AST, ALT, and a decreased albumin level. The prothrombin time is prolonged. The blood ammonia level is also elevated. No mass is noted with ultrasound scan. Serologic tests are performed. Which of the following is the most likely serologic finding in this patient?",
       "options": {
         "A": "Positive HBsAg",
         "B": "Positive IgM anti-HAV",
@@ -2731,7 +2740,7 @@
     },
     {
       "type": "single",
-      "title": "A 42-year-old man has had a fever anda productive cough for the past 3 days. On physical examination there is dullness to percussion over the right upper lung. His temperature is 37.9 C. A chest radiograph reveals right upper lobe consolidation. Laboratory findings show a slightly decreased level of serum total protein and albumin, increased levels of AST and ALT, and a prolonged prothrombin time. He does not respond to antibiotic therapy and dies. He is found at autopsy to have an enlarged liver that microscopically shows most of the hepatocytes to be filled with large lipid droplets. Which of the following histologic changes is most likely also present in this specimen?",
+      "title": "A 42-year-old man has had a fever and a productive cough for the past 3 days. On physical examination there is dullness to percussion over the right upper lung. His temperature is 37.9 C. A chest radiograph reveals right upper lobe consolidation. Laboratory findings show a slightly decreased level of serum total protein and albumin, increased levels of AST and ALT, and a prolonged prothrombin time. He does not respond to antibiotic therapy and dies. He is found at autopsy to have an enlarged liver that microscopically shows most of the hepatocytes to be filled with large lipid droplets. Which of the following histologic changes is most likely also present in this specimen?",
       "options": {
         "A": "Ground-glass hepatocytes",
         "B": "Prominent lymphoid aggregates in the portal tract",
@@ -2761,7 +2770,37 @@
     },
     {
       "type": "single",
-      "title": "A 56-year-old man from Henan province has experienced fatigue and a 15-kg weight loss over the past 5 months. Physical examination yields no remarkable findings. Laboratory test results are positive for HBsAg and negative for anti-HCV and anti-HAV and there is an increased level of serum alpha fetoprotein. An abdominal CT scan shows a 10-cm solid mass in the left lobe of the liver which is nodular. A liver biopsy of the lesion is performed and shown above. Which of the following is not true for this patient?[图片]",
+      "title": "A 41-year-old woman has had increasing malaise and nausea for the past 2 weeks. On physical examination, she has icterus and mild right upper quadrant tenderness. A scar is noted on the left upper quadrant. The patient reports that she had her spleen removed 2 years ago following a traffic accident. Laboratory studies show increased levels of serum AST and ALT, as well as increased total and direct bilirubin. She continues to have malaise for the next year. A liver biopsy is performed. The specimen shows spotty necrosis, mild steatosis of hepatocytes, and lymphoid aggregates in the portal tract. An infection with which of the following viruses is most likely to produce these findings?",
+      "options": {
+        "A": "HAV",
+        "B": "HBV",
+        "C": "HCV",
+        "D": "HDV",
+        "E": "HEV"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "A 12-year-old boy presents with malaise, fatigue, and loss of appetite for 4 days. His mother reports that he has had a meal with fried river snail at lake side 3 weeks ago. On physical examination, he has mild scleral icterus. Laboratory studies show slightly elevated serum AST and ALT. The total bilirubin concentration and the direct bilirubin concentration are also increased. His symptoms gradually subside over the next 3 weeks. Which of the following serologic test results is most likely to be positive in this patient?",
+      "options": {
+        "A": "Anti-HAV",
+        "B": "Anti-HBs",
+        "C": "Anti-HBc",
+        "D": "Anti-HCV",
+        "E": "Anti-HDV"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "A 56-year-old man from Henan province has experienced fatigue and a 15-kg weight loss over the past 5 months. Physical examination yields no remarkable findings. Laboratory test results are positive for HBsAg and negative for anti-HCV and anti-HAV and there is an increased level of serum alpha fetoprotein. An abdominal CT scan shows a 10-cm solid mass in the left lobe of the liver which is nodular. A liver biopsy of the lesion is performed and shown above. Which of the following is not true for this patient?",
       "options": {
         "A": "The mass is a primary hepatocellular carcinoma",
         "B": "The mass developed in the setting of cirrhosis",
@@ -2772,13 +2811,14 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-06.jpg"
     },
     {
       "type": "single",
       "title": "To your knowledge, for patients known to be infected with various forms of infectious hepatitis, which of the following is the best predictor for the development of chronic liver disease and progression to cirrhosis?",
       "options": {
-        "A": "Form of the infected hepatitis virus (HERE DO YOU MEAN “TYPE\" OF VIRUS??)",
+        "A": "Type of the infected hepatitis virus",
         "B": "Degree of transaminase enzymes are increased",
         "C": "Length of time that transaminase enzymes remain elevated",
         "D": "Presence of chronic inflammatory cells in the portal tract",
@@ -2787,7 +2827,8 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-06.jpg"
     },
     {
       "type": "single",
@@ -2821,7 +2862,7 @@
     },
     {
       "type": "single",
-      "title": "A 25-year-old man has had nausea and vague epigastric abdominal pain for the past 2 days, but now the pain is localizing to the right lower quadrant. His tem-perature is 38.7°C. On palpation, there is diffuse abdominal tenderness and rebound tenderness. Paracentesis yields 300mL of cloudy yellow fluid. A Gram stain of the fluid shows gram-negative rods. An emergency surgery is performed and the appendix is removed. Which of the following is the most likely diagnosis?",
+      "title": "A 25-year-old man has had nausea and vague epigastric abdominal pain for the past 2 days, but now the pain is localizing to the right lower quadrant. His temperature is 38.7°C. On palpation, there is diffuse abdominal tenderness and rebound tenderness. Paracentesis yields 300mL of cloudy yellow fluid. A Gram stain of the fluid shows gram-negative rods. An emergency surgery is performed and the appendix is removed. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Acute appendicitis",
         "B": "Chronic appendicitis",
@@ -2847,11 +2888,12 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-07.jpg"
     },
     {
       "type": "single",
-      "title": "A 53-year-old woman has been feeling increasingly tired for 3 months. She has had vague abdomimal pain for the past month. On physical examination, her stool is positive for occult blood. Abnormal laboratory findings include an elevated CEA level. Colonoscopy is performed and biopsy is taken from a 4 cm ulcerative mass in the cecum. The microscopic features are shown above. Which of the following is the most likely diagnosis?[图片]",
+      "title": "A 53-year-old woman has been feeling increasingly tired for 3 months. She has had vague abdomimal pain for the past month. On physical examination, her stool is positive for occult blood. Abnormal laboratory findings include an elevated CEA level. Colonoscopy is performed and biopsy is taken from a 4 cm ulcerative mass in the cecum. The microscopic features are shown above. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Mucinous carcinoma",
         "B": "Signet ring cell carcinoma",
@@ -2862,11 +2904,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-07.jpg"
     },
     {
       "type": "single",
-      "title": "A 65-year-old woman has had increasing abdominal distention for the past 6 weeks. On physical examination, there is an abdominal fluid wave and bowel sounds are present. Paracentesis yields 1000mLof slightly cloudy serous fluid. Cytologic examination of the fluid shows malignant cells consistent with adenocarcinoma. Further workup reveals a 7 cm circumferential mass in the transverse colon. Which of the following conditions has most likely occurred in this patient?",
+      "title": "A 65-year-old woman has had increasing abdominal distention for the past 6 weeks. On physical examination, there is an abdominal fluid wave and bowel sounds are present. Paracentesis yields 1000mL of slightly cloudy serous fluid. Cytologic examination of the fluid shows malignant cells consistent with adenocarcinoma. Further workup reveals a 7 cm circumferential mass in the transverse colon. Which of the following conditions has most likely occurred in this patient?",
       "options": {
         "A": "Lymphangitic spread of colon adenocarcinoma",
         "B": "Hematogenous dissemination of colon adenocarcinoma",
@@ -2907,11 +2950,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-08.jpg"
     },
     {
       "type": "single",
-      "title": "A 19-year-old man is advised to see his physician because genetic screening has detected a disease in other family members. On physical examination, a stool sample is positive for occult blood. A colonoscopy is performed, followed by a colectomy. The gross appearance of the mucosal surface of the colectomy specimen is shown above. Which of the following genetic changes is the patient most likely to have?[图片]",
+      "title": "A 19-year-old man is advised to see his physician because genetic screening has detected a disease in other family members. On physical examination, a stool sample is positive for occult blood. A colonoscopy is performed, followed by a colectomy. The gross appearance of the mucosal surface of the colectomy specimen is shown above. Which of the following genetic changes is the patient most likely to have?",
       "options": {
         "A": "Germ-line mutation of APC gene",
         "B": "p53 gene mutation",
@@ -2922,11 +2966,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-08.jpg"
     },
     {
       "type": "single",
-      "title": "A 45-year-old man has a routine health maintenance examination. A stool sample is positive for occult blood. On colonoscopy, an ulcerative lesion is seen projecting into the cecum. The microscopic appearance of a section of the excised lesion is shown in the figure above. Which of the following molecular biologic events is thought to be most critical in the development of such lesions?[图片]",
+      "title": "A 45-year-old man has a routine health maintenance examination. A stool sample is positive for occult blood. On colonoscopy, an ulcerative lesion is seen projecting into the cecum. The microscopic appearance of a section of the excised lesion is shown in the figure above. Which of the following molecular biologic events is thought to be most critical in the development of such lesions?",
       "options": {
         "A": "Mutation of p53 gene",
         "B": "Microsatellites instability",
@@ -2946,20 +2991,21 @@
         "A": "This is a precurosor lesion of colon cancer",
         "B": "High fat diet is a risk factor",
         "C": "Polypectomy is adequate",
-        "D": "Colonoscopy should be performed on his family members to exclude coloncancer",
-        "E": "It is more common in the left-sidecolon than that in right-side colon"
+        "D": "Colonoscopy should be performed on his family members to exclude colon cancer",
+        "E": "It is more common in the left-side colon than that in right-side colon"
       },
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-10.jpg"
     },
     {
       "type": "single",
-      "title": "A 20-year-old man is healthy but has a family history of colon cancer at a young age. There are no abnor-mal physical examination findings. He undergoes colonoscopy and there are countless polyps ranging in size from 0.2 to 1cm. A representative mi-croscopic picture of these polyps is shown above. Which of the follow-ing diseases is he most likely to have?[图片]",
+      "title": "A 20-year-old man is healthy but has a family history of colon cancer at a young age. There are no abnormal physical examination findings. He undergoes colonoscopy and there are countless polyps ranging in size from 0.2 to 1 cm. A representative microscopic picture of these polyps is shown above. Which of the following diseases is he most likely to have?",
       "options": {
         "A": "Familial adenomatous polyposis",
-        "B": "Hereditary non-polyposis colon carci-noma syndrome",
+        "B": "Hereditary non-polyposis colon carcinoma syndrome",
         "C": "Carcinoid syndrome",
         "D": "Down syndrome",
         "E": "Multiple endocrine neoplasia"
@@ -2967,17 +3013,18 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-10.jpg"
     },
     {
       "type": "single",
-      "title": "A 57-year-old woman comes to her physi-cian for a routine health maintenance ex-amination. The only abnormal finding is a stool specimen that contains occult blood. Colonoscopy shows two polyps, one is in the descending colon and is less than 0.5 cm in diameter with a smooth surface. The other is in the sigmoid colon, 1.5-cm in diameter with a 0.5-cm stalk. The polyp is removed, and its histology shows a gland-forming neoplasm with severe ep-ithelial dysplasia. There is no evidence that the tumor has extended beyond the muscularis mucosa. When the physician discusses these findings with the patient, which of the following statements is most appropriate?",
+      "title": "A 57-year-old woman comes to her physician for a routine health maintenance examination. The only abnormal finding is a stool specimen that contains occult blood. Colonoscopy shows two polyps, one is in the descending colon and is less than 0.5 cm in diameter with a smooth surface. The other is in the sigmoid colon, 1.5-cm in diameter with a 0.5-cm stalk. The polyp is removed, and its histology shows a gland-forming neoplasm with severe epithelial dysplasia. There is no evidence that the tumor has extended beyond the muscularis mucosa. When the physician discusses these findings with the patient, which of the following statements is most appropriate?",
       "options": {
         "A": "You have genomic mutation of the APC gene",
         "B": "Your family members are in great risk of developing colon cancer",
         "C": "You will develop many polyps within the next few years",
-        "D": "You are in great risk of developing en-dometrial cancer",
-        "E": "You need not to have additional exam-ination to look for metastases from this lesion"
+        "D": "You are in great risk of developing endometrial cancer",
+        "E": "You need not to have additional examination to look for metastases from this lesion"
       },
       "answers": [
         "E"
@@ -2986,7 +3033,7 @@
     },
     {
       "type": "single",
-      "title": "A 70-year-old previously healthy man sees his physician for blood streaked stool. Physical examination is unremarkable. His stool is positive for blood but no le-sion is palpated on digital rectal examina-tion. There is no tenderness and bowel sounds are active. A cholecystectomy scar is present in the right upper quadrant. A colonoscopy is performed. About 20 cm above the anal verge, there is a 4.5 cm mass with superficial ulceration pro-truding into the lumen. Which of the fol-lowing risk factors was most likely to have been present for development of this le-sion?",
+      "title": "A 70-year-old previously healthy man sees his physician for blood streaked stool. Physical examination is unremarkable. His stool is positive for blood but no lesion is palpated on digital rectal examination. There is no tenderness and bowel sounds are active. A cholecystectomy scar is present in the right upper quadrant. A colonoscopy is performed. About 20 cm above the anal verge， there is a 4.5 cm mass with superficial ulceration protruding into the lumen. Which of the following risk factors was most likely to have been present for development of this lesion?",
       "options": {
         "A": "Prior abdominal surgery",
         "B": "High carbohydrate diet",
@@ -3001,7 +3048,7 @@
     },
     {
       "type": "single",
-      "title": "A 45-year-old man has had recurrent low volume, bloody, mucoid diarrhea for 13 years accompanied by lower abdominal pain. Physical examination only reveals mild diffuse lower abdominal tenderness but no masses. His stool is positive for oc-cult blood. Colonoscopy reveals erythe-matous, friable colonic mucosa extending from the rectum to the splenic flexure with formation of pseudopolyps. Colonic biop-sies reveal mucosal ulceration with crypt abscesses and low grade dysplasia. Which of the following complications is he most likely to develop?",
+      "title": "A 45-year-old man has had recurrent low volume, bloody, mucoid diarrhea for 13 years accompanied by lower abdominal pain. Physical examination only reveals mild diffuse lower abdominal tenderness but no masses. His stool is positive for occult blood. Colonoscopy reveals erythematous, friable colonic mucosa extending from the rectum to the splenic flexure with formation of pseudopolyps. Colonic biopsies reveal mucosal ulceration with crypt abscesses and low grade dysplasia. Which of the following complications is he most likely to develop?",
       "options": {
         "A": "Bowel perforation and peritonitis",
         "B": "Perirectal fistula formation",
@@ -3012,11 +3059,12 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-11.jpg"
     },
     {
       "type": "single",
-      "title": "A 62-year-old man comes to his physi-cian because of rectal bleeding. No other symptoms are present. Physical examination is unremarkable. Labora-tory tests show an elevated CEA level. Colonoscopy is performed and there is a 3 cm ulcerative mass which occu-pies up to 3/4 of the colonic wall. The mass is resected and the gross find-ings are as shown above. Which of the following is the most likely diagnosis?[图片]",
+      "title": "A 62-year-old man comes to his physician because of rectal bleeding. No other symptoms are present. Physical examination is unremarkable. Laboratory tests show an elevated CEA level. Colonoscopy is performed and there is a 3 cm ulcerative mass which occupies up to 3/4 of the colonic wall. The mass is resected and the gross findings are as shown above. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Hyperplastic polyp",
         "B": "Tubular adenoma",
@@ -3027,16 +3075,17 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-11.jpg"
     },
     {
       "type": "single",
-      "title": "A 45-year-old man is having a routine physical examination because of a his-tory of colon cancer in his family. He has no symptoms and physical exami-nation is unremarkable. A laboratory study shows his stool is positive for oc-cult blood. Colonoscopy is performed. Six polyps are found in the ascending and transverse colon. Two of them are pedun-culated tubular adenomas less than 0.5 cm in diameter, three are 1 cm tubulovillous adenomas, and one is a 2.5 cm sessile vil-lous adenoma in the ascending colon con-taining a focus of well differentiated ade-nocarcinoma. Which of the following is the most likely diagnosis?",
+      "title": "A 45-year-old man is having a routine physical examination because of a history of colon cancer in his family. He has no symptoms and physical examination is unremarkable. A laboratory study shows his stool is positive for occult blood. Colonoscopy is performed. Six polyps are found in the ascending and transverse colon. Two of them are pedunculated tubular adenomas less than 0.5 cm in diameter, three are 1 cm tubulovillous adenomas, and one is a 2.5 cm sessile villous adenoma in the ascending colon containing a focus of well differentiated adenocarcinoma. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Sporadic colon adenocarcinoma",
-        "B": "Hereditary non-polyposis colon carci-noma",
-        "C": "Adenocarcinoma arising in a back-ground of chronic ulcerative colitis",
-        "D": "Adenocarcinoma arising in a back-ground of familial adenomatous poly-posis",
+        "B": "Hereditary non-polyposis colon carcinoma",
+        "C": "Adenocarcinoma arising in a background of chronic ulcerative colitis",
+        "D": "Adenocarcinoma arising in a background of familial adenomatous polyposis",
         "E": "None of above"
       },
       "answers": [
@@ -3046,7 +3095,7 @@
     },
     {
       "type": "single",
-      "title": "A 27-year-old man presents with intermit-tent cramping abdominal pain and low-volume diarrhea for several weeks. On physical examination, he is afebrile, and there is mild lower abdominal tenderness but no masses, and bowel sounds are present. A stool sample is positive for oc-cult blood. The symptoms subside within 1 week. Six months later, the abdomi-nal pain recurs together with perirectal fis-tula formation. Colonoscopy shows ar-eas of mucosal edema and ulceration in the transverse colon and rectum, but the mucosa between these affected sites ap-pears normal. Microscopic examination of a biopsy specimen from an ulcerated area shows a patchy acute and chronic inflammatory infiltrate, crypt abscesses, and occasional noncaseating granulomas. Which of the following disease processes best explains these findings?",
+      "title": "A 27-year-old man presents with intermittent cramping abdominal pain and low-volume diarrhea for several weeks. On physical examination, he is afebrile, and there is mild lower abdominal tenderness but no masses, and bowel sounds are present. A stool sample is positive for occult blood. The symptoms subside within 1 week. Six months later, the abdominal pain recurs together with perirectal fistula formation. Colonoscopy shows areas of mucosal edema and ulceration in the transverse colon and rectum, but the mucosa between these affected sites appears normal. Microscopic examination of a biopsy specimen from an ulcerated area shows a patchy acute and chronic inflammatory infiltrate, crypt abscesses, and occasional noncaseating granulomas. Which of the following disease processes best explains these findings?",
       "options": {
         "A": "Sarcoidosis",
         "B": "Amebiasis",
@@ -3061,7 +3110,7 @@
     },
     {
       "type": "single",
-      "title": "A 25-year-old man has noted cramping abdominal pain for the past week associ-ated with fever and low-volume diarrhea. On physical examination, there is right lower quadrant tenderness. Bowel sounds are present. His stool is positive for oc-cult blood. A colonoscopy reveals mu-cosal edema and ulceration in the ascend-ing colon, but the transverse and descend-ing portions of the colon are not affected. A biospy specimen reveals chronic in-flammation with non-caseating granulo-mas. Which of the following is the most likely diagnosis?",
+      "title": "A 25-year-old man has noted cramping abdominal pain for the past week associated with fever and low-volume diarrhea. On physical examination, there is right lower quadrant tenderness. Bowel sounds are present. His stool is positive for occult blood. A colonoscopy reveals mucosal edema and ulceration in the ascending colon, but the transverse and descending portions of the colon are not affected. A biospy specimen reveals chronic inflammation with non-caseating granulomas. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Ulcerative colitis",
         "B": "Ulcerative type adenocarcinoma",
@@ -3076,7 +3125,7 @@
     },
     {
       "type": "single",
-      "title": "A 31-year-old man presents with a his-tory of intermittent bloody diarrhea for 3 years. On physical examination, there is no abdominal tenderness or masses. Lab-oratory studies show no ova or parasites in the stool but it is positive for occult blood. Colonoscopy shows friable, ery-thematous mucosa with numerous poly-poid lesions extending from the rectum to the mid-transverse colon. A biopsy spec-imen shows acute mucosal inflammation with crypt abscesses and epithelial cell necrosis. Which of the following is the most likely diagnosis?",
+      "title": "A 31-year-old man presents with a history of intermittent bloody diarrhea for 3 years. On physical examination, there is no abdominal tenderness or masses. Laboratory studies show no ova or parasites in the stool but it is positive for occult blood. Colonoscopy shows friable, erythematous mucosa with numerous polypoid lesions extending from the rectum to the mid-transverse colon. A biopsy specimen shows acute mucosal inflammation with crypt abscesses and epithelial cell necrosis. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Ulcerative colitis with pseudopolyps",
         "B": "Crohn disease with pseudopolyps",
@@ -3087,11 +3136,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-12.jpg"
     },
     {
       "type": "single",
-      "title": "A 25-year-old woman has had bloody, mucoid, low-volume diarrhea for the past 7 weeks. She has 5 -7 stools per day. She has no other major medical problems. On physical examination there are no le-sions palpable on digital rectal examina-tion, and only mucus and blood with few leukocytes are found. Colonoscopy re-veals a friable, erythematous mucosa with focal ulceration that extends from the rec-tum to the sigmoid colon. Biopsies are taken and a representative photo is shown above. Which of the following histologic terms should be used to describe the mor-phologic changes highlighted by the stars?[图片]",
+      "title": "A 25-year-old woman has had bloody, mucoid, low-volume diarrhea for the past 7 weeks. She has 5-7 stools per day. She has no other major medical problems. On physical examination there are no lesions palpable on digital rectal examination, and only mucus and blood with few leukocytes are found. Colonoscopy reveals a friable, erythematous mucosa with focal ulceration that extends from the rectum to the sigmoid colon. Biopsies are taken and a representative photo is shown above. Which of the following histologic terms should be used to describe the morphologic changes highlighted by the stars?",
       "options": {
         "A": "Pseudomembrane",
         "B": "Crypt abscess",
@@ -3102,11 +3152,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-12.jpg"
     },
     {
       "type": "single",
-      "title": "A 62-year-old woman with a long his-tory of hypertension is hospitalized with severe congestive heart failure. Sev-eral days after admission, she develops abdominal distention followed by diar-rhea. On physical examination, she is afebrile. Colonoscopy shows patchy ar-eas of erosion in the ascending and de-scending colon, some with overlying tan exudate. No polyps or masses are found. Which of the following is the most likely diagnosis?",
+      "title": "A 62-year-old woman with a long history of hypertension is hospitalized with severe congestive heart failure. Several days after admission, she develops abdominal distention followed by diarrhea. On physical examination, she is afebrile. Colonoscopy shows patchy areas of erosion in the ascending and descending colon, some with overlying tan exudate. No polyps or masses are found. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Ulcerative colitis",
         "B": "Pseudomembranous enteritis",
@@ -3121,7 +3172,7 @@
     },
     {
       "type": "single",
-      "title": "A 50-year-old woman was treated in the hospital for servere bronchopneumonia. She required multiple antibiotics and was intubated and mechanically ventilated. Three weeks after hospitalization, she has abdominal distention. Bowel sounds are absent, and an abdominal radiograph shows dilated loops of small bowel sug-gestive of ileus. She has a low volume of bloody stool. At laparotomy, a por-tion of distal ileum and the cecum are resected. The gross appearance of the mucosal surface is shown in the fig-ure above. Which of the following is the most likely cause of her diarrhea?[图片]",
+      "title": "A 50-year-old woman was treated in the hospital for servere bronchopneumonia. She required multiple antibiotics and was intubated and mechanically ventilated. Three weeks after hospitalization, she has abdominal distention. Bowel sounds are absent, and an abdominal radiograph shows dilated loops of small bowel suggestive of ileus. She has a low volume of bloody stool. At laparotomy, a portion of distal ileum and the cecum are resected. The gross appearance of the mucosal surface is shown in the figure above. Which of the following is the most likely cause of her diarrhea?",
       "options": {
         "A": "Ischemia",
         "B": "Entamoeba histolytica",
@@ -3132,11 +3183,12 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-13.jpg"
     },
     {
       "type": "single",
-      "title": "A 67-year-old woman sees her physician because she has had fever and back pain for the past 2 days. Physical examination reveals tenderness at the right costover-tebral angle. Laboratory studies show leukocytosis and pyuria with WBC casts. She has been receiving broad spectrum antibiotics for the past 14 days. She now develops lower abdominal pain and a se-vere diarrhea. Clostridium difficile toxin is identified in a stool specimen. Which of the following conditions does she most likely have now?",
+      "title": "A 67-year-old woman sees her physician because she has had fever and back pain for the past 2 days. Physical examination reveals tenderness at the right costovertebral angle. Laboratory studies show leukocytosis and pyuria with WBC casts. She has been receiving broad spectrum antibiotics for the past 14 days. She now develops lower abdominal pain and a severe diarrhea. Clostridium difficile toxin is identified in a stool specimen. Which of the following conditions does she most likely have now?",
       "options": {
         "A": "Appendicitis",
         "B": "Ischemic colitis",
@@ -3147,11 +3199,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-13.jpg"
     },
     {
       "type": "single",
-      "title": "A 19-year-old man experiences cramping abdominal pain with fever and mucinous bloody diarrhea two days after eating an unwashed fresh cucumber when enjoying his summer holiday in a small village. Physical examination shows mild diffuse abdominal pain on palpation, but there are no masses. Bowel sounds are present. He recovers completely within two week af-ter treatment with antibiotics. Which of the following infectious organisms is most likely to have produced these findings?",
+      "title": "A 19-year-old man experiences cramping abdominal pain with fever and mucinous bloody diarrhea two days after eating an unwashed fresh cucumber when enjoying his summer holiday in a small village. Physical examination shows mild diffuse abdominal pain on palpation, but there are no masses. Bowel sounds are present. He recovers completely within two week after treatment with antibiotics. Which of the following infectious organisms is most likely to have produced these findings?",
       "options": {
         "A": "Yersinia enterocolitica",
         "B": "Entamoeba histolytica",
@@ -3211,7 +3264,7 @@
     },
     {
       "type": "single",
-      "title": "A 36-year-old man works in an epidemiologic laboratory studying infectious agents of the gastrointestinal tract. One day, after doing experimental work, he did not follow the safety rules because he was tired. Two weeks later, he has spiking fevers and crampy abdominal pain with diarrhea. On physical examination his temperature is 38.3, pulse 100/minute, respiratory rate 19/minute, and blood pressure 100/60 mm Hg. On palpation, he has an enlarged spleen and diffuse abdominal pain without masses. Laboratory studies show a WBC count of 2330/microliter, Hb 13.8 g/dL, platelet count 280,000/microliter and elevations in serum AST and ALT levels. Which of the following organisms was he most likely using in his experimental work?",
+      "title": "A 36-year-old man works in an epidemiologic laboratory studying infectious agents of the gastrointestinal tract. One day, after doing experimental work, he did not follow the safety rules because he was tired. Two weeks later, he has spiking fevers and crampy abdominal pain with diarrhea. On physical examination his temperature is 38.3, pulse 100/minute, respiratory rate 19/minute, and blood pressure 100/60 mmHg. On palpation, he has an enlarged spleen and diffuse abdominal pain without masses. Laboratory studies show a WBC count of 2330/microliter, Hb 13.8 g/dL, platelet count 280,000/microliter and elevations in serum AST and ALT levels. Which of the following organisms was he most likely using in his experimental work?",
       "options": {
         "A": "Shigella flexneri",
         "B": "Entameba histolytica",
@@ -3226,7 +3279,7 @@
     },
     {
       "type": "single",
-      "title": "A 27-year-old woman sees her physician because of abdominal pain and increasing fatigue that has developed over the past 6 months. On physical examination, her temperature is 36.6°C and she appears pale. On palpation, there is pain in the right lower quadrant of the abdomen but no rebound tenderness. There are no masses, and bowel sounds are active. Laboratory studies show a hemoglobin of 8.6g/dL, platelet count 275,000/mm3 and WBC count 6800/mm3. No lesions are found on upper gastrointestinal endoscopy and colonoscopy. One month later, the patient continues to experience the same abdominal pain. Which of the following is most likely to cause this patient's illness?",
+      "title": "A 27-year-old woman sees her physician because of abdominal pain and increasing fatigue that has developed over the past 6 months. On physical examination, her temperature is 36.6°C and she appears pale. On palpation, there is pain in the right lower quadrant of the abdomen but no rebound tenderness. There are no masses, and bowel sounds are active. Laboratory studies show a hemoglobin of 8.6 g/dL, platelet count 275,000/mm^3 and WBC count 6800/mm^3. No lesions are found on upper gastrointestinal endoscopy and colonoscopy. One month later, the patient continues to experience the same abdominal pain. Which of the following is most likely to cause this patient's illness?",
       "options": {
         "A": "Acute appendicitis",
         "B": "Ischemic colitis",
@@ -3312,11 +3365,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-14.jpg"
     },
     {
       "type": "single",
-      "title": "A 60-year-old man has experienced severe nausea, vomiting, and a 5kg weight loss over the past 3 months. Physical examination is unremarkable. Upper gastrointestinal endoscopy is done followed by partial gastrectomy. The gross picture of the tumor is shown above. Which of the following gross types does this tumor belong to?[图片]",
+      "title": "A 60-year-old man has experienced severe nausea, vomiting, and a 5 kg weight loss over the past 3 months. Physical examination is unremarkable. Upper gastrointestinal endoscopy is done followed by partial gastrectomy. The gross picture of the tumor is shown above. Which of the following gross types does this tumor belong to?",
       "options": {
         "A": "Polypoid type",
         "B": "Fungating type",
@@ -3327,7 +3381,8 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-14.jpg"
     },
     {
       "type": "single",
@@ -3376,7 +3431,7 @@
     },
     {
       "type": "single",
-      "title": "A 60-year-old man has had anorexia, vomiting, and vague abdominal pain accompanied by weight loss of 10 kg over the past 5 months. Physical examination reveals supraclavicular non-tender lymphadenopathy. He becomes progressively cachectic and dies. At autopsy the stomach is shrunken with thickening of the gastric wall to 1 cm and extensive overlying mucosal erosions. Multiple tan umbilicated masses from 1 to 4 cm in size are scattered over the surface of the liver. Which of the following conditions most likely preceded development of his terminal illness?[图片]",
+      "title": "A 60-year-old man has had anorexia, vomiting, and vague abdominal pain accompanied by weight loss of 10 kg over the past 5 months. Physical examination reveals supraclavicular non-tender lymphadenopathy. He becomes progressively cachectic and dies. At autopsy the stomach is shrunken with thickening of the gastric wall to 1 cm and extensive overlying mucosal erosions. Multiple tan umbilicated masses from 1 to 4 cm in size are scattered over the surface of the liver. Which of the following conditions most likely preceded development of his terminal illness?",
       "options": {
         "A": "Human immunodeficiency virus infection",
         "B": "Use of NSAIDS",
@@ -3402,22 +3457,24 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-15.jpg"
     },
     {
       "type": "single",
-      "title": "A 55-year-old man has had persistent nausea for 5 years with occasional vomiting. On physical examination there are no abnormal findings. He undergoes an upper GI endoscopy, and a small area of gastric mucosa is noted in the fundus which shows loss of rugal folds. Partial gastrectomy reveals the microscopic change shown above and the lesion is confined to submucosa. An upper GI endoscopy performed 5 years previously showed a pattern of gastritis and microscopically there was chronic inflammation with the presence of Helicobacter pylori. Which of the following interpretations is most applicable to his neoplasm?[图片]",
+      "title": "A 55-year-old man has had persistent nausea for 5 years with occasional vomiting. On physical examination there are no abnormal findings. He undergoes an upper GI endoscopy, and a small area of gastric mucosa is noted in the fundus which shows loss of rugal folds. Partial gastrectomy reveals the microscopic change shown above and the lesion is confined to submucosa. An upper GI endoscopy performed 5 years previously showed a pattern of gastritis and microscopically there was chronic inflammation with the presence of Helicobacter pylori. Which of the following interpretations is most applicable to his neoplasm?",
       "options": {
         "A": "Metastases are limited to regional lymph nodes",
         "B": "The incidence is high in East Asia",
-        "C": "The 5-year survival rate following re-section is <80%",
+        "C": "The 5-year survival rate following resection is <80%",
         "D": "It has a gross appearance of linitis plastica",
         "E": "A signet ring cell pattern is seen with light microscopy"
       },
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-15.jpg"
     },
     {
       "type": "single",
@@ -3511,7 +3568,7 @@
     },
     {
       "type": "single",
-      "title": "A 42-year-old woman has had nausea and epigastirc pain for the past two years. She has been feeling increasingly tired in the recent 6 months. Physical examination is unremarkable. Laboratory studies show a hemoglobin of 9.2 g/dL, hematocrit 28.5%, MCV 122 µm³, platelet count 247,000/mm³, and WBC count 5500/mm³. The reticulocyte index is low. Upper GI endoscopy is performed and multiple biopsies are taken. Microscopic examination shows chronic atrophic gastritis in some of the biopsy specimens and silver stains do not show any positive organisms. The biopsies that show atrophic gastritis are most likely taken from which portion of the stomach?",
+      "title": "A 42-year-old woman has had nausea and epigastirc pain for the past two years. She has been feeling increasingly tired in the recent 6 months. Physical examination is unremarkable. Laboratory studies show a hemoglobin of 9.2 g/dL, hematocrit 28.5%, MCV 122 μm^3, platelet count 247,000/mm^3, and WBC count 5500/mm^3. The reticulocyte index is low. Upper GI endoscopy is performed and multiple biopsies are taken. Microscopic examination shows chronic atrophic gastritis in some of the biopsy specimens and silver stains do not show any positive organisms. The biopsies that show atrophic gastritis are most likely taken from which portion of the stomach?",
       "options": {
         "A": "Pylorus",
         "B": "Antrum",
@@ -3522,11 +3579,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-17.jpg"
     },
     {
       "type": "single",
-      "title": "A middle aged man complains for 2 month of gastric distention and vague pain. He has a history of acute gastritis and had a positive urea breath test 4 years ago. His physician suggested he have a course of antibiotic treatment but he did not do so. Physical examination is unremarkable. Upper GI endoscopy shows the antral mucosa is pale, thin and interspersed with erythema. No ulceration or mass is present. A biopsy is taken and a tissue section with a special stain is shown above. Which of the following is correct?[图片]",
+      "title": "A middle aged man complains for 2 month of gastric distention and vague pain. He has a history of acute gastritis and had a positive urea breath test 4 years ago. His physician suggested he have a course of antibiotic treatment but he did not do so. Physical examination is unremarkable. Upper GI endoscopy shows the antral mucosa is pale，thin and interspersed with erythema. No ulceration or mass is present. A biopsy is taken and a tissue section with a special stain is shown above. Which of the following is correct?",
       "options": {
         "A": "It is a silver stain",
         "B": "The purple stain represents intestinal mucin",
@@ -3537,7 +3595,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-17.jpg"
     },
     {
       "type": "single",
@@ -3556,12 +3615,12 @@
     },
     {
       "type": "single",
-      "title": "A 44-year-old woman has been feeling increasingly tired for the past 9 months. There are no remarkable findings on physical examination. Laboratory studies show a hemoglobin of 8.5g/dL, hematocrit 27.1%, MCV 120µm³, platelet count 252,000/mm³, and WBC count 6350/mm³. The reticulocyte index is low. Antibodies to which of the following are most likely to be found in this patient?",
+      "title": "A 44-year-old woman has been feeling increasingly tired for the past 9 months. There are no remarkable findings on physical examination. Laboratory studies show a hemoglobin of 8.5 g/dL, hematocrit 27.1%, MCV 120 μm^3, platelet count 252,000/mm^3, and WBC count 6350/mm^3. The reticulocyte index is low. Antibodies to which of the following are most likely to be found in this patient?",
       "options": {
         "A": "Gliaden",
         "B": "Rheumatoid factor",
         "C": "Helicobacter pylori",
-        "D": "Na+K+-ATPase",
+        "D": "Na^+/K^+-ATPase",
         "E": "Intrinsic factor"
       },
       "answers": [
@@ -3597,11 +3656,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-18.jpg"
     },
     {
       "type": "single",
-      "title": "A 45-year-old woman has had nausea and vomiting for several months. On physical examination, there is no abdominal tenderness, and bowel sounds are present. Upper gastrointestinal endoscopy shows erythematous areas of mucosa with thickening of the rugal folds in the gastric antrum. The microscopic appearance of a gastric biopsy specimen with a Steiner silver stain is shown in the preceding figure. Which of the following organisms is most likely to be present on the luminal surface?[图片]",
+      "title": "A 45-year-old woman has had nausea and vomiting for several months. On physical examination, there is no abdominal tenderness, and bowel sounds are present. Upper gastrointestinal endoscopy shows erythematous areas of mucosa with thickening of the rugal folds in the gastric antrum. The microscopic appearance of a gastric biopsy specimen with a Steiner silver stain is shown in the preceding figure. Which of the following organisms is most likely to be present on the luminal surface?",
       "options": {
         "A": "Clostridiun difficile",
         "B": "Herpes simplex",
@@ -3612,11 +3672,12 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-18.jpg"
     },
     {
       "type": "single",
-      "title": "A 25-year-old man has an acute onset of nausea and vomiting two hours after drinking one bottle of “二锅头”. Physical examination shows no remarkable findings. Endoscopically, diffuse gastric mucosal erythema with focal mucosal erosion and hemorrhage are present. Microscopic examination of gastric biopsy specimens shows increased infiltrates in the lamina propria, consisting predominately of neutrophils. No organisms are found by sliver stain. Laboratory studies show a normal serum gastrin level. Which of the following description is proper for this patient?",
+      "title": "A 25-year-old man has an acute onset of nausea and vomiting two hours after drinking one bottle of \"二锅头\". Physical examination shows no remarkable findings. Endoscopically, diffuse gastric mucosal erythema with focal mucosal erosion and hemorrhage are present. Microscopic examination of gastric biopsy specimens shows increased infiltrates in the lamina propria, consisting predominately of neutrophils. No organisms are found by sliver stain. Laboratory studies show a normal serum gastrin level. Which of the following description is proper for this patient?",
       "options": {
         "A": "He will recover within days without further treatment",
         "B": "He will develop chronic gastritis if not treated properly",
@@ -3657,22 +3718,24 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-19.jpg"
     },
     {
       "type": "single",
-      "title": "A 55-year-old man has had dysphagia for 6 months. On physical examination there are no abnormal findings. He undergoes an upper GI endoscopy, and a small shal-low ulcer is noted in the middle portion of the esophagus. Biopsies from this area show a moderately differentiated squamous cell carcinoma. Esophagectomy is performed. The microscopic changes are as shown above and no metastases are found. Which of the following interpretations is most applicable to his neoplasm?[图片]",
+      "title": "A 55-year-old man has had dysphagia for 6 months. On physical examination there are no abnormal findings. He undergoes an upper GI endoscopy, and a small shallow ulcer is noted in the middle portion of the esophagus. Biopsies from this area show a moderately differentiated squamous cell carcinoma. Esophagectomy is performed. The microscopic changes are as shown above and no metastases are found. Which of the following interpretations is most applicable to his neoplasm?",
       "options": {
         "A": "It has a high potential to metastasize to the liver",
         "B": "The incidence is high in Western countries",
-        "C": "The 5-year survival following resection is >80%",
+        "C": "The 5-year survival following resection is > 80%",
         "D": "It is associated with a high fruit diet",
         "E": "Its precursor lesion is Barrett's esophagus"
       },
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-19.jpg"
     },
     {
       "type": "single",
@@ -3687,11 +3750,12 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-21.jpg"
     },
     {
       "type": "single",
-      "title": "A 50-year-old male farmer from Henan province presents with increasing dysphagia and has noticed a 6kg weight loss over the past 2 months. His grandfather and father both died in their late 50's with similar symptoms. On physical examination, there are no remarkable findings. Upper gastrointestinal endoscopy shows a 4cm ulcerative mass in the mid-esophagus that occupies 1/2 of the esophageal lumen. Esophagectomy is performed, and the gross appearance of the lesion is shown in the preceding figure. Which of the following is most likely to be seen on microscopic sections of this mass?[图片]",
+      "title": "A 50-year-old male farmer from Henan province presents with increasing dysphagia and has noticed a 6 kg weight loss over the past 2 months. His grandfather and father both died in their late 50's with similar symptoms. On physical examination, there are no remarkable findings. Upper gastrointestinal endoscopy shows a 4 cm ulcerative mass in the mid-esophagus that occupies 1/2 of the esophageal lumen. Esophagectomy is performed, and the gross appearance of the lesion is shown in the preceding figure. Which of the following is most likely to be seen on microscopic sections of this mass?",
       "options": {
         "A": "Columnar epithelium with goblet cells",
         "B": "Adenocarcinoma",
@@ -3702,7 +3766,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-21.jpg"
     },
     {
       "type": "single",
@@ -3732,11 +3797,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-22.jpg"
     },
     {
       "type": "single",
-      "title": "A 49-year-old man has had progressive difficulty on swallowing during the past 6 months. No significant findings are observed on physical examination. Upper gastrointestinal endoscopy shows areas of velvety erythematous mucosa above the Z-line. A biopsy specimen from the lower esophagus has the microscopic appearance shown in the preceding figure. Which of the following is the most likely consequence of this disease?[图片]",
+      "title": "A 49-year-old man has had progressive difficulty on swallowing during the past 6 months. No significant findings are observed on physical examination. Upper gastrointestinal endoscopy shows areas of velvety erythematous mucosa above the Z-line. A biopsy specimen from the lower esophagus has the microscopic appearance shown in the preceding figure. Which of the following is the most likely consequence of this disease?",
       "options": {
         "A": "Esophageal stricture",
         "B": "Adenocarcinoma",
@@ -3747,7 +3813,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-22.jpg"
     },
     {
       "type": "single",
@@ -3766,7 +3833,7 @@
     },
     {
       "type": "single",
-      "title": "A 35-year-old woman has experienced \"heartburn\" and sour regurgitation following meals for the past 2 years. There are no abnormal findings on physical examination. Upper GI endoscopy is performed. There are 2 to 3 cm long tongues of erythematous mucosa extending from the gastroesophageal junction at the Z line upward into the lower esophagus. Biopsies of this region are performed and the microscopic pictures is shown above. Which of the following interpretations is most appropriate for this woman's findings?[图片]",
+      "title": "A 35-year-old woman has experienced \"heartburn\" and sour regurgitation following meals for the past 2 years. There are no abnormal findings on physical examination. Upper GI endoscopy is performed. There are 2 to 3 cm long tongues of erythematous mucosa extending from the gastroesophageal junction at the Z line upward into the lower esophagus. Biopsies of this region are performed and the microscopic pictures is shown above. Which of the following interpretations is most appropriate for this woman's findings?",
       "options": {
         "A": "She has a congenital anomaly",
         "B": "Her risk for squamous cell carcinoma is increased",
@@ -3777,7 +3844,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-23.jpg"
     },
     {
       "type": "single",
@@ -3786,17 +3854,18 @@
         "A": "Helicobacter pylori",
         "B": "Candida albicans",
         "C": "Aspergillus",
-        "D": "Mycobacterium avium-complex",
+        "D": "Mycobacterium avium complex",
         "E": "Cytomegalovirus"
       },
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/7-chap7-23.jpg"
     },
     {
       "type": "single",
-      "title": "A 16-year-old boy sees the physician because he has had pain for 1 week whenhe swallows food. Physical examination shows no abnormal findings. Upper gastrointestinal endoscopy shows 0.5- to 0.8- cm mucosal ulcers in the region of the middle to lower esophagus. The shallow ulcers are round, sharply demarcated, and have an erythematous base. The boy has a history of acute lymphoblastic leukemia and is receiving chemotherapy. Which of the following is most likely to produce these findings?",
+      "title": "A 16-year-old boy sees the physician because he has had pain for 1 week when he swallows food. Physical examination shows no abnormal findings. Upper gastrointestinal endoscopy shows 0.5- to 0.8-cm mucosal ulcers in the region of the middle to lower esophagus. The shallow ulcers are round, sharply demarcated, and have an erythematous base. The boy has a history of acute lymphoblastic leukemia and is receiving chemotherapy. Which of the following is most likely to produce these findings?",
       "options": {
         "A": "Helicobacter pylori infection",
         "B": "Herpes simplex virus infection",
@@ -3826,7 +3895,7 @@
     },
     {
       "type": "single",
-      "title": "A 51-year-old man has a sudden onset of massive emesis of bright red blood. On physical examination, his temperature is 36.9°C, pulse 103/min, respirations 19/min, and blood pressure 85/50mm Hg. Laboratory studies show AST 137U/L and ALT 108U/L. The serologic test result for HBsAg is positive. He has had no prior episodes of hematemesis. The hematemesis is most likely to be a consequence of which of the following?",
+      "title": "A 51-year-old man has a sudden onset of massive emesis of bright red blood. On physical examination, his temperature is 36.9°C, pulse 103/min, respirations 19/min, and blood pressure 85/50 mmHg. Laboratory studies show AST 137 U/L and ALT 108 U/L. The serologic test result for HBsAg is positive. He has had no prior episodes of hematemesis. The hematemesis is most likely to be a consequence of which of the following?",
       "options": {
         "A": "Barrett esophagus",
         "B": "Esophageal laceration",
@@ -3841,7 +3910,7 @@
     },
     {
       "type": "single",
-      "title": "A 35-year-old man experiences a bout of prolonged vomiting, followed by massive hematemesis. On physical examination in the emergency room, he has vital signs of T 36.7°C, P 108, RR 22, and BP 80/40 mm Hg. His heart has a regular rate and rhythm with no murmurs and his lungs are clear to auscultation. There is no abdominal tenderness or distension and bowel sounds are present. His stool is negative for occult blood. Which of the following is the most likely diagnosis?",
+      "title": "A 35-year-old man experiences a bout of prolonged vomiting, followed by massive hematemesis. On physical examination in the emergency room, he has vital signs of T 36.7°C, P 108, RR 22, and BP 80/40 mmHg. His heart has a regular rate and rhythm with no murmurs and his lungs are clear to auscultation. There is no abdominal tenderness or distension and bowel sounds are present. His stool is negative for occult blood. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Hiatal hernia",
         "B": "Esophageal laceration",

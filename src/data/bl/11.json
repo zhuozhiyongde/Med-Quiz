@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 内分泌系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 内分泌系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 内分泌系统疾病",
   "questions": [
     {
       "type": "single",
@@ -96,7 +96,7 @@
       "type": "single",
       "title": "弥漫性胶样甲状腺肿的镜下特点是",
       "options": {
-        "A": "滤泡显著扩大,类胶质潴留",
+        "A": "滤泡显著扩大，类胶质潴留",
         "B": "滤泡上皮增生与复旧混杂",
         "C": "滤泡上皮增生呈柱状",
         "D": "多级乳头形成",
@@ -111,8 +111,8 @@
       "type": "single",
       "title": "结节性甲状腺肿的镜下特点是",
       "options": {
-        "A": "滤泡显著扩大,类胶质潴留",
-        "B": "滤泡上皮增生与复旧混杂,多数结节形成",
+        "A": "滤泡显著扩大，类胶质潴留",
+        "B": "滤泡上皮增生与复旧混杂，多数结节形成",
         "C": "滤泡上皮增生呈柱状",
         "D": "多级乳头形成",
         "E": "肉芽肿形成"
@@ -130,7 +130,7 @@
         "B": "毒性结节性甲状腺肿",
         "C": "毒性甲状腺腺瘤",
         "D": "甲状腺素摄入过多",
-        "E": "垂体腺瘤(分泌TSH)"
+        "E": "垂体腺瘤（分泌 TSH）"
       },
       "answers": [
         "A"
@@ -144,7 +144,7 @@
         "A": "又称 Basedow 病",
         "B": "又称毒性弥漫性甲状腺肿",
         "C": "是一种自身免疫性疾病",
-        "D": "T3、T4 分泌过高",
+        "D": "T_3、T_4 分泌过高",
         "E": "继发于甲状腺炎"
       },
       "answers": [
@@ -154,7 +154,7 @@
     },
     {
       "type": "single",
-      "title": "Graves 病中,引起甲状腺素分泌过高的抗体是",
+      "title": "Graves 病中，引起甲状腺素分泌过高的抗体是",
       "options": {
         "A": "甲状腺生长免疫球蛋白",
         "B": "甲状腺生长抑制免疫球蛋白",
@@ -169,7 +169,7 @@
     },
     {
       "type": "single",
-      "title": "Graves 病中,引起甲状腺腺上皮增生的抗体是",
+      "title": "Graves 病中，引起甲状腺腺上皮增生的抗体是",
       "options": {
         "A": "甲状腺生长免疫球蛋白和甲状腺生长抑制免疫球蛋白",
         "B": "TSH 结合抑制免疫球蛋白",
@@ -201,7 +201,7 @@
       "type": "single",
       "title": "Graves 病的甲状腺肉眼特点是",
       "options": {
-        "A": "甲状腺弥漫肿大、光滑、质软,伴有血管杂音",
+        "A": "甲状腺弥漫肿大、光滑、质软，伴有血管杂音",
         "B": "甲状腺弥漫肿大、多结节状",
         "C": "甲状腺轻度肿大、质硬",
         "D": "甲状腺内单一结节形成、质软、边界清楚",
@@ -216,9 +216,9 @@
       "type": "single",
       "title": "Graves 病甲状腺的镜下特点是",
       "options": {
-        "A": "滤泡显著扩大,类胶质潴留",
-        "B": "滤泡上皮增生与复旧混杂,多数结节形成",
-        "C": "滤泡上皮增生呈柱状,伴乳头状突起,类胶质少",
+        "A": "滤泡显著扩大，类胶质潴留",
+        "B": "滤泡上皮增生与复旧混杂，多数结节形成",
+        "C": "滤泡上皮增生呈柱状，伴乳头状突起，类胶质少",
         "D": "多级乳头形成",
         "E": "肉芽肿形成"
       },
@@ -247,7 +247,7 @@
       "title": "不符合地方性克汀病的描述是",
       "options": {
         "A": "发生于地方性甲状腺肿的流行区",
-        "B": "患者身材矮小,智力低下",
+        "B": "患者身材矮小，智力低下",
         "C": "与近亲婚姻有关",
         "D": "甲状腺高度萎缩",
         "E": "表情痴呆"
@@ -306,8 +306,8 @@
       "type": "single",
       "title": "克汀病甲状腺病变特点是",
       "options": {
-        "A": "滤泡显著扩大,类胶质潴留",
-        "B": "滤泡上皮增生与复旧混杂,多数结节形成",
+        "A": "滤泡显著扩大，类胶质潴留",
+        "B": "滤泡上皮增生与复旧混杂，多数结节形成",
         "C": "滤泡萎缩或缺如",
         "D": "多级乳头形成",
         "E": "肉芽肿形成"
@@ -399,7 +399,7 @@
         "A": "又称 Riedel 甲状腺肿",
         "B": "甲状腺不对称肿大",
         "C": "病变质地硬如木样",
-        "D": "纤维增生,伴玻璃样变",
+        "D": "纤维增生，伴玻璃样变",
         "E": "病变边界清楚"
       },
       "answers": [
@@ -411,9 +411,9 @@
       "type": "single",
       "title": "慢性淋巴细胞性甲状腺炎病变的特点是",
       "options": {
-        "A": "玻璃样变纤维增生,呈浸润性生长",
+        "A": "玻璃样变纤维增生，呈浸润性生长",
         "B": "大量淋巴细胞浸润伴滤泡萎缩",
-        "C": "滤泡破坏,形成有巨细胞的肉芽肿",
+        "C": "滤泡破坏，形成有巨细胞的肉芽肿",
         "D": "多发性脓肿形成",
         "E": "以上都不是"
       },
@@ -426,9 +426,9 @@
       "type": "single",
       "title": "亚急性甲状腺炎的主要病理变化为",
       "options": {
-        "A": "玻璃样变纤维增生,呈浸润性生长",
+        "A": "玻璃样变纤维增生，呈浸润性生长",
         "B": "大量淋巴细胞浸润伴滤泡萎缩",
-        "C": "滤泡破坏,形成有巨细胞的肉芽肿",
+        "C": "滤泡破坏，形成有巨细胞的肉芽肿",
         "D": "多发性脓肿形成",
         "E": "以上都不是"
       },
@@ -441,9 +441,9 @@
       "type": "single",
       "title": "慢性纤维性甲状腺炎的病变特点是",
       "options": {
-        "A": "玻璃样变纤维增生,呈浸润性生长",
+        "A": "玻璃样变纤维增生，呈浸润性生长",
         "B": "大量淋巴细胞浸润伴滤泡萎缩",
-        "C": "滤泡破坏,形成有巨细胞的肉芽肿",
+        "C": "滤泡破坏，形成有巨细胞的肉芽肿",
         "D": "多发性脓肿形成",
         "E": "以上都不是"
       },
@@ -456,9 +456,9 @@
       "type": "single",
       "title": "急性血源播散性化脓性甲状腺炎的病变特点是",
       "options": {
-        "A": "玻璃样变纤维增生,呈浸润性生长",
+        "A": "玻璃样变纤维增生，呈浸润性生长",
         "B": "大量淋巴细胞浸润伴滤泡萎缩",
-        "C": "滤泡破坏,形成有巨细胞的肉芽肿",
+        "C": "滤泡破坏，形成有巨细胞的肉芽肿",
         "D": "多发性脓肿形成",
         "E": "以上都不是"
       },
@@ -469,7 +469,7 @@
     },
     {
       "type": "single",
-      "title": "可以恶变为B细胞淋巴瘤的甲状腺炎是",
+      "title": "可以恶变为 B 细胞淋巴瘤的甲状腺炎是",
       "options": {
         "A": "亚急性甲状腺炎",
         "B": "桥本甲状腺炎",
@@ -501,11 +501,11 @@
       "type": "single",
       "title": "甲状腺胚胎性腺瘤的特点是",
       "options": {
-        "A": "瘤细胞小,排列为条索状",
+        "A": "瘤细胞小，排列为条索状",
         "B": "由小滤泡构成",
         "C": "由较正常的滤泡构成",
         "D": "由嗜酸性细胞构成",
-        "E": "囊壁被覆单层细胞,并由乳头构成"
+        "E": "囊壁被覆单层细胞，并由乳头构成"
       },
       "answers": [
         "A"
@@ -516,11 +516,11 @@
       "type": "single",
       "title": "甲状腺胎儿性腺瘤的特点是",
       "options": {
-        "A": "瘤细胞小,排列为条索状",
+        "A": "瘤细胞小，排列为条索状",
         "B": "由小滤泡构成",
         "C": "由较正常的滤泡构成",
         "D": "由嗜酸性细胞构成",
-        "E": "囊壁被覆单层细胞,并由乳头构成"
+        "E": "囊壁被覆单层细胞，并由乳头构成"
       },
       "answers": [
         "B"
@@ -531,11 +531,11 @@
       "type": "single",
       "title": "甲状腺单纯性腺瘤的特点是",
       "options": {
-        "A": "瘤细胞小,排列为条索状",
+        "A": "瘤细胞小，排列为条索状",
         "B": "由小滤泡构成",
         "C": "由较正常的滤泡构成",
         "D": "由嗜酸性细胞构成",
-        "E": "囊壁被覆单层细胞,并由乳头构成"
+        "E": "囊壁被覆单层细胞，并由乳头构成"
       },
       "answers": [
         "C"
@@ -546,11 +546,11 @@
       "type": "single",
       "title": "甲状腺嗜酸性细胞腺瘤的特点是",
       "options": {
-        "A": "瘤细胞小,排列为条索状",
+        "A": "瘤细胞小，排列为条索状",
         "B": "由小滤泡构成",
         "C": "由较正常的滤泡构成",
         "D": "由嗜酸性细胞构成",
-        "E": "囊壁被覆单层细胞,并由乳头构成"
+        "E": "囊壁被覆单层细胞，并由乳头构成"
       },
       "answers": [
         "D"
@@ -561,11 +561,11 @@
       "type": "single",
       "title": "甲状腺乳头状腺瘤的特点是",
       "options": {
-        "A": "瘤细胞小,排列为条索状",
+        "A": "瘤细胞小，排列为条索状",
         "B": "由小滤泡构成",
         "C": "由较正常的滤泡构成",
         "D": "由嗜酸性细胞构成",
-        "E": "囊壁被覆单层细胞,并由乳头构成"
+        "E": "囊壁被覆单层细胞，并由乳头构成"
       },
       "answers": [
         "E"
@@ -636,11 +636,11 @@
       "type": "single",
       "title": "甲状腺乳头状腺癌的病理组织学特点是",
       "options": {
-        "A": "瘤细胞大小不一,可见奇异的巨核细胞",
-        "B": "乳头分支多,被覆上皮细胞核呈毛玻璃样",
-        "C": "滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管",
-        "D": "瘤细胞圆形或多边形,排列成团,分泌降钙素",
-        "E": "瘤细胞呈梭形,异型性明显"
+        "A": "瘤细胞大小不一，可见奇异的巨核细胞",
+        "B": "乳头分支多，被覆上皮细胞核呈毛玻璃样",
+        "C": "滤泡结构，上皮具有不同程度的异型性，浸润被膜和血管",
+        "D": "瘤细胞圆形或多边形，排列成团，分泌降钙素",
+        "E": "瘤细胞呈梭形，异型性明显"
       },
       "answers": [
         "B"
@@ -651,11 +651,11 @@
       "type": "single",
       "title": "甲状腺滤泡腺癌的病理组织学特点是",
       "options": {
-        "A": "瘤细胞大小不一,可见奇异的巨核细胞",
-        "B": "乳头分支多,被覆上皮细胞核呈毛玻璃样",
-        "C": "滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管",
-        "D": "瘤细胞圆形或多边形,排列成团,分泌降钙素",
-        "E": "瘤细胞呈梭形,异型性明显"
+        "A": "瘤细胞大小不一，可见奇异的巨核细胞",
+        "B": "乳头分支多，被覆上皮细胞核呈毛玻璃样",
+        "C": "滤泡结构，上皮具有不同程度的异型性，浸润被膜和血管",
+        "D": "瘤细胞圆形或多边形，排列成团，分泌降钙素",
+        "E": "瘤细胞呈梭形，异型性明显"
       },
       "answers": [
         "C"
@@ -666,11 +666,11 @@
       "type": "single",
       "title": "甲状腺髓样癌的病理组织学特点是",
       "options": {
-        "A": "瘤细胞大小不一,可见奇异的巨核细胞",
-        "B": "乳头分支多,被覆上皮细胞核呈毛玻璃样",
-        "C": "滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管",
-        "D": "瘤细胞圆形或多边形,排列成团,分泌降钙素",
-        "E": "瘤细胞呈梭形,异型性明显"
+        "A": "瘤细胞大小不一，可见奇异的巨核细胞",
+        "B": "乳头分支多，被覆上皮细胞核呈毛玻璃样",
+        "C": "滤泡结构，上皮具有不同程度的异型性，浸润被膜和血管",
+        "D": "瘤细胞圆形或多边形，排列成团，分泌降钙素",
+        "E": "瘤细胞呈梭形，异型性明显"
       },
       "answers": [
         "D"
@@ -681,11 +681,11 @@
       "type": "single",
       "title": "甲状腺梭形细胞未分化癌的病理组织学特点是",
       "options": {
-        "A": "瘤细胞大小不一,可见奇异的巨核细胞",
-        "B": "乳头分支多,被覆上皮细胞核呈毛玻璃样",
-        "C": "滤泡结构,上皮具有不同程度的异型性,浸润被膜和血管",
-        "D": "瘤细胞圆形或多边形,排列成团,分泌降钙素",
-        "E": "瘤细胞呈梭形,异型性明显"
+        "A": "瘤细胞大小不一，可见奇异的巨核细胞",
+        "B": "乳头分支多，被覆上皮细胞核呈毛玻璃样",
+        "C": "滤泡结构，上皮具有不同程度的异型性，浸润被膜和血管",
+        "D": "瘤细胞圆形或多边形，排列成团，分泌降钙素",
+        "E": "瘤细胞呈梭形，异型性明显"
       },
       "answers": [
         "E"
@@ -696,11 +696,11 @@
       "type": "single",
       "title": "甲状腺巨细胞型未分化癌的病理组织学特点是",
       "options": {
-        "A": "瘤细胞大小不一, 可见奇异的巨核细胞",
-        "B": "乳头分支多, 被覆上皮细胞核呈毛玻璃样",
-        "C": "滤泡结构, 上皮具有不同程度的异型性, 浸润被膜和血管",
-        "D": "瘤细胞圆形或多边形, 排列成团,分泌降钙素",
-        "E": "瘤细胞呈梭形, 异型性明显"
+        "A": "瘤细胞大小不一，可见奇异的巨核细胞",
+        "B": "乳头分支多，被覆上皮细胞核呈毛玻璃样",
+        "C": "滤泡结构，上皮具有不同程度的异型性，浸润被膜和血管",
+        "D": "瘤细胞圆形或多边形，排列成团，分泌降钙素",
+        "E": "瘤细胞呈梭形，异型性明显"
       },
       "answers": [
         "A"
@@ -713,7 +713,7 @@
       "options": {
         "A": "乳头状癌恶性度高，易发生血道转移",
         "B": "滤泡腺癌恶性度较高，易发生血道转移",
-        "C": "未分化癌恶性度高, 易发生血道转移",
+        "C": "未分化癌恶性度高，易发生血道转移",
         "D": "髓样癌为 C 细胞发生的恶性肿瘤",
         "E": "鳞癌罕见"
       },
@@ -742,7 +742,7 @@
       "title": "不符合非胰岛素依赖型糖尿病的特点是",
       "options": {
         "A": "患者发病年龄多在 40 岁以上",
-        "B": "胰岛 B 细胞明显减少, 胰岛数目亦减少",
+        "B": "胰岛 B 细胞明显减少，胰岛数目亦减少",
         "C": "血中胰岛素可以不下降",
         "D": "无自家免疫反应的表现",
         "E": "肥胖与本型发病有重要关系"
@@ -757,7 +757,7 @@
       "title": "I型糖尿病的病变特点是",
       "options": {
         "A": "胰岛无炎症改变",
-        "B": "胰岛进行性破坏, B 细胞减少",
+        "B": "胰岛进行性破坏，B 细胞减少",
         "C": "胰岛体积正常",
         "D": "胰岛数目正常",
         "E": "胰岛数量正常"
@@ -772,7 +772,7 @@
       "title": "II型糖尿病的病变特点是",
       "options": {
         "A": "胰岛内淋巴细胞浸润",
-        "B": "胰岛进行性破坏, B 细胞减少",
+        "B": "胰岛进行性破坏，B 细胞减少",
         "C": "胰岛细胞无明显减少",
         "D": "胰岛纤维化",
         "E": "胰岛变小"
@@ -784,7 +784,7 @@
     },
     {
       "type": "single",
-      "title": "不符合 I 型糖尿病的病因的描述是",
+      "title": "不符合 I型糖尿病的病因的描述是",
       "options": {
         "A": "与病毒感染有关",
         "B": "与自身免疫有关",
@@ -799,7 +799,7 @@
     },
     {
       "type": "single",
-      "title": "不符合 II 型糖尿病的病因的描述是",
+      "title": "不符合 II型糖尿病的病因的描述是",
       "options": {
         "A": "与胰岛素作用不足有关",
         "B": "与自身免疫有关",
@@ -814,7 +814,7 @@
     },
     {
       "type": "single",
-      "title": "符合 II 型糖尿病的病因的描述是",
+      "title": "符合II型糖尿病的病因的描述是",
       "options": {
         "A": "与感染有关",
         "B": "与自身免疫有关",
@@ -907,7 +907,7 @@
       "title": "糖尿病引起的动脉病变特点是",
       "options": {
         "A": "引起动脉壁纤维素样坏死",
-        "B": "动脉粥样硬化发病年龄早,进展快",
+        "B": "动脉粥样硬化发病年龄早，进展快",
         "C": "引起动脉中层钙化",
         "D": "累及大、中动脉",
         "E": "引起心、脑血管病"
@@ -981,7 +981,7 @@
       "type": "single",
       "title": "不符合 APUD 细胞的描述是",
       "options": {
-        "A": "具有摄取氨前提脫羧的功能",
+        "A": "具有摄取氨前提脱羧的功能",
         "B": "分泌多肽激素",
         "C": "胞浆内有神经内分泌颗粒",
         "D": "存在于内分泌腺体内",
@@ -1056,10 +1056,10 @@
       "type": "single",
       "title": "不符合多发性内分泌肿瘤的描述是",
       "options": {
-        "A": "累及两个以上的內分泌腺体",
+        "A": "累及两个以上的内分泌腺体",
         "B": "多有内分泌障碍",
         "C": "无家族遗传性",
-        "D": "可分为MEN-I、II、III 型",
+        "D": "可分为 MEN-I、II、III型",
         "E": "可发生肿瘤和增生病变"
       },
       "answers": [
@@ -1144,7 +1144,37 @@
     },
     {
       "type": "single",
-      "title": "pheochromocytoma",
+      "title": "undifferentiated carcinoma",
+      "options": {
+        "A": "梭形细胞癌",
+        "B": "髓样癌",
+        "C": "未分化癌",
+        "D": "滤泡癌",
+        "E": "乳头状癌"
+      },
+      "answers": [
+        "C"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "papillary carcinoma",
+      "options": {
+        "A": "梭形细胞癌",
+        "B": "髓样癌",
+        "C": "未分化癌",
+        "D": "滤泡癌",
+        "E": "乳头状癌"
+      },
+      "answers": [
+        "E"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
+      "title": "medullary carcinoma",
       "options": {
         "A": "梭形细胞癌",
         "B": "髓样癌",
@@ -1204,7 +1234,7 @@
     },
     {
       "type": "single",
-      "title": "A 57-year-old woman presents with dif-ficulty swallowing, drooping eyelids, anddouble vision. A mass in the anterior me-diastinum is found. Biopsies from thismass reveal thymus tissue with scatteredreactive lymphoid follicles which containgerminal centers. Which of the followingis the most likely diagnosis?",
+      "title": "A 57-year-old woman presents with difficulty swallowing, drooping eyelids, and double vision. A mass in the anterior mediastinum is found. Biopsies from this mass reveal thymus tissue with scattered reactive lymphoid follicles which contain germinal centers. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Malignant thymoma",
         "B": "Thymic carcinoma",
@@ -1219,7 +1249,7 @@
     },
     {
       "type": "single",
-      "title": "A 65-year-old man presents with bonepain and is found to have hypocalcemiaand increased parathyroid hormone. Sur-gical exploration of his neck finds all fourof his parathyroid glands to be enlarged.Which of the following disorders is themost likely cause of this patient's enlargedparathyroid glands?",
+      "title": "A 65-year-old man presents with bone pain and is found to have hypocalcemia and increased parathyroid hormone. Surgical exploration of his neck finds all four of his parathyroid glands to be enlarged. Which of the following disorders is the most likely cause of this patient's enlarged parathyroid glands?",
       "options": {
         "A": "Primary hyperplasia",
         "B": "Parathyroid adenoma",
@@ -1234,7 +1264,7 @@
     },
     {
       "type": "single",
-      "title": "A 37-year-old man presents with a single,firm mass within the thyroid gland. His-tologic examination of the mass revealsnests of tumor cells separated by broadbands of stroma. The stroma stains posi-tively with Congo red stain. Which of thefollowing is the most likely diagnosis?",
+      "title": "A 37-year-old man presents with a single, firm mass within the thyroid gland. Histologic examination of the mass reveals nests of tumor cells separated by broad bands of stroma. The stroma stains positively with Congo red stain. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Follicular carcinoma",
         "B": "Papillary carcinoma",
@@ -1249,7 +1279,7 @@
     },
     {
       "type": "single",
-      "title": "A 58-year-old woman presents with amass in her neck. Physical examina-tion shows a single, nonfunctioning masswithin the thyroid. Clinically her serumTSH level is within normal limits. His-tologic sections from this mass reveal asingle nodule composed of follicles sim-ilar to normal thyroid tissue. The noduleis surrounded by a complete fibrous cap-sule that compresses adjacent normal thy-roid tissue. Focal invasion into the cap-sule is found. Further evaluation of the tu-mor cells demostrates the presence of thePAX8-PPAR-gamma fusion gene. Whichof the following is the most likely diagno-sis?",
+      "title": "A 58-year-old woman presents with a mass in her neck. Physical examination shows a single, nonfunctioning mass within the thyroid. Clinically her serum TSH level is within normal limits. Histologic sections from this mass reveal a single nodule composed of follicles similar to normal thyroid tissue. The nodule is surrounded by a complete fibrous capsule that compresses adjacent normal thyroid tissue. Focal invasion into the capsule is found. Further evaluation of the tumor cells demostrates the presence of the PAX8-PPARG fusion gene. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Colloid carcinoma",
         "B": "Colloid goiter",
@@ -1264,13 +1294,13 @@
     },
     {
       "type": "single",
-      "title": "A 35-year-old woman presents with pro-gressive muscle weakness and cold intol-erance. Physical examination finds en-largement of her thyroid gland, whichis rubbery in consistency. Laboratoryevaluation finds decreased serum levelsof both triiodothyronine (T3) and thyrox-ine (T4), but serum levels of thyroid-stimulating hormone (TSH) are increased.No thyroid-stimulating immunoglobulinsare identified in the serum, but thyroidalperoxidase autoantibodies are present.Which of the following histologic find-ings is most consistent with a diagnosis ofHashimoto's thyroiditis?",
+      "title": "A 35-year-old woman presents with progressive muscle weakness and cold intolerance. Physical examination finds enlargement of her thyroid gland, which is rubbery in consistency. Laboratory evaluation finds decreased serum levels of both triiodothyronine (T_3) and thyroxine (T_4), but serum levels of thyroid-stimulating hormone (TSH) are increased. No thyroid-stimulating immunoglobulins are identified in the serum, but thyroidal peroxidase autoantibodies are present. Which of the following histologic findings is most consistent with a diagnosis of Hashimoto's thyroiditis?",
       "options": {
-        "A": "Diffuse fibrous deposition between at-rophic follicles",
-        "B": "Follicular cell hyperplasia with scal-loping of the colloid",
-        "C": "Granulomatous inflammation withmultinucleated giant cells",
-        "D": "Lymphoid infiltrate with scatteredHurthle cells",
-        "E": "Parafollicular hyperplasia with depo-sition of amyloid"
+        "A": "Diffuse fibrous deposition between atrophic follicles",
+        "B": "Follicular cell hyperplasia with scalloping of the colloid",
+        "C": "Granulomatous inflammation with multinucleated giant cells",
+        "D": "Lymphoid infiltrate with scattered Hurthle cells",
+        "E": "Parafollicular hyperplasia with deposition of amyloid"
       },
       "answers": [
         "E"
@@ -1279,7 +1309,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following tumors is not amember of the APUD tumors?",
+      "title": "Which of the following tumors is not a member of the APUD tumors?",
       "options": {
         "A": "Carcinoid tumor",
         "B": "Small cell carcinoma of the lung",
@@ -1464,7 +1494,7 @@
         "A": "Thyroid stimulating immunoglobulin (TSI)",
         "B": "Anti-thyroglobulin antibody",
         "C": "Thyroid growth stimulating immunoglobulin (TGI)",
-        "D": "TSH binding inhibitor immunoglobin (TBIIS)",
+        "D": "TSH binding inhibitor immunoglobin (TBIIs)",
         "E": "Anti-thyroid peroxisomes antibody"
       },
       "answers": [

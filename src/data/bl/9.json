@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 生殖系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 生殖系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 生殖系统疾病",
   "questions": [
     {
       "type": "single",
@@ -81,10 +81,10 @@
       "type": "single",
       "title": "不符合单纯疱疹引起的女性下生殖道感染的描述是",
       "options": {
-        "A": "多由HSV-1 病毒引起",
+        "A": "多由 HSV-1 病毒引起",
         "B": "可累及外阴、阴道和子宫颈",
         "C": "可引起粘膜疱疹和溃疡形成",
-        "D": "多于1~3周内愈合",
+        "D": "多于 1 ~3 周内愈合",
         "E": "分娩时可引起胎儿感染"
       },
       "answers": [
@@ -126,7 +126,7 @@
       "type": "single",
       "title": "尖锐湿疣的病因是",
       "options": {
-        "A": "HPV感染",
+        "A": "HPV 感染",
         "B": "HSV 感染",
         "C": "CMV 感染",
         "D": "衣原体感染",
@@ -201,10 +201,10 @@
       "type": "single",
       "title": "不符合女性外阴癌的描述是",
       "options": {
-        "A": "与HPV16、18感染有关",
+        "A": "与 HPV16、18 感染有关",
         "B": "多经鳞状上皮非典型增生演化而来",
         "C": "鳞状上皮非典型增生呈多灶性",
-        "D": "与萎缩硬化性苔癬有关",
+        "D": "与萎缩硬化性苔癣有关",
         "E": "多经血道转移"
       },
       "answers": [
@@ -246,7 +246,7 @@
       "type": "single",
       "title": "不符合有癌变倾向的外阴白色病变的描述是",
       "options": {
-        "A": "硬化性苔癬",
+        "A": "硬化性苔癣",
         "B": "白癜风",
         "C": "鳞状上皮增生",
         "D": "鳞状上皮增生伴上皮内肿瘤",
@@ -261,7 +261,7 @@
       "type": "single",
       "title": "可以引起外阴白色病变的恶性肿瘤是",
       "options": {
-        "A": "硬化性苔癬",
+        "A": "硬化性苔癣",
         "B": "白癜风",
         "C": "鳞状上皮增生",
         "D": "鳞状上皮增生伴上皮内肿瘤",
@@ -274,7 +274,7 @@
     },
     {
       "type": "single",
-      "title": "不符合外阴硬化性苔癬的描述是",
+      "title": "不符合外阴硬化性苔癣的描述是",
       "options": {
         "A": "外阴部粘膜呈白色",
         "B": "属癌前病变",
@@ -322,7 +322,7 @@
       "title": "不符合外阴上皮内肿瘤的描述是",
       "options": {
         "A": "常为多中心发生",
-        "B": "常合并 HPV16、18感染",
+        "B": "常合并 HPV16、18 感染",
         "C": "鳞状上皮细胞大小形态不一、核深染",
         "D": "可进展为鳞状细胞癌",
         "E": "青年妇女多见"
@@ -351,7 +351,7 @@
       "type": "single",
       "title": "符合外阴上皮内肿瘤的描述是",
       "options": {
-        "A": "多由硬化性苔癬发展而来",
+        "A": "多由硬化性苔癣发展而来",
         "B": "常合并 CMV 感染",
         "C": "鳞状上皮萎缩",
         "D": "可进展为鳞状细胞癌",
@@ -412,7 +412,7 @@
       "title": "不符合子宫颈癌的描述是",
       "options": {
         "A": "与慢性细菌感染有关",
-        "B": "与HPV感染有关",
+        "B": "与 HPV 感染有关",
         "C": "与多胎生产有关",
         "D": "与早婚有关",
         "E": "与性生活紊乱有关"
@@ -424,11 +424,11 @@
     },
     {
       "type": "single",
-      "title": "女性,55岁,停经4年后,近2月来阴道不规则少量出血。活体病理诊断为鳞状细胞癌。子宫颈癌根治标本病理诊断为早期浸润癌。符合该患者疾病的描述是",
+      "title": "女性，55 岁，停经 4 年后，近 2 月来阴道不规则少量出血。活体病理诊断为鳞状细胞癌。子宫颈癌根治标本病理诊断为早期浸润癌。符合该患者疾病的描述是",
       "options": {
         "A": "癌细胞占据上皮全层",
         "B": "癌细胞累及腺体",
-        "C": "癌细胞侵及子宫颈 2mm 的组织",
+        "C": "癌细胞侵及子宫颈 2 mm 的组织",
         "D": "癌细胞侵及子宫颈深层",
         "E": "癌细胞侵及阴道上段"
       },
@@ -441,11 +441,11 @@
       "type": "single",
       "title": "子宫颈早期浸润癌是指",
       "options": {
-        "A": "癌浸润深度不超过 1mm",
-        "B": "癌浸润深度不超过2mm",
-        "C": "癌浸润深度不超过 5mm",
-        "D": "癌浸润深度不超过8mm",
-        "E": "癌浸润深度为8mm~10mm"
+        "A": "癌浸润深度不超过 1 mm",
+        "B": "癌浸润深度不超过 2 mm",
+        "C": "癌浸润深度不超过 5 mm",
+        "D": "癌浸润深度不超过 8 mm",
+        "E": "癌浸润深度为 8 mm ~10 mm"
       },
       "answers": [
         "C"
@@ -460,7 +460,7 @@
         "B": "原位癌阻塞腺体开口",
         "C": "子宫颈腺体被鳞状上皮取代",
         "D": "子宫颈鳞癌细胞突破基底膜侵及腺体",
-        "E": "子宫颈原位癌取代腺体上皮细胞,腺体基底膜完整"
+        "E": "子宫颈原位癌取代腺体上皮细胞，腺体基底膜完整"
       },
       "answers": [
         "E"
@@ -501,9 +501,9 @@
       "type": "single",
       "title": "符合子宫颈鳞状上皮异型增生的描述是",
       "options": {
-        "A": "鳞状上皮细胞大小、形态不一,核深染",
-        "B": "鳞状上皮细胞变成癌细胞,但基底膜完整",
-        "C": "鳞状上皮增厚,钉突延长",
+        "A": "鳞状上皮细胞大小、形态不一，核深染",
+        "B": "鳞状上皮细胞变成癌细胞，但基底膜完整",
+        "C": "鳞状上皮增厚，钉突延长",
         "D": "鳞状上皮细胞不典型增生I级最易癌变",
         "E": "子宫颈柱状上皮被鳞状上皮代替"
       },
@@ -699,8 +699,8 @@
         "A": "腺体和间质增生",
         "B": "增生的腺体呈囊性扩张",
         "C": "增生的腺体密集排列",
-        "D": "增生的腺体密集排列,伴腺上皮异型性",
-        "E": "腺体密集伴腺上皮异型性显著,间质浸润"
+        "D": "增生的腺体密集排列，伴腺上皮异型性",
+        "E": "腺体密集伴腺上皮异型性显著，间质浸润"
       },
       "answers": [
         "C"
@@ -714,8 +714,8 @@
         "A": "腺体和间质增生",
         "B": "增生的腺体呈囊性扩张",
         "C": "增生的腺体密集排列",
-        "D": "增生的腺体密集排列,伴腺上皮异型性",
-        "E": "腺体密集伴腺上皮异型性显著,间质浸润"
+        "D": "增生的腺体密集排列，伴腺上皮异型性",
+        "E": "腺体密集伴腺上皮异型性显著，间质浸润"
       },
       "answers": [
         "D"
@@ -759,7 +759,7 @@
         "A": "肿瘤细胞密集",
         "B": "可见奇异核瘤细胞",
         "C": "肿瘤粘液变性",
-        "D": "肿瘤组织坏死、核分裂象多见(每10个高倍视野10个核分裂)",
+        "D": "肿瘤组织坏死、核分裂象多见（每 10 个高倍视野 10 个核分裂）",
         "E": "肿瘤组织发生囊性变"
       },
       "answers": [
@@ -862,7 +862,7 @@
       "title": "恶性葡萄胎的特征性病理变化是",
       "options": {
         "A": "胎盘绒毛水肿",
-        "B": "滋养层细胞增生,并有异型性",
+        "B": "滋养层细胞增生，并有异型性",
         "C": "绒毛消失",
         "D": "绒毛侵犯子宫壁深肌层",
         "E": "间质血管消失"
@@ -937,7 +937,7 @@
       "title": "不符合完全型葡萄胎的描述是",
       "options": {
         "A": "染色体核型为二倍体",
-        "B": "染色体核型多为46XX",
+        "B": "染色体核型多为 46XX",
         "C": "两组染色体均来自父方",
         "D": "可由单精子与空卵受精引起",
         "E": "可由双精子与正常卵子受精引起"
@@ -952,7 +952,7 @@
       "title": "不符合部分性葡萄胎的描述是",
       "options": {
         "A": "染色体核型为三倍体",
-        "B": "染色体核型多为 69XXY 或69XXX",
+        "B": "染色体核型多为 69XXY 或 69XXX",
         "C": "三组染色体均来自父方",
         "D": "也可由正常的单倍体卵子与二倍体精子受精引起",
         "E": "可由双精子与正常卵子受精引起"
@@ -994,7 +994,7 @@
     },
     {
       "type": "single",
-      "title": "青年女性,半年前刮宫诊断为葡萄胎,近年出现咳嗽咯血,胸透发现两肺有团块状阴影,血清 HCG 升高,穿刺活检可见异型性显著的两种滋养层细胞,无间质、无绒毛结构。该患者应诊断为",
+      "title": "青年女性，半年前刮宫诊断为葡萄胎，近年出现咳嗽咯血，胸透发现两肺有团块状阴影，血清 HCG 升高，穿刺活检可见异型性显著的两种滋养层细胞，无间质、无绒毛结构。该患者应诊断为",
       "options": {
         "A": "肺鳞状细胞癌",
         "B": "肺小细胞癌",
@@ -1054,7 +1054,7 @@
     },
     {
       "type": "single",
-      "title": "女性,40岁,半年前曾患葡萄胎,经刮宫治疗。近1个月来,阴道出血,刮宫送病理检查,大量凝血坏死组织内可见异型性显著的合体滋养层细胞和细胞滋养层细胞。符合该患者的病理诊断是",
+      "title": "女性，40 岁，半年前曾患葡萄胎，经刮宫治疗。近 1 个月来，阴道出血，刮宫送病理检查，大量凝血坏死组织内可见异型性显著的合体滋养层细胞和细胞滋养层细胞。符合该患者的病理诊断是",
       "options": {
         "A": "子宫内膜腺癌",
         "B": "绒毛膜癌",
@@ -1069,7 +1069,7 @@
     },
     {
       "type": "single",
-      "title": "青年女性,停经3个月,近来发现阴道结节,镜检找到变性绒毛,最大可能性是",
+      "title": "青年女性，停经 3 个月，近来发现阴道结节，镜检找到变性绒毛，最大可能性是",
       "options": {
         "A": "宫外孕",
         "B": "葡萄胎",
@@ -1299,7 +1299,7 @@
         "A": "圆形囊肿",
         "B": "清亮浆液",
         "C": "多量乳头形成",
-        "D": "被覆上皮呈2~3层",
+        "D": "被覆上皮呈 2 ~3 层",
         "E": "多有包膜和间质浸润"
       },
       "answers": [
@@ -1579,7 +1579,7 @@
     },
     {
       "type": "single",
-      "title": "一般不出现乳房內包块的乳腺癌是",
+      "title": "一般不出现乳房内包块的乳腺癌是",
       "options": {
         "A": "导管内癌",
         "B": "浸润性导管癌",
@@ -1639,7 +1639,7 @@
     },
     {
       "type": "single",
-      "title": "女性,52岁,右乳外上象限肿块2年余,肿块质硬、边界不清。局部皮肤破 溃,患侧乳头内陷。符合该患者疾病的 诊断是",
+      "title": "女性，52 岁，右乳外上象限肿块 2 年余，肿块质硬、边界不清。局部皮肤破溃，患侧乳头内陷。符合该患者疾病的诊断是",
       "options": {
         "A": "乳腺增生症",
         "B": "乳腺纤维腺瘤",
@@ -1659,7 +1659,7 @@
         "A": "癌细胞局限于小叶腺泡内",
         "B": "癌细胞局限于导管内",
         "C": "癌细胞丰富、间质少",
-        "D": "纤维间质丰富,癌细胞少",
+        "D": "纤维间质丰富，癌细胞少",
         "E": "癌细胞与间质大致相等"
       },
       "answers": [
@@ -1674,7 +1674,7 @@
         "A": "癌细胞局限于小叶腺泡内",
         "B": "癌细胞局限于导管内",
         "C": "癌细胞丰富、间质少",
-        "D": "纤维间质丰富,癌细胞少",
+        "D": "纤维间质丰富，癌细胞少",
         "E": "癌细胞与间质大致相等"
       },
       "answers": [
@@ -1689,7 +1689,7 @@
         "A": "癌细胞局限于小叶腺泡内",
         "B": "癌细胞局限于导管内",
         "C": "癌细胞丰富、间质少",
-        "D": "纤维间质丰富,癌细胞少",
+        "D": "纤维间质丰富，癌细胞少",
         "E": "癌细胞与间质大致相等"
       },
       "answers": [
@@ -1704,7 +1704,7 @@
         "A": "癌细胞局限于小叶腺泡内",
         "B": "癌细胞局限于导管内",
         "C": "癌细胞丰富、间质少",
-        "D": "纤维间质丰富,癌细胞少",
+        "D": "纤维间质丰富，癌细胞少",
         "E": "癌细胞与间质大致相等"
       },
       "answers": [
@@ -1714,12 +1714,12 @@
     },
     {
       "type": "single",
-      "title": "乳腺导管內癌的特点是",
+      "title": "乳腺导管内癌的特点是",
       "options": {
         "A": "癌细胞局限于小叶腺泡内",
         "B": "癌细胞局限于导管内",
         "C": "癌细胞丰富、间质少",
-        "D": "纤维间质丰富,癌细胞少",
+        "D": "纤维间质丰富，癌细胞少",
         "E": "癌细胞与间质大致相等"
       },
       "answers": [
@@ -1747,10 +1747,10 @@
       "title": "与遗传性乳腺癌密切相关的基因是",
       "options": {
         "A": "APC 基因",
-        "B": "BRCA1 和BRC2基因",
+        "B": "BRCA1 和 BRC2 基因",
         "C": "NF-1 基因",
         "D": "RB 基因",
-        "E": ". WT-1 基因"
+        "E": "WT-1 基因"
       },
       "answers": [
         "B"
@@ -1954,7 +1954,7 @@
     },
     {
       "type": "single",
-      "title": "在前列腺增生症发生中,最重要的激素是",
+      "title": "在前列腺增生症发生中，最重要的激素是",
       "options": {
         "A": "双氢睾丸酮",
         "B": "促性腺激素",
@@ -2044,7 +2044,7 @@
     },
     {
       "type": "single",
-      "title": "男性,30岁,左侧睾丸逐渐肿大2个月,近来常咳嗽、咯血,体检时发现左侧睾丸比正常大3倍,胸部拍片见左肺有3cm×4cm 阴影,肺叶切除见肿瘤由两种滋养细胞组成。睾丸肿瘤可能是",
+      "title": "男性，30 岁，左侧睾丸逐渐肿大 2 个月，近来常咳嗽、咯血，体检时发现左侧睾丸比正常大 3 倍，胸部拍片见左肺有 3 cm × 4 cm 阴影，肺叶切除见肿瘤由两种滋养细胞组成。睾丸肿瘤可能是",
       "options": {
         "A": "精原细胞瘤",
         "B": "胚胎性癌",
@@ -2259,7 +2259,7 @@
         "A": "多为低分化鳞癌",
         "B": "多见于包皮过长患者",
         "C": "早期发生血道转移",
-        "D": "与HPV 感染无关",
+        "D": "与 HPV 感染无关",
         "E": "与吸烟有关"
       },
       "answers": [
@@ -2274,7 +2274,7 @@
         "A": "多为低分化鳞癌",
         "B": "多见于包皮过长患者",
         "C": "以淋巴道转移为主",
-        "D": "与HPV感染有关",
+        "D": "与 HPV 感染有关",
         "E": "可侵犯阴茎海绵体"
       },
       "answers": [
@@ -2289,7 +2289,7 @@
         "A": "阴茎癌",
         "B": "胚胎性癌",
         "C": "尖锐湿疣",
-        "D": "硬化性苔癬",
+        "D": "硬化性苔癣",
         "E": "子宫内膜异位症"
       },
       "answers": [
@@ -2304,7 +2304,7 @@
         "A": "阴茎癌",
         "B": "胚胎性癌",
         "C": "尖锐湿疣",
-        "D": "硬化性苔癬",
+        "D": "硬化性苔癣",
         "E": "子宫内膜异位症"
       },
       "answers": [
@@ -2319,7 +2319,7 @@
         "A": "葡萄胎",
         "B": "胚胎性癌",
         "C": "尖锐湿疣",
-        "D": "硬化性苔癬",
+        "D": "硬化性苔癣",
         "E": "子宫内膜异位"
       },
       "answers": [
@@ -2404,7 +2404,7 @@
     },
     {
       "type": "single",
-      "title": "A 45-year-old woman has had a small amount of vaginal bleeding and a brownish, foul-smelling discharge for the past month. On pelvic examination, there is a 3-cm lesion on the ectocervix. Microscopic findings of this lesion are shown in the figure. Which of the following is the most likely diagnosis?[图片]",
+      "title": "A 45-year-old woman has had a small amount of vaginal bleeding and a brownish, foul-smelling discharge for the past month. On pelvic examination, there is a 3-cm lesion on the ectocervix. Microscopic findings of this lesion are shown in the figure. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Sertoli-Leydig cell tumor",
         "B": "Mature cystic teratoma",
@@ -2415,7 +2415,8 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-1.jpg"
     },
     {
       "type": "single",
@@ -2430,11 +2431,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-1.jpg"
     },
     {
       "type": "single",
-      "title": "A 14-year-old girl began menstruation 1 year ago. She now has abnormal uterine bleeding. On physical examination, there are no remarkable findings. A pelvic ultrasound scan shows no abnormalities. Which of the following is most likely to produce these findings?",
+      "title": "A l4-year-old girl began menstruation 1 year ago. She now has abnormal uterine bleeding. On physical examination, there are no remarkable findings. A pelvic ultrasound scan shows no abnormalities. Which of the following is most likely to produce these findings?",
       "options": {
         "A": "Endometrial polyp",
         "B": "Anovulatory cycles",
@@ -2449,10 +2451,10 @@
     },
     {
       "type": "single",
-      "title": "A 20-year-old woman notices a bloody, brownish vaginal discharge. On physical examination, a 3-cm red-brown mass is seen on the lateral wall of the vagina. A chest radiograph shows numerous 2-to 5-cm nodules in both lungs. A biopsy specimen of the vaginal mass shows malignant cells resembling syncytiotro-phoblasts. Which the following proteins is most likely to be elevated in the serum?",
+      "title": "A 20-year-old woman notices a bloody, brownish vaginal discharge. On physical examination, a 3-cm red-brown mass is seen on the lateral wall of the vagina. A chest radiograph shows numerous 2-to 5-cm nodules in both lungs. A biopsy specimen of the vaginal mass shows malignant cells resembling syncytiotrophoblasts. Which the following proteins is most likely to be elevated in the serum?",
       "options": {
         "A": "Human chorionic gonadotropin",
-        "B": "a-Fetoprotein",
+        "B": "α-Fetoprotein",
         "C": "Estradiol",
         "D": "Testosterone",
         "E": "Careinoembryonic antigen"
@@ -2464,7 +2466,7 @@
     },
     {
       "type": "single",
-      "title": "A 42-year-old woman has a Pap smear as part of a routine health maintenance examination. A cervical biopsy is performed, and microscopic examination shows dysplastic cells that occupy the full thickness of the epithelium above the basement membrane (CIN III). Which of the following is the best rational for proceeding with cervical conization in this patient?",
+      "title": "A 42-year-old woman has a Pap smear as part of a routine health maintenance examination. A cervical biopsy is performed, and microscopic examination shows dysplastic cells that occupy the full thickness of the epithelium above the basement membrane (CIN III) . Which of the following is the best rational for proceeding with cervical conization in this patient?",
       "options": {
         "A": "She has a high risk of invasive carcinoma",
         "B": "Human papinomavirus infection cannot be treated",
@@ -2584,7 +2586,7 @@
     },
     {
       "type": "single",
-      "title": "A 42-year-old woman has had menometr-orrhagia for the past 2 months. On physical examination, there are no vaginal or cervical lesions, and the uterus appears to be of normal size, but there is a right adnexal mass. An abdominal ultrasound scan shows the presence of a 7-cm solid right adnexal mass. Endometrial biopsy shows hyperplastic endometrium but no cellular atypia. Which of the following is the most likely diagnosis?",
+      "title": "A 42-year-old woman has had menometrorrhagia for the past 2 months. On physical examination, there are no vaginal or cervical lesions, and the uterus appears to be of normal size, but there is a right adnexal mass. An abdominal ultrasound scan shows the presence of a 7-cm solid right adnexal mass. Endometrial biopsy shows hyperplastic endometrium but no cellular atypia. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Mature cystic teratoma",
         "B": "Endometrioma",
@@ -2764,7 +2766,7 @@
     },
     {
       "type": "single",
-      "title": "A 40-year-old woman has noticed progressive enlargement of the abdomen over the past 5 months. Physical examination shows no palpable masses, but a fluid wave is present. An abdominal ultrasound scan shows a 15-cm multi-lobular mass that involves the right adnexal region. The mass is surgically removed, and the gross features of the excised mass are shown above. Which of the following is the most likely diagnosis?[图片]",
+      "title": "A 40-year-old woman has noticed progressive enlargement of the abdomen over the past 5 months. Physical examination shows no palpable masses, but a fluid wave is present. An abdominal ultrasound scan shows a 15-cm multilobular mass that involves the right adnexal region. The mass is surgically removed, and the gross features of the excised mass are shown above. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Immature teratoma",
         "B": "Serous cystadenocarcinoma",
@@ -2775,26 +2777,28 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-2.jpg"
     },
     {
       "type": "single",
-      "title": "A 54-year-old woman has had weight loss accompanied by abdominal enlargement for the past 6 months. She is concerned because of a family history of ovarian carcinoma. On physical examination, there are no lesions of the cervix, and the uterus is normal in size, but there is a left adnexal mass. An abdominal ultrasound scan shows a 10-cm cystic mass in the left adnexal region, with scattered 1-cm peritioneal nodules. Cytologic studies of peritoneal fluid show malignant cells consistent with a cystadenocarcinoma. Which of the following mutated genes is most likely a factor in the development of this neoplasm?",
+      "title": "A 54-year-old woman has had weight loss accompanied by abdominal enlargement for the past 6 months. She is concerned because of a family history of ovarian carcinoma. On physical examination, there are no lesions of the cervix, and the uterus is normal in size, but there is a left adnexal mass. An abdominal ultrasound scan shows a l0-cm cystic mass in the left adnexal region, with scattered 1-cm peritoneal nodules. Cytologic studies of peritoneal fluid show malignant cells consistent with a cystadenocarcinoma. Which of the following mutated genes is most likely a factor in the development of this neoplasm?",
       "options": {
         "A": "RAS",
         "B": "BRCA1",
         "C": "ERBB2 (HER2)",
         "D": "MYC",
-        "E": "RB1"
+        "E": "RBl"
       },
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-2.jpg"
     },
     {
       "type": "single",
-      "title": "Over the past 9 months, a 30-year-old man has noticed a feeling of heaviness with enlargement of the scrotum. On physical examination, there is an enlarged, firm left testis. A left orchiectomy is performed. Microscopic examination of the mass shows areas of mature cartilage, keratinizing squamous epithelium, and colonic glandular epithelium. Laboratory findings include elevated levels of serum human chorionic gonadortropin (hCG) and a-fetoprotein (AFP). Despite the appearance of the cells in the tumor, the surgeon tells the patient that he probably ha s a malignant testicular tumor. The surgeon's conclusion is most likely to be based on which of the following factors?",
+      "title": "Over the past 9 months, a 30-year-old man has noticed a feeling of heaviness with enlargement of the scrotum. On physical examination, there is an enlarged, firm left testis. A left orchiectomy is performed. Microscopic examination of the mass shows areas of mature cartilage, keratinizing squamous epithelium, and colonic glandular epithelium. Laboratory findings include elevated levels of serum human chorionic gonadortropin (hCG) and α-fetoprotein (AFP). Despite the appearance of the cells in the tumor, the surgeon tells the patient that he probably ha s a malignant testicular tumor. The surgeon's conclusion is most likely to be based on which of the following factors?",
       "options": {
         "A": "Size of the tumor",
         "B": "Age of the patient",
@@ -2884,7 +2888,7 @@
     },
     {
       "type": "single",
-      "title": "The mother of a 2-year-old child notices that he has had increasing asymmetric enlargement of the scrotum over the past 6 months. On physical examination, there is a well-circumscribed 2.5-cm mass in the left testis. Histologic examination of this mass shows sheets of cells and ill-defined glands composed of cuboidal cells, some of which contain eosinophilic hyaline globules. Microcysts and primitive glomeruloid structures also are seen. Immunohistochemical staining shows a-fetoprotein in the cytoplasm of the neoplastic cells. Which of the following is the most likely diagnosis?",
+      "title": "The mother of a 2-year-old child notices that he has had increasing asymmetric enlargement of the scrotum over the past 6 months. On physical examination, there is a well-circumscribed 2.5-cm mass in the left testis. Histologic examination of this mass shows sheets of cells and ill-defined glands composed of cuboidal cells, some of which contain eosinophilic hyaline globules. Microcysts and primitive glomeruloid structures also are seen. Immunohistochemical staining shows α-fetoprotein in the cytoplasm of the neoplastic cells. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Choriocarcinoma",
         "B": "Seminoma",
@@ -2935,16 +2939,17 @@
         "B": "Poorly differentiated glands lined by a single layer of epithelium and packed back to back",
         "C": "Foci of chronic inflammatory cells in the stroma and in normal-appearing glands",
         "D": "Areas of liquefactive necrosis filled with neutrophils",
-        "E": "Multiple caseating granulomas[图片]"
+        "E": "Multiple caseating granulomas"
       },
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-3.jpg"
     },
     {
       "type": "single",
-      "title": "A healthy 52-year-old woman has had a feeling of pelvic heaviness for the past 11 months. There is no history of abnormal bleeding. Her physician palpates an enlarged nodular uterus on pelvic examination. Pelvic CT imaging shows multiple solid, uterine masses. A total abdomi-nal hysterectomy is performed. Based on the gross appearance of the mass shown above, which of the following is the most likely diagnosis?",
+      "title": "A healthy 52-year-old woman has had a feeling of pelvic heaviness for the past 11 months. There is no history of abnormal bleeding. Her physician palpates an enlarged nodular uterus on pelvic examination. Pelvic CT imaging shows multiple solid, uterine masses. A total abdominal hysterectomy is performed. Based on the gross appearance of the mass shown above, which of the following is the most likely diagnosis?",
       "options": {
         "A": "Metastases",
         "B": "Endometriosis",
@@ -2955,7 +2960,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-3.jpg"
     },
     {
       "type": "single",
@@ -2974,7 +2980,7 @@
     },
     {
       "type": "single",
-      "title": "A 32-year-old man has noticed an increased feeling of heaviness in his scrotum for the past 10 months. On physical examination, the left testis is three times the size of the right testis and is firm on palpation. An ultrasound scan shows a 6-cm solid mass within the body of the left testis. Laboratory studies include an elevated serum a-fetoprotein level. Which of the following is the most likely diagnosis?",
+      "title": "A 32-year-old man has noticed an increased feeling of heaviness in his scrotum for the past 10 months. On physical examination, the left testis is three times the size of the right testis and is firm on palpation. An ultrasound scan shows a 6-cm solid mass within the body of the left testis. Laboratory studies include an elevated serum α-fetoprotein level. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Yolk sac tumor",
         "B": "Leydig cell tumor",
@@ -2985,11 +2991,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-4.jpg"
     },
     {
       "type": "single",
-      "title": "A 31-year-old woman has had dull, constant, abdominal pain for 6 months. On physical examination, the only finding is a right adnexal mass. The right fallopian tube and ovary are surgically excised. The gross and histologic appearance of the ovary are shown in the figure above. Which of the following is the most likely diagnosis?[图片]",
+      "title": "A 31-year-old woman has had dull, constant, abdominal pain for 6 months. On physical examination, the only finding is a right adnexal mass. The right fallopian tube and ovary are surgically excised. The gross and histologic appearance of the ovary are shown in the figure above. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Mucinous cystadenoma",
         "B": "Choriocarcinoma",
@@ -3000,7 +3007,8 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-4.jpg"
     },
     {
       "type": "single",
@@ -3019,7 +3027,7 @@
     },
     {
       "type": "single",
-      "title": "A 30-year-old man comes to his physician because he has noticed increasing enlargement and a feeling of heaviness in his scrotum for the past year. On physical examination, the right testis is twice the normal size, and it is firm and slightly tender. An ultrasound examination shows a 3.5-cm solid mass in the right testis. An abdominal CT scan shows enlargement of the para-aortic lymph nodes. Laboratory findings include markedly increased serum levels of chorionic gonadotropin and a-fetoprotein. Which of the following testicular neoplasms does this patient most have?",
+      "title": "A 30-year-old man comes to his physician because he has noticed increasing enlargement and a feeling of heaviness in his scrotum for the past year. On physical examination, the right testis is twice the normal size, and it is firm and slightly tender. An ultrasound examination shows a 3.5-cm solid mass in the right testis. An abdominal CT scan shows enlargement of the para-aortic lymph nodes. Laboratory findings include markedly increased serum levels of chorionic gonadotropin and α-fetoprotein. Which of the following testicular neoplasms does this patient most have?",
       "options": {
         "A": "Leydig cell tumor",
         "B": "Mixed germ cell tumor",
@@ -3094,7 +3102,7 @@
     },
     {
       "type": "single",
-      "title": "A 48-year-old woman presents with a painless mass located in her left breast. Physical examination confirms the presence of a firm, non-tender, 3-cm mass in the upper outer quadrant of her left breast. The mass is resected and histologic sections reveal an invasive ductal carcinoma. Biopsy of her axillary lymph nodes reveals the presence of metastatic disease in 4 of 18 axillary lymph nodes. The expression of which one of the following by the tumor would best predict a response to hormonal therapy?",
+      "title": "A 48-year-old woman presents with a painless mass located in her left breast. Physical examination confirms the presence of a firm, non-tender, 3-cm mass in the upper outer quadrant of her left breast. The mass is resected and histologic sections reveal an inva-sive ductal carcinoma. Biopsy of her axillary lymph nodes reveals the presence of metastatic disease in 4 of 18 axillary lymph nodes. The expression of which one of the following by the tumor would best predict a response to hormonal therapy?",
       "options": {
         "A": "BRCAI",
         "B": "Estrogen receptors",
@@ -3124,7 +3132,7 @@
     },
     {
       "type": "single",
-      "title": "A 35-year-old woman presents with severe menorrhagia and colicky dysmenorrhea. A hysterectomy including resection of the fallopian tubes and ovaries is performed and the pathologist who examines the specimen makes the diagnosis of \"adenomyosis.” Which one of the listed abnormali-ties was present in this resected specimen?",
+      "title": "A 35-year-old woman presents with severe menorrhagia and colicky dysmenorrhea. A hysterectomy including resection of the fallopian tubes and ovaries is performed and the pathologist who examines the specimen makes the diagnosis of \"adenomyosis.\" Which one of the listed abnormali-ties was present in this resected specimen?",
       "options": {
         "A": "Ectocervical tissue was present within the wall of the fallopian tube",
         "B": "Endocervical tissue was present on the surface of the ovary",
@@ -3139,7 +3147,7 @@
     },
     {
       "type": "single",
-      "title": "A 39-year-old woman presents with a new onset of a bloody dis-charge from her right nipple. Physical examination reveals a 1-cm freely movable mass that is located directly beneath the nipple. Sections from this mass reveal multiple fibrovascular cores lined by several layers of epithelial cells. Atypia is minimal. The lesion is completely contained within the duct and no invasion into underlying tissue is seen. Which of the following is the most likely diagnosis?",
+      "title": "A 39-year-old woman presents with a new onset of a bloody dis-charge from her right nipple. Physical examination reveals a 1 cm freely movable mass that is located directly beneath the nipple. Sections from this mass reveal multiple fibrovascular cores lined by several layers of epithelial cells. Atypia is minimal. The lesion is completely contained within the duct and no invasion into underlying tissue is seen. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Benign phyllodes tumor",
         "B": "Intraductal papilloma",
@@ -3160,7 +3168,7 @@
         "B": "Central zone",
         "C": "Peripheral zone",
         "D": "Periurethral glands",
-        "E": "Transitional zone[图片]"
+        "E": "Transitional zone"
       },
       "answers": [
         "C"
@@ -3180,11 +3188,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-5.jpg"
     },
     {
       "type": "single",
-      "title": "A 23-year-old woman presents with a rubbery, freely movable 2-cm mass in the upper outer quadrant of the left breast. Which of the following histologic features is most likely to be seen when examining a biopsy specimen from this mass?",
+      "title": "A 23-year-old woman presents with a rubbery, freely movable 2-cm mass in the upper outer quadrant of the left breast. Which of the following histologic features is most likely to be seen when examining a biopsy spec-imen from this mass?",
       "options": {
         "A": "Large numbers of neutrophils",
         "B": "Large numbers of plasma cells",
@@ -3195,7 +3204,8 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/9-chap9-5.jpg"
     },
     {
       "type": "single",
@@ -3259,7 +3269,7 @@
     },
     {
       "type": "single",
-      "title": "A 40-year-old woman presents with a new onset of uterine bleeding. A careful medical history finds that her abnormal menstrual bleeding is characterized by excessive bleeding at irregular intervals. An endometrial biopsy is obtained. The pathology report from this specimen makes the diagnosis of endometriosis. Which of the following histologic changes is most characteristic of this abnormality?",
+      "title": "A 40-year-old woman presents with a new onset of uterine bleeding. A careful medical history finds that her abnormal men-strual bleeding is characterized by excessive bleeding at irregular intervals. An endometrial biopsy is obtained. The pathology report from this specimen makes the diagnosis of endometriosis. Which of the following histologic changes is most characteristic of this abnormality?",
       "options": {
         "A": "Crowding of endometrial glands with budding and epithelial atypia",
         "B": "Lymphatic invasion by interlacing bundles of atypical spindle-shaped cells",
@@ -3337,7 +3347,7 @@
       "title": "A 25-year-old man presents with a testicular mass, which is resected and diagnosed as a yolk sac tumor. Which of the following sub-stances is most likely to be increased in this patient's serum as a result of secretion from the cells of this tumor?",
       "options": {
         "A": "Acid phosphatase",
-        "B": "a-fetoprotein (AFP)",
+        "B": "α-fetoprotein (AFP)",
         "C": "Alkaline phosphatase",
         "D": "Human chorionic gonadotropin (hCG)",
         "E": "Prostate-specific antigen (PSA)"
@@ -3349,7 +3359,7 @@
     },
     {
       "type": "single",
-      "title": "A 27-year-old woman presents to her gynecologist for a routine phys-ical examination that includes a Pap smear. Her sexual history includes many sexual partners beginning at an early age. Her cervix is painted with iodine and there is an area near the cervical os which does not stain with iodine. Several biopsies are obtained from this pale area, and a representative histologic section is seen in the picture below. This histologic section shows koilocytosis, which is most characteristic of infec-tion with which one of the following organisms? [图片]",
+      "title": "A 27-year-old woman presents to her gynecologist for a routine phys-ical examination that includes a Pap smear. Her sexual history includes many sexual partners beginning at an early age. Her cervix is painted with iodine and there is an area near the cervical os which does not stain with iodine. Several biopsies are obtained from this pale area, and a representative histologic section is seen in the picture below. This histologic section shows koilocytosis, which is most characteristic of infec-tion with which one of the following organisms?",
       "options": {
         "A": "Cytomegalovirus",
         "B": "Epstein-Barr virus",
@@ -3364,7 +3374,7 @@
     },
     {
       "type": "single",
-      "title": "Hormone receptors are b",
+      "title": "Hormone receptors are",
       "options": {
         "A": "Most useful in chosing patients for polyagent chemotherapy",
         "B": "Most useful in chosing patients for hormonal therapy",
@@ -3394,7 +3404,7 @@
     },
     {
       "type": "single",
-      "title": "Which one of the following numbered sequences best illustrates the postulated sequence of events that precedes the formation of an infiltrating squamous cell carcinoma of the cervix? (1=Carcinoma in situ; 2=Invasive carcinoma; 3=Mild dysplasia; 4=Moderate dysplasia; 5=Severe dysplasia; 6=Squamous metaplasia)",
+      "title": "Which one of the following numbered sequences best illustrates the postulated sequence of events that precedes the formation of an infiltrating squamous cell carcinoma of the cervix? (1=Carcinoma in situ； 2=Invasive carcinoma； 3=Mild dysplasia； 4=Moderate dysplasia； 5=Severe dysplasia； 6=Squamous metaplasia)",
       "options": {
         "A": "3, then 4, then 5, then 1, then 6, then 2",
         "B": "3, then 4, then 5, then 6, then 1, then 2",
@@ -3558,7 +3568,7 @@
     },
     {
       "type": "single",
-      "title": "The photomicrograph is of a section from a testis removed from the inguinal region of a 28-year-old man. Which of the following statements about this condition is false? [图片]",
+      "title": "The photomicrograph is of a section from a testis removed from the inguinal region of a 28-year-old man. Which of the following statements about this condition is false?",
       "options": {
         "A": "It is unilateral in the majority of cases",
         "B": "Seminoma is the most common malignancy to arise",
@@ -3603,7 +3613,7 @@
     },
     {
       "type": "single",
-      "title": "This photomicrograph is of a section from a testis removed from the inguinal region of a 25-year-old man. Which of the following statements about this condition is true? [图片]",
+      "title": "This photomicrograph is of a section from a testis removed from the inguinal region of a 25-year-old man. Which of the following statements about this condition is true?",
       "options": {
         "A": "It is bilateral in the majority of cases",
         "B": "Teratoma is the most common malignancy to arise",

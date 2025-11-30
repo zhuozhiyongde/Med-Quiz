@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 淋巴造血系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 淋巴造血系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 淋巴造血系统疾病",
   "questions": [
     {
       "type": "single",
@@ -19,13 +19,13 @@
     },
     {
       "type": "single",
-      "title": "III 期霍奇金淋巴瘤的病变范围为",
+      "title": "III期霍奇金淋巴瘤的病变范围为",
       "options": {
         "A": "限于一组淋巴结",
         "B": "病变限于隔的一侧",
         "C": "隔肌两侧的淋巴结、脾及邻近器官均累及",
         "D": "限于一个结外器官",
-        "E": "扩散到淋巴结外,累及一个或多个结外器官或组织"
+        "E": "扩散到淋巴结外，累及一个或多个结外器官或组织"
       },
       "answers": [
         "C"
@@ -109,7 +109,7 @@
     },
     {
       "type": "single",
-      "title": "霍奇金淋巴瘤伴有结节性淋巴细胞增生,肿瘤细胞为爆米花细胞的组织学类型是",
+      "title": "霍奇金淋巴瘤伴有结节性淋巴细胞增生，肿瘤细胞为爆米花细胞的组织学类型是",
       "options": {
         "A": "淋巴细胞为主型",
         "B": "结节硬化型",
@@ -124,7 +124,7 @@
     },
     {
       "type": "single",
-      "title": "可演化为B细胞淋巴瘤的霍奇金淋巴瘤组织学类型是",
+      "title": "可演化为B 细胞淋巴瘤的霍奇金淋巴瘤组织学类型是",
       "options": {
         "A": "淋巴细胞为主型",
         "B": "结节硬化型",
@@ -141,11 +141,11 @@
       "type": "single",
       "title": "符合霍奇金淋巴瘤预后好坏的排列顺序为",
       "options": {
-        "A": "混合细胞型–淋巴细胞消减型—结节硬化型—淋巴细胞为主型",
-        "B": "淋巴细胞消减型—混合细胞型—结节硬化型—淋巴细胞为主型",
-        "C": "淋巴细胞为主型—结节硬化型—淋巴细胞消减型—混合细胞型",
-        "D": "淋巴细胞为主型—结节硬化型—混合细胞型—淋巴细胞消减型",
-        "E": "淋巴细胞消减型—淋巴细胞为主型—结节硬化型—混合细胞型"
+        "A": "混合细胞型——淋巴细胞消减型——结节硬化型——淋巴细胞为主型",
+        "B": "淋巴细胞消减型——混合细胞型——结节硬化型——淋巴细胞为主型",
+        "C": "淋巴细胞为主型——结节硬化型——淋巴细胞消减型——混合细胞型",
+        "D": "淋巴细胞为主型——结节硬化型——混合细胞型——淋巴细胞消减型",
+        "E": "淋巴细胞消减型——淋巴细胞为主型—— 结节硬化型——混合细胞型"
       },
       "answers": [
         "D"
@@ -216,8 +216,8 @@
       "type": "single",
       "title": "R-S 细胞的组织起源是",
       "options": {
-        "A": "B细胞",
-        "B": "T细胞",
+        "A": "B 细胞",
+        "B": "T 细胞",
         "C": "单核细胞",
         "D": "NK 细胞",
         "E": "来源未确定"
@@ -229,13 +229,13 @@
     },
     {
       "type": "single",
-      "title": "II 期霍奇金淋巴瘤的病变范围是",
+      "title": "II期霍奇金淋巴瘤的病变范围是",
       "options": {
         "A": "限于一个淋巴结",
         "B": "病变限于膈的一侧",
         "C": "膈肌两侧的淋巴结、脾及邻近器官均累及",
         "D": "限于结外一个器官",
-        "E": "弥漫扩散到淋巴结外,累及一个或多个结外器官或组织"
+        "E": "弥漫扩散到淋巴结外，累及一个或多个结外器官或组织"
       },
       "answers": [
         "B"
@@ -249,7 +249,7 @@
         "A": "限于一个淋巴结或限于结外一个器官",
         "B": "病变限于膈的一侧",
         "C": "膈肌两侧的淋巴结、脾及邻近器官均累及",
-        "D": "弥漫扩散到淋巴结外,累及一个或多个结外器官或组织",
+        "D": "弥漫扩散到淋巴结外，累及一个或多个结外器官或组织",
         "E": "以上都不是"
       },
       "answers": [
@@ -259,12 +259,12 @@
     },
     {
       "type": "single",
-      "title": "IV 期霍奇金淋巴瘤的病变范围是",
+      "title": "IV期霍奇金淋巴瘤的病变范围是",
       "options": {
         "A": "限于一个淋巴结或限于结外一个器官",
         "B": "病变限于膈的一侧",
         "C": "膈肌两侧的淋巴结、脾及邻近器官均累及",
-        "D": "弥漫扩散到淋巴结外,累及一个或多个结外器官或组织",
+        "D": "弥漫扩散到淋巴结外，累及一个或多个结外器官或组织",
         "E": "以上都不是"
       },
       "answers": [
@@ -304,7 +304,7 @@
     },
     {
       "type": "single",
-      "title": "非霍奇金淋巴瘤工作分类中,高度恶性的是",
+      "title": "非霍奇金淋巴瘤工作分类中，高度恶性的是",
       "options": {
         "A": "裂细胞性",
         "B": "小无裂细胞性",
@@ -319,7 +319,7 @@
     },
     {
       "type": "single",
-      "title": "Lukes-CoIIins 的淋巴瘤分类依据是",
+      "title": "Lukes-Collins 的淋巴瘤分类依据是",
       "options": {
         "A": "瘤细胞形态",
         "B": "肿瘤累及范围",
@@ -336,8 +336,8 @@
       "type": "single",
       "title": "非霍奇金淋巴瘤中最常见的是",
       "options": {
-        "A": "T细胞来源",
-        "B": "B细胞来源",
+        "A": "T 细胞来源",
+        "B": "B 细胞来源",
         "C": "NK 细胞来源",
         "D": "组织细胞来源",
         "E": "Langerhans 细胞来源"
@@ -351,7 +351,7 @@
       "type": "single",
       "title": "符合非霍奇金淋巴瘤的描述是",
       "options": {
-        "A": "大多数为T细胞来源",
+        "A": "大多数为 T 细胞来源",
         "B": "不引起免疫功能紊乱",
         "C": "多为多克隆起源",
         "D": "确诊时常有播散",
@@ -366,7 +366,7 @@
       "type": "single",
       "title": "符合非霍奇金淋巴瘤的描述是",
       "options": {
-        "A": "大多数为T细胞来源",
+        "A": "大多数为 T 细胞来源",
         "B": "不引起免疫功能紊乱",
         "C": "多为单克隆起源",
         "D": "确诊时常有播散",
@@ -381,10 +381,10 @@
       "type": "single",
       "title": "B 细胞及其肿瘤的表型特征是",
       "options": {
-        "A": "CD2、CD3、CD4、CD7、CD8",
-        "B": "CD10、CD19、CD20",
-        "C": "CD16、CD56",
-        "D": "CD13、CD14、CD15",
+        "A": "CD2、 CD3、 CD4、 CD7、 CD8",
+        "B": "CD10、 CD19、 CD20",
+        "C": "CD16、 CD56",
+        "D": "CD13、 CD14、 CD15",
         "E": "CD34"
       },
       "answers": [
@@ -394,12 +394,12 @@
     },
     {
       "type": "single",
-      "title": "T细胞及其肿瘤的表型特征是",
+      "title": "T 细胞及其肿瘤的表型特征是",
       "options": {
-        "A": "CD2、CD3、CD4、CD7、CD8",
-        "B": "CD10、CD19、CD20",
-        "C": "CD16、CD56",
-        "D": "CD13、CD14、CD15",
+        "A": "CD2、 CD3、 CD4、 CD7、 CD8",
+        "B": "CD10、 CD19、 CD20",
+        "C": "CD16、 CD56",
+        "D": "CD13、 CD14、 CD15",
         "E": "CD34"
       },
       "answers": [
@@ -444,8 +444,8 @@
         "A": "肿瘤细胞形成滤泡样结构",
         "B": "由中心细胞构成",
         "C": "由中心母细胞构成",
-        "D": "有t(14;18) 引起 bcl-2 过表达",
-        "E": "由T细胞起源"
+        "D": "有 t(14;18)引起 bcl-2 过表达",
+        "E": "由 T 细胞起源"
       },
       "answers": [
         "E"
@@ -469,11 +469,11 @@
     },
     {
       "type": "single",
-      "title": "符合弥漫型大细胞性B细胞淋巴瘤的描述是",
+      "title": "符合弥漫型大细胞性 B 细胞淋巴瘤的描述是",
       "options": {
         "A": "肿瘤细胞呈中心母细胞样或免疫母细胞样",
         "B": "低度恶性",
-        "C": "多表达 CD2、CD3",
+        "C": "多表达 CD2、 CD3",
         "D": "多见于青年患者",
         "E": "对综合化疗不敏感"
       },
@@ -488,8 +488,8 @@
       "options": {
         "A": "儿童多见",
         "B": "多累及颈部淋巴结",
-        "C": "B细胞来源",
-        "D": "与EB病毒感染有关",
+        "C": "B 细胞来源",
+        "D": "与 EB 病毒感染有关",
         "E": "肿瘤细胞核分裂多见、伴有星天图像"
       },
       "answers": [
@@ -502,7 +502,7 @@
       "title": "不符合蕈样霉菌病的描述是",
       "options": {
         "A": "原发于皮肤",
-        "B": "T细胞来源",
+        "B": "T 细胞来源",
         "C": "形成红斑丘疹",
         "D": "肿瘤细胞核高度扭曲",
         "E": "不累及内脏"
@@ -517,10 +517,10 @@
       "title": "儿童多见的非霍奇金淋巴瘤是",
       "options": {
         "A": "小细胞性淋巴瘤",
-        "B": "弥漫性大性B细胞淋巴瘤",
+        "B": "弥漫性大性 B 细胞淋巴瘤",
         "C": "滤泡型淋巴瘤",
         "D": "Burkitt 淋巴瘤",
-        "E": "T免疫母细胞性淋巴瘤"
+        "E": "T 免疫母细胞性淋巴瘤"
       },
       "answers": [
         "D"
@@ -529,7 +529,7 @@
     },
     {
       "type": "single",
-      "title": "T细胞淋巴瘤多见于",
+      "title": "T 细胞淋巴瘤多见于",
       "options": {
         "A": "颌骨",
         "B": "颈部淋巴结",
@@ -546,9 +546,9 @@
       "type": "single",
       "title": "NK/T 细胞淋巴瘤的特点是",
       "options": {
-        "A": "与EB病毒感染无关",
+        "A": "与 EB 病毒感染无关",
         "B": "多累及颈部淋巴结",
-        "C": "多形性明显、核不规则的肿瘤细胞",
+        "C": "多形性明显、核不规则的肿瘤细胞侵犯血管壁，使血管呈洋葱皮状",
         "D": "放射治疗效果差",
         "E": "坏死不明显"
       },
@@ -577,8 +577,8 @@
       "title": "白血病是",
       "options": {
         "A": "造血干细胞的恶性肿瘤",
-        "B": "B细胞的恶性肿瘤",
-        "C": "T细胞的恶性肿瘤",
+        "B": "B 细胞的恶性肿瘤",
+        "C": "T 细胞的恶性肿瘤",
         "D": "组织细胞的恶性肿瘤",
         "E": "NK 细胞的恶性肿瘤"
       },
@@ -621,7 +621,7 @@
       "type": "single",
       "title": "与白血病的发生无关的因素是",
       "options": {
-        "A": "人类T细胞病毒",
+        "A": "人类 T 细胞病毒",
         "B": "电离辐射",
         "C": "氯霉素、保泰松",
         "D": "苯",
@@ -684,7 +684,7 @@
         "A": "外周血白细胞数目增高或减少",
         "B": "淋巴结肿大",
         "C": "脾肿大",
-        "D": "骨髓內原始和幼稚细胞大量堆积",
+        "D": "骨髓内原始和幼稚细胞大量堆积",
         "E": "肝肿大"
       },
       "answers": [
@@ -698,7 +698,7 @@
       "options": {
         "A": "起病急",
         "B": "可转变为慢性白血病",
-        "C": "骨髓中原始细胞超过30%",
+        "C": "骨髓中原始细胞超过 30%",
         "D": "可由慢性白血病急变而来",
         "E": "外周血中白细胞可低于正常"
       },
@@ -724,7 +724,7 @@
     },
     {
       "type": "single",
-      "title": "急性粒细胞性白血病时,瘤细胞在骨髓外浸润,聚集成肿块,称为",
+      "title": "急性粒细胞性白血病时，瘤细胞在骨髓外浸润，聚集成肿块，称为",
       "options": {
         "A": "棕色瘤",
         "B": "黄色瘤",
@@ -772,9 +772,9 @@
       "title": "不符合急性淋巴细胞性白血病的描述是",
       "options": {
         "A": "多见于儿童",
-        "B": "T细胞性多见",
-        "C": "根据 FAB 分类分为L1、L2、L3 三种类型",
-        "D": "L1 型分化最差",
+        "B": "T 细胞性多见",
+        "C": "根据 FAB 分类分为 L_1、 L_2、 L_3 三种类型",
+        "D": "L_1 型分化最差",
         "E": "无标记型少见"
       },
       "answers": [
@@ -788,9 +788,9 @@
       "options": {
         "A": "又称为急性髓性白血病",
         "B": "也称为急性非淋巴细胞性白血病",
-        "C": "根据 FAB 分类分为 M1~M7 七种类型",
-        "D": "M1~M3 型均为粒细胞分化的白血病",
-        "E": "M7 为单核细胞分化的白血病"
+        "C": "根据 FAB 分类分为 M_1 ~M_7 七种类型",
+        "D": "M_1 ~M_3 型均为粒细胞分化的白血病",
+        "E": "M_7 为单核细胞分化的白血病"
       },
       "answers": [
         "E"
@@ -799,7 +799,7 @@
     },
     {
       "type": "single",
-      "title": "急性白血病的骨髓组织的描述中,哪一项是不正确的?",
+      "title": "急性白血病的骨髓组织的描述中，哪一项是不正确的？",
       "options": {
         "A": "主要为原始细胞",
         "B": "巨核细胞增多",
@@ -829,7 +829,7 @@
     },
     {
       "type": "single",
-      "title": "脾脏在哪种白血病时肿大得最显著?",
+      "title": "脾脏在哪种白血病时肿大得最显著？",
       "options": {
         "A": "急性粒细胞性白血病",
         "B": "慢性粒细胞性白血病",
@@ -848,7 +848,7 @@
       "options": {
         "A": "慢性白血病多见",
         "B": "急性白血病可转变为慢性白血病",
-        "C": "急性白血病骨髓中原始细胞超过30%",
+        "C": "急性白血病骨髓中原始细胞超过 30%",
         "D": "慢性淋巴细胞性白血病容易发生急变",
         "E": "急性白血病外周血中白细胞通常低于正常"
       },
@@ -864,7 +864,7 @@
         "A": "起病缓慢",
         "B": "病程长",
         "C": "脾肿大",
-        "D": "骨髓內原始造血细胞增生",
+        "D": "骨髓内原始造血细胞增生",
         "E": "淋巴结肿大"
       },
       "answers": [
@@ -878,7 +878,7 @@
       "options": {
         "A": "滤泡性型淋巴瘤",
         "B": "弥漫型小细胞性淋巴瘤",
-        "C": "弥漫性大细胞性 B细胞淋巴瘤",
+        "C": "弥漫性大细胞性 B 细胞淋巴瘤",
         "D": "蕈样霉菌病",
         "E": "Burkitt 淋巴瘤"
       },
@@ -921,8 +921,8 @@
       "type": "single",
       "title": "绝大多数慢性淋巴细胞性白血病来源于",
       "options": {
-        "A": "B细胞",
-        "B": "NK细胞",
+        "A": "B 细胞",
+        "B": "NK 细胞",
         "C": "T4 细胞",
         "D": "T8 细胞",
         "E": "无标记细胞"
@@ -979,7 +979,7 @@
     },
     {
       "type": "single",
-      "title": "哪项不符合慢性淋巴细胞性白血病的淋巴结的病理变化?",
+      "title": "哪项不符合慢性淋巴细胞性白血病的淋巴结的病理变化？",
       "options": {
         "A": "瘤细胞为原始幼稚淋巴细胞",
         "B": "淋巴结结构破坏",
@@ -1071,7 +1071,7 @@
       "type": "single",
       "title": "不符合慢性白血病的描述是",
       "options": {
-        "A": "发展缓慢,病程长",
+        "A": "发展缓慢，病程长",
         "B": "开始化疗效果好",
         "C": "慢性粒细胞白血病晚期易发生急性变",
         "D": "慢性淋巴细胞性白血病较少发生急性变",
@@ -1116,9 +1116,9 @@
       "type": "single",
       "title": "毛细胞性白血病的特点是",
       "options": {
-        "A": "具有NK细胞标记",
+        "A": "具有 NK 细胞标记",
         "B": "胞浆含溶菌酶阳性",
-        "C": "具有T细胞标记",
+        "C": "具有 T 细胞标记",
         "D": "有树突状细胞特点",
         "E": "胞浆形成细长突起"
       },
@@ -1219,7 +1219,7 @@
     },
     {
       "type": "single",
-      "title": "关于恶性组织细胞增生症,下列哪一项是错误的?",
+      "title": "关于恶性组织细胞增生症，下列哪一项是错误的？",
       "options": {
         "A": "主要侵犯淋巴结、肝、脾、骨髓",
         "B": "一般至少有两个以上不同器官和组织同时受累",
@@ -1234,7 +1234,7 @@
     },
     {
       "type": "single",
-      "title": "组织细胞增生症 X时增生的细胞是",
+      "title": "组织细胞增生症 X 时增生的细胞是",
       "options": {
         "A": "淋巴细胞",
         "B": "单核细胞",
@@ -1249,9 +1249,9 @@
     },
     {
       "type": "single",
-      "title": "不符合 Letteret-Siwe 病的描述是",
+      "title": "不符合 Letterer-Siwe 病的描述是",
       "options": {
-        "A": "多见于3岁以下儿童",
+        "A": "多见于 3 岁以下儿童",
         "B": "发病急、进展快",
         "C": "肝、脾、淋巴结肿大",
         "D": "增生的 Langerhans 细胞分化差、异型性显著",
@@ -1264,7 +1264,7 @@
     },
     {
       "type": "single",
-      "title": "不符合 Hand-Schüller-Christian病的描述是",
+      "title": "不符合 Hand-Schüller-Christian 病的描述是",
       "options": {
         "A": "多见于幼儿",
         "B": "病变广泛",
@@ -1285,7 +1285,7 @@
         "B": "病变局限于骨",
         "C": "病灶多发",
         "D": "一般不累及内脏",
-        "E": "病变内大量 Langerhans 细胞增生,伴嗜酸粒细胞浸润"
+        "E": "病变内大量 Langerhans 细胞增生，伴嗜酸粒细胞浸润"
       },
       "answers": [
         "C"
@@ -1313,7 +1313,7 @@
       "options": {
         "A": "多发性溶骨性破坏",
         "B": "浆细胞的多克隆增生",
-        "C": "肿瘤细胞产生M蛋白",
+        "C": "肿瘤细胞产生 M 蛋白",
         "D": "患者血液中 M 蛋白增高",
         "E": "多数患者尿中 Bence-Jones 蛋白阳性"
       },
@@ -1329,7 +1329,7 @@
         "A": "多发性溶骨性破坏",
         "B": "浆细胞呈单克隆增生",
         "C": "肿瘤细胞产生 M 蛋白",
-        "D": "患者血液中 M蛋白增高",
+        "D": "患者血液中 M 蛋白增高",
         "E": "患者尿中 Bence-Jones 蛋白为重链"
       },
       "answers": [
@@ -1389,7 +1389,7 @@
         "A": "Association with EBV infection",
         "B": "Indolent clinical course",
         "C": "It is an immature T-cell lymphoma",
-        "D": "TCR genes are clonally rearranged inmost cases",
+        "D": "TCR genes are clonally rearranged in most cases",
         "E": "CD56 expression can be found in most cases"
       },
       "answers": [
@@ -1405,7 +1405,7 @@
         "B": "Association with EBV infection",
         "C": "Usually shows an indolent clinical course",
         "D": "This is a mature T-cell lymphoma",
-        "E": "This disease may disseminate to various sites[图片]"
+        "E": "This disease may disseminate to various sites"
       },
       "answers": [
         "C"
@@ -1425,7 +1425,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-1.jpg"
     },
     {
       "type": "single",
@@ -1440,7 +1441,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-1.jpg"
     },
     {
       "type": "single",
@@ -1549,7 +1551,7 @@
     },
     {
       "type": "single",
-      "title": "This is the microscopic appearance of a neoplasm in the colon found on examination of a 40-year-old man who had abdominal distension for several months. This appearance is most suggestive of which diagnosis?[图片]",
+      "title": "This is the microscopic appearance of a neoplasm in the colon found on examination of a 40-year-old man who had abdominal distension for several months. This appearance is most suggestive of which diagnosis?",
       "options": {
         "A": "MALT lymphoma",
         "B": "Diffuse large B-cell lymphoma",
@@ -1560,7 +1562,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-2.jpg"
     },
     {
       "type": "single",
@@ -1575,7 +1578,8 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-2.jpg"
     },
     {
       "type": "single",
@@ -1609,7 +1613,7 @@
     },
     {
       "type": "single",
-      "title": "A 35-year-old man who is a decorator, has had systematic lymphadenopathy for 6 months. He had a right cervical lymph node biopsy after there was no response to treatment with antibiotics. The histological findings are shown here. The cells express CD10, CD20 and BCL6. The most likely diagnosis is:[图片]",
+      "title": "A 35-year-old man who is a decorator, has had systematic lymphadenopathy for 6 months. He had a right cervical lymph node biopsy after there was no response to treatment with antibiotics. The histological findings are shown here. The cells express CD10, CD20 and BCL6. The most likely diagnosis is:",
       "options": {
         "A": "Follicular lymphoma",
         "B": "Burkitt lymphoma",
@@ -1620,7 +1624,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-3.jpg"
     },
     {
       "type": "single",
@@ -1635,7 +1640,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-3.jpg"
     },
     {
       "type": "single",
@@ -1851,11 +1857,11 @@
       "type": "single",
       "title": "Which of the following is the correct order for the prognosis of different types of classical Hodgkin lymphoma?",
       "options": {
-        "A": "NSCHL > LRCHL > MCCHL > LD-CHL",
-        "B": "LRCHL > NSCHL > MCCHL > LD-CHL",
-        "C": "LRCHL > NSCHL > LDCHL > MC-CHL",
-        "D": "LRCHL > MCCHL > NSCHL > LD-CHL",
-        "E": "MCCHL > LRCHL > NSCHL > LD-CHL"
+        "A": "NSCHL > LRCHL > MCCHL > LDCHL",
+        "B": "LRCHL > NSCHL > MCCHL > LDCHL",
+        "C": "LRCHL > NSCHL > LDCHL > MCCHL",
+        "D": "LRCHL > MCCHL > NSCHL > LDCHL",
+        "E": "MCCHL > LRCHL > NSCHL > LDCHL"
       },
       "answers": [
         "B"
@@ -1864,7 +1870,7 @@
     },
     {
       "type": "single",
-      "title": "The histological findings shown here at low power(left side) and high power (right side) microscopically were present in a cervical lymph node that was biopsied. The patient is a 33-year-old woman with low grade fever, night sweats, fatigue and non-tender cervical and supraclavicular lymphadenopathy. This appearance is most consistent with:[图片]",
+      "title": "The histological findings shown here at low power(left side) and high power (right side) microscopically were present in a cervical lymph node that was biopsied. The patient is a 33-year-old woman with low grade fever, night sweats, fatigue and non-tender cervical and supraclavicular lymphadenopathy. This appearance is most consistent with:",
       "options": {
         "A": "Chronic lymphocytic leukemia/small lymphocytic lymphoma",
         "B": "Nodular sclerosis classical Hodgkin lymphoma",
@@ -1875,11 +1881,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-4.jpg"
     },
     {
       "type": "single",
-      "title": "This microscopic appearance of an enlarged, non-tender right cervical lymph node found on physical examination of a 38-year-old man which had been present for several months is most suggestive of a diagnosis of:[图片]",
+      "title": "This microscopic appearance of an enlarged, non-tender right cervical lymph node found on physical examination of a 38-year-old man which had been present for several months is most suggestive of a diagnosis of:",
       "options": {
         "A": "Chronic lymphocytic leukemia/small lymphocytic lymphoma",
         "B": "Metastatic carcinoma",
@@ -1890,7 +1897,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/10-chap10-4.jpg"
     },
     {
       "type": "single",
@@ -1941,10 +1949,10 @@
       "type": "single",
       "title": "A 25-year-old male presents with an extensive destructive midfacial lesion. On biopsy, coagulative necrosis and an angiodestructive growth pattern can be observed. The immunophenotype is positive for CD3, CD56, Granzyme B, and TIA-1. Which of the following is most likely to be associated with this case?",
       "options": {
-        "A": "H.pylori infection",
+        "A": "H. pylori infection",
         "B": "EBV infection",
         "C": "Isolated inguinal lymphadenopathy",
-        "D": "Sjogren's syndrome",
+        "D": "Sjögren's syndrome",
         "E": "Hemophagocytic syndrome"
       },
       "answers": [
@@ -1984,7 +1992,7 @@
     },
     {
       "type": "single",
-      "title": "In which of the following lymphomas is the cytogenetic/molecular abnormality t(14;18)(q32;q21) usually detectable?",
+      "title": "In which of the following lymphomas is the cytogenetic/molecular abnormality t(14;18) (q32;q21) usually detectable?",
       "options": {
         "A": "T-cell prolymphocytic leukemia",
         "B": "Mantle cell lymphoma",
@@ -2089,7 +2097,7 @@
     },
     {
       "type": "single",
-      "title": "Molecular studies on an abdominal lymph node containing lymphoma demonstrate a t(8;14)(q24;q32) translocation. This is most compatible with which of the following diseases?",
+      "title": "Molecular studies on an abdominal lymph node containing lymphoma demonstrate a t(8;14) (q24;q32) translocation. This is most compatible with which of the following diseases?",
       "options": {
         "A": "Multiple myeloma",
         "B": "Mantle cell lymphoma",

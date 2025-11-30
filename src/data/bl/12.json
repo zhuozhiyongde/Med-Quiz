@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 神经系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 神经系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 神经系统疾病",
   "questions": [
     {
       "type": "single",
@@ -34,7 +34,7 @@
     },
     {
       "type": "single",
-      "title": "Wallerian 变性是指",
+      "title": "Wallerian变性是指",
       "options": {
         "A": "神经元变性",
         "B": "神经元尼氏小体溶解",
@@ -49,7 +49,7 @@
     },
     {
       "type": "single",
-      "title": "小胶质细胞吞噬变性、坏死神经细胞的现象,被称为",
+      "title": "小胶质细胞吞噬变性、坏死神经细胞的现象，被称为",
       "options": {
         "A": "卫星现象",
         "B": "嗜神经细胞现象",
@@ -154,7 +154,7 @@
     },
     {
       "type": "single",
-      "title": "颅内压增高是指侧卧位时,颅内压持续超过",
+      "title": "颅内压增高是指侧卧位时，颅内压持续超过",
       "options": {
         "A": "0.5 kPa",
         "B": "1.0 kPa",
@@ -246,11 +246,11 @@
       "type": "single",
       "title": "脑血流自动调节机制发生障碍的收缩压是",
       "options": {
-        "A": "< 50mmHg",
-        "B": "< 60mmHg",
-        "C": "< 70mmHg",
-        "D": "< 80mmHg",
-        "E": "< 90mmHg"
+        "A": "< 50 mmHg",
+        "B": "< 60 mmHg",
+        "C": "< 70 mmHg",
+        "D": "< 80 mmHg",
+        "E": "< 90 mmHg"
       },
       "answers": [
         "A"
@@ -261,11 +261,11 @@
       "type": "single",
       "title": "缺血缺氧引起脑组织发生病理组织学改变的时间是",
       "options": {
-        "A": "> 2h",
-        "B": "> 4h",
-        "C": "> 6h",
-        "D": "> 12h",
-        "E": "> 24h"
+        "A": "> 2 h",
+        "B": "> 4 h",
+        "C": "> 6 h",
+        "D": "> 12 h",
+        "E": "> 24 h"
       },
       "answers": [
         "D"
@@ -379,7 +379,7 @@
     },
     {
       "type": "single",
-      "title": "据世界卫生组织的分类,属于 III 级的星形胶质细胞瘤是",
+      "title": "据世界卫生组织的分类，属于III级的星形胶质细胞瘤是",
       "options": {
         "A": "纤维型星形胶质细胞瘤",
         "B": "肥胖型星形胶质细胞瘤",
@@ -514,7 +514,7 @@
     },
     {
       "type": "single",
-      "title": "Devic 病的脱髓鞘病变特点是",
+      "title": "Devic病的脱髓鞘病变特点是",
       "options": {
         "A": "主要累及视神经和脊髓",
         "B": "主要累及脑室周围白质",
@@ -529,7 +529,7 @@
     },
     {
       "type": "single",
-      "title": "Balo 病的病变特点是",
+      "title": "Balo病的病变特点是",
       "options": {
         "A": "小静脉周围淋巴细胞为主的炎细胞浸润",
         "B": "脱髓鞘带和正常髓鞘带呈同心圆分层排列",
@@ -564,7 +564,7 @@
         "A": "主要累及视神经和脊髓",
         "B": "主要累及脑室周围白质",
         "C": "主要累及脑干白质",
-        "D": "CNS 弥漫受累",
+        "D": "CNS弥漫受累",
         "E": "主要累及小脑白质"
       },
       "answers": [
@@ -589,12 +589,12 @@
     },
     {
       "type": "single",
-      "title": "有关流行性乙型脑炎的主要病理变化,哪项是错误的?",
+      "title": "有关流行性乙型脑炎的主要病理变化，哪项是错误的？",
       "options": {
-        "A": "神经细胞的变性,坏死",
+        "A": "神经细胞的变性，坏死",
         "B": "筛状软化灶形成",
         "C": "淋巴细胞套袖状浸润",
-        "D": "病变以小脑,延髓和桥脑最严重",
+        "D": "病变以小脑，延髓和桥脑最严重",
         "E": "胶质结节"
       },
       "answers": [
@@ -604,7 +604,7 @@
     },
     {
       "type": "single",
-      "title": "流行性乙型脑炎的病变,下列哪个部位最为轻微?",
+      "title": "流行性乙型脑炎的病变，下列哪个部位最为轻微？",
       "options": {
         "A": "大脑皮质",
         "B": "基底节",
@@ -670,7 +670,7 @@
         "B": "冬春发病",
         "C": "可发生华-弗综合征",
         "D": "可引起智力低下",
-        "E": "克氏征阳性"
+        "E": "克氏症阳性"
       },
       "answers": [
         "D"
@@ -696,11 +696,11 @@
       "type": "single",
       "title": "流行性乙型脑炎的病原体属于",
       "options": {
-        "A": "RNA 病毒",
+        "A": "RNA病毒",
         "B": "细菌",
         "C": "真菌",
         "D": "支原体",
-        "E": "DNA 病毒"
+        "E": "DNA病毒"
       },
       "answers": [
         "A"
@@ -769,12 +769,12 @@
     },
     {
       "type": "single",
-      "title": "有关急性暴发性流行性脑脊髓膜炎的描述,哪项不正确?",
+      "title": "有关急性暴发性流行性脑脊髓膜炎的描述，哪项不正确？",
       "options": {
-        "A": "起病急,进展快,死亡率高",
+        "A": "起病急，进展快，死亡率高",
         "B": "脑膜病变重",
-        "C": "常伴中毒性休克和 DIC",
-        "D": "由脑膜炎双球菌释放的內毒素所致",
+        "C": "常伴中毒性休克和DIC",
+        "D": "由脑膜炎双球菌释放的内毒素所致",
         "E": "常伴肾上腺皮质出血和功能衰竭"
       },
       "answers": [
@@ -784,12 +784,12 @@
     },
     {
       "type": "single",
-      "title": "有关暴发性脊髓脑膜炎时的临床病理表现的描述,哪一项是错误的?",
+      "title": "有关暴发性脊髓脑膜炎时的临床病理表现的描述，哪一项是错误的？",
       "options": {
         "A": "皮肤粘膜广泛淤点及淤斑",
         "B": "双侧肾上腺广泛出血",
         "C": "蛛网膜下腔充满脓性渗出物",
-        "D": "起病急骤,高热,头痛,呕吐",
+        "D": "起病急骤，高热，头痛，呕吐",
         "E": "伴有周围循环衰竭"
       },
       "answers": [
@@ -831,11 +831,11 @@
       "type": "single",
       "title": "流行性脑脊髓膜炎的病原体属于",
       "options": {
-        "A": "RNA 病毒",
+        "A": "RNA病毒",
         "B": "细菌",
         "C": "真菌",
         "D": "支原体",
-        "E": "DNA 病毒"
+        "E": "DNA病毒"
       },
       "answers": [
         "B"
@@ -996,11 +996,11 @@
       "type": "single",
       "title": "脊髓灰质炎的病原体属于",
       "options": {
-        "A": "RNA 病毒",
+        "A": "RNA病毒",
         "B": "细菌",
         "C": "真菌",
         "D": "支原体",
-        "E": "DNA 病毒"
+        "E": "DNA病毒"
       },
       "answers": [
         "A"
@@ -1073,7 +1073,7 @@
       "options": {
         "A": "小胶质细胞增生",
         "B": "脑水肿",
-        "C": "神经细胞胞浆内出现 Negri 小体",
+        "C": "神经细胞胞浆内出现Negri小体",
         "D": "神经细胞变性、坏死",
         "E": "血管周淋巴细胞为主的炎细胞浸润"
       },
@@ -1084,7 +1084,7 @@
     },
     {
       "type": "single",
-      "title": "Negri 小体内含有的病毒颗粒是",
+      "title": "Negri小体内含有的病毒颗粒是",
       "options": {
         "A": "单纯疱疹病毒",
         "B": "乳头瘤病毒",
@@ -1101,8 +1101,8 @@
       "type": "single",
       "title": "引起海绵状脑病的病原体是",
       "options": {
-        "A": "DNA 病毒",
-        "B": "RNA 病毒",
+        "A": "DNA病毒",
+        "B": "RNA病毒",
         "C": "慢病毒",
         "D": "朊蛋白",
         "E": "逆转录病毒"
@@ -1116,11 +1116,11 @@
       "type": "single",
       "title": "不符合朊蛋白的描述是",
       "options": {
-        "A": "PrP是神经元的跨膜蛋白",
-        "B": "PrPsc 是ẞ折叠构型的 PrP",
-        "C": "PrPsc 具有感染性",
-        "D": "PrPsc 可被蛋白酶消化",
-        "E": "PrPsc 可被漂白粉消毒"
+        "A": "PrP^c是神经元的跨膜蛋白",
+        "B": "PrP^sc是β折叠构型的PrP",
+        "C": "PrP^sc具有感染性",
+        "D": "PrP^sc可被蛋白酶消化",
+        "E": "PrP^sc可被漂白粉消毒"
       },
       "answers": [
         "D"
@@ -1129,7 +1129,7 @@
     },
     {
       "type": "single",
-      "title": "人类 Prion 病的病变特点是",
+      "title": "人类Prion病的病变特点是",
       "options": {
         "A": "神经细胞固缩",
         "B": "噬神经细胞现象",
@@ -1144,7 +1144,7 @@
     },
     {
       "type": "single",
-      "title": "Alzheimer 病常发生于",
+      "title": "Alzheimer病常发生于",
       "options": {
         "A": "30岁以后",
         "B": "40岁以后",
@@ -1161,10 +1161,10 @@
       "type": "single",
       "title": "老年人最常见的神经变性疾病是",
       "options": {
-        "A": "Alzheimer 病",
+        "A": "Alzheimer病",
         "B": "Pick病",
-        "C": "Lewy body 病",
-        "D": "Parkinson 病",
+        "C": "Lewy body病",
+        "D": "Parkinson病",
         "E": "肌萎缩性侧索硬化"
       },
       "answers": [
@@ -1174,13 +1174,13 @@
     },
     {
       "type": "single",
-      "title": "不属于 Alzheimer 病的病理变化是",
+      "title": "不属于Alzheimer病的病理变化是",
       "options": {
         "A": "老年斑",
         "B": "神经原纤维缠结",
-        "C": "Hirano 小体",
+        "C": "Hirano小体",
         "D": "颗粒空泡变性",
-        "E": "Lewy 小体"
+        "E": "Lewy小体"
       },
       "answers": [
         "E"
@@ -1189,13 +1189,13 @@
     },
     {
       "type": "single",
-      "title": "属于 Parkinson 病的病理变化是",
+      "title": "属于Parkinson病的病理变化是",
       "options": {
         "A": "老年斑",
         "B": "神经原纤维缠结",
-        "C": "Hirano 小体",
+        "C": "Hirano小体",
         "D": "颗粒空泡变性",
-        "E": "Lewy 小体"
+        "E": "Lewy小体"
       },
       "answers": [
         "E"
@@ -1222,10 +1222,10 @@
       "title": "引起神经原纤维缠结的主要原因是",
       "options": {
         "A": "淀粉样物质沉积",
-        "B": "t蛋白过度磷酸化",
+        "B": "τ蛋白过度磷酸化",
         "C": "早老蛋白基因突变",
         "D": "巨球蛋白基因突变",
-        "E": "Prion 感染"
+        "E": "Prion感染"
       },
       "answers": [
         "B"
@@ -1234,9 +1234,9 @@
     },
     {
       "type": "single",
-      "title": "不属于 Alzheimer 病的病理变化是",
+      "title": "不属于Alzheimer病的病理变化是",
       "options": {
-        "A": "Hirano 小体",
+        "A": "Hirano小体",
         "B": "神经原纤维缠结",
         "C": "颗粒空泡变性",
         "D": "神经细胞胞浆及神经毡空泡形成",
@@ -1253,9 +1253,9 @@
       "options": {
         "A": "微丝蛋白",
         "B": "微管蛋白",
-        "C": "B淀粉样物质",
+        "C": "β淀粉样物质",
         "D": "胶质纤维酸性蛋白",
-        "E": "S-100 蛋白"
+        "E": "S-100蛋白"
       },
       "answers": [
         "C"
@@ -1264,7 +1264,7 @@
     },
     {
       "type": "single",
-      "title": "Parkinson 病脑损害的部位是",
+      "title": "Parkinson病脑损害的部位是",
       "options": {
         "A": "大脑皮质",
         "B": "基底节",
@@ -1279,7 +1279,7 @@
     },
     {
       "type": "single",
-      "title": "Parkinson 病的特征性病理变化是",
+      "title": "Parkinson病的特征性病理变化是",
       "options": {
         "A": "黑质多巴胺细胞脱失",
         "B": "额颞叶萎缩",
@@ -1309,7 +1309,7 @@
     },
     {
       "type": "single",
-      "title": "A 38-year-old man with AIDS presents with decreasing mental status. Cere-brospinal fluid (CSF) is stained with a mu-cicarmine stain and India ink. The muci-carmine stain reveals numerous yeast that stain bright red. The India ink staining shows that these yeast have a capsule. Which of the following is the most likely diagnosis?",
+      "title": "A 38-year-old man with AIDS presents with decreasing mental status. Cerebrospinal fluid (CSF) is stained with a mucicarmine stain and India ink. The mucicarmine stain reveals numerous yeast that stain bright red. The India ink staining shows that these yeast have a capsule. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Chromomycosis",
         "B": "Coccidioidomycosis",
@@ -1324,7 +1324,7 @@
     },
     {
       "type": "single",
-      "title": "A 45-year-old woman presents with uni-lateral tinnitus and unilateral hearing loss. Physical examination reveals facial weak-ness and loss of corneal reflex on the same side as the tinnitus and hearing loss. Where would a tumor need to be located to produce these clinical signs and symp-toms?",
+      "title": "A 45-year-old woman presents with unilateral tinnitus and unilateral hearing loss. Physical examination reveals facial weakness and loss of corneal reflex on the same side as the tinnitus and hearing loss. Where would a tumor need to be located to produce these clinical signs and symptoms?",
       "options": {
         "A": "Anterior horn of the spinal cord",
         "B": "Anterior pituitary",
@@ -1339,11 +1339,11 @@
     },
     {
       "type": "single",
-      "title": "A 38-year-old woman presents with se-vere headaches which show increasing frequency. A CT scan of her head shows a 2-cm mass attached to the dura in her right frontal area. Which of the following his-tologic changes is most likely to be seen in a biopsy specimen taken from this tumor?",
+      "title": "A 38-year-old woman presents with severe headaches which show increasing frequency. A CT scan of her head shows a 2-cm mass attached to the dura in her right frontal area. Which of the following histologic changes is most likely to be seen in a biopsy specimen taken from this tumor?",
       "options": {
         "A": "Antoni A areas with Verocay bodies",
         "B": "A whorled pattern with psammoma bodies",
-        "C": "Endothelial proliferation with serpen-tine areas of necrosis",
+        "C": "Endothelial proliferation with serpentine areas of necrosis",
         "D": "Fried-egg appearance of tumor cells without necrosis",
         "E": "True rosettes and pseudorosettes"
       },
@@ -1354,12 +1354,12 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is the characteris-tic pathological change of prion disease?",
+      "title": "Which of the following is the characteristic pathological change of prion disease?",
       "options": {
         "A": "Presence of vacuoles within neuropil and cell bodies in gray matter",
         "B": "Coagulation necrosis",
         "C": "Red neurons",
-        "D": "Condensation of nuclear material (py-knosis)",
+        "D": "Condensation of nuclear material (pyknosis)",
         "E": "Loss of nuclear staining (karyolosis)"
       },
       "answers": [
@@ -1384,7 +1384,7 @@
     },
     {
       "type": "single",
-      "title": "Within the central nervous system, which of the following regions is most suscepti-ble to hypoxic-ischemic injury?",
+      "title": "Within the central nervous system, which of the following regions is most susceptible to hypoxic-ischemic injury?",
       "options": {
         "A": "Arterial border zones",
         "B": "Cerebellum",
@@ -1429,11 +1429,11 @@
     },
     {
       "type": "single",
-      "title": "Which of the following descriptions is in-correct regarding tonsillar herniation:",
+      "title": "Which of the following descriptions is incorrect regarding tonsillar herniation:",
       "options": {
         "A": "A life threatening herniation",
         "B": "Brain stem compression",
-        "C": "Hemorrhagic lesions in the midbrainand pons",
+        "C": "Hemorrhagic lesions in the midbrain and pons",
         "D": "Respiratory inhibition",
         "E": "Impairment of ocular movement on the same side as the lesion"
       },
@@ -1444,7 +1444,7 @@
     },
     {
       "type": "single",
-      "title": "A 55-year-old woman presents with a new onset of seizure activity. Computerized tomography (CT) scans and skull x rays demonstrate a mass in the right cerebral hemisphere that is markedly calcific. The mass is removed and histologic sections reveal sheets of cells with clear halos (“fried-egg” appearance) and scattered calcifications. What type of tumor is does this woman have?",
+      "title": "A 55-year-old woman presents with a new onset of seizure activity. Computerized tomography (CT) scans and skull x~rays demonstrate a mass in the right cerebral hemisphere that is markedly calcific. The mass is removed and histologic sections reveal sheets of cells with clear halos ( \"fried-egg\" appearance) and scattered calcifications. What type of tumor is does this woman have?",
       "options": {
         "A": "Oligodendroglima",
         "B": "Meningioma",
@@ -1489,7 +1489,7 @@
     },
     {
       "type": "single",
-      "title": "Physical examination of a 34-year-old woman with a new onset of intentionmal-dinisong tremor finds medial rectus palsy on attempted lateral gaze in the adducting eye and monocular nystagmus in the abducting eye with convergence. Which of the following is the most likely cause of these clinical findings?",
+      "title": "Physical examination of a 34-year-old woman with a new onset of intentionmaldinisong tremor finds medial rectus palsy on attempted lateral gaze in the adducting eye and monocular nystagmus in the abducting eye with convergence. Which of the following is the most likely cause of these clinical findings?",
       "options": {
         "A": "An apical lung cancer",
         "B": "A pituitary adenoma",
@@ -1504,7 +1504,7 @@
     },
     {
       "type": "single",
-      "title": "A 62-year-old man presents with rapidlyprogressive dementia and dies. At autopsy, marked spongiform degeneration of the brain is found. The familial form of this disorder is associated with mutations of. what gene?",
+      "title": "A 62-year-old man presents with rapidly progressive dementia and dies. At autopsy, marked spongiform degeneration of the brain is found. The familial form of this disorder is associated with mutations of what gene?",
       "options": {
         "A": "FGFR3",
         "B": "PRNP",
@@ -1568,9 +1568,9 @@
       "options": {
         "A": "Creutzfeldt-Jakob disease (CJD)",
         "B": "Kuru disease",
-        "C": "Gerstmann-Straussler syndrome",
+        "C": "Gerstmann-Sträussler syndrome",
         "D": "Mad cow disease",
-        "E": "Guillain-Barre syndrome"
+        "E": "Guillain-Barré syndrome"
       },
       "answers": [
         "E"
@@ -1626,7 +1626,7 @@
       "type": "single",
       "title": "Which of the following is the major component of neurofibrillary tangles:",
       "options": {
-        "A": "ẞ-amyloid (Aẞ)",
+        "A": "β-amyloid (Aβ)",
         "B": "Hyperphosphorylated tau protein",
         "C": "Apoprotein E",
         "D": "Glial filament acidic protein",
@@ -1718,7 +1718,7 @@
       "options": {
         "A": "Neurofilaments",
         "B": "Microtubule protein",
-        "C": "ẞ-amyloid substance",
+        "C": "β-amyloid substance",
         "D": "Glial filament acidic protein",
         "E": "S-100 protein"
       },

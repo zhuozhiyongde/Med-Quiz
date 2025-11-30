@@ -1,10 +1,10 @@
 {
   "title": "病理学 - 心血管疾病",
-  "description": "本解析依据「病理学题库」整理 - 心血管疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 心血管疾病",
   "questions": [
     {
       "type": "single",
-      "title": "关于风湿病的叙述,不正确的是",
+      "title": "关于风湿病的叙述，不正确的是",
       "options": {
         "A": "是累及全身结缔组织的变态反应性疾病",
         "B": "以心脏病变对患者危害最大",
@@ -19,12 +19,12 @@
     },
     {
       "type": "single",
-      "title": "关于风湿病的叙述,错误的是",
+      "title": "关于风湿病的叙述，错误的是",
       "options": {
         "A": "多见于寒冷地区",
-        "B": "早期咽拭子培养,溶血性链球菌阳性率高达70%~90%",
-        "C": "抗生素的广泛应用,降低了风湿病的发病率",
-        "D": "抗O滴度升高提示本病是由于溶血性链球菌直接作用所致",
+        "B": "早期咽拭子培养，溶血性链球菌阳性率高达 70% ~90%",
+        "C": "抗生素的广泛应用，降低了风湿病的发病率",
+        "D": "抗 O 滴度升高提示本病是由于溶血性链球菌直接作用所致",
         "E": "是一种结缔组织病"
       },
       "answers": [
@@ -79,11 +79,11 @@
     },
     {
       "type": "single",
-      "title": "风湿性病变中,对机体危害最大的是",
+      "title": "风湿性病变中，对机体危害最大的是",
       "options": {
         "A": "反复发作的风湿性关节炎",
         "B": "反复发作的环形红斑",
-        "C": "反复发作的风湿性心內膜炎",
+        "C": "反复发作的风湿性心内膜炎",
         "D": "风湿性皮下结节",
         "E": "风湿性动脉炎"
       },
@@ -96,7 +96,7 @@
       "type": "single",
       "title": "不符合风湿病的病因和发病机制的描述是",
       "options": {
-        "A": "抗生素的广泛应用,降低了风湿病的发病率",
+        "A": "抗生素的广泛应用，降低了风湿病的发病率",
         "B": "患者血清抗链球菌抗体滴度明显升高",
         "C": "多见于热带地区",
         "D": "发病前多先有急性扁桃体炎和咽峡炎",
@@ -124,7 +124,7 @@
     },
     {
       "type": "single",
-      "title": "马氏斑(Mac Callum's Patch)位于",
+      "title": "马氏斑（Mac Callum's Patch）位于",
       "options": {
         "A": "右心房",
         "B": "左心房",
@@ -139,7 +139,7 @@
     },
     {
       "type": "single",
-      "title": "关于风湿性心內膜炎的描述,正确的是",
+      "title": "关于风湿性心内膜炎的描述，正确的是",
       "options": {
         "A": "瓣膜赘生物由血小板纤维素组成",
         "B": "瓣膜赘生物易脱落",
@@ -184,7 +184,7 @@
     },
     {
       "type": "single",
-      "title": "有关风湿性心脏病的描述,错误的是",
+      "title": "有关风湿性心脏病的描述，错误的是",
       "options": {
         "A": "常引起二尖瓣增厚、粘连",
         "B": "常引起肺动脉瓣增厚、粘连",
@@ -199,7 +199,7 @@
     },
     {
       "type": "single",
-      "title": "关于慢性风湿性瓣膜病的描述,错误的是",
+      "title": "关于慢性风湿性瓣膜病的描述，错误的是",
       "options": {
         "A": "瓣膜硬化",
         "B": "瓣膜粘连",
@@ -214,7 +214,7 @@
     },
     {
       "type": "single",
-      "title": "风湿性心內膜炎疣状赘生物的成分是",
+      "title": "风湿性心内膜炎疣状赘生物的成分是",
       "options": {
         "A": "血小板和纤维素",
         "B": "纤维组织",
@@ -268,13 +268,13 @@
         "E": "小动脉肌层肥厚"
       },
       "answers": [
-        "C"
+        "D"
       ],
       "explanation": ""
     },
     {
       "type": "single",
-      "title": "女性,13岁,一月前患扁桃腺炎,经治疗痊愈。1周来患者发热,关节肿胀。心尖区闻及舒张期 II~III 级杂音、心包摩擦音。血白细胞升高,血沉加快。抗O滴度升高。符合患者心脏疾病的描述是",
+      "title": "女性，13 岁，一月前患扁桃腺炎，经治疗痊愈。 1 周来患者发热，关节肿胀。心尖区闻及舒张期II ~III级杂音、心包摩擦音。血白细胞升高，血沉加快。抗 O 滴度升高。符合患者心脏疾病的描述是",
       "options": {
         "A": "病毒性心肌炎",
         "B": "细菌性心肌炎",
@@ -289,7 +289,7 @@
     },
     {
       "type": "single",
-      "title": "女性,13岁,一月前患扁桃腺炎,经治疗痊愈。1周来患者发热,关节肿胀。心尖区闻及舒张期 II~III 级杂音、心包摩擦音。血白细胞升高,血沉加快。抗O滴度升高。符合患者疾病的描述是",
+      "title": "女性，13 岁，一月前患扁桃腺炎，经治疗痊愈。 1 周来患者发热，关节肿胀。心尖区闻及舒张期II ~III级杂音、心包摩擦音。血白细胞升高，血沉加快。抗 O 滴度升高。符合患者疾病的描述是",
       "options": {
         "A": "关节病变属纤维素性炎",
         "B": "心外膜病变为浆液性纤维素性炎",
@@ -304,7 +304,7 @@
     },
     {
       "type": "single",
-      "title": "女性,13岁,一月前患扁桃腺炎,经治疗痊愈。1周来患者发热,关节肿胀。心尖区闻及舒张期 II~III 级杂音、心包摩擦音。血白细胞升高,血沉加快。抗O滴度升高。符合患者心脏疾病的描述是",
+      "title": "女性，13 岁，一月前患扁桃腺炎，经治疗痊愈。 1 周来患者发热，关节肿胀。心尖区闻及舒张期II ~III级杂音、心包摩擦音。血白细胞升高，血沉加快。抗 O 滴度升高。符合患者心脏疾病的描述是",
       "options": {
         "A": "亚急性细菌性心内膜炎",
         "B": "二尖瓣狭窄",
@@ -368,7 +368,7 @@
       "options": {
         "A": "金黄色葡萄球菌",
         "B": "草绿色链球菌",
-        "C": "β溶血性链球菌",
+        "C": "β 溶血性链球菌",
         "D": "大肠杆菌",
         "E": "绿脓杆菌"
       },
@@ -383,9 +383,9 @@
       "options": {
         "A": "由致病力强的细菌引起",
         "B": "发生于已有病变的心瓣膜",
-        "C": "瓣膜赘生物较大,污秽,易脱落",
+        "C": "瓣膜赘生物较大，污秽，易脱落",
         "D": "多引起非感染性梗死",
-        "E": ". 皮肤可见 Osler 结节"
+        "E": "皮肤可见 Osler 结节"
       },
       "answers": [
         "A"
@@ -409,7 +409,7 @@
     },
     {
       "type": "single",
-      "title": "女性,14岁,室间隔缺损患者。拔牙后1月来,出现发热(37℃~38℃),食欲下降,消瘦、贫血。查体:心前区闻及杂音,心脏轻度增大,皮肤有散在出血点,甲下线状出血。蛋白尿(+)。符合该患者疾病的描述是",
+      "title": "女性，14 岁，室间隔缺损患者。拔牙后 1 月来，出现发热（37°C ~38°C），食欲下降，消瘦、贫血。查体：心前区闻及杂音，心脏轻度增大，皮肤有散在出血点，甲下线状出血。蛋白尿（+）。符合该患者疾病的描述是",
       "options": {
         "A": "急性细菌性心内膜炎",
         "B": "亚急性细菌性心内膜炎",
@@ -424,7 +424,7 @@
     },
     {
       "type": "single",
-      "title": "女性,14岁,室间隔缺损患者。拔牙后1月来,出现发热(37℃~38℃),食欲下降,消瘦、贫血。查体:心前区闻及杂音,心脏轻度增大,皮肤有散在出血点,甲下线状出血。蛋白尿(+)。符合该患者肾脏疾病的描述是",
+      "title": "女性，14 岁，室间隔缺损患者。拔牙后 1 月来，出现发热（37°C ~38°C），食欲下降，消瘦、贫血。查体：心前区闻及杂音，心脏轻度增大，皮肤有散在出血点，甲下线状出血。蛋白尿（+）。符合该患者肾脏疾病的描述是",
       "options": {
         "A": "弥漫性毛细血管增生性肾小球肾炎",
         "B": "新月体性肾小球肾炎",
@@ -499,7 +499,7 @@
     },
     {
       "type": "single",
-      "title": "急性细菌性心內膜炎的瓣膜赘生物中,不具有的成分是",
+      "title": "急性细菌性心内膜炎的瓣膜赘生物中，不具有的成分是",
       "options": {
         "A": "大量中性白细胞",
         "B": "坏死组织",
@@ -535,7 +535,7 @@
         "B": "常伴有败血症",
         "C": "发生于已有病变的心瓣膜",
         "D": "可引起乳头肌断裂",
-        "E": "可引起心瓣膜穿孔,溃疡形成"
+        "E": "可引起心瓣膜穿孔，溃疡形成"
       },
       "answers": [
         "C"
@@ -544,7 +544,7 @@
     },
     {
       "type": "single",
-      "title": "女性,26岁,既往体健。正常产后1周来,阴道分泌物增多,伴有臭味,近3天来高热、寒战、神志昏迷。白细胞2万/mm3,肝、脾肿大,心脏左心增大,心前区可闻及收缩期杂音。皮肤有多形淤斑,有的可见脓点。符合该患者疾病的描述是",
+      "title": "女性，26 岁，既往体健。正常产后 1 周来，阴道分泌物增多，伴有臭味，近 3 天来高热、寒战、神志昏迷。白细胞 2 万/mm^3，肝、脾肿大，心脏左心增大，心前区可闻及收缩期杂音。皮肤有多形淤斑，有的可见脓点。符合该患者疾病的描述是",
       "options": {
         "A": "毒血症",
         "B": "细菌血症",
@@ -559,10 +559,10 @@
     },
     {
       "type": "single",
-      "title": "女性,26岁,既往体健。正常产后1周来,阴道分泌物增多,伴有臭味,近3天来高热、寒战、神志昏迷。白细胞2万/mm³,肝、脾肿大,心脏左心增大,心前区可闻及收缩期杂音。皮肤有多形淤斑,有的可见脓点。不符合该患者心內膜病变的描述是",
+      "title": "女性，26 岁，既往体健。正常产后 1 周来，阴道分泌物增多，伴有臭味，近 3 天来高热、寒战、神志昏迷。白细胞 2 万/mm^3，肝、脾肿大，心脏左心增大，心前区可闻及收缩期杂音。皮肤有多形淤斑，有的可见脓点。不符合该患者心内膜病变的描述是",
       "options": {
-        "A": "心內膜赘生物体积大、污秽、松脆",
-        "B": "心內膜赘生物内大量细菌",
+        "A": "心内膜赘生物体积大、污秽、松脆",
+        "B": "心内膜赘生物内大量细菌",
         "C": "心内膜赘生物由血小板和纤维素构成",
         "D": "可引起瓣膜穿孔",
         "E": "原本健康的瓣膜受累"
@@ -574,12 +574,12 @@
     },
     {
       "type": "single",
-      "title": "不符合非感染性內膜炎的描述是",
+      "title": "不符合非感染性内膜炎的描述是",
       "options": {
         "A": "可见于慢性消耗性疾病",
         "B": "可见于系统性红斑狼疮",
         "C": "赘生物内可见血小板和纤维素",
-        "D": "赘生物內可有纤维素样坏死",
+        "D": "赘生物内可有纤维素样坏死",
         "E": "赘生物内可有细菌团"
       },
       "answers": [
@@ -589,7 +589,7 @@
     },
     {
       "type": "single",
-      "title": "不符合真菌性心內膜炎的描述是",
+      "title": "不符合真菌性心内膜炎的描述是",
       "options": {
         "A": "长期应用抗生素",
         "B": "长期应用激素",
@@ -606,10 +606,10 @@
       "type": "single",
       "title": "二尖瓣关闭不全不引起",
       "options": {
-        "A": "左心室肥大,扩张",
-        "B": "右心室肥大,扩张",
-        "C": "左心房肥大,扩张",
-        "D": "右心房肥大,扩张",
+        "A": "左心室肥大，扩张",
+        "B": "右心室肥大，扩张",
+        "C": "左心房肥大，扩张",
+        "D": "右心房肥大，扩张",
         "E": "心尖区舒张期隆隆样杂音"
       },
       "answers": [
@@ -649,7 +649,7 @@
     },
     {
       "type": "single",
-      "title": "男性,34岁,中学时期风湿病史。近年来,常感觉乏力。查体:血压100/60mmHg,心前区闻及收缩期杂音 II~III 级,双肺底少许湿音,肝肿大(肋下3cm),下肢轻度可凹性水肿。符合患者疾病的描述是",
+      "title": "男性，34 岁，中学时期风湿病史。近年来，常感觉乏力。查体：血压 100/60 mmHg，心前区闻及收缩期杂音II ~III级，双肺底少许湿啰音，肝肿大（肋下 3 cm），下肢轻度可凹性水肿。符合患者疾病的描述是",
       "options": {
         "A": "房间隔缺损",
         "B": "二尖瓣关闭不全",
@@ -664,7 +664,7 @@
     },
     {
       "type": "single",
-      "title": "女性,40岁,既往有风湿病史。2年来,经常感觉乏力、心悸。查体:血压100/60mmHg,心前区可闻及舒张期杂音 II~III 级,双肺底少许湿音,肝肿大(肋下3cm),下肢轻度可凹性水肿。符合患者疾病的描述是",
+      "title": "女性，40 岁，既往有风湿病史。2 年来，经常感觉乏力、心悸。查体：血压 100/60 mmHg，心前区可闻及舒张期杂音II ~III级，双肺底少许湿啰音，肝肿大（肋下 3 cm），下肢轻度可凹性水肿。符合患者疾病的描述是",
       "options": {
         "A": "房间隔缺损",
         "B": "二尖瓣关闭不全",
@@ -682,8 +682,8 @@
       "title": "不符合慢性心瓣膜病的描述是",
       "options": {
         "A": "多由风湿性心内膜炎引起",
-        "B": "表现为心瓣膜狹窄或关闭不全",
-        "C": "二尖瓣最常受累,其次是主动脉瓣",
+        "B": "表现为心瓣膜狭窄或关闭不全",
+        "C": "二尖瓣最常受累，其次是主动脉瓣",
         "D": "狭窄和关闭不全常同时存在",
         "E": "病变不会同时累及两个瓣膜"
       },
@@ -744,7 +744,7 @@
         "A": "左心室肥大、扩张",
         "B": "右心肥大、扩张",
         "C": "主动脉瓣区舒张期杂音",
-        "D": "脉压差增大,毛细血管搏动",
+        "D": "脉压差增大，毛细血管搏动",
         "E": "水冲脉"
       },
       "answers": [
@@ -771,8 +771,8 @@
       "type": "single",
       "title": "主动脉瓣狭窄不引起",
       "options": {
-        "A": "左心室肥大,扩张",
-        "B": "右心室肥大,扩张",
+        "A": "左心室肥大，扩张",
+        "B": "右心室肥大，扩张",
         "C": "主动脉瓣区收缩期吹风样杂音",
         "D": "脉压差增大",
         "E": "心绞痛"
@@ -799,7 +799,7 @@
     },
     {
       "type": "single",
-      "title": "男性,60岁,既往无风湿病史。近年来,经常出现心绞痛。查体:血压90/50mmHg,主动脉瓣闻及收缩期吹风样杂音 II~III 级,左心向左向下扩大。符合患者疾病的诊断是",
+      "title": "男性，60 岁，既往无风湿病史。近年来，经常出现心绞痛。查体：血压 90/50 mmHg，主动脉瓣闻及收缩期吹风样杂音II ~III级，左心向左向下扩大。符合患者疾病的诊断是",
       "options": {
         "A": "房间隔缺损",
         "B": "二尖瓣关闭不全",
@@ -814,7 +814,7 @@
     },
     {
       "type": "single",
-      "title": "女性,62岁,既往无风湿病史。近年来,经常出现心绞痛。查体:血压120/50mmHg,主动脉瓣闻及舒张期隆隆样杂音 II~III 级,左心向左向下扩大。出现水冲脉和毛细血管搏动。符合患者疾病的诊断是",
+      "title": "女性，62 岁，既往无风湿病史。近年来，经常出现心绞痛。查体：血压 120/50 mmHg，主动脉瓣闻及舒张期隆隆样杂音II ~III级，左心向左向下扩大。出现水冲脉和毛细血管搏动。符合患者疾病的诊断是",
       "options": {
         "A": "房间隔缺损",
         "B": "二尖瓣关闭不全",
@@ -829,7 +829,7 @@
     },
     {
       "type": "single",
-      "title": "女性,55岁,近年来,经常出现心绞痛。查体:血压 120/50mmHg,主动脉瓣闻及舒张期隆隆样杂音 II~III 级,左心向左向下扩大。出现水冲脉和毛细血管搏动。不符合患者疾病的描述是",
+      "title": "女性，55 岁，近年来，经常出现心绞痛。查体：血压 120/50 mmHg，主动脉瓣闻及舒张期隆隆样杂音II ~III级，左心向左向下扩大。出现水冲脉和毛细血管搏动。不符合患者疾病的描述是",
       "options": {
         "A": "可由风湿病引起",
         "B": "可由 Marfan 综合征引起",
@@ -844,7 +844,7 @@
     },
     {
       "type": "single",
-      "title": "有关高血压病的描述,错误的是",
+      "title": "有关高血压病的描述，错误的是",
       "options": {
         "A": "常引起左心肥大",
         "B": "脑出血是主要死因",
@@ -964,7 +964,7 @@
     },
     {
       "type": "single",
-      "title": "男性,50岁,高血压病史20年。近1月来,血压升高至 180/110mmHg,出现头痛、头晕、眼花,有时恶心、呕吐,甚至意识模糊。符合本患者疾病的描述是",
+      "title": "男性，50 岁，高血压病史 20 年。近 1 月来，血压升高至 180/110 mmHg，出现头痛、头晕、眼花，有时恶心、呕吐，甚至意识模糊。符合本患者疾病的描述是",
       "options": {
         "A": "脑出血",
         "B": "脑梗死",
@@ -979,7 +979,7 @@
     },
     {
       "type": "single",
-      "title": "女性,45岁,高血压病史15年,并有高血压家族史。近半年来经常出现气喘、心悸,劳动后加重。查体:肥胖体型,血压170/100mmHg,X线检查,左心肥大。符合患者心脏病变的是",
+      "title": "女性，45 岁，高血压病史 15 年，并有高血压家族史。近半年来经常出现气喘、心悸，劳动后加重。查体：肥胖体型，血压 170/100 mmHg， X 线检查，左心肥大。符合患者心脏病变的是",
       "options": {
         "A": "心肌肥大",
         "B": "心肌萎缩",
@@ -994,7 +994,7 @@
     },
     {
       "type": "single",
-      "title": "男性,50岁,高血压病史近20年。近2年来经常性头痛、头晕,休息后减轻。查体:肥胖体形,血压 170/105mmHg,左心肥大,眼底动脉普遍狭窄,蛋白尿(+)。符合患者肾脏病变的描述是",
+      "title": "男性，50 岁，高血压病史近 20 年。近 2 年来经常性头痛、头晕，休息后减轻。查体：肥胖体形，血压 170/105 mmHg，左心肥大，眼底动脉普遍狭窄，蛋白尿（+）。符合患者肾脏病变的描述是",
       "options": {
         "A": "部分肾小球萎缩纤维化",
         "B": "肾小动脉纤维素样坏死",
@@ -1009,7 +1009,7 @@
     },
     {
       "type": "single",
-      "title": "男性,40岁,高血压病史 11 年,未经治疗。近半年来血压显著升高(180~170/130 ~120mmHg),近1个月来出现尿毒症。符合患者肾脏病变的是",
+      "title": "男性，40 岁，高血压病史 11 年，未经治疗。近半年来血压显著升高（180 ~170/130 ~120 mmHg），近 1 个月来出现尿毒症。符合患者肾脏病变的是",
       "options": {
         "A": "肾动脉粥样硬化",
         "B": "肾小动脉纤维素样坏死",
@@ -1024,7 +1024,7 @@
     },
     {
       "type": "single",
-      "title": "女性,65岁,高血压病史近30年。1小时前突然意识丧失,送急诊。查体,血压 180/100mmHg,患者神志昏迷,口角向右上方歪斜,右侧上、下肢瘫痪。符合患者疾病的描述是",
+      "title": "女性，65 岁，高血压病史近 30 年。1 小时前突然意识丧失，送急诊。查体，血压 180/100 mmHg，患者神志昏迷，口角向右上方歪斜，右侧上、下肢瘫痪。符合患者疾病的描述是",
       "options": {
         "A": "脑梗死",
         "B": "脑出血",
@@ -1069,13 +1069,13 @@
     },
     {
       "type": "single",
-      "title": "关于高血压病脑出血的描述,错误的是",
+      "title": "关于高血压病脑出血的描述，错误的是",
       "options": {
         "A": "以基底节、内囊部多见",
-        "B": "脑小动脉痉挛通透性增加,引起漏出性出血",
+        "B": "脑小动脉痉挛通透性增加，引起漏出性出血",
         "C": "微小动脉瘤形成、破裂",
-        "D": "小动脉壁坏死,发生破裂性出血",
-        "E": "出血灶小,症状不明显"
+        "D": "小动脉壁坏死，发生破裂性出血",
+        "E": "出血灶小，症状不明显"
       },
       "answers": [
         "D"
@@ -1101,8 +1101,8 @@
       "type": "single",
       "title": "动脉粥样硬化的危险因素不包括",
       "options": {
-        "A": "血浆低密度脂蛋白(LDL)水平持续升高",
-        "B": "血浆极低密度脂蛋白(VLDL)水平持续升高",
+        "A": "血浆低密度脂蛋白（LDL）水平持续升高",
+        "B": "血浆极低密度脂蛋白（VLDL）水平持续升高",
         "C": "甲状腺素",
         "D": "家族性高胆固醇血症",
         "E": "家族性高甘油三酯血症"
@@ -1134,8 +1134,8 @@
         "A": "单核细胞",
         "B": "血小板",
         "C": "内皮细胞",
-        "D": "T淋巴细胞",
-        "E": "B淋巴细胞"
+        "D": "T 淋巴细胞",
+        "E": "B 淋巴细胞"
       },
       "answers": [
         "E"
@@ -1174,7 +1174,7 @@
     },
     {
       "type": "single",
-      "title": "动脉粥样硬化症中,不产生刺激平滑肌增生的生长因子的细胞是",
+      "title": "动脉粥样硬化症中，不产生刺激平滑肌增生的生长因子的细胞是",
       "options": {
         "A": "血小板",
         "B": "内皮细胞",
@@ -1249,7 +1249,7 @@
     },
     {
       "type": "single",
-      "title": "动脉粥样硬化的早期病变中,最早迁入内膜的细胞是",
+      "title": "动脉粥样硬化的早期病变中，最早迁入内膜的细胞是",
       "options": {
         "A": "平滑肌细胞",
         "B": "淋巴细胞",
@@ -1339,7 +1339,7 @@
     },
     {
       "type": "single",
-      "title": "关于主动脉粥样硬化的描述,错误的 是",
+      "title": "关于主动脉粥样硬化的描述，错误的是",
       "options": {
         "A": "好发于主动脉后壁和各分支开口处",
         "B": "可引起动脉夹层",
@@ -1354,7 +1354,7 @@
     },
     {
       "type": "single",
-      "title": "关于脑动脉粥样硬化的描述,错误的 是",
+      "title": "关于脑动脉粥样硬化的描述，错误的是",
       "options": {
         "A": "引起动脉瘤形成",
         "B": "继发脑血栓形成",
@@ -1369,7 +1369,7 @@
     },
     {
       "type": "single",
-      "title": "不符合动脉粥样硬化性肾萎缩的 叙述是",
+      "title": "不符合动脉粥样硬化性肾萎缩的叙述是",
       "options": {
         "A": "可引起纤维组织增生",
         "B": "可引起肾小动脉纤维素样坏死",
@@ -1399,7 +1399,7 @@
     },
     {
       "type": "single",
-      "title": "男性,73岁,3天前突然感觉右下肢沉 重,活动受限,并伴右上肢活动受限。 1天前右侧上下肢活动能力完全丧失。 符合患者疾病的描述是",
+      "title": "男性，73 岁，3 天前突然感觉右下肢沉重，活动受限，并伴右上肢活动受限。1 天前右侧上下肢活动能力完全丧失。符合患者疾病的描述是",
       "options": {
         "A": "脑出血",
         "B": "脑脓肿",
@@ -1414,7 +1414,7 @@
     },
     {
       "type": "single",
-      "title": "主动脉粥样硬化可引起的致死性 病变是",
+      "title": "主动脉粥样硬化可引起的致死性病变是",
       "options": {
         "A": "溃疡形成",
         "B": "夹层动脉瘤形成",
@@ -1429,7 +1429,7 @@
     },
     {
       "type": "single",
-      "title": "女性,50岁,急性腹痛入院。既往有高 血压病史。查体:血压 90/50mmHg,四 肢温度低,肢端色苍白、腹部无明显包 块,无腹肌紧张及反跳痛。超声诊断为 主动脉夹层。可引起主动脉夹层的是",
+      "title": "女性，50 岁，急性腹痛入院。既往有高血压病史。查体：血压 90/50 mmHg，四肢温度低，肢端色苍白、腹部无明显包块，无腹肌紧张及反跳痛。超声诊断为主动脉夹层。可引起主动脉夹层的是",
       "options": {
         "A": "巨细胞性动脉炎",
         "B": "高安动脉炎",
@@ -1489,7 +1489,7 @@
     },
     {
       "type": "single",
-      "title": "引起冠状动脉性心脏病的最常见的 原因是",
+      "title": "引起冠状动脉性心脏病的最常见的原因是",
       "options": {
         "A": "高安动脉炎",
         "B": "冠状动脉粥样硬化",
@@ -1504,7 +1504,7 @@
     },
     {
       "type": "single",
-      "title": "男性,70岁,既往体健,数小时前猝 死。尸检结果:主动脉广泛粥瘤形成, 两冠状动脉主干均可见粥样硬化斑块, 并有管腔狭窄,未见血栓。心肌暗红 色,有光泽。符合患者疾病的描述是",
+      "title": "男性，70 岁，既往体健，数小时前猝死。尸检结果：主动脉广泛粥瘤形成，两冠状动脉主干均可见粥样硬化斑块，并有管腔狭窄，未见血栓。心肌暗红色，有光泽。符合患者疾病的描述是",
       "options": {
         "A": "心肌病",
         "B": "冠状动脉性猝死",
@@ -1536,11 +1536,11 @@
       "type": "single",
       "title": "心肌梗死的好发部位的顺序是",
       "options": {
-        "A": "左室侧壁>左室后壁及室间隔后 1/3 >左室前壁及室间隔前 2/3",
-        "B": "左室前壁及室间隔前 2/3 >左室侧 壁>左室后壁及室间隔后 1/3",
-        "C": "左室前壁及室间隔前 2/3 >左室后 壁及室间隔前 1/3 >左室侧壁",
-        "D": "左室后壁及室间隔后 1/3 >左室侧 壁>左室前壁及室间隔后 2/3",
-        "E": "左室后壁及室间隔后 1/3 >左室前 壁及室间隔前 2/3 >左室侧壁"
+        "A": "左室侧壁 > 左室后壁及室间隔后 1/3 > 左室前壁及室间隔前 2/3",
+        "B": "左室前壁及室间隔前 2/3 > 左室侧壁 > 左室后壁及室间隔后 1/3",
+        "C": "左室前壁及室间隔前 2/3 > 左室后壁及室间隔前 1/3 > 左室侧壁",
+        "D": "左室后壁及室间隔后 1/3 > 左室侧壁 > 左室前壁及室间隔后 2/3",
+        "E": "左室后壁及室间隔后 1/3 > 左室前壁及室间隔前 2/3 > 左室侧壁"
       },
       "answers": [
         "C"
@@ -1555,7 +1555,7 @@
         "B": "冠状动脉痉挛",
         "C": "冠状动脉粥样硬化并发血栓形成",
         "D": "冠状动脉栓塞",
-        "E": "梅毒性主动脉炎所致的冠状动脉口 狭窄或闭塞"
+        "E": "梅毒性主动脉炎所致的冠状动脉口狭窄或闭塞"
       },
       "answers": [
         "C"
@@ -1564,9 +1564,9 @@
     },
     {
       "type": "single",
-      "title": "符合心內膜下心肌梗死的描述是",
+      "title": "符合心内膜下心肌梗死的描述是",
       "options": {
-        "A": "由冠状动脉粥样硬化并发血栓形成 引起",
+        "A": "由冠状动脉粥样硬化并发血栓形成引起",
         "B": "梗死灶累及心壁各层",
         "C": "可伴发心脏破裂",
         "D": "由梅毒性主动脉炎引起",
@@ -1579,10 +1579,10 @@
     },
     {
       "type": "single",
-      "title": "有关心肌梗死的叙述,错误的是",
+      "title": "有关心肌梗死的叙述，错误的是",
       "options": {
         "A": "多由冠状动脉粥样硬化引起",
-        "B": "多发生于冠状动脉前降支供血的区 域",
+        "B": "多发生于冠状动脉前降支供血的区域",
         "C": "多为出血性梗死",
         "D": "可引起心脏破裂",
         "E": "可继发附壁血栓"
@@ -1594,13 +1594,13 @@
     },
     {
       "type": "single",
-      "title": "急性心肌梗死大量中性粒细胞浸润 出现在",
+      "title": "急性心肌梗死大量中性粒细胞浸润出现在",
       "options": {
-        "A": "梗死形成后6小时",
-        "B": "梗死形成后24小时",
-        "C": "梗死形成后第2天",
-        "D": "梗死形成后第4天",
-        "E": "梗死形成后第7天"
+        "A": "梗死形成后 6 小时",
+        "B": "梗死形成后 24 小时",
+        "C": "梗死形成后第 2 天",
+        "D": "梗死形成后第 4 天",
+        "E": "梗死形成后第 7 天"
       },
       "answers": [
         "A"
@@ -1674,7 +1674,7 @@
         "A": "由心肌急性暂时性缺血引起",
         "B": "表现为心前区疼痛",
         "C": "稳定性心绞痛病情重",
-        "D": "变异性心绞痛患者冠状动脉明显狭 窄",
+        "D": "变异性心绞痛患者冠状动脉明显狭窄",
         "E": "不稳定性心绞痛为心肌梗死前兆"
       },
       "answers": [
@@ -1702,7 +1702,7 @@
       "title": "肥厚性心肌病的病变特点是",
       "options": {
         "A": "四个心腔扩张",
-        "B": "心肌细胞异常肥大,排列紊乱",
+        "B": "心肌细胞异常肥大，排列紊乱",
         "C": "常伴有附壁血栓形成",
         "D": "弥漫性心肌间质纤维化",
         "E": "心肌细胞变性坏死"
@@ -1774,7 +1774,7 @@
     },
     {
       "type": "single",
-      "title": "不符合心內膜弹力纤维增生症的病变 特点是",
+      "title": "不符合心内膜弹力纤维增生症的病变特点是",
       "options": {
         "A": "婴幼儿多见",
         "B": "可合并先天性心脏病",
@@ -1789,12 +1789,12 @@
     },
     {
       "type": "single",
-      "title": "不符合心脏淀粉样物质沉积的病变 特点是",
+      "title": "不符合心脏淀粉样物质沉积的病变特点是",
       "options": {
         "A": "老年人多见",
         "B": "淀粉样物质沉积可累及全身",
         "C": "淀粉样物质沉积可累及心脏",
-        "D": "淀粉样物质沉积在心內膜下和心肌 间",
+        "D": "淀粉样物质沉积在心内膜下和心肌间",
         "E": "心肌细胞广泛变性坏死"
       },
       "answers": [
@@ -1807,10 +1807,10 @@
       "title": "符合先天性心脏病的描述是",
       "options": {
         "A": "血流自左向右分流组不发生紫绀",
-        "B": "妊娠早期预防病毒感染可降低其发 病率",
-        "C": "室间隔缺损、房间隔缺损、动脉导 管未闭少见",
-        "D": "无紫绀的先天性心脏病对胎儿健康 影响不大",
-        "E": "亚急性感染性心內膜炎和肺炎是少 见的并发症"
+        "B": "妊娠早期预防病毒感染可降低其发病率",
+        "C": "室间隔缺损、房间隔缺损、动脉导管未闭少见",
+        "D": "无紫绀的先天性心脏病对胎儿健康影响不大",
+        "E": "亚急性感染性心内膜炎和肺炎是少见的并发症"
       },
       "answers": [
         "B"
@@ -1824,7 +1824,7 @@
         "A": "肺动脉流出道狭窄",
         "B": "右心室肥大",
         "C": "房间隔缺损",
-        "D": "高位室间隔缺损,伴室间隔膜部缺 损",
+        "D": "高位室间隔缺损，伴室间隔膜部缺损",
         "E": "主动脉右移"
       },
       "answers": [
@@ -1883,8 +1883,8 @@
       "options": {
         "A": "动脉导管后的主动脉峡部狭窄",
         "B": "狭窄程度一般较轻",
-        "C": "胸主动脉与腹主动脉之间存在较高 压差",
-        "D": "主动脉弓与降主动脉的分支之间可 形成侧支循环",
+        "C": "胸主动脉与腹主动脉之间存在较高压差",
+        "D": "主动脉弓与降主动脉的分支之间可形成侧支循环",
         "E": "下肢有紫绀"
       },
       "answers": [
@@ -1894,7 +1894,7 @@
     },
     {
       "type": "single",
-      "title": "自右向左分流(青紫型)的先天性心 脏病是",
+      "title": "自右向左分流（青紫型）的先天性心脏病是",
       "options": {
         "A": "房间隔缺损",
         "B": "动脉导管未闭",
@@ -1924,7 +1924,7 @@
     },
     {
       "type": "single",
-      "title": "孤立性心肌炎时,心肌间质的肉芽肿 不含有",
+      "title": "孤立性心肌炎时，心肌间质的肉芽肿不含有",
       "options": {
         "A": "干酪样坏死",
         "B": "淋巴细胞",
@@ -2093,7 +2093,7 @@
       "options": {
         "A": "多累及下肢中等动脉和静脉",
         "B": "绝大多数发生于女性",
-        "C": "动脉壁纤维素样坏死,伴有炎性细胞浸润",
+        "C": "动脉壁纤维素样坏死，伴有炎性细胞浸润",
         "D": "伴有血栓形成及机化",
         "E": "与吸烟关系密切"
       },
@@ -2137,7 +2137,7 @@
       "title": "Marfan 综合征的病变特点是",
       "options": {
         "A": "动脉壁玻璃样变性",
-        "B": "主动脉中膜粘液样变性及坏死,弹性纤维断裂缺失",
+        "B": "主动脉中膜粘液样变性及坏死，弹性纤维断裂缺失",
         "C": "动脉壁内脂类物质沉积",
         "D": "动脉壁纤维素样坏死及炎细胞浸润",
         "E": "动脉壁形成多核巨细胞和类上皮细胞的肉芽肿"
@@ -2569,7 +2569,7 @@
     },
     {
       "type": "single",
-      "title": "A 65-year-old man develops intense crushing substernal, chest pain that is not relieved by nitroglycerin. The ECG shows ST-segment elevation and abnormal Q waves. His condition rapidly worsens and he dies 2 days later. At autopsy a 2.5 cm² necrotic area is found that involves the anterior left ventricle. What is the most likely cause of this patient's myocardial infarction?",
+      "title": "A 65-year-old man develops intense crushing substernal, chest pain that is not relieved by nitroglycerin. The ECG shows ST-segment elevation and abnormal Q waves. His condition rapidly worsens and he dies 2 days later. At autopsy a 2.5 cm^2 necrotic area is found that involves the anterior left ventricle. What is the most likely cause of this patient's myocardial infarction?",
       "options": {
         "A": "Fibrinoid necrosis of main trunk of left coronary artery",
         "B": "Severe stenosis of all three main branches of coronary artery without thrombosis",
@@ -2614,7 +2614,7 @@
     },
     {
       "type": "single",
-      "title": "A 65-year-old man has a long history of poorly controlled hypertension. On physical examination, he is afebrile. His neck veins are distended. Crepitant rales can be heard in both lower lungs. He has pitting edema of his feet bilaterally and mild hepatomegaly. A chest x-ray reveals his heart is dilated and enlarged. Which of the following is the basic defect that caused theseclinical signs?",
+      "title": "A 65-year-old man has a long history of poorly controlled hypertension. On physical examination, he is afebrile. His neck veins are distended. Crepitant rales can be heard in both lower lungs. He has pitting edema of his feet bilaterally and mild hepatomegaly. A chest x-ray reveals his heart is dilated and enlarged. Which of the following is the basic defect that caused these clinical signs?",
       "options": {
         "A": "Decreased viscosity of blood caused by decreased diastolic filling of his heart",
         "B": "Increased contractility of cardiac muscle caused by high-output cardiac failure",
@@ -2629,7 +2629,7 @@
     },
     {
       "type": "single",
-      "title": "A 55-year-old woman was being evaluated for shortness of breath, ankle edema, and mild hepatomegaly in the hospital. She died 1 week later after admission. The gross appearance of the liver at autopsy is shown. Which of the following abnormalities is most likely present?[图片]",
+      "title": "A 55-year-old woman was being evaluated for shortness of breath, ankle edema, and mild hepatomegaly in the hospital. She died 1 week later after admission. The gross appearance of the liver at autopsy is shown. Which of the following abnormalities is most likely present?",
       "options": {
         "A": "Right heart failure",
         "B": "Splenic infarction",
@@ -2640,7 +2640,8 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-1.jpg"
     },
     {
       "type": "single",
@@ -2655,7 +2656,8 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-1.jpg"
     },
     {
       "type": "single",
@@ -2663,7 +2665,7 @@
       "options": {
         "A": "Dystrophic calcification in the tunica media of muscular arteries",
         "B": "The lumens of the afferent glomerular arterioles are narrowed by uniform, homogenous, pink deposits within the vessel walls",
-        "C": "Fibrinoid necrosis of the intima and tunica media of vascular wall with infiltration of monocytes and neutrophilicgranulocytes",
+        "C": "Fibrinoid necrosis of the intima and tunica media of vascular wall with infiltration of monocytes and neutrophilic granulocytes",
         "D": "A concentric obliteration of arterioles by an increase in smooth muscle cells and protein deposition in a laminar configuration",
         "E": "Chronic granulomatous inflammation with giant cells and breaks in the internal elastic lamina"
       },
@@ -2704,7 +2706,7 @@
     },
     {
       "type": "single",
-      "title": "A 30-year-old woman has angina pectoris of 6 months duration. On physical examination, her blood pressure is 135/85mm Hg. She is 162cm tall and weighs 80kg. Coronary angiography shows 75% narrowing of the anterior descending branch of the left coronary artery. Which of the following is the major risk factor associated with these findings?",
+      "title": "A 30-year-old woman has angina pectoris of 6 months duration. On physical examination, her blood pressure is 135/85 mmHg. She is 162 cm tall and weighs 80 kg. Coronary angiography shows 75% narrowing of the anterior descending branch of the left coronary artery. Which of the following is the major risk factor associated with these findings?",
       "options": {
         "A": "Job occupation",
         "B": "Gender",
@@ -2719,7 +2721,7 @@
     },
     {
       "type": "single",
-      "title": "For more than a decade, a 40-year-old man has had poorly controlled hypertension ranging from 150/90mm Hg to 160/95mm Hg. Over the past 3 months, his blood pressure has increased to 250/125mm Hg. A chest radiograph shows a prominent border on the left side of the heart. Laboratory studies show that his serum creatinine level has increased during this time from 1.7mg/dL to 3.8mg/dL. Which of the following lesions is most likely to be found in the afferent glomerular arterioles of this patient?",
+      "title": "For more than a decade, a 40-year-old man has had poorly controlled hypertension ranging from 150/90 mmHg to 160/95 mmHg. Over the past 3 months, his blood pressure has increased to 250/125 mmHg. A chest radiograph shows a prominent border on the left side of the heart. Laboratory studies show that his serum creatinine level has increased during this time from 1.7 mg/dL to 3.8 mg/dL. Which of the following lesions is most likely to be found in the afferent glomerular arterioles of this patient?",
       "options": {
         "A": "Granuloma formation",
         "B": "Fibrinoid necrosis",
@@ -2734,7 +2736,7 @@
     },
     {
       "type": "single",
-      "title": "A 60-year-old woman has reported increasing fatigue over the past year. Laboratory studies show a serum creatinine level of 4.7 mg/dL(normal values: male: 0.6-1.2mg/dl, female: 0.5-1.1mg/dl) and urea nitrogen level of 44 mg/dL (normal value: adult: 9-20mg/dl, child: 5-18mg/dl). An abdominal ultrasound scan shows that her kidneys are symmetrically shrunken and granular. The high-magnification microscopic appearance of the kidneys is shown. These findings are most likely to indicate which of the following underlying conditions?[图片]",
+      "title": "A 60-year-old woman has reported increasing fatigue over the past year. Laboratory studies show a serum creatinine level of 4.7 mg/dL（normal values: male: 0.6-1.2 mg/dl, female: 0.5-1.1 mg/dl） and urea nitrogen level of 44 mg/dL (normal value: adult: 9-20 mg/dl, child: 5-18 mg/dl). An abdominal ultrasound scan shows that her kidneys are symmetrically shrunken and granular. The high-magnification microscopic appearance of the kidneys is shown. These findings are most likely to indicate which of the following underlying conditions?",
       "options": {
         "A": "Benign hypertension",
         "B": "Hypercholesterolemia",
@@ -2745,11 +2747,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-2.jpg"
     },
     {
       "type": "single",
-      "title": "A 60-year-old man has experienced chest pain at rest for the past year. The figure shows the microscopic appearancerepresentative of the patient's left anterior descending artery. Which of the following sets of histologic features is most likely to be found in this patient?[图片]",
+      "title": "A 60-year-old man has experienced chest pain at rest for the past year. The figure shows the microscopic appearance representative of the patient's left anterior descending artery. Which of the following sets of histologic features is most likely to be found in this patient?",
       "options": {
         "A": "A core of foam cells covered by a cap of smooth muscle cells",
         "B": "Collection of foam cells, necrotic areas, cholesterol clefts and calcification",
@@ -2760,11 +2763,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-2.jpg"
     },
     {
       "type": "single",
-      "title": "The gross appearance of the aorta of a 10-year-old girl who died of acute leukemia at autopsy is shown in the preceding figure. Histologic examination of the linear pale marking is most likely to show which of the following features?[图片]",
+      "title": "The gross appearance of the aorta of a 10-year-old girl who died of acute leukemia at autopsy is shown in the preceding figure. Histologic examination of the linear pale marking is most likely to show which of the following features?",
       "options": {
         "A": "A lipid core, granulation tissue",
         "B": "Collection of foam cells, necrotic areas, and calcification",
@@ -2824,7 +2828,7 @@
     },
     {
       "type": "single",
-      "title": "A 57-year-old man has experienced angina on exertion for the past 7 years. A coronary angiogram performed 2 years ago showed 75% stenosis of the left anterior descending coronary artery and 50% stenosis of the right coronary artery. For the past 3 weeks, the frequency and sever-ity of the anginal attacks have increased, and pain sometimes occurs even when he is lying in bed. Which of the following is most likely to explain these findings?",
+      "title": "A 57-year-old man has experienced angina on exertion for the past 7 years. A coronary angiogram performed 2 years ago showed 75% stenosis of the left anterior descending coronary artery and 50% stenosis of the right coronary artery. For the past 3 weeks, the frequency and severity of the anginal attacks have increased, and pain sometimes occurs even when he is lying in bed. Which of the following is most likely to explain these findings?",
       "options": {
         "A": "Increasing stenosis of right coronary artery",
         "B": "Hypertrophy of ischemic myocardium with increased oxygen demand",
@@ -2839,7 +2843,7 @@
     },
     {
       "type": "single",
-      "title": "A 33-year-old woman has had increasingly severe dyspnea, orthopnea, and swelling of the legs for the past 2 weeks. On physical examination, her temperature is 37.8°C, pulse 83/min, respirations 20/min, and blood pressure 100/60mmHg. An ECG shows episodes of ventricular tachycardia. An echocardiogram shows right and left ventricular dilation but no valvular deformities. An endomyocardial biopsy shows focal myocyte necrosis and lymphocytic infiltrate. Which of the following organisms most likely caused the infection?",
+      "title": "A 33-year-old woman has had increasingly severe dyspnea, orthopnea, and swelling of the legs for the past 2 weeks. On physical examination, her temperature is 37.8°C, pulse 83/min, respirations 20/min, and blood pressure 100/60 mmHg. An ECG shows episodes of ventricular tachycardia. An echocardiogram shows right and left ventricular dilation but no valvular deformities. An endomyocardial biopsy shows focal myocyte necrosis and lymphocytic infiltrate. Which of the following organisms most likely caused the infection?",
       "options": {
         "A": "Haemolytic streptococcus",
         "B": "Mycobacterium tuberculosis",
@@ -2854,7 +2858,7 @@
     },
     {
       "type": "single",
-      "title": "A 55-year-old man has had increasing abdominal discomfort and swelling of his legs for the past 3 years. On physical examination, the liver is enlarged and tender and can be palpated 8 cm below the right costal margin. Pitting edema is observed on the lower extremities. A chest radiograph shows pleural effusions, and increased lucency of lung fields. Thoracentesis on the right side yields 500mL of clear fluid with few cells. Which of the following is most likely to produce these findings?",
+      "title": "A 55-year-old man has had increasing abdominal discomfort and swelling of his legs for the past 3 years. On physical examination, the liver is enlarged and tender and can be palpated 8 cm below the right costal margin. Pitting edema is observed on the lower extremities. A chest radiograph shows pleural effusions, and increased lucency of lung fields. Thoracentesis on the right side yields 500 mL of clear fluid with few cells. Which of the following is most likely to produce these findings?",
       "options": {
         "A": "Chronic obstructive pulmonary disease",
         "B": "Pulmonary valve stenosis",
@@ -2871,7 +2875,7 @@
       "type": "single",
       "title": "A 11-year-old girl manifests choreiform movements and begins to complain of pain in her knees and hips, particularly with movement 3 weeks after a bout of acute pharyngitis. She develops subcutaneous nodules over the skin of her arms and torso at the same time. A friction rub is heard on auscultation of the chest. Which of the following serum laboratory findings is most characteristic of the disease affecting this patient?",
       "options": {
-        "A": "Increased creatine kinase-MB fraction(CK-MB)",
+        "A": "Increased creatine kinase-MB fraction (CK-MB)",
         "B": "Positive blood culture for Staphylococcus aureus",
         "C": "High double-stranded DNA autoantibody titer",
         "D": "Elevated anti-streptolysin O level",
@@ -2884,7 +2888,7 @@
     },
     {
       "type": "single",
-      "title": "A 37-year-old woman dies suddenly at home. External examination of the body shows no evidence of trauma. The microscopic appearance of the proximal left anterior descending artery at autopsy is shown. Which of the following conditions is most likely to be the underlying cause of death?[图片]",
+      "title": "A 37-year-old woman dies suddenly at home. External examination of the body shows no evidence of trauma. The microscopic appearance of the proximal left anterior descending artery at autopsy is shown. Which of the following conditions is most likely to be the underlying cause of death?",
       "options": {
         "A": "Marfan syndrome",
         "B": "Rheumatic arteritis",
@@ -2895,11 +2899,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-5.jpg"
     },
     {
       "type": "single",
-      "title": "A 33-year-old man died suddenly after a week-long illness. He experienced chest pain and then became increasingly dyspneic and nauseated and lost consciousness multiple times. External examination shows no evidence of trauma. The body height is 166cm and he weighs 75kg. This figure which shows the gross appearance of the chest cavity at autopsy with the pericardial sac opened, is most consistent with which of the following underlying causes of death?[图片]",
+      "title": "A 33-year-old man died suddenly after a week-long illness. He experienced chest pain and then became increasingly dyspneic and nauseated and lost consciousness multiple times. External examination shows no evidence of trauma. The body height is 166 cm and he weighs 75 kg. This figure which shows the gross appearance of the chest cavity at autopsy with the pericardial sac opened, is most consistent with which of the following underlying causes of death?",
       "options": {
         "A": "Dilated cardiomyopathy",
         "B": "Transmural myocardial infarction",
@@ -2910,11 +2915,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-5.jpg"
     },
     {
       "type": "single",
-      "title": "A 16-year-old girl has fever and chest pain. Two weeks earlier, she had a mild upper respiratory tract infection. On physical examination, her temperature is 37 °C, pulse 90/min, respirations 20/min, and blood pressure 85/45mm Hg. A friction rub is audible on auscultation of the chest. A chest radiograph shows pulmonary edema. An echocardiogram shows small vegetations at the closure lineof the mitral and aortic valves. An endocardial biopsy shows focal interstitial inflammation with Aschoff nodules and Anichkov cells. Her condition improves over the next month. Which of the following additional complications of this illness is most likely to be seen in the patient?",
+      "title": "A 16-year-old girl has fever and chest pain. Two weeks earlier, she had a mild upper respiratory tract infection. On physical examination, her temperature is 37°C, pulse 90/min, respirations 20/min, and blood pressure 85/45 mmHg. A friction rub is audible on auscultation of the chest. A chest radiograph shows pulmonary edema. An echocardiogram shows small vegetations at the closure line of the mitral and aortic valves. An endocardial biopsy shows focal interstitial inflammation with Aschoff nodules and Anichkov cells. Her condition improves over the next month. Which of the following additional complications of this illness is most likely to be seen in the patient?",
       "options": {
         "A": "Dilated cardiomyopathy",
         "B": "Mitral valve prolapse",
@@ -2944,7 +2950,7 @@
     },
     {
       "type": "single",
-      "title": "An 18-year-old man was send to emergency room for suddenly collapse. His vital signs include a temperature of 37.1°C, pulse 84/min, respirations 18/min, and blood pressure 80/40mm Hg. Laboratory findings include hemoglobin of 13.56g/dL, platelet count 252,000/mm³, WBC count 7230/mm³, serum glucose 73mg/dL, and creatinine 1.2mg/dL. The total creatine kinase (CK) level is elevated, with a CK-MB fraction of 10%. Which of the following underlying conditions is most likely to be present in this patient?",
+      "title": "An 18-year-old man was send to emergency room for suddenly collapse. His vital signs include a temperature of 37.1°C, pulse 84/min, respirations 18/min, and blood pressure 80/40 mmHg. Laboratory findings include hemoglobin of 13.56 g/dL, platelet count 252,000/mm^3, WBC count 7230/mm^3, serum glucose 73 mg/dL, and creatinine 1.2 mg/dL. The total creatine kinase (CK) level is elevated, with a CK-MB fraction of 10%. Which of the following underlying conditions is most likely to be present in this patient?",
       "options": {
         "A": "Congenital ventricular septal defect",
         "B": "Familial hypercholesterolemia",
@@ -2961,7 +2967,7 @@
       "type": "single",
       "title": "A 55-year-old man experienced chest pain with exertion 3 years ago, and an angiogram showed 75% occlusion of his left anterior descending artery. He was prescribed long acting nitrates and beta blockers, and he remained asymptomatic until the past week. He experienced sudden cardiac arrest when he was admitted to hospital yesterday. Which of the following laboratory findings is most characteristic of the disease affecting this patient?",
       "options": {
-        "A": "High double-stranded DNA autoanti-body titer",
+        "A": "High double-stranded DNA autoantibody titer",
         "B": "Positive ANCA determination",
         "C": "Increased creatine kinase-MB fraction (CK-MB)",
         "D": "Elevated anti-streptolysin O titer",
@@ -2970,11 +2976,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-7.jpg"
     },
     {
       "type": "single",
-      "title": "A 50-year-old man has had increasing dyspnea for the past 2 days. He experiences sudden cardiac arrest and cannot be resuscitated. The light microscopic appearance of the left ventricular free wall at autopsy is shown above. Which of the following is the most likely diagnosis?[图片]",
+      "title": "A 50-year-old man has had increasing dyspnea for the past 2 days. He experiences sudden cardiac arrest and cannot be resuscitated. The light microscopic appearance of the left ventricular free wall at autopsy is shown above. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Viral myocarditis",
         "B": "Acute rheumatic myocarditis",
@@ -2985,7 +2992,8 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-7.jpg"
     },
     {
       "type": "single",
@@ -3019,7 +3027,7 @@
     },
     {
       "type": "single",
-      "title": "A 28-year-old man was found dead at home. An external examination by the medical examiner showed splinter hemorrhages under the fingernails and no signs of trauma. The gross appearance of the heart at autopsy is shown. Which of the following conditions is most likely to have been the cause of his death?[图片]",
+      "title": "A 28-year-old man was found dead at home. An external examination by the medical examiner showed splinter hemorrhages under the fingernails and no signs of trauma. The gross appearance of the heart at autopsy is shown. Which of the following conditions is most likely to have been the cause of his death?",
       "options": {
         "A": "Acute infective endocarditis",
         "B": "Acute rhematic heart disease",
@@ -3030,11 +3038,12 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-8.jpg"
     },
     {
       "type": "single",
-      "title": "A 65-year-old man with a history of diabetes mellitus had chest pain and an elevated ST level 1 year ago. He was treated in the hospital with antiarrhythmic agents for 1 week. An echocardiogram showed an ejection fraction of 28%. He now has markedly reduced exercise tolerance. Diffuse crackles are heard on auscultation of the lungs. The representative gross appearance of the heart is shown in the following figure. Which of the following complications of this disease is the patient most likely to develop?[图片]",
+      "title": "A 65-year-old man with a history of diabetes mellitus had chest pain and an elevated ST level 1 year ago. He was treated in the hospital with antiarrhythmic agents for 1 week. An echocardiogram showed an ejection fraction of 28%. He now has markedly reduced exercise tolerance. Diffuse crackles are heard on auscultation of the lungs. The representative gross appearance of the heart is shown in the following figure. Which of the following complications of this disease is the patient most likely to develop?",
       "options": {
         "A": "Infective endocarditis",
         "B": "Chronic valvular disease of the heart",
@@ -3045,11 +3054,12 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-9.jpg"
     },
     {
       "type": "single",
-      "title": "A 16-year-old girl died suddenly when she just finished a running. She had been healthy all her life and complained only of limited episodes of chest pain in games during the current school year. Which of the following pathologic findings of the heart is the medical examiner most likely to find?",
+      "title": "A 16-year-old girl died suddenly when she just finished a running. She had been healthy all her life and complained only of limited episodes of chest pain in games during the current schoo1 year. Which of the following pathologic findings of the heart is the medical examiner most likely to find?",
       "options": {
         "A": "Large, friable vegetations with destruction of aortic valve cusps",
         "B": "Thickening of the endocardium with white color change",
@@ -3060,7 +3070,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/5-chap5-9.jpg"
     },
     {
       "type": "single",
@@ -3109,7 +3120,7 @@
     },
     {
       "type": "single",
-      "title": "A 17-year-old man has had a low-grade fever for 3 weeks. On physical examination, his temperature is 38.5 °C, pulse 104/min, respirations 28/min, and blood pressure of 97/60 mm Hg. His spleen tip is palpable and tender. There are also tender hemorrhagic nodules on the palms and soles. A heart murmur is heard on auscultation. Which of the following infectious agents is most likely to be cultured from this patient's blood?",
+      "title": "A 17-year-old man has had a low-grade fever for 3 weeks. On physical examination, his temperature is 38.5°C, pulse 104/min, respirations 28/min, and blood pressure of 97/60 mmHg. His spleen tip is palpable and tender. There are also tender hemorrhagic nodules on the palms and soles. A heart murmur is heard on auscultation. Which of the following infectious agents is most likely to be cultured from this patient's blood?",
       "options": {
         "A": "Coxsackievirus B",
         "B": "Streptococcus viridans group",
@@ -3124,7 +3135,7 @@
     },
     {
       "type": "single",
-      "title": "A 10-year-old boy had a sore throat and fever 3 weeks ago, and a throat culture was positive for group A b-hemolytic Streptococcus. He is afebrile. On auscultation, a murmur due to mitral regurgitation is audible, and there are diffuse rales over both lungs. Over the next 2 days he has several episodes of atrial fibrillation accompanied by signs of acute left ventricular failure. Which of the following pathologic changes which occurred in this child's heart during hospitalization is most likely to be the cause of the left ventricular failure?",
+      "title": "A 10-year-old boy had a sore throat and fever 3 weeks ago, and a throat culture was positive for group A β-hemolytic Streptococcus. He is afebrile. On auscultation, a murmur due to mitral regurgitation is audible, and there are diffuse rales over both lungs. Over the next 2 days he has several episodes of atrial fibrillation accompanied by signs of acute left ventricular failure. Which of the following pathologic changes which occurred in this child's heart during hospitalization is most likely to be the cause of the left ventricular failure?",
       "options": {
         "A": "Fibrinous pericarditis",
         "B": "Fibrosis of mitral valve with fusion of commissures",
@@ -3139,7 +3150,7 @@
     },
     {
       "type": "single",
-      "title": "A 62 year-old man experiences episodes of severe substernal chest pain every time he performs a task that requires moderate exercise. The episodes have become more frequent and severe over the past year, but they can be relieved by sublingual nitroglycerin. On physical examination, there are no murmurs or gallops. A chest radiograph shows the lungs are clear and the heart size is nearly normal. Laboratory studies show the total serum cholesterol is 223mg/dL. Which of the following cardiac lesions is most likely to be present?",
+      "title": "A 62 year-old man experiences episodes of severe substernal chest pain every time he performs a task that requires moderate exercise. The episodes have become more frequent and severe over the past year, but they can be relieved by sublingual nitroglycerin. On physical examination, there are no murmurs or gallops. A chest radiograph shows the lungs are clear and the heart size is nearly normal. Laboratory studies show the total serum cholesterol is 223 mg/dL. Which of the following cardiac lesions is most likely to be present?",
       "options": {
         "A": "Rheumatic mitral stenosis",
         "B": "Coronary atherosclerosis",

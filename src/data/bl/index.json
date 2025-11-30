@@ -1,7 +1,7 @@
 {
   "title": "病理学",
-  "description": "本解析依据「病理学题库」整理",
-  "totalQuestions": 2643,
+  "description": "本解析依据袁帅学长所编「病理学题库」整理",
+  "totalQuestions": 2648,
   "chapters": [
     {
       "id": "1",
@@ -21,7 +21,7 @@
     {
       "id": "4",
       "title": "肿瘤",
-      "questionCount": 233
+      "questionCount": 234
     },
     {
       "id": "5",
@@ -36,7 +36,7 @@
     {
       "id": "7",
       "title": "消化系统疾病",
-      "questionCount": 257
+      "questionCount": 259
     },
     {
       "id": "8",
@@ -56,7 +56,7 @@
     {
       "id": "11",
       "title": "内分泌系统疾病",
-      "questionCount": 103
+      "questionCount": 105
     },
     {
       "id": "12",

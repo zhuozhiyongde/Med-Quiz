@@ -1,6 +1,6 @@
 ## 生殖系统疾病
 
-女性生殖系统结核最常见于
+1. 女性生殖系统结核最常见于
 A. 子宫内膜
 B. 输卵管
 C. 卵巢
@@ -8,7 +8,7 @@ D. 子宫颈
 E. 外阴
 【参考答案】 B
 
-不符合女性生殖系统感染的描述是
+2. 不符合女性生殖系统感染的描述是
 A. 可引起下生殖道炎症
 B. 可引起盆腔炎
 C. 可引起败血症
@@ -16,7 +16,7 @@ D. 可引起不孕症
 E. 不导致胎儿宫内感染
 【参考答案】 E
 
-不属于性传播的女性生殖系统炎症性疾病是
+3. 不属于性传播的女性生殖系统炎症性疾病是
 A. 淋病
 B. 滴虫性阴道炎
 C. 结核性盆腔炎
@@ -24,7 +24,7 @@ D. 单纯疱疹
 E. 衣原体性盆腔炎
 【参考答案】 C
 
-不符合盆腔炎症性疾病的描述是
+4. 不符合盆腔炎症性疾病的描述是
 A. 可引起下腹痛和发热
 B. 多由肠道杆菌、淋球菌和衣原体引起
 C. 可引起急性化脓性输卵管炎
@@ -32,7 +32,7 @@ D. 可引起输卵管卵巢囊肿
 E. 流产和产后盆腔炎多为单一细菌感染
 【参考答案】 E
 
-属于性传播性疾病的阴道炎是
+5. 属于性传播性疾病的阴道炎是
 A. 念珠菌阴道炎
 B. 细菌性阴道炎
 C. 老年性阴道炎
@@ -40,15 +40,15 @@ D. 滴虫性阴道炎
 E. 幼女性阴道炎
 【参考答案】 D
 
-不符合单纯疱疹引起的女性下生殖道感染的描述是
-A. 多由HSV-1 病毒引起
+6. 不符合单纯疱疹引起的女性下生殖道感染的描述是
+A. 多由 HSV-1 病毒引起
 B. 可累及外阴、阴道和子宫颈
 C. 可引起粘膜疱疹和溃疡形成
-D. 多于1~3周内愈合
+D. 多于 1 ~3 周内愈合
 E. 分娩时可引起胎儿感染
 【参考答案】 A
 
-不符合霉菌性阴道炎的描述是
+7. 不符合霉菌性阴道炎的描述是
 A. 多为性传播引起
 B. 糖尿病患者易发病
 C. 孕妇易发病
@@ -56,7 +56,7 @@ D. 阴道粘膜可见白斑
 E. 病变处可见孢子和菌丝
 【参考答案】 A
 
-急性盆腔炎多由
+8. 急性盆腔炎多由
 A. 血道感染引起
 B. 腹腔脏器感染直接蔓延引起
 C. 慢性盆腔炎急性发作引起
@@ -64,15 +64,15 @@ D. 产后、流产后、宫腔内手术后感染引起
 E. 性传播引起
 【参考答案】 D
 
-尖锐湿疣的病因是
-A. HPV感染
+9. 尖锐湿疣的病因是
+A. HPV 感染
 B. HSV 感染
 C. CMV 感染
 D. 衣原体感染
 E. 细菌感染
 【参考答案】 A
 
-外阴尖锐湿疣属于
+10. 外阴尖锐湿疣属于
 A. 炎症病变
 B. 癌前病变
 C. 原位癌
@@ -80,7 +80,7 @@ D. 早期侵润性癌
 E. 良性肿瘤
 【参考答案】 E
 
-不符合外阴尖锐湿疣的描述是
+11. 不符合外阴尖锐湿疣的描述是
 A. 好发于外阴、肛周、阴道粘膜
 B. 不累及子宫颈粘膜
 C. 呈淡红色、乳头状、斑块状病变
@@ -88,7 +88,7 @@ D. 鳞状上皮乳头状增生伴角化过度
 E. 棘细胞层增生并形成空泡状细胞
 【参考答案】 B
 
-外阴尖锐湿疣较具特征的病变是
+12. 外阴尖锐湿疣较具特征的病变是
 A. 棘细胞层增生
 B. 空泡状细胞
 C. 角化过度
@@ -96,7 +96,7 @@ D. 乳头状增生
 E. 基底细胞增生
 【参考答案】 B
 
-最常见的女性外阴恶性肿瘤是
+13. 最常见的女性外阴恶性肿瘤是
 A. 黑色素瘤
 B. 基底细胞癌
 C. Paget 病
@@ -104,15 +104,15 @@ D. 鳞状细胞癌
 E. 前庭大腺癌
 【参考答案】 D
 
-不符合女性外阴癌的描述是
-A. 与HPV16、18感染有关
+14. 不符合女性外阴癌的描述是
+A. 与 HPV16、18 感染有关
 B. 多经鳞状上皮非典型增生演化而来
 C. 鳞状上皮非典型增生呈多灶性
-D. 与萎缩硬化性苔癬有关
+D. 与萎缩硬化性苔癣有关
 E. 多经血道转移
 【参考答案】 E
 
-不符合女性外阴癌的描述是
+15. 不符合女性外阴癌的描述是
 A. 多发生于老年女性
 B. 可呈白斑状
 C. 可呈菜花状
@@ -120,7 +120,7 @@ D. 多为鳞状细胞癌
 E. 多为腺癌
 【参考答案】 E
 
-决定女性外阴癌的预后的主要因素是
+16. 决定女性外阴癌的预后的主要因素是
 A. 肿瘤的体积
 B. 肿瘤的分化
 C. 肿瘤的浸润深度
@@ -128,23 +128,23 @@ D. 肿瘤的淋巴结转移
 E. 肿瘤的分期
 【参考答案】 E
 
-不符合有癌变倾向的外阴白色病变的描述是
-A. 硬化性苔癬
+17. 不符合有癌变倾向的外阴白色病变的描述是
+A. 硬化性苔癣
 B. 白癜风
 C. 鳞状上皮增生
 D. 鳞状上皮增生伴上皮内肿瘤
 E. 增生性营养不良
 【参考答案】 D
 
-可以引起外阴白色病变的恶性肿瘤是
-A. 硬化性苔癬
+18. 可以引起外阴白色病变的恶性肿瘤是
+A. 硬化性苔癣
 B. 白癜风
 C. 鳞状上皮增生
 D. 鳞状上皮增生伴上皮内肿瘤
 E. Paget 病
 【参考答案】 E
 
-不符合外阴硬化性苔癬的描述是
+19. 不符合外阴硬化性苔癣的描述是
 A. 外阴部粘膜呈白色
 B. 属癌前病变
 C. 表皮变薄
@@ -152,7 +152,7 @@ D. 真皮浅层水肿
 E. 真皮深层慢性炎细胞带状浸润
 【参考答案】 B
 
-不符合外阴鳞状上皮增生的描述是
+20. 不符合外阴鳞状上皮增生的描述是
 A. 表皮增厚
 B. 属癌前病变
 C. 棘细胞增生
@@ -160,7 +160,7 @@ D. 真皮慢性炎细胞浸润
 E. 角化过度
 【参考答案】 B
 
-外阴上皮内肿瘤的特点是
+21. 外阴上皮内肿瘤的特点是
 A. 表皮增厚
 B. 棘细胞增生
 C. 鳞状上皮细胞大小形态不一、核深染
@@ -168,15 +168,15 @@ D. 真皮慢性炎细胞浸润
 E. 角化过度
 【参考答案】 C
 
-不符合外阴上皮内肿瘤的描述是
+22. 不符合外阴上皮内肿瘤的描述是
 A. 常为多中心发生
-B. 常合并 HPV16、18感染
+B. 常合并 HPV16、18 感染
 C. 鳞状上皮细胞大小形态不一、核深染
 D. 可进展为鳞状细胞癌
 E. 青年妇女多见
 【参考答案】 E
 
-外阴上皮内肿瘤常合并感染的病毒是
+23. 外阴上皮内肿瘤常合并感染的病毒是
 A. HPV
 B. HSV
 C. CMV
@@ -184,15 +184,15 @@ D. HIV
 E. HBV
 【参考答案】 A
 
-符合外阴上皮内肿瘤的描述是
-A. 多由硬化性苔癬发展而来
+24. 符合外阴上皮内肿瘤的描述是
+A. 多由硬化性苔癣发展而来
 B. 常合并 CMV 感染
 C. 鳞状上皮萎缩
 D. 可进展为鳞状细胞癌
 E. 青年妇女多见
 【参考答案】 D
 
-子宫颈癌开始最常发生于
+25. 子宫颈癌开始最常发生于
 A. 子宫颈外口
 B. 子宫颈内口
 C. 子宫颈前唇
@@ -200,7 +200,7 @@ D. 子宫颈后唇
 E. 子宫颈管
 【参考答案】 A
 
-子宫颈癌常见的组织学类型是
+26. 子宫颈癌常见的组织学类型是
 A. 鳞状细胞癌
 B. 原位癌
 C. 早期浸润癌
@@ -208,7 +208,7 @@ D. 高分化腺癌
 E. 透明细胞癌
 【参考答案】 A
 
-不符合子宫颈癌的描述是
+27. 不符合子宫颈癌的描述是
 A. 鳞状上皮不典型增生是癌前病变
 B. 原位癌是可治愈的癌
 C. 原位癌累及腺体是早期浸润癌
@@ -216,39 +216,39 @@ D. 高分化腺癌可引起粘液分泌增多
 E. 淋巴道转移多见
 【参考答案】 C
 
-不符合子宫颈癌的描述是
+28. 不符合子宫颈癌的描述是
 A. 与慢性细菌感染有关
-B. 与HPV感染有关
+B. 与 HPV 感染有关
 C. 与多胎生产有关
 D. 与早婚有关
 E. 与性生活紊乱有关
 【参考答案】 A
 
-女性,55岁,停经4年后,近2月来阴道不规则少量出血。活体病理诊断为鳞状细胞癌。子宫颈癌根治标本病理诊断为早期浸润癌。符合该患者疾病的描述是
+29. 女性，55 岁，停经 4 年后，近 2 月来阴道不规则少量出血。活体病理诊断为鳞状细胞癌。子宫颈癌根治标本病理诊断为早期浸润癌。符合该患者疾病的描述是
 A. 癌细胞占据上皮全层
 B. 癌细胞累及腺体
-C. 癌细胞侵及子宫颈 2mm 的组织
+C. 癌细胞侵及子宫颈 2 mm 的组织
 D. 癌细胞侵及子宫颈深层
 E. 癌细胞侵及阴道上段
 【参考答案】 C
 
-子宫颈早期浸润癌是指
-A. 癌浸润深度不超过 1mm
-B. 癌浸润深度不超过2mm
-C. 癌浸润深度不超过 5mm
-D. 癌浸润深度不超过8mm
-E. 癌浸润深度为8mm~10mm
+30. 子宫颈早期浸润癌是指
+A. 癌浸润深度不超过 1 mm
+B. 癌浸润深度不超过 2 mm
+C. 癌浸润深度不超过 5 mm
+D. 癌浸润深度不超过 8 mm
+E. 癌浸润深度为 8 mm ~10 mm
 【参考答案】 C
 
-子宫颈原位癌累及腺体是指
+31. 子宫颈原位癌累及腺体是指
 A. 子宫颈腺上皮癌变
 B. 原位癌阻塞腺体开口
 C. 子宫颈腺体被鳞状上皮取代
 D. 子宫颈鳞癌细胞突破基底膜侵及腺体
-E. 子宫颈原位癌取代腺体上皮细胞,腺体基底膜完整
+E. 子宫颈原位癌取代腺体上皮细胞，腺体基底膜完整
 【参考答案】 E
 
-影响子宫颈癌预后的主要因素是
+32. 影响子宫颈癌预后的主要因素是
 A. 肿瘤的肉眼类型
 B. 肿瘤角化珠的多少
 C. 肿瘤的腺体排列
@@ -256,7 +256,7 @@ D. 肿瘤的临床病理分期
 E. 肿瘤细胞的分化程度
 【参考答案】 D
 
-不符合子宫颈癌扩散途径的描述是
+33. 不符合子宫颈癌扩散途径的描述是
 A. 以淋巴道转移为主
 B. 可直接侵犯直肠
 C. 晚期可发生血道转移
@@ -264,15 +264,15 @@ D. 可直接侵犯膀胱
 E. 首先转移到髂总淋巴结
 【参考答案】 E
 
-符合子宫颈鳞状上皮异型增生的描述是
-A. 鳞状上皮细胞大小、形态不一,核深染
-B. 鳞状上皮细胞变成癌细胞,但基底膜完整
-C. 鳞状上皮增厚,钉突延长
+34. 符合子宫颈鳞状上皮异型增生的描述是
+A. 鳞状上皮细胞大小、形态不一，核深染
+B. 鳞状上皮细胞变成癌细胞，但基底膜完整
+C. 鳞状上皮增厚，钉突延长
 D. 鳞状上皮细胞不典型增生I级最易癌变
 E. 子宫颈柱状上皮被鳞状上皮代替
 【参考答案】 A
 
-子宫颈上皮内新生物是指
+35. 子宫颈上皮内新生物是指
 A. 鳞状上皮化生
 B. 鳞状上皮不典型增生
 C. 原位癌
@@ -280,7 +280,7 @@ D. 鳞状上皮增生
 E. 腺上皮增生
 【参考答案】 B
 
-子宫颈癌最常见的肉眼类型是
+36. 子宫颈癌最常见的肉眼类型是
 A. 溃疡型
 B. 外生型
 C. 糜烂型
@@ -288,7 +288,7 @@ D. 内生浸润型
 E. 颈管型
 【参考答案】 D
 
-子宫颈癌通过淋巴道首先转移到
+37. 子宫颈癌通过淋巴道首先转移到
 A. 髂总淋巴结
 B. 骶前淋巴结
 C. 子宫颈旁、闭孔、髂内、髂外淋巴结
@@ -296,7 +296,7 @@ D. 深腹股沟淋巴结
 E. 锁骨上淋巴结
 【参考答案】 C
 
-与子宫颈癌发生关系密切的病毒是
+38. 与子宫颈癌发生关系密切的病毒是
 A. EBV
 B. HPV
 C. HBV
@@ -304,7 +304,7 @@ D. CMV
 E. HSV
 【参考答案】 B
 
-不符合慢性子宫颈炎的描述是
+39. 不符合慢性子宫颈炎的描述是
 A. 孕龄妇女的常见病
 B. 子宫颈粘膜充血糜烂
 C. 子宫颈慢性炎细胞浸润
@@ -312,7 +312,7 @@ D. 子宫颈息肉形成
 E. 子宫颈上皮内肿瘤
 【参考答案】 E
 
-子宫颈真性糜烂是指
+40. 子宫颈真性糜烂是指
 A. 粘膜上皮坏死脱落
 B. 柱状上皮取代鳞状上皮
 C. 重度不典型增生
@@ -320,7 +320,7 @@ D. 囊肿形成
 E. 鳞状上皮化生
 【参考答案】 A
 
-子宫腺肌病是指子宫内膜异位于
+41. 子宫腺肌病是指子宫内膜异位于
 A. 子宫肌层
 B. 输卵管
 C. 卵巢
@@ -328,7 +328,7 @@ D. 腹壁
 E. 盆腔组织
 【参考答案】 A
 
-子宫外子宫内膜异位症最常见于
+42. 子宫外子宫内膜异位症最常见于
 A. 子宫圆韧带
 B. 卵巢
 C. 腹壁
@@ -336,7 +336,7 @@ D. 阴道壁
 E. 外阴
 【参考答案】 B
 
-卵巢巧克力囊肿是指
+43. 卵巢巧克力囊肿是指
 A. 输卵管卵巢囊肿
 B. 卵巢子宫内膜异位囊肿
 C. 卵巢粘液性囊腺瘤
@@ -344,7 +344,7 @@ D. 卵巢囊性畸胎瘤
 E. 卵巢黄体血肿
 【参考答案】 B
 
-不符合子宫内膜增生症的描述是
+44. 不符合子宫内膜增生症的描述是
 A. 多发生于更年期和青春期
 B. 表现为月经不规则、经期延长、月经量过多
 C. 与卵巢雌激素分泌过多有关
@@ -352,7 +352,7 @@ D. 阴道壁多由卵巢滤泡不排卵引起
 E. 子宫内膜单纯增生易发生癌变
 【参考答案】 E
 
-不符合子宫内膜增生症的病理变化是
+45. 不符合子宫内膜增生症的病理变化是
 A. 子宫内膜增厚
 B. 子宫内膜腺体增生
 C. 子宫内膜腺体囊性扩张
@@ -360,7 +360,7 @@ D. 子宫内膜腺上皮异型增生
 E. 子宫内膜腺体背靠背、细胞异型性显著、核分裂多见
 【参考答案】 E
 
-功能性子宫出血是指
+46. 功能性子宫出血是指
 A. 绝经后子宫出血
 B. 阴道接触出血
 C. 炎症性疾病引起的子宫出血
@@ -368,23 +368,23 @@ D. 神经内分泌失常引起的子宫出血
 E. 子宫肿瘤引起的子宫出血
 【参考答案】 D
 
-子宫内膜腺瘤样增生的特点是
+47. 子宫内膜腺瘤样增生的特点是
 A. 腺体和间质增生
 B. 增生的腺体呈囊性扩张
 C. 增生的腺体密集排列
-D. 增生的腺体密集排列,伴腺上皮异型性
-E. 腺体密集伴腺上皮异型性显著,间质浸润
+D. 增生的腺体密集排列，伴腺上皮异型性
+E. 腺体密集伴腺上皮异型性显著，间质浸润
 【参考答案】 C
 
-子宫内膜不典型增生的特点是
+48. 子宫内膜不典型增生的特点是
 A. 腺体和间质增生
 B. 增生的腺体呈囊性扩张
 C. 增生的腺体密集排列
-D. 增生的腺体密集排列,伴腺上皮异型性
-E. 腺体密集伴腺上皮异型性显著,间质浸润
+D. 增生的腺体密集排列，伴腺上皮异型性
+E. 腺体密集伴腺上皮异型性显著，间质浸润
 【参考答案】 D
 
-与雌激素水平过高有密切关系的肿瘤为
+49. 与雌激素水平过高有密切关系的肿瘤为
 A. 子宫颈鳞癌
 B. 子宫颈腺癌
 C. 绒毛膜癌
@@ -392,7 +392,7 @@ D. 子宫内膜癌
 E. 卵巢囊腺癌
 【参考答案】 D
 
-不符合高分化子宫内膜腺癌的描述是
+50. 不符合高分化子宫内膜腺癌的描述是
 A. 腺体密集、大小形态不规则形
 B. 核分裂多见
 C. 腺上皮呈复层、排列紊乱
@@ -400,15 +400,15 @@ D. 有间质浸润
 E. 腺体间为子宫内膜间质
 【参考答案】 E
 
-诊断子宫平滑肌肉瘤的主要依据是
+51. 诊断子宫平滑肌肉瘤的主要依据是
 A. 肿瘤细胞密集
 B. 可见奇异核瘤细胞
 C. 肿瘤粘液变性
-D. 肿瘤组织坏死、核分裂象多见(每10个高倍视野10个核分裂)
+D. 肿瘤组织坏死、核分裂象多见（每 10 个高倍视野 10 个核分裂）
 E. 肿瘤组织发生囊性变
 【参考答案】 D
 
-不符合子宫内膜癌的描述是
+52. 不符合子宫内膜癌的描述是
 A. 与雌激素长期持续作用有关
 B. 生长较缓慢
 C. 主要是淋巴道转移
@@ -416,7 +416,7 @@ D. 多发生于青年妇女
 E. 常引起阴道出血
 【参考答案】 D
 
-子宫体最常见的肿瘤是
+53. 子宫体最常见的肿瘤是
 A. 平滑肌瘤
 B. 平滑肌肉瘤
 C. 子宫内膜腺癌
@@ -424,7 +424,7 @@ D. 子宫内膜间质肿瘤
 E. 鳞癌
 【参考答案】 A
 
-不符合子宫内膜腺癌的描述是
+54. 不符合子宫内膜腺癌的描述是
 A. 肿瘤生长迅速
 B. 可沿子宫内膜蔓延
 C. 可侵犯子宫壁
@@ -432,7 +432,7 @@ D. 可沿淋巴道转移
 E. 可沿血道转移
 【参考答案】 A
 
-不符合子宫内膜腺癌的描述是
+55. 不符合子宫内膜腺癌的描述是
 A. 可呈结节状
 B. 可呈息肉状
 C. 可呈弥漫型
@@ -440,7 +440,7 @@ D. 多为低分化腺癌
 E. 可为腺鳞癌
 【参考答案】 D
 
-最常见的子宫肉瘤为
+56. 最常见的子宫肉瘤为
 A. 子宫内膜间质肉瘤
 B. 平滑肌肉瘤
 C. 葡萄状肉瘤
@@ -448,7 +448,7 @@ D. 癌肉瘤
 E. 纤维肉瘤
 【参考答案】 B
 
-不符合葡萄胎的病理变化是
+57. 不符合葡萄胎的病理变化是
 A. 胎盘绒毛高度水肿
 B. 绒毛间质血管消失
 C. 滋养层细胞增生
@@ -456,15 +456,15 @@ D. 子宫增大超出正常妊娠月份
 E. 绒毛常侵犯子宫壁深肌层
 【参考答案】 E
 
-恶性葡萄胎的特征性病理变化是
+58. 恶性葡萄胎的特征性病理变化是
 A. 胎盘绒毛水肿
-B. 滋养层细胞增生,并有异型性
+B. 滋养层细胞增生，并有异型性
 C. 绒毛消失
 D. 绒毛侵犯子宫壁深肌层
 E. 间质血管消失
 【参考答案】 D
 
-恶性葡萄胎与绒毛膜癌的主要区别是
+59. 恶性葡萄胎与绒毛膜癌的主要区别是
 A. 浸润子宫深肌层
 B. 细胞明显增生和具异型性
 C. 血道转移
@@ -472,7 +472,7 @@ D. 有绒毛结构
 E. 出血坏死
 【参考答案】 D
 
-不符合葡萄胎临床表现的是
+60. 不符合葡萄胎临床表现的是
 A. HCG 增高
 B. 子宫显著增大
 C. 无胎心和胎动
@@ -480,7 +480,7 @@ D. 双卵巢黄素囊肿形成
 E. 无恶变倾向
 【参考答案】 E
 
-符合葡萄胎病理变化的是
+61. 符合葡萄胎病理变化的是
 A. 浸润子宫深肌层
 B. 由分化不良的两种滋养层细胞构成
 C. 血道转移
@@ -488,7 +488,7 @@ D. 有绒毛结构
 E. 出血坏死
 【参考答案】 D
 
-符合葡萄胎的病因的描述是
+62. 符合葡萄胎的病因的描述是
 A. 与病毒感染有关
 B. 与雌激素水平过高有关
 C. 与染色体异常有关
@@ -496,23 +496,23 @@ D. 与胚胎早期死亡有关
 E. 与营养缺乏有关
 【参考答案】 C
 
-不符合完全型葡萄胎的描述是
+63. 不符合完全型葡萄胎的描述是
 A. 染色体核型为二倍体
-B. 染色体核型多为46XX
+B. 染色体核型多为 46XX
 C. 两组染色体均来自父方
 D. 可由单精子与空卵受精引起
 E. 可由双精子与正常卵子受精引起
 【参考答案】 E
 
-不符合部分性葡萄胎的描述是
+64. 不符合部分性葡萄胎的描述是
 A. 染色体核型为三倍体
-B. 染色体核型多为 69XXY 或69XXX
+B. 染色体核型多为 69XXY 或 69XXX
 C. 三组染色体均来自父方
 D. 也可由正常的单倍体卵子与二倍体精子受精引起
 E. 可由双精子与正常卵子受精引起
 【参考答案】 C
 
-绒毛膜癌最常转移到
+65. 绒毛膜癌最常转移到
 A. 阴道
 B. 肝
 C. 肺
@@ -520,7 +520,7 @@ D. 肠
 E. 脑
 【参考答案】 C
 
-绒毛膜癌可以产生
+66. 绒毛膜癌可以产生
 A. 雌激素
 B. 雄激素
 C. 绒毛膜促性腺激素
@@ -528,7 +528,7 @@ D. 催乳素
 E. 生长激素
 【参考答案】 C
 
-青年女性,半年前刮宫诊断为葡萄胎,近年出现咳嗽咯血,胸透发现两肺有团块状阴影,血清 HCG 升高,穿刺活检可见异型性显著的两种滋养层细胞,无间质、无绒毛结构。该患者应诊断为
+67. 青年女性，半年前刮宫诊断为葡萄胎，近年出现咳嗽咯血，胸透发现两肺有团块状阴影，血清 HCG 升高，穿刺活检可见异型性显著的两种滋养层细胞，无间质、无绒毛结构。该患者应诊断为
 A. 肺鳞状细胞癌
 B. 肺小细胞癌
 C. 绒毛膜癌肺转移
@@ -536,7 +536,7 @@ D. 恶性葡萄胎肺转移
 E. 肺腺癌
 【参考答案】 C
 
-绒毛膜癌的病理特点是
+68. 绒毛膜癌的病理特点是
 A. 有纤维组织性癌间质
 B. 有丰富的毛细血管
 C. 有丰富的淋巴细胞
@@ -544,7 +544,7 @@ D. 形成绒毛样结构
 E. 肿瘤细胞为合体细胞样和细胞滋养层细胞样
 【参考答案】 E
 
-不符合绒毛膜癌的描述是
+69. 不符合绒毛膜癌的描述是
 A. 可由葡萄胎恶变而来
 B. 可发生于流产后
 C. 可发生于正常分娩后
@@ -552,7 +552,7 @@ D. 可发生于卵巢、睾丸
 E. 可发生于脑组织
 【参考答案】 E
 
-不符合绒毛膜癌的描述是
+70. 不符合绒毛膜癌的描述是
 A. 与不全流产无关
 B. 与葡萄胎关系密切
 C. 无胎盘绒毛样结构
@@ -560,7 +560,7 @@ D. 可产生绒毛膜促性腺激素
 E. 转移癌可比原发癌明显
 【参考答案】 A
 
-女性,40岁,半年前曾患葡萄胎,经刮宫治疗。近1个月来,阴道出血,刮宫送病理检查,大量凝血坏死组织内可见异型性显著的合体滋养层细胞和细胞滋养层细胞。符合该患者的病理诊断是
+71. 女性，40 岁，半年前曾患葡萄胎，经刮宫治疗。近 1 个月来，阴道出血，刮宫送病理检查，大量凝血坏死组织内可见异型性显著的合体滋养层细胞和细胞滋养层细胞。符合该患者的病理诊断是
 A. 子宫内膜腺癌
 B. 绒毛膜癌
 C. 葡萄胎
@@ -568,7 +568,7 @@ D. 子宫平滑肌瘤
 E. 子宫内膜腺鳞癌
 【参考答案】 B
 
-青年女性,停经3个月,近来发现阴道结节,镜检找到变性绒毛,最大可能性是
+72. 青年女性，停经 3 个月，近来发现阴道结节，镜检找到变性绒毛，最大可能性是
 A. 宫外孕
 B. 葡萄胎
 C. 绒毛膜癌
@@ -576,7 +576,7 @@ D. 恶性葡萄胎
 E. 葡萄状肉瘤
 【参考答案】 D
 
-女性生殖器官结核的原发部位是
+73. 女性生殖器官结核的原发部位是
 A. 卵巢
 B. 输卵管
 C. 子宫
@@ -584,7 +584,7 @@ D. 子宫颈
 E. 阴道
 【参考答案】 B
 
-急性输卵管炎的病原体是
+74. 急性输卵管炎的病原体是
 A. 结核杆菌
 B. 衣原体
 C. 化脓菌
@@ -592,7 +592,7 @@ D. 支原体
 E. 病毒
 【参考答案】 C
 
-输卵管卵巢囊肿是
+75. 输卵管卵巢囊肿是
 A. 真性肿瘤
 B. 错构瘤
 C. 子宫内膜异位
@@ -600,7 +600,7 @@ D. 慢性炎症病变
 E. 囊腺瘤
 【参考答案】 D
 
-不符合输卵管卵巢脓肿的描述是
+76. 不符合输卵管卵巢脓肿的描述是
 A. 多发生于分娩后、流产后或刮宫术后
 B. 多由化脓菌感染引起
 C. 多由血道感染引起
@@ -608,7 +608,7 @@ D. 可形成输卵管卵巢囊肿
 E. 输卵管卵巢粘连
 【参考答案】 C
 
-异位妊娠最常见的部位是
+77. 异位妊娠最常见的部位是
 A. 卵巢
 B. 输卵管
 C. 子宫颈
@@ -616,7 +616,7 @@ D. 盆腔
 E. 腹腔
 【参考答案】 B
 
-输卵管妊娠的最常见原因是
+78. 输卵管妊娠的最常见原因是
 A. 输卵管发育异常
 B. 慢性输卵管炎
 C. 输卵管瘘管
@@ -624,7 +624,7 @@ D. 受精卵发育异常
 E. 输卵管肿瘤
 【参考答案】 B
 
-输卵管妊娠最常见的合并症是
+79. 输卵管妊娠最常见的合并症是
 A. 腹腔出血
 B. 阴道出血
 C. 胚胎钙化
@@ -632,7 +632,7 @@ D. 腹腔妊娠
 E. 肠粘连
 【参考答案】 A
 
-输卵管妊娠的好发部位是
+80. 输卵管妊娠的好发部位是
 A. 伞端
 B. 壶腹部
 C. 狭部
@@ -640,7 +640,7 @@ D. 间质部
 E. 以上都不是
 【参考答案】 B
 
-不符合卵巢浆液性囊腺癌的描述是
+81. 不符合卵巢浆液性囊腺癌的描述是
 A. 乳头多
 B. 单层上皮
 C. 细胞有异型性
@@ -648,7 +648,7 @@ D. 可见核分裂像
 E. 包膜和间质有浸润
 【参考答案】 B
 
-引起卵巢 Krukenberg 瘤的是
+82. 引起卵巢 Krukenberg 瘤的是
 A. 宫颈癌
 B. 乳腺癌
 C. 胃肠道癌
@@ -656,7 +656,7 @@ D. 肺癌
 E. 肝癌
 【参考答案】 C
 
-卵巢最常见的肿瘤是
+83. 卵巢最常见的肿瘤是
 A. Krukenberg 瘤
 B. 上皮性肿瘤
 C. 性腺间质肿瘤
@@ -664,7 +664,7 @@ D. 生殖细胞肿瘤
 E. 纤维瘤
 【参考答案】 B
 
-低度恶性的上皮性肿瘤是
+84. 低度恶性的上皮性肿瘤是
 A. 浆液性囊腺瘤
 B. 粘液性囊腺瘤
 C. 交界性浆液性囊腺瘤
@@ -672,7 +672,7 @@ D. 浆液性囊腺癌
 E. 粘液性囊腺癌
 【参考答案】 C
 
-不符合浆液性囊腺瘤的是
+85. 不符合浆液性囊腺瘤的是
 A. 圆形囊肿
 B. 清亮浆液
 C. 乳头形成
@@ -680,7 +680,7 @@ D. 被覆上皮呈复层结构
 E. 单房或多房
 【参考答案】 D
 
-不符合浆液性囊腺癌的是
+86. 不符合浆液性囊腺癌的是
 A. 多囊性
 B. 囊内实性菜花状突起
 C. 上皮细胞复层排列
@@ -688,15 +688,15 @@ D. 上皮细胞异型性明显
 E. 多无包膜和间质浸润
 【参考答案】 E
 
-不符合交界性浆液性囊腺瘤的是
+87. 不符合交界性浆液性囊腺瘤的是
 A. 圆形囊肿
 B. 清亮浆液
 C. 多量乳头形成
-D. 被覆上皮呈2~3层
+D. 被覆上皮呈 2 ~3 层
 E. 多有包膜和间质浸润
 【参考答案】 E
 
-不符合交界性粘液性囊腺瘤的是
+88. 不符合交界性粘液性囊腺瘤的是
 A. 囊性肿物
 B. 浓稠粘液
 C. 多量乳头形成
@@ -704,7 +704,7 @@ D. 被覆上皮呈多层
 E. 多无包膜和间质浸润
 【参考答案】 D
 
-最常见的良性卵巢性腺间质肿瘤是
+89. 最常见的良性卵巢性腺间质肿瘤是
 A. 颗粒细胞瘤
 B. 泡膜细胞瘤
 C. 卵巢纤维瘤
@@ -712,7 +712,7 @@ D. 两性母细胞瘤
 E. 支持细胞-间质细胞瘤
 【参考答案】 B
 
-最常见的低度恶性卵巢性腺间质肿瘤是
+90. 最常见的低度恶性卵巢性腺间质肿瘤是
 A. 颗粒细胞瘤
 B. 泡膜细胞瘤
 C. 卵巢纤维瘤
@@ -720,7 +720,7 @@ D. 两性母细胞瘤
 E. 支持细胞-间质细胞瘤
 【参考答案】 A
 
-Call-Exner 小体多见于
+91. Call-Exner 小体多见于
 A. 卵巢颗粒细胞瘤
 B. 卵巢无性细胞瘤
 C. 卵巢纤维瘤
@@ -728,7 +728,7 @@ D. 内胚窦瘤
 E. 卵巢门细胞瘤
 【参考答案】 A
 
-不符合颗粒细胞瘤的描述是
+92. 不符合颗粒细胞瘤的描述是
 A. 常产生雌激素
 B. 可引起月经紊乱
 C. 多为实性
@@ -736,7 +736,7 @@ D. 可见 Call-Exner 小体
 E. 高度恶性
 【参考答案】 E
 
-不符合泡膜细胞瘤的描述是
+93. 不符合泡膜细胞瘤的描述是
 A. 常产生雌激素
 B. 低度恶性
 C. 多为实性
@@ -744,7 +744,7 @@ D. 肿瘤细胞与泡膜细胞相似
 E. 绝经期妇女多见
 【参考答案】 B
 
-最常见的卵巢良性生殖细胞肿瘤是
+94. 最常见的卵巢良性生殖细胞肿瘤是
 A. 精原细胞瘤
 B. 内胚窦瘤
 C. 良性畸胎瘤
@@ -752,7 +752,7 @@ D. 恶性畸胎瘤
 E. 胚胎性癌
 【参考答案】 C
 
-不符合良性畸胎瘤的描述是
+95. 不符合良性畸胎瘤的描述是
 A. 多为囊性
 B. 囊内含毛发油脂
 C. 囊壁可见骨、软骨
@@ -760,7 +760,7 @@ D. 囊壁可见神经组织
 E. 肿瘤来源于性腺间质
 【参考答案】 E
 
-不符合恶性畸胎瘤的描述是
+96. 不符合恶性畸胎瘤的描述是
 A. 多为囊性
 B. 常有出血坏死
 C. 囊壁可见骨、软骨
@@ -768,7 +768,7 @@ D. 囊壁可见胚胎性组织
 E. 肿瘤内可见未成熟的神经组织
 【参考答案】 A
 
-生殖细胞向胚外组织分化而形成的肿瘤是
+97. 生殖细胞向胚外组织分化而形成的肿瘤是
 A. 颗粒细胞瘤
 B. 内胚窦瘤
 C. 粘液性囊腺瘤
@@ -776,7 +776,7 @@ D. Brenner 瘤
 E. 浆液性囊腺瘤
 【参考答案】 B
 
-未成熟畸胎瘤的恶性成分是
+98. 未成熟畸胎瘤的恶性成分是
 A. 皮肤及其附属器
 B. 软骨组织
 C. 脑组织
@@ -784,7 +784,7 @@ D. 原始神经上皮
 E. 平滑肌
 【参考答案】 D
 
-卵巢无性细胞瘤相当于
+99. 卵巢无性细胞瘤相当于
 A. 精原细胞瘤
 B. 内胚窦瘤
 C. 两性母细胞瘤
@@ -792,7 +792,7 @@ D. 颗粒细胞瘤
 E. 胚胎性癌
 【参考答案】 A
 
-不符合内胚窦瘤的描述是
+100. 不符合内胚窦瘤的描述是
 A. 由生殖细胞发生
 B. 低度恶性
 C. 产生甲胎蛋白
@@ -800,7 +800,7 @@ D. 形成内胚窦样结构
 E. 对放射治疗不敏感
 【参考答案】 B
 
-不属于生殖细胞起源的肿瘤是
+101. 不属于生殖细胞起源的肿瘤是
 A. 无性细胞瘤
 B. 内胚窦瘤
 C. 绒毛膜癌
@@ -808,7 +808,7 @@ D. 畸胎瘤
 E. 颗粒细胞瘤
 【参考答案】 E
 
-不符合卵巢绒毛膜癌的描述是
+102. 不符合卵巢绒毛膜癌的描述是
 A. 由生殖细胞发生
 B. 低度恶性
 C. 产生 HCG
@@ -816,7 +816,7 @@ D. 常合并其他生殖细胞肿瘤
 E. 由异型性明显的滋养层细胞构成
 【参考答案】 B
 
-甲胎蛋白阳性的肿瘤是
+103. 甲胎蛋白阳性的肿瘤是
 A. 卵巢颗粒层细胞瘤
 B. 卵巢无性细胞瘤
 C. 卵巢纤维瘤
@@ -824,7 +824,7 @@ D. 内胚窦瘤
 E. 卵巢门细胞瘤
 【参考答案】 D
 
-不符合卵巢无性细胞瘤的描述是
+104. 不符合卵巢无性细胞瘤的描述是
 A. 由生殖细胞发生
 B. 对放射治疗不敏感
 C. 肿瘤呈实性、常有出血坏死
@@ -832,7 +832,7 @@ D. 常伴淋巴细胞浸润
 E. 由体积大而圆的肿瘤细胞构成
 【参考答案】 B
 
-乳腺癌最常发生于乳房的
+105. 乳腺癌最常发生于乳房的
 A. 外上象限
 B. 外下象限
 C. 内上象限
@@ -840,7 +840,7 @@ D. 内下象限
 E. 中央部
 【参考答案】 A
 
-一般不出现乳房內包块的乳腺癌是
+106. 一般不出现乳房内包块的乳腺癌是
 A. 导管内癌
 B. 浸润性导管癌
 C. 小叶原位癌
@@ -848,7 +848,7 @@ D. 浸润小叶癌
 E. 髓样癌
 【参考答案】 C
 
-与长期雌激素刺激有关的肿瘤是
+107. 与长期雌激素刺激有关的肿瘤是
 A. 子宫颈鳞状上皮癌
 B. 子宫颈腺癌
 C. 绒毛膜癌
@@ -856,7 +856,7 @@ D. 乳腺癌
 E. 卵巢乳头状囊腺癌
 【参考答案】 D
 
-外上象限乳腺癌最常转移到
+108. 外上象限乳腺癌最常转移到
 A. 同侧腋窝淋巴结
 B. 同侧锁骨上淋巴结
 C. 同侧锁骨下淋巴结
@@ -864,7 +864,7 @@ D. 同侧内乳淋巴结
 E. 同侧肋间淋巴结
 【参考答案】 A
 
-不符合乳腺癌的描述是
+109. 不符合乳腺癌的描述是
 A. 肿瘤灰白、质硬
 B. 呈浸润性生长
 C. 容易发生血道转移
@@ -872,7 +872,7 @@ D. 皮肤可呈桔皮样改变
 E. 可出现乳头回缩现象
 【参考答案】 C
 
-女性,52岁,右乳外上象限肿块2年余,肿块质硬、边界不清。局部皮肤破 溃,患侧乳头内陷。符合该患者疾病的 诊断是
+110. 女性，52 岁，右乳外上象限肿块 2 年余，肿块质硬、边界不清。局部皮肤破溃，患侧乳头内陷。符合该患者疾病的诊断是
 A. 乳腺增生症
 B. 乳腺纤维腺瘤
 C. 乳腺癌
@@ -880,47 +880,47 @@ D. 乳腺导管内乳头状瘤
 E. 乳腺脓肿
 【参考答案】 C
 
-乳腺硬癌的特点是
+111. 乳腺硬癌的特点是
 A. 癌细胞局限于小叶腺泡内
 B. 癌细胞局限于导管内
 C. 癌细胞丰富、间质少
-D. 纤维间质丰富,癌细胞少
+D. 纤维间质丰富，癌细胞少
 E. 癌细胞与间质大致相等
 【参考答案】 D
 
-乳腺髓样癌的特点是
+112. 乳腺髓样癌的特点是
 A. 癌细胞局限于小叶腺泡内
 B. 癌细胞局限于导管内
 C. 癌细胞丰富、间质少
-D. 纤维间质丰富,癌细胞少
+D. 纤维间质丰富，癌细胞少
 E. 癌细胞与间质大致相等
 【参考答案】 C
 
-乳腺实性癌的特点是
+113. 乳腺实性癌的特点是
 A. 癌细胞局限于小叶腺泡内
 B. 癌细胞局限于导管内
 C. 癌细胞丰富、间质少
-D. 纤维间质丰富,癌细胞少
+D. 纤维间质丰富，癌细胞少
 E. 癌细胞与间质大致相等
 【参考答案】 E
 
-乳腺小叶原位癌的特点是
+114. 乳腺小叶原位癌的特点是
 A. 癌细胞局限于小叶腺泡内
 B. 癌细胞局限于导管内
 C. 癌细胞丰富、间质少
-D. 纤维间质丰富,癌细胞少
+D. 纤维间质丰富，癌细胞少
 E. 癌细胞与间质大致相等
 【参考答案】 A
 
-乳腺导管內癌的特点是
+115. 乳腺导管内癌的特点是
 A. 癌细胞局限于小叶腺泡内
 B. 癌细胞局限于导管内
 C. 癌细胞丰富、间质少
-D. 纤维间质丰富,癌细胞少
+D. 纤维间质丰富，癌细胞少
 E. 癌细胞与间质大致相等
 【参考答案】 B
 
-妇女最常见的乳腺良性肿瘤是
+116. 妇女最常见的乳腺良性肿瘤是
 A. 乳腺纤维腺瘤
 B. 乳腺腺瘤
 C. 叶状瘤
@@ -928,15 +928,15 @@ D. 导管内乳头状瘤
 E. 脂肪瘤
 【参考答案】 A
 
-与遗传性乳腺癌密切相关的基因是
+117. 与遗传性乳腺癌密切相关的基因是
 A. APC 基因
-B. BRCA1 和BRC2基因
+B. BRCA1 和 BRC2 基因
 C. NF-1 基因
 D. RB 基因
-E. . WT-1 基因
+E. WT-1 基因
 【参考答案】 B
 
-不符合乳腺癌的描述是
+118. 不符合乳腺癌的描述是
 A. 多来源于导管上皮细胞
 B. 多发生于外上象限
 C. 以鳞癌多见
@@ -944,7 +944,7 @@ D. 多数为实性癌
 E. 以淋巴道转移多见
 【参考答案】 C
 
-金黄色葡萄球菌引起
+119. 金黄色葡萄球菌引起
 A. 导管周围乳腺炎
 B. 乳腺导管扩张症
 C. 脂肪坏死
@@ -952,7 +952,7 @@ D. 肉芽肿性乳腺炎
 E. 急性乳腺炎
 【参考答案】 E
 
-不符合乳腺纤维囊性病的描述是
+120. 不符合乳腺纤维囊性病的描述是
 A. 与雌激素分泌过多有关
 B. 囊肿形成
 C. 纤维增生
@@ -960,7 +960,7 @@ D. 腺泡和导管增生
 E. 导管乳头状瘤
 【参考答案】 E
 
-符合前列腺癌的描述是
+121. 符合前列腺癌的描述是
 A. 对放射线敏感
 B. 鳞癌多见
 C. 容易转移到脊椎
@@ -968,7 +968,7 @@ D. 青年患者多见
 E. 产生碱性磷酸酶
 【参考答案】 C
 
-前列腺癌的肿瘤标记物是
+122. 前列腺癌的肿瘤标记物是
 A. 碱性磷酸酶
 B. 酸性磷酸酶
 C. ATP 酶
@@ -976,7 +976,7 @@ D. 淀粉酶
 E. 琥珀酸脱氢酶
 【参考答案】 B
 
-前列腺癌最常见的好发部位是
+123. 前列腺癌最常见的好发部位是
 A. 外区
 B. 后叶
 C. 中叶
@@ -984,7 +984,7 @@ D. 前叶
 E. 两叶以上
 【参考答案】 A
 
-前列腺癌最常见的组织学类型是
+124. 前列腺癌最常见的组织学类型是
 A. 移行细胞癌
 B. 腺鳞癌
 C. 鳞状细胞癌
@@ -992,7 +992,7 @@ D. 腺癌
 E. 透明细胞癌
 【参考答案】 D
 
-前列腺癌最常见的组织学类型是
+125. 前列腺癌最常见的组织学类型是
 A. 移行细胞癌
 B. 腺鳞癌
 C. 鳞状细胞癌
@@ -1000,7 +1000,7 @@ D. 高分化腺癌
 E. 低分化腺癌
 【参考答案】 D
 
-前列腺癌的肿瘤标记物是
+126. 前列腺癌的肿瘤标记物是
 A. 癌胚抗原
 B. 甲胎蛋白
 C. 碱性磷酸酶
@@ -1008,7 +1008,7 @@ D. 淀粉酶
 E. 前列腺特异性抗原
 【参考答案】 E
 
-不符合前列腺癌的描述是
+127. 不符合前列腺癌的描述是
 A. 老年患者多见
 B. 多发生于前列腺外区
 C. 多为高分化腺癌
@@ -1016,7 +1016,7 @@ D. 可引起排尿困难
 E. 多继发于前列腺增生
 【参考答案】 E
 
-符合前列腺癌扩散的描述是
+128. 符合前列腺癌扩散的描述是
 A. 可直接侵犯周围器官
 B. 可转移到髂内、髂外淋巴结
 C. 可转移到腹股沟淋巴结
@@ -1024,7 +1024,7 @@ D. 可转移到肺
 E. 骨转移少见
 【参考答案】 E
 
-前列腺增生最常见于
+129. 前列腺增生最常见于
 A. 内区
 B. 后叶
 C. 前叶
@@ -1032,7 +1032,7 @@ D. 两侧叶
 E. 两叶以上
 【参考答案】 A
 
-不符合前列腺增生症的病理变化是
+130. 不符合前列腺增生症的病理变化是
 A. 前列腺腺上皮异型性显著
 B. 前列腺腺体增生
 C. 前列腺间质纤维组织增生
@@ -1040,7 +1040,7 @@ D. 前列腺平滑肌增生
 E. 前列腺腺体肥大
 【参考答案】 A
 
-在前列腺增生症发生中,最重要的激素是
+131. 在前列腺增生症发生中，最重要的激素是
 A. 双氢睾丸酮
 B. 促性腺激素
 C. 生长激素
@@ -1048,7 +1048,7 @@ D. 雌激素
 E. 泌乳素
 【参考答案】 A
 
-前列腺增生症最常见的临床症状是
+132. 前列腺增生症最常见的临床症状是
 A. 血尿
 B. 蛋白尿
 C. 尿频、尿急、尿痛
@@ -1056,7 +1056,7 @@ D. 排尿困难
 E. 脓尿
 【参考答案】 D
 
-不符合前列腺增生症的描述是
+133. 不符合前列腺增生症的描述是
 A. 老年患者多见
 B. 多发生于前列腺内区
 C. 可继发尿路感染
@@ -1064,7 +1064,7 @@ D. 常引起排尿困难
 E. 多引起前列腺癌发生
 【参考答案】 E
 
-不符合前列腺增生症的描述是
+134. 不符合前列腺增生症的描述是
 A. 中青年患者多见
 B. 多发生于前列腺内区
 C. 可继发尿路感染
@@ -1072,7 +1072,7 @@ D. 常引起排尿困难
 E. 属良性增生性病变
 【参考答案】 A
 
-不符合前列腺增生症的描述是
+135. 不符合前列腺增生症的描述是
 A. 老年患者多见
 B. 多发生于前列腺内区
 C. 属癌前病变
@@ -1080,7 +1080,7 @@ D. 常引起排尿困难
 E. 可继发尿路感染
 【参考答案】 C
 
-不符合前列腺增生症的病理变化是
+136. 不符合前列腺增生症的病理变化是
 A. 多累及前列腺外区
 B. 前列腺腺体增生
 C. 前列腺间质纤维组织增生
@@ -1088,7 +1088,7 @@ D. 前列腺平滑肌增生
 E. 前列腺腺体肥大
 【参考答案】 A
 
-男性,30岁,左侧睾丸逐渐肿大2个月,近来常咳嗽、咯血,体检时发现左侧睾丸比正常大3倍,胸部拍片见左肺有3cm×4cm 阴影,肺叶切除见肿瘤由两种滋养细胞组成。睾丸肿瘤可能是
+137. 男性，30 岁，左侧睾丸逐渐肿大 2 个月，近来常咳嗽、咯血，体检时发现左侧睾丸比正常大 3 倍，胸部拍片见左肺有 3 cm × 4 cm 阴影，肺叶切除见肿瘤由两种滋养细胞组成。睾丸肿瘤可能是
 A. 精原细胞瘤
 B. 胚胎性癌
 C. 内胚窦瘤
@@ -1096,7 +1096,7 @@ D. 绒毛膜癌
 E. 恶性畸胎瘤
 【参考答案】 D
 
-睾丸肿瘤中对放射治疗最敏感的是
+138. 睾丸肿瘤中对放射治疗最敏感的是
 A. 精原细胞瘤
 B. 胚胎性癌
 C. 内胚窦瘤
@@ -1104,7 +1104,7 @@ D. 绒毛膜癌
 E. 恶性畸胎瘤
 【参考答案】 A
 
-睾丸的性索间质性肿瘤是
+139. 睾丸的性索间质性肿瘤是
 A. 精原细胞瘤
 B. 间质细胞瘤
 C. 内胚窦瘤
@@ -1112,7 +1112,7 @@ D. 绒毛膜癌
 E. 恶性畸胎瘤
 【参考答案】 B
 
-与隐睾关系密切的肿瘤是
+140. 与隐睾关系密切的肿瘤是
 A. 精原细胞瘤
 B. 胚胎性癌
 C. 内胚窦瘤
@@ -1120,7 +1120,7 @@ D. 绒毛膜癌
 E. 恶性畸胎瘤
 【参考答案】 A
 
-不符合睾丸精原细胞瘤的描述是
+141. 不符合睾丸精原细胞瘤的描述是
 A. 隐睾患者发病率高
 B. 睾丸肿大
 C. 肿瘤实性、鱼肉状
@@ -1128,7 +1128,7 @@ D. 肿瘤细胞体积大、形态较一致
 E. 常转移到腹股沟淋巴结
 【参考答案】 E
 
-引起 HCG 升高的睾丸肿瘤是
+142. 引起 HCG 升高的睾丸肿瘤是
 A. 内胚窦瘤
 B. 胚胎性癌
 C. 间质细胞瘤
@@ -1136,7 +1136,7 @@ D. 精原细胞瘤
 E. 恶性畸胎瘤
 【参考答案】 B
 
-引起 AFP 升高的睾丸肿瘤是
+143. 引起 AFP 升高的睾丸肿瘤是
 A. 间质细胞瘤
 B. 胚胎性癌
 C. 绒毛膜癌
@@ -1144,7 +1144,7 @@ D. 精原细胞瘤
 E. 恶性畸胎瘤
 【参考答案】 B
 
-不符合睾丸胚胎性癌的描述是
+144. 不符合睾丸胚胎性癌的描述是
 A. 对放射线敏感
 B. 恶性度高
 C. 癌组织结构多样
@@ -1152,7 +1152,7 @@ D. 转移到髂内、髂总淋巴结
 E. 转移到肝、肺等器官
 【参考答案】 A
 
-阴茎龟头的 Queyrat 增殖性红斑属于
+145. 阴茎龟头的 Queyrat 增殖性红斑属于
 A. 瘤样病变
 B. 癌前病变
 C. 原位癌
@@ -1160,7 +1160,7 @@ D. 早期侵润性癌
 E. 良性肿瘤
 【参考答案】 B
 
-引起睾丸树胶样肿的疾病是
+146. 引起睾丸树胶样肿的疾病是
 A. 肉芽肿性睾丸炎
 B. 睾丸结核
 C. 睾丸梅毒
@@ -1168,7 +1168,7 @@ D. 腮腺炎性睾丸炎
 E. 隐睾症
 【参考答案】 C
 
-阴茎癌常可早期转移到
+147. 阴茎癌常可早期转移到
 A. 腹股沟淋巴结
 B. 腹膜后淋巴结
 C. 盆腔淋巴结
@@ -1176,7 +1176,7 @@ D. 髂外淋巴结
 E. 主动脉旁淋巴结
 【参考答案】 A
 
-梅毒可引起
+148. 梅毒可引起
 A. 软性下疳
 B. 硬性下疳
 C. 精子肉芽肿
@@ -1184,7 +1184,7 @@ D. 肉芽肿性睾丸炎
 E. 糜烂性龟头炎
 【参考答案】 B
 
-男性生殖系统结核最常累及
+149. 男性生殖系统结核最常累及
 A. 睾丸
 B. 附睾
 C. 输精管
@@ -1192,7 +1192,7 @@ D. 精囊
 E. 前列腺
 【参考答案】 B
 
-引起阴茎癌的病毒是
+150. 引起阴茎癌的病毒是
 A. HIV
 B. CMV
 C. HBV
@@ -1200,47 +1200,47 @@ D. HPV
 E. HCV
 【参考答案】 D
 
-符合阴茎癌的描述是
+151. 符合阴茎癌的描述是
 A. 多为低分化鳞癌
 B. 多见于包皮过长患者
 C. 早期发生血道转移
-D. 与HPV 感染无关
+D. 与 HPV 感染无关
 E. 与吸烟有关
 【参考答案】 B
 
-不符合阴茎癌的描述是
+152. 不符合阴茎癌的描述是
 A. 多为低分化鳞癌
 B. 多见于包皮过长患者
 C. 以淋巴道转移为主
-D. 与HPV感染有关
+D. 与 HPV 感染有关
 E. 可侵犯阴茎海绵体
 【参考答案】 A
 
-condyloma acuminatum
+153. condyloma acuminatum
 A. 阴茎癌
 B. 胚胎性癌
 C. 尖锐湿疣
-D. 硬化性苔癬
+D. 硬化性苔癣
 E. 子宫内膜异位症
 【参考答案】 C
 
-endometriosis
+154. endometriosis
 A. 阴茎癌
 B. 胚胎性癌
 C. 尖锐湿疣
-D. 硬化性苔癬
+D. 硬化性苔癣
 E. 子宫内膜异位症
 【参考答案】 E
 
-hydatidiform mole
+155. hydatidiform mole
 A. 葡萄胎
 B. 胚胎性癌
 C. 尖锐湿疣
-D. 硬化性苔癬
+D. 硬化性苔癣
 E. 子宫内膜异位
 【参考答案】 A
 
-borderline serous cystadenoma
+156. borderline serous cystadenoma
 A. 交界性浆液性囊腺瘤
 B. 交界性粘液性囊腺瘤
 C. 浆液性囊腺瘤
@@ -1248,7 +1248,7 @@ D. 粘液性囊腺瘤
 E. 粘液性囊腺癌
 【参考答案】 A
 
-granulosa cell tumor
+157. granulosa cell tumor
 A. 颗粒细胞瘤
 B. 泡膜细胞瘤
 C. 支持细胞瘤
@@ -1256,7 +1256,7 @@ D. 间质细胞瘤
 E. 良性母细胞瘤
 【参考答案】 A
 
-cervicitis
+158. cervicitis
 A. 子宫内膜炎
 B. 输卵管炎
 C. 阴道炎
@@ -1264,7 +1264,7 @@ D. 子宫颈炎
 E. 子宫内膜异位症
 【参考答案】 D
 
-seminoma
+159. seminoma
 A. 颗粒细胞瘤
 B. 泡膜细胞瘤
 C. 支持细胞瘤
@@ -1272,7 +1272,7 @@ D. 间质细胞瘤
 E. 精原细胞瘤
 【参考答案】 E
 
-hyperplasia of prostate
+160. hyperplasia of prostate
 A. 子宫内膜增生
 B. 前列腺增生
 C. 乳腺增生
@@ -1280,7 +1280,8 @@ D. 鳞状上皮异型增生
 E. 滋养层细胞增生
 【参考答案】 B
 
-A 45-year-old woman has had a small amount of vaginal bleeding and a brownish, foul-smelling discharge for the past month. On pelvic examination, there is a 3-cm lesion on the ectocervix. Microscopic findings of this lesion are shown in the figure. Which of the following is the most likely diagnosis?[图片]
+161. A 45-year-old woman has had a small amount of vaginal bleeding and a brownish, foul-smelling discharge for the past month. On pelvic examination, there is a 3-cm lesion on the ectocervix. Microscopic findings of this lesion are shown in the figure. Which of the following is the most likely diagnosis?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-1.jpg)
 A. Sertoli-Leydig cell tumor
 B. Mature cystic teratoma
 C. Adenocarcinoma
@@ -1288,7 +1289,8 @@ D. Squamous cell carcinoma
 E. Granulosa cell tumor
 【参考答案】 C
 
-A 35-year-old woman has had increasing abdominal enlargement for the past 6 months. On physical examination, there is abdominal distention with a fluid wave. A pelvic ultrasound scan shows bilateral cystic ovarian masses, 10 cm on the right and 7 cm on the left. The masses are surgically removed. On gross examination, the excised masses are unilocular cysts filled with clear fluid, and papillary projections extend into the central lumen of these cysts. Microscopic examination shows that the papillae are covered with atypical cuboidal cells that invade underlying stroma. Psammoma bodies are present. Which of the following is the most likely diagnosis?
+162. A 35-year-old woman has had increasing abdominal enlargement for the past 6 months. On physical examination, there is abdominal distention with a fluid wave. A pelvic ultrasound scan shows bilateral cystic ovarian masses, 10 cm on the right and 7 cm on the left. The masses are surgically removed. On gross examination, the excised masses are unilocular cysts filled with clear fluid, and papillary projections extend into the central lumen of these cysts. Microscopic examination shows that the papillae are covered with atypical cuboidal cells that invade underlying stroma. Psammoma bodies are present. Which of the following is the most likely diagnosis?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-1.jpg)
 A. Sertoli-Leydig cell tumor
 B. Mature cystic teratoma
 C. Cystadenocarcinoma
@@ -1296,7 +1298,7 @@ D. Dysgerminoma
 E. Granulosa cell tumor
 【参考答案】 C
 
-A 14-year-old girl began menstruation 1 year ago. She now has abnormal uterine bleeding. On physical examination, there are no remarkable findings. A pelvic ultrasound scan shows no abnormalities. Which of the following is most likely to produce these findings?
+163. A l4-year-old girl began menstruation 1 year ago. She now has abnormal uterine bleeding. On physical examination, there are no remarkable findings. A pelvic ultrasound scan shows no abnormalities. Which of the following is most likely to produce these findings?
 A. Endometrial polyp
 B. Anovulatory cycles
 C. Ectopic pregnancy
@@ -1304,15 +1306,15 @@ D. Uterine leiomyomata
 E. Endometrial carcinoma
 【参考答案】 B
 
-A 20-year-old woman notices a bloody, brownish vaginal discharge. On physical examination, a 3-cm red-brown mass is seen on the lateral wall of the vagina. A chest radiograph shows numerous 2-to 5-cm nodules in both lungs. A biopsy specimen of the vaginal mass shows malignant cells resembling syncytiotro-phoblasts. Which the following proteins is most likely to be elevated in the serum?
+164. A 20-year-old woman notices a bloody, brownish vaginal discharge. On physical examination, a 3-cm red-brown mass is seen on the lateral wall of the vagina. A chest radiograph shows numerous 2-to 5-cm nodules in both lungs. A biopsy specimen of the vaginal mass shows malignant cells resembling syncytiotrophoblasts. Which the following proteins is most likely to be elevated in the serum?
 A. Human chorionic gonadotropin
-B. a-Fetoprotein
+B. α-Fetoprotein
 C. Estradiol
 D. Testosterone
 E. Careinoembryonic antigen
 【参考答案】 A
 
-A 42-year-old woman has a Pap smear as part of a routine health maintenance examination. A cervical biopsy is performed, and microscopic examination shows dysplastic cells that occupy the full thickness of the epithelium above the basement membrane (CIN III). Which of the following is the best rational for proceeding with cervical conization in this patient?
+165. A 42-year-old woman has a Pap smear as part of a routine health maintenance examination. A cervical biopsy is performed, and microscopic examination shows dysplastic cells that occupy the full thickness of the epithelium above the basement membrane (CIN III) . Which of the following is the best rational for proceeding with cervical conization in this patient?
 A. She has a high risk of invasive carcinoma
 B. Human papinomavirus infection cannot be treated
 C. She is perimenopausal
@@ -1320,7 +1322,7 @@ D. She has chronic cervicitis
 E. Her reproductive years are over
 【参考答案】 A
 
-A 21-year-old woman who is sexually active has noticed multiple warty lesions on the perineum over the past 3 years. A scraping from one of the lesions yields cells with cytologic features consistent with koilocytotic atypia. Which of the following infectious agents is most likely to produce these findings?
+166. A 21-year-old woman who is sexually active has noticed multiple warty lesions on the perineum over the past 3 years. A scraping from one of the lesions yields cells with cytologic features consistent with koilocytotic atypia. Which of the following infectious agents is most likely to produce these findings?
 A. Neisseria gonorrhoeae
 B. Chlamydia trachomatis
 C. Human papillomavirus
@@ -1328,7 +1330,7 @@ D. Trichomonas vaginalis
 E. Herpes simplex virus type 2
 【参考答案】 C
 
-A 32-year-old woman has cyclic abdominal pain that coincides with her menses. Attempts to become pregnant have failed over the past 5 years. There are no abnormal findings on physical examination. Laparoscopic examination shows numerous hemorrhagic 0.2-to 0.5-cm lesions over the peritoneal surfaces of the uterus and ovaries. Which of the following ovarian lesions is most likely to be visualized during the laparoscopic procedure?
+167. A 32-year-old woman has cyclic abdominal pain that coincides with her menses. Attempts to become pregnant have failed over the past 5 years. There are no abnormal findings on physical examination. Laparoscopic examination shows numerous hemorrhagic 0.2-to 0.5-cm lesions over the peritoneal surfaces of the uterus and ovaries. Which of the following ovarian lesions is most likely to be visualized during the laparoscopic procedure?
 A. Fibroma
 B. Brenner tumor
 C. Endometriotic cyst
@@ -1336,7 +1338,7 @@ D. Krukenberg tumor
 E. Mature cystic teratoma
 【参考答案】 C
 
-An 18-year-old woman has had pelvic discomfort for several months. On pelvic examination, there is a 10-cm right adnexal mass. Upon surgical resection, the mass is solid and white, with small areas of necrosis. Microscopically, it contains mostly primitive mesenchymal cells along with some cartilage, muscle, and foci of neuroepithelial differentiation. Which of the following is the most likely diagnosis?
+168. An 18-year-old woman has had pelvic discomfort for several months. On pelvic examination, there is a 10-cm right adnexal mass. Upon surgical resection, the mass is solid and white, with small areas of necrosis. Microscopically, it contains mostly primitive mesenchymal cells along with some cartilage, muscle, and foci of neuroepithelial differentiation. Which of the following is the most likely diagnosis?
 A. Brenner tumor
 B. Dysgerminoma
 C. Granulosa cell tumor
@@ -1344,7 +1346,7 @@ D. Immature teratoma
 E. Leiomyosarcoma
 【参考答案】 D
 
-A 43-year-old woman has had postcoital bleeding for 6 months. A Pap smear shows high-grade cervical intraepithelial neoplasia (CIN III). In situ hybridization performed on cells from the cervix shows the presence of human papillomavirus type 16. If the cervical lesion is not treated, which of the following malignancies is she at greatest risk for developing?
+169. A 43-year-old woman has had postcoital bleeding for 6 months. A Pap smear shows high-grade cervical intraepithelial neoplasia (CIN III). In situ hybridization performed on cells from the cervix shows the presence of human papillomavirus type 16. If the cervical lesion is not treated, which of the following malignancies is she at greatest risk for developing?
 A. Clear ceil carcinoma
 B. Squamous cell carcinoma
 C. Krukenberg tumor
@@ -1352,7 +1354,7 @@ D. Leiomyosarcoma
 E. Papillary serous cystadenocarcinoma
 【参考答案】 B
 
-A 58-year-old woman has had dull pain in the lower abdomen for the past 6 months and minimal vaginal bleeding on three occasions. Pelvic examination shows a right adnexal mass, and the uterus appears normal in size. A total abdominal hysterectomy is performed, and the mass is diagnosed as an ovarian granulosa-theca cell tumor. Which of the following additional lesions is most likely to be found in the excised specimen?
+170. A 58-year-old woman has had dull pain in the lower abdomen for the past 6 months and minimal vaginal bleeding on three occasions. Pelvic examination shows a right adnexal mass, and the uterus appears normal in size. A total abdominal hysterectomy is performed, and the mass is diagnosed as an ovarian granulosa-theca cell tumor. Which of the following additional lesions is most likely to be found in the excised specimen?
 A. Condyloma acuminata of the cervix
 B. Endometrial hyperplasia
 C. Metastases to the uterine serosa
@@ -1360,7 +1362,7 @@ D. Bilateral chronic salpingitis
 E. Partial mole of the uterus
 【参考答案】 B
 
-A 50-year-old woman has noticed vaginal bleeding for the past month. Her last menstrual period was 5 years ago. On physical examination, there are no abnormal findings. An endometrial biopsy shows the histological findings above. Which of the following is the most likely diagnosis?
+171. A 50-year-old woman has noticed vaginal bleeding for the past month. Her last menstrual period was 5 years ago. On physical examination, there are no abnormal findings. An endometrial biopsy shows the histological findings above. Which of the following is the most likely diagnosis?
 A. Adenoma
 B. Leiomyoma
 C. Choriocarcinoma
@@ -1368,7 +1370,7 @@ D. Adenocarcinoma
 E. Adenomyosis
 【参考答案】 D
 
-A 28-year-old sexually active woman comes to her physician for a routine health maintenance examination. A Pap smear shows a moderate dysplasia, or cervical intraepithelial neoplasia (CIN) II. Which of the following is the significance of this finding?
+172. A 28-year-old sexually active woman comes to her physician for a routine health maintenance examination. A Pap smear shows a moderate dysplasia, or cervical intraepithelial neoplasia (CIN) II. Which of the following is the significance of this finding?
 A. A cervicitis needs to be treated
 B. The patient has an increased risk of cervical carcinoma
 C. Condyloma acuminata are probably present
@@ -1376,7 +1378,7 @@ D. An endocervical polyp needs to be excised
 E. The patient should not go to her physician at regular intervals
 【参考答案】 B
 
-A 42-year-old woman has had menometr-orrhagia for the past 2 months. On physical examination, there are no vaginal or cervical lesions, and the uterus appears to be of normal size, but there is a right adnexal mass. An abdominal ultrasound scan shows the presence of a 7-cm solid right adnexal mass. Endometrial biopsy shows hyperplastic endometrium but no cellular atypia. Which of the following is the most likely diagnosis?
+173. A 42-year-old woman has had menometrorrhagia for the past 2 months. On physical examination, there are no vaginal or cervical lesions, and the uterus appears to be of normal size, but there is a right adnexal mass. An abdominal ultrasound scan shows the presence of a 7-cm solid right adnexal mass. Endometrial biopsy shows hyperplastic endometrium but no cellular atypia. Which of the following is the most likely diagnosis?
 A. Mature cystic teratoma
 B. Endometrioma
 C. Corpus luteum cyst
@@ -1384,7 +1386,7 @@ D. Metastasis
 E. Granulosa-theca cell tumor
 【参考答案】 E
 
-The most common histologic type of cancer of cervix is
+174. The most common histologic type of cancer of cervix is
 A. Squamous carcinoma
 B. Mucinous carcinoma
 C. Papillary carcinoma
@@ -1392,7 +1394,7 @@ D. Lymphoma
 E. Leiomyosarcoma
 【参考答案】 A
 
-The most common histologic type of tumor of the uterus is
+175. The most common histologic type of tumor of the uterus is
 A. Stromal tumor
 B. Leiomyoma
 C. Mesothelioma
@@ -1400,7 +1402,7 @@ D. Angioma
 E. Adenoma
 【参考答案】 B
 
-The most common histologic type of germ cell tumor occurring in the ovary is
+176. The most common histologic type of germ cell tumor occurring in the ovary is
 A. Embyonal carcinoma
 B. Yolk sac tumor
 C. Granulosa cell tumor
@@ -1408,7 +1410,7 @@ D. Clear cell tumor
 E. Teratoma
 【参考答案】 E
 
-A 23-year-old woman, G3, P2, has a spontaneous abortion at 15 weeks gestation. The male fetus is small for gestational age. The placenta is also small and shows 0.5-cm grapelike villi scattered among morphologically normal villi. Chromosomal analysis of placental tissue is most likely to show which of the following karyotypes?
+177. A 23-year-old woman, G3, P2, has a spontaneous abortion at 15 weeks gestation. The male fetus is small for gestational age. The placenta is also small and shows 0.5-cm grapelike villi scattered among morphologically normal villi. Chromosomal analysis of placental tissue is most likely to show which of the following karyotypes?
 A. 69, XXY
 B. 46, XX
 C. 23, Y
@@ -1416,7 +1418,7 @@ D. 45, X
 E. 47, XXY
 【参考答案】 A
 
-A 26-year-old woman in her fifteenth week of pregnancy presents with uterine bleeding and passage of a small amount of watery fluid and tissue. She is found to have a uterus that is much larger than estimated by her gestational dates. Her uterus is found to be filled with cystic, avascular, grapelike structures that do not penetrate the uterine wall. No fetal parts are found. Which of the following is the best diagnosis?
+178. A 26-year-old woman in her fifteenth week of pregnancy presents with uterine bleeding and passage of a small amount of watery fluid and tissue. She is found to have a uterus that is much larger than estimated by her gestational dates. Her uterus is found to be filled with cystic, avascular, grapelike structures that do not penetrate the uterine wall. No fetal parts are found. Which of the following is the best diagnosis?
 A. Partial hydatidiform mole
 B. Complete hydatidiform mole
 C. Invasive mole
@@ -1424,7 +1426,7 @@ D. Adenocarcinoma
 E. Choriocarcinoma
 【参考答案】 B
 
-A 27-year-old woman experiences a sudden onset of severe lower abdominal pain. On pelvic examination there are no lesions of the cervix or vagina. An abdominal ultrasound shows a 4-cm focal enlargement of the proximal right fallopian tube. A dilation and curettage procedure shows only decidua in the endometrial cavity. Which of the following laboratory findings is most likely to be reported for this patient?
+179. A 27-year-old woman experiences a sudden onset of severe lower abdominal pain. On pelvic examination there are no lesions of the cervix or vagina. An abdominal ultrasound shows a 4-cm focal enlargement of the proximal right fallopian tube. A dilation and curettage procedure shows only decidua in the endometrial cavity. Which of the following laboratory findings is most likely to be reported for this patient?
 A. Cervical culture positive for Neisseria gonorrhoeae
 B. 69, XXY karyotype on decidual tissue
 C. Positive result of serum pregnancy test
@@ -1432,7 +1434,7 @@ D. Positive result of serologic testing for syphilis
 E. Pap smear showing Candida
 【参考答案】 C
 
-A 27-year-old woman acutely develops lower abdominal pain and vaginal bleeding. While in the bathroom she passes a cast of tissue com-posed of clot material and then collapses. She is brought to the hospital, where a physical examination reveals a soft, tender mass in the right adnexa and pouch of Douglas. Histologic examination of the tissue passed in the bathroom reveals blood clot and decidualized tissue. No chorionic villi or trophoblastic tissue are present. Which of the following conditions is most likely present in this individual?
+180. A 27-year-old woman acutely develops lower abdominal pain and vaginal bleeding. While in the bathroom she passes a cast of tissue com-posed of clot material and then collapses. She is brought to the hospital, where a physical examination reveals a soft, tender mass in the right adnexa and pouch of Douglas. Histologic examination of the tissue passed in the bathroom reveals blood clot and decidualized tissue. No chorionic villi or trophoblastic tissue are present. Which of the following conditions is most likely present in this individual?
 A. Aborted intrauterine pregnancy
 B. Complete hydatidiform mole
 C. Ectopic pregnancy
@@ -1440,7 +1442,7 @@ D. Endometrial hyperplasia
 E. Partial hydatidiform mole
 【参考答案】 C
 
-An 28-year-old woman presents with amenorrhea and is found to have normal secondary sex characteristics. She states that her last menstrual period was 8 weeks prior to this visit. A urine test for hCG is positive. Which of the fol-lowing is the most likely diagnosis?
+181. An 28-year-old woman presents with amenorrhea and is found to have normal secondary sex characteristics. She states that her last menstrual period was 8 weeks prior to this visit. A urine test for hCG is positive. Which of the fol-lowing is the most likely diagnosis?
 A. leiomyoma
 B. Intrauterine pregnancy
 C. Stromal tumor
@@ -1448,7 +1450,7 @@ D. Turner's syndrome
 E. Endometrial carcinoma
 【参考答案】 B
 
-A 39-year-old woman presents with increasing abdominal distention and pelvic pain. A CT scan shows a 3.5 cm tumor of the right ovary. The tumor is resected and histologic sections reveal the tumor to be composed of spindle-shaped cells with mild atypia. Which of the following types of ovarian tumor is most likely to produce this constella-tion of findings?
+182. A 39-year-old woman presents with increasing abdominal distention and pelvic pain. A CT scan shows a 3.5 cm tumor of the right ovary. The tumor is resected and histologic sections reveal the tumor to be composed of spindle-shaped cells with mild atypia. Which of the following types of ovarian tumor is most likely to produce this constella-tion of findings?
 A. Epithelial tumor
 B. Stromal tumor
 C. Germ cell tumor
@@ -1456,7 +1458,7 @@ D. Surface cell tumor
 E. Metastatic carcinoma
 【参考答案】 B
 
-A 29-year-old woman presents with intermittent lower abdominal pain. A pelvic examination reveals an ovarian mass involving her right ovary. This ovarian mass is resected and gross examination reveals a cystic tumor that measures about 4 cm in diameter. A histologic section from this tumor reveals a mixture of elements as seen in the picture. Neither immature nor neural tis-sue is found. Which of the following is the most likely diagnosis?
+183. A 29-year-old woman presents with intermittent lower abdominal pain. A pelvic examination reveals an ovarian mass involving her right ovary. This ovarian mass is resected and gross examination reveals a cystic tumor that measures about 4 cm in diameter. A histologic section from this tumor reveals a mixture of elements as seen in the picture. Neither immature nor neural tis-sue is found. Which of the following is the most likely diagnosis?
 A. Brenner tumor
 B. Chronic salpingitis
 C. Dermoid cyst
@@ -1464,7 +1466,7 @@ D. Ectopic pregnancy
 E. Mucinous cystadenoma
 【参考答案】 B
 
-A 32-year-old woman presents with a recent onset of oligomenor-rhea followed by amenorrhea. Physical examination reveals loss of female secondary characteristics and slight abdominal distention. She is found to have a 4.0 cm mass within her left ovary. This mass is resected surgically and a histologic section reveals the tumor cells focally form Call-Exner bodies. What is the correct diagnosis?
+184. A 32-year-old woman presents with a recent onset of oligomenor-rhea followed by amenorrhea. Physical examination reveals loss of female secondary characteristics and slight abdominal distention. She is found to have a 4.0 cm mass within her left ovary. This mass is resected surgically and a histologic section reveals the tumor cells focally form Call-Exner bodies. What is the correct diagnosis?
 A. Serous cystadenocarcinoma
 B. Borderline mucinous tumor
 C. Granulosa cell tumor
@@ -1472,7 +1474,8 @@ D. Pseudomyxoma peritonei
 E. Sertoli cell tumor
 【参考答案】 C
 
-A 40-year-old woman has noticed progressive enlargement of the abdomen over the past 5 months. Physical examination shows no palpable masses, but a fluid wave is present. An abdominal ultrasound scan shows a 15-cm multi-lobular mass that involves the right adnexal region. The mass is surgically removed, and the gross features of the excised mass are shown above. Which of the following is the most likely diagnosis?[图片]
+185. A 40-year-old woman has noticed progressive enlargement of the abdomen over the past 5 months. Physical examination shows no palpable masses, but a fluid wave is present. An abdominal ultrasound scan shows a 15-cm multilobular mass that involves the right adnexal region. The mass is surgically removed, and the gross features of the excised mass are shown above. Which of the following is the most likely diagnosis?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-2.jpg)
 A. Immature teratoma
 B. Serous cystadenocarcinoma
 C. Granulosa cell tumor
@@ -1480,15 +1483,16 @@ D. Choriocarcinoma
 E. Dysgerminoma
 【参考答案】 B
 
-A 54-year-old woman has had weight loss accompanied by abdominal enlargement for the past 6 months. She is concerned because of a family history of ovarian carcinoma. On physical examination, there are no lesions of the cervix, and the uterus is normal in size, but there is a left adnexal mass. An abdominal ultrasound scan shows a 10-cm cystic mass in the left adnexal region, with scattered 1-cm peritioneal nodules. Cytologic studies of peritoneal fluid show malignant cells consistent with a cystadenocarcinoma. Which of the following mutated genes is most likely a factor in the development of this neoplasm?
+186. A 54-year-old woman has had weight loss accompanied by abdominal enlargement for the past 6 months. She is concerned because of a family history of ovarian carcinoma. On physical examination, there are no lesions of the cervix, and the uterus is normal in size, but there is a left adnexal mass. An abdominal ultrasound scan shows a l0-cm cystic mass in the left adnexal region, with scattered 1-cm peritoneal nodules. Cytologic studies of peritoneal fluid show malignant cells consistent with a cystadenocarcinoma. Which of the following mutated genes is most likely a factor in the development of this neoplasm?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-2.jpg)
 A. RAS
 B. BRCA1
 C. ERBB2 (HER2)
 D. MYC
-E. RB1
+E. RBl
 【参考答案】 B
 
-Over the past 9 months, a 30-year-old man has noticed a feeling of heaviness with enlargement of the scrotum. On physical examination, there is an enlarged, firm left testis. A left orchiectomy is performed. Microscopic examination of the mass shows areas of mature cartilage, keratinizing squamous epithelium, and colonic glandular epithelium. Laboratory findings include elevated levels of serum human chorionic gonadortropin (hCG) and a-fetoprotein (AFP). Despite the appearance of the cells in the tumor, the surgeon tells the patient that he probably ha s a malignant testicular tumor. The surgeon's conclusion is most likely to be based on which of the following factors?
+187. Over the past 9 months, a 30-year-old man has noticed a feeling of heaviness with enlargement of the scrotum. On physical examination, there is an enlarged, firm left testis. A left orchiectomy is performed. Microscopic examination of the mass shows areas of mature cartilage, keratinizing squamous epithelium, and colonic glandular epithelium. Laboratory findings include elevated levels of serum human chorionic gonadortropin (hCG) and α-fetoprotein (AFP). Despite the appearance of the cells in the tumor, the surgeon tells the patient that he probably ha s a malignant testicular tumor. The surgeon's conclusion is most likely to be based on which of the following factors?
 A. Size of the tumor
 B. Age of the patient
 C. Presence of colonic glandular epithelium
@@ -1496,7 +1500,7 @@ D. Elevation of hCG and AFP levels
 E. Location of the mass in the left testis
 【参考答案】 D
 
-A 28-year-old woman presents with pelvic pain and is found to have an ovarian mass of the left ovary that measures 3 cm in diameter. Grossly, the mass consists of multiple cystic spaces. Histologically, these cysts are lined by tall columnar epithelium, and some of the cells are ciliated. Which of the following is the correct diagnosis for this ovarian tumor?
+188. A 28-year-old woman presents with pelvic pain and is found to have an ovarian mass of the left ovary that measures 3 cm in diameter. Grossly, the mass consists of multiple cystic spaces. Histologically, these cysts are lined by tall columnar epithelium, and some of the cells are ciliated. Which of the following is the correct diagnosis for this ovarian tumor?
 A. Brenner tumor
 B. Mucinous tumor
 C. Endometriosis
@@ -1504,7 +1508,7 @@ D. Clear cell tumor
 E. Serous tumor
 【参考答案】 E
 
-An otherwise healthy 72-year-old man has had increasing difficulty with urination for the past 10 years. On physical examination, the prostate is enlarged to twice its normal size but is not tender to palpation. The serum prostate-specific antigen (PSA) level is normal. Which of the following findings is most likely to be seen microscopically in a biopsy specimen of the prostate gland?
+189. An otherwise healthy 72-year-old man has had increasing difficulty with urination for the past 10 years. On physical examination, the prostate is enlarged to twice its normal size but is not tender to palpation. The serum prostate-specific antigen (PSA) level is normal. Which of the following findings is most likely to be seen microscopically in a biopsy specimen of the prostate gland?
 A. Hyperplastic nodules of stroma and glands lined by two layers of epithelium
 B. Poorly differentiated glands lined by a single layer of epithelium and packed back to back
 C. Foci of chronic inflammatory cells in the stroma and in normal-appearing glands
@@ -1512,7 +1516,7 @@ D. Areas of liquefactive necrosis filled with neutrophils
 E. Multiple areas of caseating granulomatous inflammation
 【参考答案】 A
 
-Prolonged unopposed estrogen stimulation in an adult woman increases the risk of development of endometrial hyperplasia and subse-quent carcinoma. In such cases which of the following is the most common histologic type of cancer?
+190. Prolonged unopposed estrogen stimulation in an adult woman increases the risk of development of endometrial hyperplasia and subse-quent carcinoma. In such cases which of the following is the most common histologic type of cancer?
 A. Adenocarcinoma
 B. Clear cell carcinoma
 C. Small cell carcinoma
@@ -1520,7 +1524,7 @@ D. Squamous cell carcinoma
 E. Transitional cell carcinoma
 【参考答案】 A
 
-A 33-year-old man has noted asymmetric enlargement of the scrotum over the past 4 months. On physical examination, the right testis is twice its normal size and there it increased tenderness to palpation. The right testis is removed. The epididymis and the upper aspect of the right testis have extensive granulomatous inflammation with epithelioid cells, Langhans giant cells, and caseous necrosis. Which of the following is the most likely cause of these findings?
+191. A 33-year-old man has noted asymmetric enlargement of the scrotum over the past 4 months. On physical examination, the right testis is twice its normal size and there it increased tenderness to palpation. The right testis is removed. The epididymis and the upper aspect of the right testis have extensive granulomatous inflammation with epithelioid cells, Langhans giant cells, and caseous necrosis. Which of the following is the most likely cause of these findings?
 A. Mumps
 B. Syphilis
 C. Tuberculosis
@@ -1528,7 +1532,7 @@ D. Gonorrhea
 E. Sarcoidosis
 【参考答案】 C
 
-A healthy 30-year-old woman comes to the physician for a routine physical examination. No abnormalities are found on review of systems or physical examination, but a screening Pap smear shows cells consistent with cervical intraepithelial neoplasia (CIN). Which of the following is most likely related to the Pap smear findings?
+192. A healthy 30-year-old woman comes to the physician for a routine physical examination. No abnormalities are found on review of systems or physical examination, but a screening Pap smear shows cells consistent with cervical intraepithelial neoplasia (CIN). Which of the following is most likely related to the Pap smear findings?
 A. Intake of oral contraceptives
 B. Diethylstilbestrol (DES) exposure
 C. Vitamin B12 (cobalamin) deficiency
@@ -1536,7 +1540,7 @@ D. Treated squamous cell carcinoma
 E. HPV infection
 【参考答案】 E
 
-The mother of a 2-year-old child notices that he has had increasing asymmetric enlargement of the scrotum over the past 6 months. On physical examination, there is a well-circumscribed 2.5-cm mass in the left testis. Histologic examination of this mass shows sheets of cells and ill-defined glands composed of cuboidal cells, some of which contain eosinophilic hyaline globules. Microcysts and primitive glomeruloid structures also are seen. Immunohistochemical staining shows a-fetoprotein in the cytoplasm of the neoplastic cells. Which of the following is the most likely diagnosis?
+193. The mother of a 2-year-old child notices that he has had increasing asymmetric enlargement of the scrotum over the past 6 months. On physical examination, there is a well-circumscribed 2.5-cm mass in the left testis. Histologic examination of this mass shows sheets of cells and ill-defined glands composed of cuboidal cells, some of which contain eosinophilic hyaline globules. Microcysts and primitive glomeruloid structures also are seen. Immunohistochemical staining shows α-fetoprotein in the cytoplasm of the neoplastic cells. Which of the following is the most likely diagnosis?
 A. Choriocarcinoma
 B. Seminoma
 C. Yolk sac tumor
@@ -1544,7 +1548,7 @@ D. Teratoma
 E. Leydig cell tumor
 【参考答案】 D
 
-A 65-year-old postmenopausal woman presents with a new onset of uterine bleeding. An endometrial biopsy is diagnosed as atypical hyper-plasia. Which of the following histologic changes is most characteristic of this abnormality?
+194. A 65-year-old postmenopausal woman presents with a new onset of uterine bleeding. An endometrial biopsy is diagnosed as atypical hyper-plasia. Which of the following histologic changes is most characteristic of this abnormality?
 A. Crowding of endometrial glands with budding and epithelial atypia
 B. Lymphatic invasion by interlacing bundles of atypical spindle-shaped cells
 C. Menstrual-type endometrial glands with focal cystic dilatation
@@ -1552,7 +1556,7 @@ D. Endometrial tissue was present within the wall of uterus
 E. Stromal invasion by malignant glands with focal areas of atypical squamous differentiation
 【参考答案】 A
 
-The most common histologic type of malignant tumor of the breast is
+195. The most common histologic type of malignant tumor of the breast is
 A. Angiosarcoma
 B. Invasive ductal carcinoma
 C. Phyllodes tumor
@@ -1560,15 +1564,17 @@ D. Lymphoma
 E. Papillary carcinoma
 【参考答案】 B
 
-A 70-year-old man comes to his physician for a routine health examination. On palpation, his prostate is normal in size. However, laboratory studies show an elevated level of serum prostate-specific antigen (PSA). Which of the following histologic findings in a subsequent biopsy of the prostate is most likely to account for the patient's elevated PSA?
+196. A 70-year-old man comes to his physician for a routine health examination. On palpation, his prostate is normal in size. However, laboratory studies show an elevated level of serum prostate-specific antigen (PSA). Which of the following histologic findings in a subsequent biopsy of the prostate is most likely to account for the patient's elevated PSA?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-3.jpg)
 A. Hyperplastic nodules of the stroma and glands lined by two layers of epithelium
 B. Poorly differentiated glands lined by a single layer of epithelium and packed back to back
 C. Foci of chronic inflammatory cells in the stroma and in normal-appearing glands
 D. Areas of liquefactive necrosis filled with neutrophils
-E. Multiple caseating granulomas[图片]
+E. Multiple caseating granulomas
 【参考答案】 B
 
-A healthy 52-year-old woman has had a feeling of pelvic heaviness for the past 11 months. There is no history of abnormal bleeding. Her physician palpates an enlarged nodular uterus on pelvic examination. Pelvic CT imaging shows multiple solid, uterine masses. A total abdomi-nal hysterectomy is performed. Based on the gross appearance of the mass shown above, which of the following is the most likely diagnosis?
+197. A healthy 52-year-old woman has had a feeling of pelvic heaviness for the past 11 months. There is no history of abnormal bleeding. Her physician palpates an enlarged nodular uterus on pelvic examination. Pelvic CT imaging shows multiple solid, uterine masses. A total abdominal hysterectomy is performed. Based on the gross appearance of the mass shown above, which of the following is the most likely diagnosis?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-3.jpg)
 A. Metastases
 B. Endometriosis
 C. Infiltrative leiomyosarcoma
@@ -1576,7 +1582,7 @@ D. Multiple leiomyomas
 E. Adenomyosis
 【参考答案】 D
 
-The most common histologic type of benign tumor at breast is
+198. The most common histologic type of benign tumor at breast is
 A. Papilloma
 B. Adenoma
 C. Fibroadenoma
@@ -1584,7 +1590,8 @@ D. Angioma
 E. Lipoma
 【参考答案】 C
 
-A 32-year-old man has noticed an increased feeling of heaviness in his scrotum for the past 10 months. On physical examination, the left testis is three times the size of the right testis and is firm on palpation. An ultrasound scan shows a 6-cm solid mass within the body of the left testis. Laboratory studies include an elevated serum a-fetoprotein level. Which of the following is the most likely diagnosis?
+199. A 32-year-old man has noticed an increased feeling of heaviness in his scrotum for the past 10 months. On physical examination, the left testis is three times the size of the right testis and is firm on palpation. An ultrasound scan shows a 6-cm solid mass within the body of the left testis. Laboratory studies include an elevated serum α-fetoprotein level. Which of the following is the most likely diagnosis?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-4.jpg)
 A. Yolk sac tumor
 B. Leydig cell tumor
 C. Seminoma
@@ -1592,7 +1599,8 @@ D. Lymphoma
 E. Embryonal carcinoma cells
 【参考答案】 A
 
-A 31-year-old woman has had dull, constant, abdominal pain for 6 months. On physical examination, the only finding is a right adnexal mass. The right fallopian tube and ovary are surgically excised. The gross and histologic appearance of the ovary are shown in the figure above. Which of the following is the most likely diagnosis?[图片]
+200. A 31-year-old woman has had dull, constant, abdominal pain for 6 months. On physical examination, the only finding is a right adnexal mass. The right fallopian tube and ovary are surgically excised. The gross and histologic appearance of the ovary are shown in the figure above. Which of the following is the most likely diagnosis?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-4.jpg)
 A. Mucinous cystadenoma
 B. Choriocarcinoma
 C. Dysgerminoma
@@ -1600,7 +1608,7 @@ D. Serous cystadenoma
 E. Mature cystic teratoma
 【参考答案】 E
 
-A 56-year-old woman presents with a slowly enlarging 2.5-cm firm, irregular mass in the upper outer quadrant of her left breast. A biopsy from this mass is interpreted by the pathologist as an infiltrating lobular carcinoma of the breast. Which of the following histologic features is most characteristic of this tumor?
+201. A 56-year-old woman presents with a slowly enlarging 2.5-cm firm, irregular mass in the upper outer quadrant of her left breast. A biopsy from this mass is interpreted by the pathologist as an infiltrating lobular carcinoma of the breast. Which of the following histologic features is most characteristic of this tumor?
 A. Expansion of lobules by monotonous proliferation of epithelial cells
 B. Large cells with clear cytoplasm within the epidermis
 C. Large syncytium-like sheets of pleomorphic cells surrounded by aggregates of lymphocytes
@@ -1608,7 +1616,7 @@ D. Small individual malignant cells dispersed within extracellular pools of muci
 E. Small tumor cells with little cytoplasm infiltrating in a single-file pattern
 【参考答案】 E
 
-A 30-year-old man comes to his physician because he has noticed increasing enlargement and a feeling of heaviness in his scrotum for the past year. On physical examination, the right testis is twice the normal size, and it is firm and slightly tender. An ultrasound examination shows a 3.5-cm solid mass in the right testis. An abdominal CT scan shows enlargement of the para-aortic lymph nodes. Laboratory findings include markedly increased serum levels of chorionic gonadotropin and a-fetoprotein. Which of the following testicular neoplasms does this patient most have?
+202. A 30-year-old man comes to his physician because he has noticed increasing enlargement and a feeling of heaviness in his scrotum for the past year. On physical examination, the right testis is twice the normal size, and it is firm and slightly tender. An ultrasound examination shows a 3.5-cm solid mass in the right testis. An abdominal CT scan shows enlargement of the para-aortic lymph nodes. Laboratory findings include markedly increased serum levels of chorionic gonadotropin and α-fetoprotein. Which of the following testicular neoplasms does this patient most have?
 A. Leydig cell tumor
 B. Mixed germ cell tumor
 C. Pure spermatocytic seminoma
@@ -1616,7 +1624,7 @@ D. Choriocarcinoma
 E. Metastatic adenocarcinoma of the prostate gland
 【参考答案】 B
 
-A 40-year-old woman presents with urinary frequency and abnormal uterine bleeding. A pelvic examination finds several masses in the wall of the uterus, and this is confirmed by ultrasonography. Which of the following is the most likely diagnosis?
+203. A 40-year-old woman presents with urinary frequency and abnormal uterine bleeding. A pelvic examination finds several masses in the wall of the uterus, and this is confirmed by ultrasonography. Which of the following is the most likely diagnosis?
 A. Endometriosis
 B. Rhabdomyosarcoma
 C. Ectopic pregnancy
@@ -1624,7 +1632,7 @@ D. Adenoarcinoma
 E. Leiomyomas
 【参考答案】 E
 
-A 48-year-old woman presents with a 1.5-cm firm mass in the upper outer quadrant of her left breast. A biopsy from this mass reveals many of the ducts are filled with atypical cells. In the center of these ducts there is extensive necrosis. No invasion into the surrounding fibrous tissue is seen. Which of the following is the most likely diagnosis?
+204. A 48-year-old woman presents with a 1.5-cm firm mass in the upper outer quadrant of her left breast. A biopsy from this mass reveals many of the ducts are filled with atypical cells. In the center of these ducts there is extensive necrosis. No invasion into the surrounding fibrous tissue is seen. Which of the following is the most likely diagnosis?
 A. Colloid carcinoma
 B. Intraductal carcinoma
 C. Infiltrating ductal carcinoma
@@ -1632,7 +1640,7 @@ D. Infiltrating lobular carcinoma
 E. Lobular carcinoma in situ
 【参考答案】 B
 
-A 67-year-old man is found on rectal examination to have a single, hard, irregular nodule within his prostate. A biopsy of this lesion reveals the presence of small glands lined by a single layer of cells with enlarged, prominent nucleoli. Which of the following sub-stances is most likely to be increased in this patient's serum?
+205. A 67-year-old man is found on rectal examination to have a single, hard, irregular nodule within his prostate. A biopsy of this lesion reveals the presence of small glands lined by a single layer of cells with enlarged, prominent nucleoli. Which of the following sub-stances is most likely to be increased in this patient's serum?
 A. Acid phosphatase
 B. Alpha-fetoprotein (AFP)
 C. Alkaline phosphatase
@@ -1640,7 +1648,7 @@ D. Human chorionic gonadotropin (hCG)
 E. Prostate-specific antigen (PSA)
 【参考答案】 E
 
-A 39-year-old woman presents with severe menorrhagia and colicky dysmenorrhea. A hysterectomy including resection of the fallopian tubes and ovaries is performed and the histologic section shows endometrial tissue present within the wall of uterus. Which of the following is the most likely diagnosis?
+206. A 39-year-old woman presents with severe menorrhagia and colicky dysmenorrhea. A hysterectomy including resection of the fallopian tubes and ovaries is performed and the histologic section shows endometrial tissue present within the wall of uterus. Which of the following is the most likely diagnosis?
 A. Chronic endometritis
 B. Adenocarcinoma
 C. Ectopic pregnancy
@@ -1648,7 +1656,7 @@ D. Adenomyosis
 E. Endometriosis
 【参考答案】 D
 
-A 48-year-old woman presents with a painless mass located in her left breast. Physical examination confirms the presence of a firm, non-tender, 3-cm mass in the upper outer quadrant of her left breast. The mass is resected and histologic sections reveal an invasive ductal carcinoma. Biopsy of her axillary lymph nodes reveals the presence of metastatic disease in 4 of 18 axillary lymph nodes. The expression of which one of the following by the tumor would best predict a response to hormonal therapy?
+207. A 48-year-old woman presents with a painless mass located in her left breast. Physical examination confirms the presence of a firm, non-tender, 3-cm mass in the upper outer quadrant of her left breast. The mass is resected and histologic sections reveal an inva-sive ductal carcinoma. Biopsy of her axillary lymph nodes reveals the presence of metastatic disease in 4 of 18 axillary lymph nodes. The expression of which one of the following by the tumor would best predict a response to hormonal therapy?
 A. BRCAI
 B. Estrogen receptors
 C. HER2/neu
@@ -1656,7 +1664,7 @@ D. AFP
 E. CEA
 【参考答案】 B
 
-A 78-year-old man is found on rectal examination to have a single, hard, irregular nodule within his prostate. A biopsy of this lesion reveals the presence of small glands lined by a single layer of cells with enlarged, prominent nucleoli. Which of the following is the most likely diagnosis?
+208. A 78-year-old man is found on rectal examination to have a single, hard, irregular nodule within his prostate. A biopsy of this lesion reveals the presence of small glands lined by a single layer of cells with enlarged, prominent nucleoli. Which of the following is the most likely diagnosis?
 A. Atrophic prostatitis
 B. Atypical small acinar proliferation
 C. High-grade prostatic intraepithelial neoplasia
@@ -1664,7 +1672,7 @@ D. Benign prostatic hyperplasia
 E. Prostatic adenocarcinoma
 【参考答案】 E
 
-A 35-year-old woman presents with severe menorrhagia and colicky dysmenorrhea. A hysterectomy including resection of the fallopian tubes and ovaries is performed and the pathologist who examines the specimen makes the diagnosis of "adenomyosis.” Which one of the listed abnormali-ties was present in this resected specimen?
+209. A 35-year-old woman presents with severe menorrhagia and colicky dysmenorrhea. A hysterectomy including resection of the fallopian tubes and ovaries is performed and the pathologist who examines the specimen makes the diagnosis of "adenomyosis." Which one of the listed abnormali-ties was present in this resected specimen?
 A. Ectocervical tissue was present within the wall of the fallopian tube
 B. Endocervical tissue was present on the surface of the ovary
 C. Endometrial tissue was present within the hilum of the ovary
@@ -1672,7 +1680,7 @@ D. Endometrial tissue was present within the wall of uterus
 E. Ovarian tissue was present on the surface of the uterus
 【参考答案】 D
 
-A 39-year-old woman presents with a new onset of a bloody dis-charge from her right nipple. Physical examination reveals a 1-cm freely movable mass that is located directly beneath the nipple. Sections from this mass reveal multiple fibrovascular cores lined by several layers of epithelial cells. Atypia is minimal. The lesion is completely contained within the duct and no invasion into underlying tissue is seen. Which of the following is the most likely diagnosis?
+210. A 39-year-old woman presents with a new onset of a bloody dis-charge from her right nipple. Physical examination reveals a 1 cm freely movable mass that is located directly beneath the nipple. Sections from this mass reveal multiple fibrovascular cores lined by several layers of epithelial cells. Atypia is minimal. The lesion is completely contained within the duct and no invasion into underlying tissue is seen. Which of the following is the most likely diagnosis?
 A. Benign phyllodes tumor
 B. Intraductal papilloma
 C. Intraductal carcinoma
@@ -1680,15 +1688,16 @@ D. Paget's disease
 E. Papillary carcinoma
 【参考答案】 B
 
-A 72-year-old man is found on rectal examination to have a single, hard, irregular nodule within his prostate. A biopsy of this lesion reveals the presence of small glands lined by a single layer of cells with enlarged, prominent nucleoli. From what portion of the prostate did this lesion most likely originate?
+211. A 72-year-old man is found on rectal examination to have a single, hard, irregular nodule within his prostate. A biopsy of this lesion reveals the presence of small glands lined by a single layer of cells with enlarged, prominent nucleoli. From what portion of the prostate did this lesion most likely originate?
 A. Anterior zone
 B. Central zone
 C. Peripheral zone
 D. Periurethral glands
-E. Transitional zone[图片]
+E. Transitional zone
 【参考答案】 C
 
-A 45-year-old woman has had menometrorrhagia for the past 3 months. On physical examination, there are no remarkable findings. The microscopic appearance of an endometrial biopsy specimen is shown in the photomicrograph above. Which of the following conditions is most likely to produce these findings?
+212. A 45-year-old woman has had menometrorrhagia for the past 3 months. On physical examination, there are no remarkable findings. The microscopic appearance of an endometrial biopsy specimen is shown in the photomicrograph above. Which of the following conditions is most likely to produce these findings?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-5.jpg)
 A. Ovarian mature cystic teratoma
 B. Chronic endometritis
 C. Failure of ovulation
@@ -1696,7 +1705,8 @@ D. Pregnancy
 E. Use of oral contraceptives
 【参考答案】 C
 
-A 23-year-old woman presents with a rubbery, freely movable 2-cm mass in the upper outer quadrant of the left breast. Which of the following histologic features is most likely to be seen when examining a biopsy specimen from this mass?
+213. A 23-year-old woman presents with a rubbery, freely movable 2-cm mass in the upper outer quadrant of the left breast. Which of the following histologic features is most likely to be seen when examining a biopsy spec-imen from this mass?
+![题目配图](https://course.huh.moe/data/bl/images/9-chap9-5.jpg)
 A. Large numbers of neutrophils
 B. Large numbers of plasma cells
 C. Duct ectasia with inspissation of breast secretions
@@ -1704,7 +1714,7 @@ D. Necrotic fat surrounded by lipid-laden macrophages
 E. A mixture of fibrous tissue and ducts
 【参考答案】 E
 
-A 66-year-old man presents with urinary frequency, nocturia, drib-bling, and difficulty in starting and stopping urination. Rectal examination reveals the prostate to be enlarged, firm, and rubbery. A needle biopsy reveals increased numbers of glandular elements and stromal tissue. The glands are found to have a double layer of epithelial cells. Prominent nuclei or back-to-back glands are not seen. From what portion of the prostate did this lesion most likely originate?
+214. A 66-year-old man presents with urinary frequency, nocturia, drib-bling, and difficulty in starting and stopping urination. Rectal examination reveals the prostate to be enlarged, firm, and rubbery. A needle biopsy reveals increased numbers of glandular elements and stromal tissue. The glands are found to have a double layer of epithelial cells. Prominent nuclei or back-to-back glands are not seen. From what portion of the prostate did this lesion most likely originate?
 A. Anterior zone
 B. Central zone
 C. Peripheral zone
@@ -1712,7 +1722,7 @@ D. Periurethral glands
 E. Transitional zone
 【参考答案】 E
 
-A 39-year-old woman presents with excessive bleeding at irregular intervals. An endometrial biopsy is obtained. Histologic sections reveal menstrual-type endometrial glands with focal cystic dilatation and the epithelial cells show little atypia. Which of the following is the most likely diagnosis?
+215. A 39-year-old woman presents with excessive bleeding at irregular intervals. An endometrial biopsy is obtained. Histologic sections reveal menstrual-type endometrial glands with focal cystic dilatation and the epithelial cells show little atypia. Which of the following is the most likely diagnosis?
 A. Endometrial hyperplasia
 B. Adenocarcinoma
 C. Chronic endometritis
@@ -1720,7 +1730,7 @@ D. Adenomyosis
 E. Endometriosis
 【参考答案】 A
 
-HER/neu staining is used to predict:
+216. HER/neu staining is used to predict:
 A. Tumor grade
 B. Response to anti-HER2 therapy
 C. Response to hormone manipulation
@@ -1728,7 +1738,7 @@ D. Lymph node status
 E. Increase risk for adenoma in the contralateral breast
 【参考答案】 B
 
-A 69-year-old man presents with urinary frequency, nocturia, drib-bling, and difficulty in starting and stopping urination. A needle biopsy reveals increased numbers of glandular elements and stromal tissue. The glands are found to have a double layer of epithelial cells without atypia. Which of the following is the most likely diagnosis?
+217. A 69-year-old man presents with urinary frequency, nocturia, drib-bling, and difficulty in starting and stopping urination. A needle biopsy reveals increased numbers of glandular elements and stromal tissue. The glands are found to have a double layer of epithelial cells without atypia. Which of the following is the most likely diagnosis?
 A. Atrophic prostatitis
 B. Atypical small acinar proliferation
 C. High-grade prostatic intraepithelial neoplasia
@@ -1736,7 +1746,7 @@ D. Benign prostatic hyperplasia
 E. Prostatic adenocarcinoma
 【参考答案】 D
 
-A 40-year-old woman presents with a new onset of uterine bleeding. A careful medical history finds that her abnormal menstrual bleeding is characterized by excessive bleeding at irregular intervals. An endometrial biopsy is obtained. The pathology report from this specimen makes the diagnosis of endometriosis. Which of the following histologic changes is most characteristic of this abnormality?
+218. A 40-year-old woman presents with a new onset of uterine bleeding. A careful medical history finds that her abnormal men-strual bleeding is characterized by excessive bleeding at irregular intervals. An endometrial biopsy is obtained. The pathology report from this specimen makes the diagnosis of endometriosis. Which of the following histologic changes is most characteristic of this abnormality?
 A. Crowding of endometrial glands with budding and epithelial atypia
 B. Lymphatic invasion by interlacing bundles of atypical spindle-shaped cells
 C. Menstrual-type endometrial glands with focal atypical cystic dilatation
@@ -1744,7 +1754,7 @@ D. Endometrial tissue was present within the wall of uterus
 E. Stromal invasion by malignant glands with focal areas of atypical squamous differentiation
 【参考答案】 C
 
-Which breast tumor has the best prognosis?
+219. Which breast tumor has the best prognosis?
 A. Mucinous carcinoma
 B. Invasive lobular carcinoma
 C. Fibroadenoma
@@ -1752,7 +1762,7 @@ D. Adenoid cystic carcinoma
 E. Phyllodes tumor
 【参考答案】 C
 
-A 47-year-old man presents with the sudden onset of fever, chills, and dysuria. Rectal examination finds the prostate gland to be edematous and very sensitive; examination is quite painful. Microscopic examination of prostatic secretions reveals the presence of numerous neutrophils. Which of the following is the most likely diagnosis?
+220. A 47-year-old man presents with the sudden onset of fever, chills, and dysuria. Rectal examination finds the prostate gland to be edematous and very sensitive; examination is quite painful. Microscopic examination of prostatic secretions reveals the presence of numerous neutrophils. Which of the following is the most likely diagnosis?
 A. Atrophic prostatitis
 B. Atypical small acinar proliferation
 C. Acute prostatitis
@@ -1760,7 +1770,7 @@ D. Benign prostatic hyperplasia
 E. Prostatic adenocarcinoma
 【参考答案】 C
 
-A 62-year-old obese nulliparous woman had an episode of vaginal bleeding. On pelvic examination, there appears to be no enlargement of the uterus, and the cervix appears normal. A Pap smear shows cells consistent with squamous cell carcinoma. Which of the following conditions is most likely to have contributed to the development of this malignancy?
+221. A 62-year-old obese nulliparous woman had an episode of vaginal bleeding. On pelvic examination, there appears to be no enlargement of the uterus, and the cervix appears normal. A Pap smear shows cells consistent with squamous cell carcinoma. Which of the following conditions is most likely to have contributed to the development of this malignancy?
 A. Endometrial hyperplasia
 B. Chronic endometritis
 C. Use of oral contraceptives
@@ -1768,7 +1778,7 @@ D. Human papillomavirus infection
 E. Adenomyosis
 【参考答案】 D
 
-Moderate or florid ductal hyperplasia indicates
+222. Moderate or florid ductal hyperplasia indicates
 A. Slightly increased risk for subsequent invasive breast carcinoma
 B. Subsequent development of invasive carcinoma in 50% of all patients
 C. Has no predictive value
@@ -1776,15 +1786,15 @@ D. Slightly increase risk for phyllodes tumors
 E. Slightly increase risk for tuberculosis
 【参考答案】 A
 
-A 25-year-old man presents with a testicular mass, which is resected and diagnosed as a yolk sac tumor. Which of the following sub-stances is most likely to be increased in this patient's serum as a result of secretion from the cells of this tumor?
+223. A 25-year-old man presents with a testicular mass, which is resected and diagnosed as a yolk sac tumor. Which of the following sub-stances is most likely to be increased in this patient's serum as a result of secretion from the cells of this tumor?
 A. Acid phosphatase
-B. a-fetoprotein (AFP)
+B. α-fetoprotein (AFP)
 C. Alkaline phosphatase
 D. Human chorionic gonadotropin (hCG)
 E. Prostate-specific antigen (PSA)
 【参考答案】 B
 
-A 27-year-old woman presents to her gynecologist for a routine phys-ical examination that includes a Pap smear. Her sexual history includes many sexual partners beginning at an early age. Her cervix is painted with iodine and there is an area near the cervical os which does not stain with iodine. Several biopsies are obtained from this pale area, and a representative histologic section is seen in the picture below. This histologic section shows koilocytosis, which is most characteristic of infec-tion with which one of the following organisms? [图片]
+224. A 27-year-old woman presents to her gynecologist for a routine phys-ical examination that includes a Pap smear. Her sexual history includes many sexual partners beginning at an early age. Her cervix is painted with iodine and there is an area near the cervical os which does not stain with iodine. Several biopsies are obtained from this pale area, and a representative histologic section is seen in the picture below. This histologic section shows koilocytosis, which is most characteristic of infec-tion with which one of the following organisms?
 A. Cytomegalovirus
 B. Epstein-Barr virus
 C. Herpes simplex virus
@@ -1792,7 +1802,7 @@ D. Human papillomavirus
 E. Parvovirus B19
 【参考答案】 D
 
-Hormone receptors are b
+225. Hormone receptors are
 A. Most useful in chosing patients for polyagent chemotherapy
 B. Most useful in chosing patients for hormonal therapy
 C. Most useful as a prognostic test
@@ -1800,7 +1810,7 @@ D. Provide the therapeutic basis for chemotherapy
 E. Provide the therapeutic basis for radiotherapy
 【参考答案】 B
 
-The most common histologic type of malignant tumor occurring in the testis is
+226. The most common histologic type of malignant tumor occurring in the testis is
 A. Seminoma
 B. Adenomatoid tumor
 C. Leukemia
@@ -1808,7 +1818,7 @@ D. Metastatic carcinoma
 E. Leydig cell tumor?
 【参考答案】 A
 
-Which one of the following numbered sequences best illustrates the postulated sequence of events that precedes the formation of an infiltrating squamous cell carcinoma of the cervix? (1=Carcinoma in situ; 2=Invasive carcinoma; 3=Mild dysplasia; 4=Moderate dysplasia; 5=Severe dysplasia; 6=Squamous metaplasia)
+227. Which one of the following numbered sequences best illustrates the postulated sequence of events that precedes the formation of an infiltrating squamous cell carcinoma of the cervix? (1=Carcinoma in situ； 2=Invasive carcinoma； 3=Mild dysplasia； 4=Moderate dysplasia； 5=Severe dysplasia； 6=Squamous metaplasia)
 A. 3, then 4, then 5, then 1, then 6, then 2
 B. 3, then 4, then 5, then 6, then 1, then 2
 C. 5, then 4, then 3, then 1, then 6, then 2
@@ -1816,7 +1826,7 @@ D. 6, then 3, then 4, then 5, then 1, then 2
 E. 6, then 4, then 3, then 5, then 2, then 1
 【参考答案】 D
 
-HER2/neu is a test for
+228. HER2/neu is a test for
 A. A membrane receptor
 B. A nuclear antigen
 C. A cytoplasmic receptor
@@ -1824,7 +1834,7 @@ D. A histone protein
 E. A tumor suppressor gene
 【参考答案】 A
 
-A 26-year-old man presents with a testicular mass and is found to have high serum levels of alpha-fetoprotein (AFP). Microscopic examination of a biopsy from this mass reveals sheets of predominately undifferentiated cells showing focal primitive glandular differentiation. The tumor cells have large and hyperchromatic nuclei. Which of the following is the most likely diagnosis?
+229. A 26-year-old man presents with a testicular mass and is found to have high serum levels of alpha-fetoprotein (AFP). Microscopic examination of a biopsy from this mass reveals sheets of predominately undifferentiated cells showing focal primitive glandular differentiation. The tumor cells have large and hyperchromatic nuclei. Which of the following is the most likely diagnosis?
 A. Choriocarcinoma
 B. Embryonal carcino-ma
 C. Mature teratoma
@@ -1832,7 +1842,7 @@ D. Lymphoma
 E. Mesothelioma
 【参考答案】 B
 
-A 28-year-old woman in the second month of pregnancy pre-sents with lower abdominal pain and vaginal bleeding. Histologic examina-tion of products from her spontaneous abortion reveals decidualized tissue and edematous chorionic villi. Chromosomal analysis of the villi show a diploid karyotype. Which of the following is the most likely diagnosis?
+230. A 28-year-old woman in the second month of pregnancy pre-sents with lower abdominal pain and vaginal bleeding. Histologic examina-tion of products from her spontaneous abortion reveals decidualized tissue and edematous chorionic villi. Chromosomal analysis of the villi show a diploid karyotype. Which of the following is the most likely diagnosis?
 A. Yolk sac tumor
 B. Papillary adenocarcinoma
 C. Hemangioma
@@ -1840,14 +1850,14 @@ D. Teratoma
 E. Complete hydatidiform mole
 【参考答案】 E
 
-Which tumor has the best prognosis in breast carcinoma patients?
+231. Which tumor has the best prognosis in breast carcinoma patients?
 A. Invasive ductal carcinoma
 B. Invasive lobular carcinoma
 C. Intraductal carcinoma
 D. Invasive mixed mucinous and ductal carcinoma
 【参考答案】 C
 
-A 58-year-old man presents with painless enlargement of one testicle. Physical examination reveals a single testicular mass that does not trans-illuminate. The mass is resected. Microscopic examination shows numerous lymphocytes in fibrous stroma between groups of tumor cells having distinct cell membranes and clear cytoplasm. Which of the following is the most likely diagnosis?
+232. A 58-year-old man presents with painless enlargement of one testicle. Physical examination reveals a single testicular mass that does not trans-illuminate. The mass is resected. Microscopic examination shows numerous lymphocytes in fibrous stroma between groups of tumor cells having distinct cell membranes and clear cytoplasm. Which of the following is the most likely diagnosis?
 A. Seminoma
 B. Adenomatoid tumor
 C. Teratoma
@@ -1855,7 +1865,7 @@ D. Tuberculosis
 E. Leydig cell tumor
 【参考答案】 A
 
-A 25-year-old woman in the second month of pregnancy pre-sents with lower abdominal pain and vaginal bleeding. Histologic examina-tion of products from her spontaneous abortion reveals decidualized tissue and edematous chorionic villi. Chromosomal analysis of the villi show a triploid karyotype. Which of the following is the most likely diagnosis?
+233. A 25-year-old woman in the second month of pregnancy pre-sents with lower abdominal pain and vaginal bleeding. Histologic examina-tion of products from her spontaneous abortion reveals decidualized tissue and edematous chorionic villi. Chromosomal analysis of the villi show a triploid karyotype. Which of the following is the most likely diagnosis?
 A. Choriocarcinoma
 B. Adenocarcinoma
 C. Hemangioma
@@ -1863,7 +1873,7 @@ D. Partial hydatidiform mole
 E. Teratoma
 【参考答案】 D
 
-Which has not been found to be predictive of outcome in breast carcinoma patients?
+234. Which has not been found to be predictive of outcome in breast carcinoma patients?
 A. Perineural invasion
 B. Lymph node status
 C. Tumor size
@@ -1871,7 +1881,7 @@ D. Tumor grade
 E. Axillary lymph node status
 【参考答案】 A
 
-A 44-year-old man presents with painless enlargement of one testicle. Physical examination reveals a solitary testicular mass that does not trans-illuminate. The mass is resected, examined histologically, and radiation ther-apy is subsequently given based on the pathologist's diagnosis. Which of the following best describes the expected microscopic appearance of this tumor?
+235. A 44-year-old man presents with painless enlargement of one testicle. Physical examination reveals a solitary testicular mass that does not trans-illuminate. The mass is resected, examined histologically, and radiation ther-apy is subsequently given based on the pathologist's diagnosis. Which of the following best describes the expected microscopic appearance of this tumor?
 A. A mixture of malignant cytotrophoblasts and syncytiotrophoblasts
 B. Abnormal tissue derived from all three germ levels with scattered immature neural elements
 C. Large tumor cells with abundant eosinophilic, granular cytoplasm, and rare intracytoplasmic rhomboid crystals
@@ -1879,7 +1889,7 @@ D. Numerous lymphocytes in the fibrous stroma between groups of tumor cells havi
 E. Sheets of undifferentiated tumor cells having focal glandular differentiation
 【参考答案】 D
 
-A 54-year-old woman presents with intermittent pelvic pain. Physical examination reveals a 3-cm mass in the area of her right ovary. Histologic sections from this ovarian mass reveal a papillary tumor with scattered small, round, laminated calcifications. Which of the following is the most likely diagnosis?
+236. A 54-year-old woman presents with intermittent pelvic pain. Physical examination reveals a 3-cm mass in the area of her right ovary. Histologic sections from this ovarian mass reveal a papillary tumor with scattered small, round, laminated calcifications. Which of the following is the most likely diagnosis?
 A. Carcinoid
 B. Teratoma
 C. Yolk sac tumor
@@ -1887,7 +1897,7 @@ D. Serous adenocarcinoma
 E. Dysgerminoma
 【参考答案】 D
 
-The most common form of invasive breast carcinoma is:
+237. The most common form of invasive breast carcinoma is:
 A. Lobular carcinoma
 B. Mucinous carcinoma
 C. Medullary carcinoma
@@ -1895,7 +1905,7 @@ D. Ductal carcinoma (or carcinoma of no special type)
 E. Papillary carcinoma
 【参考答案】 D
 
-The photomicrograph is of a section from a testis removed from the inguinal region of a 28-year-old man. Which of the following statements about this condition is false? [图片]
+238. The photomicrograph is of a section from a testis removed from the inguinal region of a 28-year-old man. Which of the following statements about this condition is false?
 A. It is unilateral in the majority of cases
 B. Seminoma is the most common malignancy to arise
 C. The condition illustrated is cryptorchidism
@@ -1903,7 +1913,7 @@ D. There is increased risk of malignancy in the contralateral testis
 E. Both Leydig and Sertoli cells are reduced in number
 【参考答案】 E
 
-A 45-year-old woman presents with intermittent pelvic pain. Physical examination reveals a 3-cm mass in the area of her right ovary. Histologic sections from this ovarian mass reveal a papillary tumor with scattered small, round, laminated calcifications. Which of the following is the most likely diagnosis?
+239. A 45-year-old woman presents with intermittent pelvic pain. Physical examination reveals a 3-cm mass in the area of her right ovary. Histologic sections from this ovarian mass reveal a papillary tumor with scattered small, round, laminated calcifications. Which of the following is the most likely diagnosis?
 A. Granulosa cell tumor
 B. Teratoma
 C. Serous adenocarcinoma
@@ -1911,7 +1921,7 @@ D. Seminoma
 E. Yolk sac tumor
 【参考答案】 C
 
-Which is the best prognostic indicator in breast carcinoma patients?
+240. Which is the best prognostic indicator in breast carcinoma patients?
 A. Tumor size
 B. Axillary lymph node status
 C. HER2/neu staining of tumor cells
@@ -1919,7 +1929,7 @@ D. Grading of tumor cells
 E. Age of the patient
 【参考答案】 B
 
-This photomicrograph is of a section from a testis removed from the inguinal region of a 25-year-old man. Which of the following statements about this condition is true? [图片]
+241. This photomicrograph is of a section from a testis removed from the inguinal region of a 25-year-old man. Which of the following statements about this condition is true?
 A. It is bilateral in the majority of cases
 B. Teratoma is the most common malignancy to arise
 C. Risk of associated malignancy is reduced by orchiopexy

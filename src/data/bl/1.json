@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 细胞和组织的损伤",
-  "description": "本解析依据「病理学题库」整理 - 细胞和组织的损伤",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 细胞和组织的损伤",
   "questions": [
     {
       "type": "single",
@@ -34,7 +34,7 @@
     },
     {
       "type": "single",
-      "title": "结节性动脉炎血管壁出现的红染、纤维素样物质,称为",
+      "title": "结节性动脉炎血管壁出现的红染、纤维素样物质，称为",
       "options": {
         "A": "apoptosis",
         "B": "necrosis",
@@ -49,7 +49,7 @@
     },
     {
       "type": "single",
-      "title": "心脏褐色萎缩,心肌细胞內的黄褐色物质是",
+      "title": "心脏褐色萎缩，心肌细胞内的黄褐色物质是",
       "options": {
         "A": "lipofuscin",
         "B": "melanin",
@@ -64,7 +64,7 @@
     },
     {
       "type": "single",
-      "title": "黏膜坏死脱落而遗留的深达黏膜下层的缺损,称为",
+      "title": "黏膜坏死脱落而遗留的深达黏膜下层的缺损，称为",
       "options": {
         "A": "erosion",
         "B": "fistula",
@@ -94,7 +94,7 @@
     },
     {
       "type": "single",
-      "title": "细胞内、血管壁和结缔组织内出现均质、红染、玻璃样物质,称为",
+      "title": "细胞内、血管壁和结缔组织内出现均质、红染、玻璃样物质，称为",
       "options": {
         "A": "fatty degeneration",
         "B": "hyaline degeneration",
@@ -109,7 +109,7 @@
     },
     {
       "type": "single",
-      "title": "一种分化成熟组织取代另外一种分化成熟组织,称为",
+      "title": "一种分化成熟组织取代另外一种分化成熟组织，称为",
       "options": {
         "A": "atrophy",
         "B": "hypertrophy",
@@ -126,7 +126,7 @@
       "type": "single",
       "title": "不属于萎缩的是",
       "options": {
-        "A": "80岁老人的脑",
+        "A": "80 岁老人的脑",
         "B": "晚期癌症患者的心脏",
         "C": "空洞型肾结核的肾实质",
         "D": "小儿麻痹症的下肢肌肉",
@@ -187,7 +187,7 @@
       "title": "不属于萎缩的是",
       "options": {
         "A": "高血压的左心室",
-        "B": "80岁老年人的脑",
+        "B": "80 岁老年人的脑",
         "C": "慢性高血压的肾实质",
         "D": "脑积水的脑实质",
         "E": "晚期癌症患者的心脏"
@@ -232,7 +232,7 @@
       "title": "不属于萎缩的器官是",
       "options": {
         "A": "高血压病的肾脏",
-        "B": "肾切除术后,保留的对侧肾脏",
+        "B": "肾切除术后，保留的对侧肾脏",
         "C": "慢性肾小球肾炎的肾脏",
         "D": "肾盂积水的肾脏",
         "E": "动脉粥样硬化症的肾脏"
@@ -261,11 +261,11 @@
       "type": "single",
       "title": "不符合脂肪变性的描述是",
       "options": {
-        "A": "槟榔肝时,肝小叶周边区脂肪变性最明显",
-        "B": "磷中毒时,肝小叶中央区脂肪变性最明显",
-        "C": "砷中毒时,可引起心肌脂肪变性",
-        "D": "白喉时,可引起“虎斑心”",
-        "E": "严重的贫血时,肾近曲管上皮可出现脂肪变性"
+        "A": "槟榔肝时，肝小叶周边区脂肪变性最明显",
+        "B": "磷中毒时，肝小叶中央区脂肪变性最明显",
+        "C": "砷中毒时，可引起心肌脂肪变性",
+        "D": "白喉时，可引起“虎斑心”",
+        "E": "严重的贫血时，肾近曲管上皮可出现脂肪变性"
       },
       "answers": [
         "B"
@@ -304,13 +304,13 @@
     },
     {
       "type": "single",
-      "title": "关于肝脂肪变性的描述,正确的是",
+      "title": "关于肝脂肪变性的描述，正确的是",
       "options": {
-        "A": "肝淤血时,脂肪变性首先发生在小叶周围",
-        "B": "磷中毒时,脂肪变性主要发生在小叶中央区",
-        "C": "轻度肝脂肪变性时,肉眼下肝可无明显改变",
-        "D": "重度肝脂肪变性时,肝脏缩小",
-        "E": "脂肪变性的肝细胞的细胞浆疏松,呈空网状"
+        "A": "肝淤血时，脂肪变性首先发生在小叶周围",
+        "B": "磷中毒时，脂肪变性主要发生在小叶中央区",
+        "C": "轻度肝脂肪变性时，肉眼下肝可无明显改变",
+        "D": "重度肝脂肪变性时，肝脏缩小",
+        "E": "脂肪变性的肝细胞的细胞浆疏松，呈空网状"
       },
       "answers": [
         "C"
@@ -319,7 +319,7 @@
     },
     {
       "type": "single",
-      "title": "关于心肌脂肪变性的描述,错误的是",
+      "title": "关于心肌脂肪变性的描述，错误的是",
       "options": {
         "A": "白喉外毒素可引起心肌脂肪变性",
         "B": "磷、砷、氯仿可引起心肌脂肪变性",
@@ -334,7 +334,7 @@
     },
     {
       "type": "single",
-      "title": "关于肾脂肪变性的描述,错误的是",
+      "title": "关于肾脂肪变性的描述，错误的是",
       "options": {
         "A": "与肾小球毛细血管通透性升高有关",
         "B": "脂肪变性主要累及远曲管上皮细胞",
@@ -349,7 +349,7 @@
     },
     {
       "type": "single",
-      "title": "脂肪变性时,脂滴位于",
+      "title": "脂肪变性时，脂滴位于",
       "options": {
         "A": "高尔基器",
         "B": "线粒体",
@@ -409,7 +409,7 @@
     },
     {
       "type": "single",
-      "title": "纤维组织内颗粒状、团块状、强嗜酸红染的无结构物质,状似纤维素,此病变称为",
+      "title": "纤维组织内颗粒状、团块状、强嗜酸红染的无结构物质，状似纤维素，此病变称为",
       "options": {
         "A": "水变性",
         "B": "脂肪变性",
@@ -529,7 +529,7 @@
     },
     {
       "type": "single",
-      "title": "关于血管壁玻璃样变,错误的描述是",
+      "title": "关于血管壁玻璃样变，错误的描述是",
       "options": {
         "A": "常见于高血压病",
         "B": "常见于肾、脑、脾、视网膜细动脉",
@@ -559,7 +559,7 @@
     },
     {
       "type": "single",
-      "title": "女,40岁,患者因血尿、蛋白尿、管型尿,经治疗无明显好转。四年后,因尿毒症死亡。尸体解剖发现两肾对称性萎缩,表面呈细颗粒状。组织学检查,大量肾小球纤维化,并呈现均匀红染,半透明小团。这些肾小球的病变属于",
+      "title": "女，40 岁，患者因血尿、蛋白尿、管型尿，经治疗无明显好转。四年后，因尿毒症死亡。尸体解剖发现两肾对称性萎缩，表面呈细颗粒状。组织学检查，大量肾小球纤维化，并呈现均匀红染，半透明小团。这些肾小球的病变属于",
       "options": {
         "A": "纤维素样坏死",
         "B": "淀粉样变性",
@@ -574,7 +574,7 @@
     },
     {
       "type": "single",
-      "title": "男,30岁,酗酒时间约8年余,日消费北京二锅头酒约500ml。近半年来经常出现恶心、呕吐、食欲不振。肝穿刺显示肝细胞广泛脂肪变性,肝细胞灶状坏死。肝细胞内可见大小不等的红染的半透明小体。这些透明小体为",
+      "title": "男，30 岁，酗酒时间约 8 年余，日消费北京二锅头酒约 500 ml。近半年来经常出现恶心、呕吐、食欲不振。肝穿刺显示肝细胞广泛脂肪变性，肝细胞灶状坏死。肝细胞内可见大小不等的红染的半透明小体。这些透明小体为",
       "options": {
         "A": "前角蛋白微丝",
         "B": "免疫球蛋白",
@@ -589,7 +589,7 @@
     },
     {
       "type": "single",
-      "title": "男,55岁,高血压病史已20余年。手术切除脾脏,切片可见脾中央小动脉管壁增厚,管腔狭窄,管壁内可见均匀红染、半透明物质。这些半透明物质为",
+      "title": "男，55 岁，高血压病史已 20 余年。手术切除脾脏，切片可见脾中央小动脉管壁增厚，管腔狭窄，管壁内可见均匀红染、半透明物质。这些半透明物质为",
       "options": {
         "A": "淀粉样物质",
         "B": "血浆蛋白和基底膜样物质",
@@ -664,7 +664,7 @@
     },
     {
       "type": "single",
-      "title": "慢性乙型肝炎时,电镜下毛玻璃细胞胞浆内可见",
+      "title": "慢性乙型肝炎时，电镜下毛玻璃细胞胞浆内可见",
       "options": {
         "A": "扩张的光面内质网",
         "B": "Russell 小体",
@@ -714,8 +714,8 @@
         "A": "属不可复性损伤",
         "B": "细胞功能丧失",
         "C": "表现为异常物质的出现或正常物质显著增多",
-        "D": "细胞体积缩小, 伴功能下降",
-        "E": "细胞体积增大, 伴功能增强"
+        "D": "细胞体积缩小，伴功能下降",
+        "E": "细胞体积增大，伴功能增强"
       },
       "answers": [
         "C"
@@ -757,7 +757,7 @@
       "title": "不符合含铁血黄素的描述是",
       "options": {
         "A": "常见于心肌细胞核两侧",
-        "B": "光镜下, 呈棕黄色, 具有折光性",
+        "B": "光镜下，呈棕黄色，具有折光性",
         "C": "血红蛋白转化而来",
         "D": "普鲁士蓝反应阳性",
         "E": "常见于出血灶周围"
@@ -769,7 +769,7 @@
     },
     {
       "type": "single",
-      "title": "男, 60岁, 因胃癌广泛转移而死亡。尸体解剖检查, 心脏重200g。切片检查心肌细胞核两侧可见黄褐色细颗粒状色素, 此色素可能是",
+      "title": "男，60 岁，因胃癌广泛转移而死亡。尸体解剖检查，心脏重 200 g。切片检查心肌细胞核两侧可见黄褐色细颗粒状色素，此色素可能是",
       "options": {
         "A": "黑色素",
         "B": "胆色素",
@@ -799,7 +799,7 @@
     },
     {
       "type": "single",
-      "title": "干酪样坏死灶周围钙盐沉积, 称为",
+      "title": "干酪样坏死灶周围钙盐沉积，称为",
       "options": {
         "A": "溶解吸收",
         "B": "分离排出",
@@ -844,7 +844,7 @@
     },
     {
       "type": "single",
-      "title": "肠扭转引起的坏死, 称为",
+      "title": "肠扭转引起的坏死，称为",
       "options": {
         "A": "凝固性坏死",
         "B": "液化性坏死",
@@ -859,7 +859,7 @@
     },
     {
       "type": "single",
-      "title": "深部开放损伤合并厌气菌感染, 称为",
+      "title": "深部开放损伤合并厌气菌感染，称为",
       "options": {
         "A": "凝固性坏死",
         "B": "液化性坏死",
@@ -934,7 +934,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 23岁, 24小时前因车祸引起左下肢胫骨及腓骨开放性、粉碎性骨折, 入院清除固定后12小时, 出现左小腿及左足青紫、肿胀, 患者出现发热和全身不适。次日肿胀加剧, 累及左大腿, 伤口流出伴有气泡的的恶臭脓汁, 肿胀区按之有捻发音。左小腿的坏死为",
+      "title": "男性，23 岁，24 小时前因车祸引起左下肢胫骨及腓骨开放性、粉碎性骨折，入院清除固定后 12 小时，出现左小腿及左足青紫、肿胀，患者出现发热和全身不适。次日肿胀加剧，累及左大腿，伤口流出伴有气泡的的恶臭脓汁，肿胀区按之有捻发音。左小腿的坏死为",
       "options": {
         "A": "干性坏疽",
         "B": "湿性坏疽",
@@ -970,7 +970,7 @@
         "B": "常伴有全身中毒症状",
         "C": "坏死组织呈污秽黑褐色",
         "D": "坏死组织与健康组织之间界限清楚",
-        "E": "坏死部位动脉受阻, 而静脉回流通畅"
+        "E": "坏死部位动脉受阻，而静脉回流通畅"
       },
       "answers": [
         "B"
@@ -979,7 +979,7 @@
     },
     {
       "type": "single",
-      "title": "男, 68岁, 糖尿病史10年。近一年来左下肢行走后疼痛, 休息后好转。近两个月左拇趾变黑, 皱缩, 知觉消失。此种坏死是",
+      "title": "男，68 岁，糖尿病史 10 年。近一年来左下肢行走后疼痛，休息后好转。近两个月左拇趾变黑，皱缩，知觉消失。此种坏死是",
       "options": {
         "A": "固缩坏死",
         "B": "干性坏疽",
@@ -994,7 +994,7 @@
     },
     {
       "type": "single",
-      "title": "下列哪个脏器不发生坏疽?",
+      "title": "下列哪个脏器不发生坏疽？",
       "options": {
         "A": "肺",
         "B": "下肢",
@@ -1009,7 +1009,7 @@
     },
     {
       "type": "single",
-      "title": "血栓闭塞性脉管炎累及左下肢, 引起的坏死, 称为",
+      "title": "血栓闭塞性脉管炎累及左下肢，引起的坏死，称为",
       "options": {
         "A": "凝固性坏死",
         "B": "液化性坏死",
@@ -1194,7 +1194,7 @@
         "A": "皮肤或粘膜坏死组织脱落形成的缺损",
         "B": "深部组织坏死穿出皮肤形成的病理性盲管",
         "C": "空腔脏器与体表之间的病理性管道",
-        "D": "内脏器官坏死液化, 并经相应管道排出体外, 留下的空腔",
+        "D": "内脏器官坏死液化，并经相应管道排出体外，留下的空腔",
         "E": "肉芽组织取代坏死组织的过程"
       },
       "answers": [
@@ -1264,7 +1264,7 @@
     },
     {
       "type": "single",
-      "title": "男, 40岁, 吸烟史20年, 每日2~3包。近日咳嗽加重, X线显示左上肺阴影。支气管镜粘膜活检, 可见鳞状上皮。此种病理变化属于",
+      "title": "男，40 岁，吸烟史 20 年，每日 2 ~3 包。近日咳嗽加重，X 线显示左上肺阴影。支气管镜粘膜活检，可见鳞状上皮。此种病理变化属于",
       "options": {
         "A": "支气管粘膜萎缩",
         "B": "支气管粘膜鳞状上皮化生",
@@ -1279,7 +1279,7 @@
     },
     {
       "type": "single",
-      "title": "Barrett食管内出现的腺上皮, 称为",
+      "title": "Barrett 食管内出现的腺上皮，称为",
       "options": {
         "A": "鳞状上皮化生",
         "B": "腺性化生",
@@ -1294,7 +1294,7 @@
     },
     {
       "type": "single",
-      "title": "乳腺增生时出现大汗腺腺体, 称为",
+      "title": "乳腺增生时出现大汗腺腺体，称为",
       "options": {
         "A": "鳞状上皮化生",
         "B": "腺性化生",
@@ -1309,7 +1309,7 @@
     },
     {
       "type": "single",
-      "title": "慢性萎缩性胃炎胃粘膜出现杯状细胞, 称为",
+      "title": "慢性萎缩性胃炎胃粘膜出现杯状细胞，称为",
       "options": {
         "A": "鳞状上皮化生",
         "B": "腺性化生",
@@ -1339,7 +1339,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 6岁, 在家长未注意时, 被铡刀将左手铡断, 经断肢再植后, 左手功能恢复, 下列哪种组织属完全再生?",
+      "title": "男性，6 岁，在家长未注意时，被铡刀将左手铡断，经断肢再植后，左手功能恢复，下列哪种组织属完全再生？",
       "options": {
         "A": "皮肤",
         "B": "神经",
@@ -1354,9 +1354,9 @@
     },
     {
       "type": "single",
-      "title": "男性, 50岁, 因肝右叶肝癌而行肝叶切除术, 患者的肝脏发生的变化是",
+      "title": "男性，50 岁，因肝右叶肝癌而行肝叶切除术，患者的肝脏发生的变化是",
       "options": {
-        "A": "经过较长时间, 恢复原结构",
+        "A": "经过较长时间，恢复原结构",
         "B": "保持手术后剩余肝脏的状态",
         "C": "肝小叶不断增生",
         "D": "形成若干再生结节",
@@ -1369,11 +1369,11 @@
     },
     {
       "type": "single",
-      "title": "男性, 20岁, 剧烈运动时, 不慎将左踝骨骨折, 符合骨折愈合的过程是",
+      "title": "男性，20 岁，剧烈运动时，不慎将左踝骨骨折，符合骨折愈合的过程是",
       "options": {
         "A": "骨折处由软骨代替",
         "B": "骨折处由纤维组织代替",
-        "C": "骨折处由骨组织代替, 但不能恢复原状",
+        "C": "骨折处由骨组织代替，但不能恢复原状",
         "D": "骨折处经血肿形成、纤维性骨痂、骨性骨痂、骨痂改建几个阶段达到完全愈合",
         "E": "骨折处由纤维组织、软骨组织、骨组织混合增生代替"
       },
@@ -1384,7 +1384,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 50岁, 右腹股沟疝, 经疝修补术后, 伤口抗拉力强度达到顶点的时间是",
+      "title": "男性，50 岁，右腹股沟疝，经疝修补术后，伤口抗拉力强度达到顶点的时间是",
       "options": {
         "A": "一周",
         "B": "三周",
@@ -1399,12 +1399,13 @@
     },
     {
       "type": "single",
-      "title": "在创伤愈合过程中, 胶原纤维的分解吸收出现在",
+      "title": "在创伤愈合过程中，胶原纤维的分解吸收出现在",
       "options": {
-        "A": "创伤后15天以内",
+        "A": "创伤后 15 天以内",
         "B": "创伤后一个月之后",
-        "C": "早期多, 晚期少",
-        "D": "早期少, 晚期多"
+        "C": "早期多，晚期少",
+        "D": "早期少，晚期多",
+        "E": "以上都不对"
       },
       "answers": [
         "D"
@@ -1415,11 +1416,11 @@
       "type": "single",
       "title": "创伤伤口的收缩是在",
       "options": {
-        "A": "受伤后2、3天",
-        "B": "受伤后4、5天",
-        "C": "受伤后6、7天",
-        "D": "受伤后8、9天",
-        "E": "受伤后10天"
+        "A": "受伤后 2、 3 天",
+        "B": "受伤后 4、 5 天",
+        "C": "受伤后 6、 7 天",
+        "D": "受伤后 8、 9 天",
+        "E": "受伤后 10 天"
       },
       "answers": [
         "A"
@@ -1508,8 +1509,8 @@
         "A": "创缘整齐",
         "B": "炎症反应重",
         "C": "凝血块少",
-        "D": "5~6天胶原纤维形成",
-        "E": "约3~6周完全愈合"
+        "D": "5 ~6 天胶原纤维形成",
+        "E": "约 3 ~6 周完全愈合"
       },
       "answers": [
         "B"
@@ -1523,7 +1524,7 @@
         "A": "组织缺损少",
         "B": "创缘不整并伴有感染",
         "C": "愈合后留下线状瘢痕",
-        "D": "约3~6周完全愈合",
+        "D": "约 3 ~6 周完全愈合",
         "E": "炎症反应轻"
       },
       "answers": [
@@ -1554,7 +1555,7 @@
         "B": "适量维生素及蛋白质补充",
         "C": "保持创伤处血液循环畅通",
         "D": "电离辐射",
-        "E": "清除坏死组织,预防感染"
+        "E": "清除坏死组织，预防感染"
       },
       "answers": [
         "D"
@@ -1599,7 +1600,7 @@
         "B": "哺乳期乳腺",
         "C": "甲状腺机能亢进患者的甲状腺肿大",
         "D": "地方性甲状腺肿",
-        "E": "一侧肾摘除,对侧肾肥大"
+        "E": "一侧肾摘除，对侧肾肥大"
       },
       "answers": [
         "E"
@@ -1760,11 +1761,11 @@
       "type": "single",
       "title": "符合组织再生力强弱的描述是",
       "options": {
-        "A": "成纤维细胞>神经细胞>肝细胞",
-        "B": "软骨细胞>骨细胞>肾小管上皮细胞",
-        "C": "骨细胞>肾小管上皮细胞>神经细胞",
-        "D": "鳞状上皮细胞>横纹肌细胞>神经细胞",
-        "E": "肾小管上皮细胞>骨髓细胞>脂肪细胞"
+        "A": "成纤维细胞 > 神经细胞 > 肝细胞",
+        "B": "软骨细胞 > 骨细胞 > 肾小管上皮细胞",
+        "C": "骨细胞 > 肾小管上皮细胞 > 神经细胞",
+        "D": "鳞状上皮细胞 > 横纹肌细胞 > 神经细胞",
+        "E": "肾小管上皮细胞 > 骨髓细胞 > 脂肪细胞"
       },
       "answers": [
         "C"
@@ -1778,8 +1779,8 @@
         "A": "骨骼肌肌原纤维部分受损不能完全再生",
         "B": "骨骼肌肌纤维断裂后仍可完全再生",
         "C": "心肌梗死后由瘢痕修复",
-        "D": "肠吻合后,肌层可经再生恢复原结构",
-        "E": "肌型动脉吻合后,肌层可经再生恢复原结构"
+        "D": "肠吻合后，肌层可经再生恢复原结构",
+        "E": "肌型动脉吻合后，肌层可经再生恢复原结构"
       },
       "answers": [
         "C"
@@ -1803,7 +1804,7 @@
     },
     {
       "type": "single",
-      "title": "女性,30岁,腰椎结核并在背部形成冷脓肿,冷脓肿破溃,破溃处流脓不断,此病变是",
+      "title": "女性，30 岁，腰椎结核并在背部形成冷脓肿，冷脓肿破溃，破溃处流脓不断，此病变是",
       "options": {
         "A": "空洞",
         "B": "瘘管",
@@ -1818,7 +1819,7 @@
     },
     {
       "type": "single",
-      "title": "男性,26岁,因肛旁脓肿,左肛周形成伤口,局部流脓不断,入院后检查,肛旁伤口为外口,实与直肠相通,次病理管道为",
+      "title": "男性，26 岁，因肛旁脓肿，左肛周形成伤口，局部流脓不断，入院后检查，肛旁伤口为外口，实与直肠相通，次病理管道为",
       "options": {
         "A": "空洞",
         "B": "瘘管",
@@ -1863,7 +1864,7 @@
     },
     {
       "type": "single",
-      "title": "烫伤引起的深达皮下脂肪的皮肤缺损,称为",
+      "title": "烫伤引起的深达皮下脂肪的皮肤缺损，称为",
       "options": {
         "A": "糜烂",
         "B": "溃疡",
@@ -1878,7 +1879,7 @@
     },
     {
       "type": "single",
-      "title": "子宫颈癌累及膀胱引起尿液经阴道排出,称为",
+      "title": "子宫颈癌累及膀胱引起尿液经阴道排出，称为",
       "options": {
         "A": "糜烂",
         "B": "溃疡",
@@ -1893,7 +1894,7 @@
     },
     {
       "type": "single",
-      "title": "肾结核坏死物经尿道排出,所形成的病变为",
+      "title": "肾结核坏死物经尿道排出，所形成的病变为",
       "options": {
         "A": "糜烂",
         "B": "溃疡",
@@ -1923,7 +1924,7 @@
     },
     {
       "type": "single",
-      "title": "病毒性肝炎时,肝细胞嗜酸性小",
+      "title": "病毒性肝炎时，肝细胞嗜酸性小",
       "options": {
         "A": "凝固性坏死",
         "B": "干酪样坏死",
@@ -1944,7 +1945,7 @@
         "B": "溶酶体破裂",
         "C": "核固缩、碎裂及溶解",
         "D": "胞浆内出现微细结构破坏",
-        "E": "细胞体积变小,染色变浅"
+        "E": "细胞体积变小，染色变浅"
       },
       "answers": [
         "C"
@@ -1986,8 +1987,8 @@
       "title": "不符合固缩坏死的描述是",
       "options": {
         "A": "常表现为单个细胞或小灶状坏死",
-        "B": "各种损伤性刺激改变遗传信息的转录和翻译,形成死亡蛋白",
-        "C": "核酸内切酶被激活,引起染色质凝集",
+        "B": "各种损伤性刺激改变遗传信息的转录和翻译，形成死亡蛋白",
+        "C": "核酸内切酶被激活，引起染色质凝集",
         "D": "凋亡小体形成",
         "E": "引起强烈炎症反应"
       },
@@ -2090,7 +2091,7 @@
       "type": "single",
       "title": "不符合干酪样坏死的描述是",
       "options": {
-        "A": "呈淡黄色,均匀细腻",
+        "A": "呈淡黄色，均匀细腻",
         "B": "状似纤维蛋白",
         "C": "可发生钙化",
         "D": "可发生液化",
@@ -2118,7 +2119,7 @@
     },
     {
       "type": "single",
-      "title": "女,24岁,腋窝淋巴结肿大约半年,手术切除。手术标本为直径约2cm 的卵圆形淋巴结,切面大部为淡黄色、质软、易碎的坏死灶。镜下检查,坏死灶为红染的、颗粒状、无结构的物质,坏死灶周围可见类上皮细胞和多核巨细胞。以上所描述的坏死是",
+      "title": "女，24 岁，腋窝淋巴结肿大约半年，手术切除。手术标本为直径约 2 cm 的卵圆形淋巴结，切面大部为淡黄色、质软、易碎的坏死灶。镜下检查，坏死灶为红染的、颗粒状、无结构的物质，坏死灶周围可见类上皮细胞和多核巨细胞。以上所描述的坏死是",
       "options": {
         "A": "梗死",
         "B": "干性坏死",
@@ -2193,7 +2194,7 @@
     },
     {
       "type": "single",
-      "title": "重型病毒性肝炎时,肝细胞大片坏死属于",
+      "title": "重型病毒性肝炎时，肝细胞大片坏死属于",
       "options": {
         "A": "凝固性坏死",
         "B": "干酪样坏死",
@@ -2274,7 +2275,7 @@
         "B": "局部蛋白酶丰富",
         "C": "局部脂质含量多",
         "D": "局部化脓",
-        "E": "脂肪坏死部署于液化性坏死"
+        "E": "脂肪坏死不属于液化性坏死"
       },
       "answers": [
         "E"
@@ -2418,7 +2419,7 @@
     },
     {
       "type": "single",
-      "title": "The diameter of a young man's left thigh has decreased after a femoral fracture caused by trauma, which immobilizedhim for one month. This change is most likely to result from which of the follow-ing alterations in the thigh muscles?",
+      "title": "The diameter of a young man's left thigh has decreased after a femoral fracture caused by trauma, which immobilized him for one month. This change is most likely to result from which of the following alterations in the thigh muscles?",
       "options": {
         "A": "Necrosis",
         "B": "Hypoplasia",
@@ -2433,7 +2434,7 @@
     },
     {
       "type": "single",
-      "title": "Histologic sections of lung tissue from a 72-year-old woman with congestive heart failure and progressive breathing prob-lems reveal numerous hemosiderin-laden cells within the alveoli. Which of the fol-lowing is the cell of origin of these “heart failure cells”?",
+      "title": "Histologic sections of lung tissue from a 72-year-old woman with congestive heart failure and progressive breathing problems reveal numerous hemosiderin-laden cells within the alveoli. Which of the following is the cell of origin of these \"heart failure cells\"?",
       "options": {
         "A": "Endothelial cells",
         "B": "Macrophages",
@@ -2448,11 +2449,11 @@
     },
     {
       "type": "single",
-      "title": "Which feature is not necessarily associ-ated with the healing of open wounds:",
+      "title": "Which feature is not necessarily associated with the healing of open wounds:",
       "options": {
         "A": "the formation of granulation tissue",
         "B": "infection",
-        "C": "migration of the surrounding epithe-lium",
+        "C": "migration of the surrounding epithelium",
         "D": "giant cell formation",
         "E": "contraction"
       },
@@ -2478,7 +2479,7 @@
     },
     {
       "type": "single",
-      "title": "Wound healing is not enhanced by the ad-ministration of:",
+      "title": "Wound healing is not enhanced by the administration of:",
       "options": {
         "A": "cortisol (皮质醇)",
         "B": "zinc",
@@ -2493,7 +2494,7 @@
     },
     {
       "type": "single",
-      "title": "An old man suffered a severe stroke (脑卒中), and two months later, his head CT scan showed a large cystic area in the pari-etal lobe. Which of the following patho-logic processes has most likely occurred in his brain?",
+      "title": "An old man suffered a severe stroke (脑卒中), and two months later, his head CT scan showed a large cystic area in the parietal lobe. Which of the following pathologic processes has most likely occurred in his brain?",
       "options": {
         "A": "Coagulative necrosis",
         "B": "Fat necrosis",
@@ -2508,7 +2509,7 @@
     },
     {
       "type": "single",
-      "title": "The healing of an incised wound is not as-sociated with the following:",
+      "title": "The healing of an incised wound is not associated with the following:",
       "options": {
         "A": "a lag phase",
         "B": "a demolition (破坏) phase",
@@ -2523,7 +2524,7 @@
     },
     {
       "type": "single",
-      "title": "General factors predisposing to wound in-fection do not include:",
+      "title": "General factors predisposing to wound infection do not include:",
       "options": {
         "A": "uncontrolled diabetes",
         "B": "hypogammaglobulinaemia (低丙种球蛋白血症)",
@@ -2541,10 +2542,10 @@
       "title": "A routine H&E histologic section from an irregular white area within the anterior wall of the heart of a 71-year-old man who died secondary to ischemic heart disease reveals the myocytes to be replaced by diffuse red material. This material stains blue with a trichrome stain. Which of the following statements correctly describes this material?",
       "options": {
         "A": "It is secreted by endothelial cells and links macromolecules to integrins",
-        "B": "It is secreted by fibroblasts and has a high content of glycine and hydrox-yproline",
+        "B": "It is secreted by fibroblasts and has a high content of glycine and hydroxyproline",
         "C": "It is secreted by hepatocytes and is mainly responsible for intravascular oncotic pressure",
-        "D": "It is secreted by monocytes and con-tains a core protein that is linked to mucopolysaccharides",
-        "E": "It is secreted by plasma cells and is im-portant in mediating humoral immu-nity"
+        "D": "It is secreted by monocytes and contains a core protein that is linked to mucopolysaccharides",
+        "E": "It is secreted by plasma cells and is important in mediating humoral immunity"
       },
       "answers": [
         "B"
@@ -2553,11 +2554,11 @@
     },
     {
       "type": "single",
-      "title": "A patient presents with a large wound to his right forearm that is the result of a chain saw accident. You treat his wound appropriately and follow him in your surgery clinic at routine intervals.Initially his wound is filled with granula-tion tissue, which is composed of prolif-erating fibroblasts and proliferating new blood vessels (angiogenesis). Which of the following substances is thought to be the most important growth factor involved in angiogenesis?",
+      "title": "A patient presents with a large wound to his right forearm that is the result of a chain saw accident. You treat his wound appropriately and follow him in your surgery clinic at routine intervals. Initially his wound is filled with granulation tissue, which is composed of proliferating fibroblasts and proliferating new blood vessels (angiogenesis). Which of the following substances is thought to be the most important growth factor involved in angiogenesis?",
       "options": {
         "A": "Epidermal growth factor (EGF)",
         "B": "Platelet-derived growth factor (PDGF)",
-        "C": "Transforming growth factor-alpha (TGF-a)",
+        "C": "Transforming growth factor-alpha (TGF-α)",
         "D": "Transforming growth factor-beta (TGF-P)",
         "E": "Vascular endothelial growth factor (VEGF)"
       },
@@ -2583,12 +2584,12 @@
     },
     {
       "type": "single",
-      "title": "A mouse model is created in which the low density lipoprotein (LDL) receptor gene is not expressed in the liver. For cre-ating such a “knock out” mouse, which of the following cells will be most useful?",
+      "title": "A mouse model is created in which the low density lipoprotein (LDL) receptor gene is not expressed in the liver. For creating such a \"knock out\" mouse, which of the following cells will be most useful?",
       "options": {
         "A": "Embryonic stem cells",
         "B": "Hematopoietic stem cells",
         "C": "Hepatic oval cells",
-        "D": "Adult bone marrow mesenchymal pro-genitor cells",
+        "D": "Adult bone marrow mesenchymal progenitor cells",
         "E": "Regenerating hepatocytes"
       },
       "answers": [
@@ -2598,12 +2599,12 @@
     },
     {
       "type": "single",
-      "title": "The enzyme levels (AST (谷草转氨酶) and ALT (谷丙转氨酶) finally returned to normal after a hepatitis A patient has re-ceived 1 month of treatment. Which phase of the cell cycle best describes the hepato-cytes 1 month after infection?",
+      "title": "The enzyme levels AST (谷草转氨酶) and ALT (谷丙转氨酶) finally returned to normal after a hepatitis A patient has received 1 month of treatment. Which phase of the cell cycle best describes the hepatocytes 1 month after infection?",
       "options": {
-        "A": "G0",
-        "B": "G1",
+        "A": "G_0",
+        "B": "G_1",
         "C": "S",
-        "D": "G2",
+        "D": "G_2",
         "E": "M"
       },
       "answers": [
@@ -2613,7 +2614,7 @@
     },
     {
       "type": "single",
-      "title": "A 24-year-old man with acute appen-dicitis undergoes surgical removal of the inflamed appendix. The incision site is sutured. A trichrome-stained sec-tion of the site is shown in the photo-graph. How long after the surgery would this appearance most likely be seen?[图片]",
+      "title": "A 24-year-old man with acute appendicitis undergoes surgical removal of the inflamed appendix. The incision site is sutured. A trichrome-stained section of the site is shown in the photograph. How long after the surgery would this appearance most likely be seen?",
       "options": {
         "A": "1 day",
         "B": "2 to 3 days",
@@ -2624,11 +2625,12 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-5.jpg"
     },
     {
       "type": "single",
-      "title": "After the sutures were removed from thewound 1 week after a surgical operation, the site became disfigured by a prominent raised, nodular scar that continued to de-velop over the following 2 months. Which of the following terms best describes the process that occurred during this 2-month period?",
+      "title": "After the sutures were removed from the wound 1 week after a surgical operation, the site became disfigured by a prominent raised, nodular scar that continued to develop over the following 2 months. Which of the following terms best describes the process that occurred during this 2-month period?",
       "options": {
         "A": "Secondary union",
         "B": "Keloid formation",
@@ -2639,17 +2641,18 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-5.jpg"
     },
     {
       "type": "single",
-      "title": "Which of the following molecules synthe-sized by fibroblasts can nost readily bind to cellular integrins and extracellular col-lagen and attach epidermal basal cells to basement membrane?",
+      "title": "Which of the following molecules synthesized by fibroblasts can nost readily bind to cellular integrins and extracellular collagen and attach epidermal basal cells to basement membrane?",
       "options": {
         "A": "Heparin",
         "B": "Dermatan sulfate",
         "C": "Procollagen",
         "D": "Fibronectin",
-        "E": "Hyaluronic acid[图片]"
+        "E": "Hyaluronic acid"
       },
       "answers": [
         "D"
@@ -2658,7 +2661,7 @@
     },
     {
       "type": "single",
-      "title": "A middle-aged man experienced sudden death preceeded by severe abdominal pain with hypotension and shock. From the gross appearance of the mesentery, seen in the figure, which of the following eventshas most likely occurred?",
+      "title": "A middle-aged man experienced sudden death preceeded by severe abdominal pain with hypotension and shock. From the gross appearance of the mesentery, seen in the figure, which of the following events has most likely occurred?",
       "options": {
         "A": "Acute pancreatitis",
         "B": "Small intestinal perforation",
@@ -2669,7 +2672,8 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-4.jpg"
     },
     {
       "type": "single",
@@ -2684,7 +2688,8 @@
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-4.jpg"
     },
     {
       "type": "single",
@@ -2748,7 +2753,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following steps in the inflammatory-repair response is most likely affected by neutralization of transforming growth factor-ẞ?",
+      "title": "Which of the following steps in the inflammatory-repair response is most likely affected by neutralization of transforming growth factor-β?",
       "options": {
         "A": "Production of collagen",
         "B": "Migration of epithelial cells",
@@ -2778,7 +2783,7 @@
     },
     {
       "type": "single",
-      "title": "By pathologic definition, gangrenous necrosis occur together with:",
+      "title": "By pathologic definition，gangrenous necrosis occur together with:",
       "options": {
         "A": "desiccation (脱水)",
         "B": "colliguative necrosis",
@@ -2988,22 +2993,23 @@
     },
     {
       "type": "single",
-      "title": "At autopsy of an old woman WHO died from congestive heart failure, the heart weighed 620 g and showed marked left ventricular hypertrophy and severe coronary arterial atherosclerosis. Which of the following pathologic processes best accounts for the appearance of the aortic valve seen in the figure?",
+      "title": "At autopsy of an old woman who died from congestive heart failure, the heart weighed 620 g and showed marked left ventricular hypertrophy and severe coronary arterial atherosclerosis. Which of the following pathologic processes best accounts for the appearance of the aortic valve seen in the figure?",
       "options": {
         "A": "Fatty change",
         "B": "Amyloidosis",
         "C": "Lipofuscin deposition",
         "D": "Hemosiderosis",
-        "E": "Dystrophic calcification[图片]"
+        "E": "Dystrophic calcification"
       },
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-1.jpg"
     },
     {
       "type": "single",
-      "title": "Histologic sections of lung tissue from a 68-year-old woman with congestive heart failure and progressive breathing problems reveal numerous hemosiderin-laden cells within the alveoli. Which of the following is the cell of origin of these “heart failure cells”?",
+      "title": "Histologic sections of lung tissue from a 68-year-old woman with congestive heart failure and progressive breathing problems reveal numerous hemosiderin-laden cells within the alveoli. Which of the following is the cell of origin of these \"heart failure cells\"?",
       "options": {
         "A": "Endothelial cells",
         "B": "Eosinophils",
@@ -3014,14 +3020,15 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-1.jpg"
     },
     {
       "type": "single",
       "title": "Which one of these statements best describes the mechanism through which Fas (CD95) initiates apoptosis?",
       "options": {
         "A": "BCL2 product blocks bax channels",
-        "B": "Cytochrome c activates Apaf-1",
+        "B": "Cytochrome c activates Apaf-l",
         "C": "FADD stimulates caspase 8",
         "D": "TNF inhibits IKB",
         "E": "TRADD stimulates FADD"
@@ -3063,7 +3070,7 @@
     },
     {
       "type": "single",
-      "title": "A 38-year-old woman presents with intermittent pelvic pain. Physical examination reveals a 3cm mass in the area of her right ovary. Histologic sections from this ovarian mass reveal a papillary tumor with multiple, scattered small, round, laminated calcifications. Which of the following is the basic defect producing these abnormal structures?",
+      "title": "A 38-year-old woman presents with intermittent pelvic pain. Physical examination reveals a 3 cm mass in the area of her right ovary. Histologic sections from this ovarian mass reveal a papillary tumor with multiple, scattered small, round, laminated calcifications. Which of the following is the basic defect producing these abnormal structures?",
       "options": {
         "A": "Bacterial infection",
         "B": "Dystrophic calcification",
@@ -3108,7 +3115,7 @@
     },
     {
       "type": "single",
-      "title": "A 54-year-old man develops a thrombus in his left anterior descending coronary artery. The area of myocardium supplied by this vessel is irreversibly injured. The thrombus is destroyed by the infusion of streptokinase, which is a plasminogenactivator, and the injured area is reperfused. The patient, however, develops an arrhythmia and dies. An electron microscopic (EM) picture taken of the irreversibly injured myocardium reveals the presence of large, dark, irregular amorphic densities within mitochondria. What are these abnormal structures?",
+      "title": "A 54-year-old man develops a thrombus in his left anterior descending coronary artery. The area of myocardium supplied by this vessel is irreversibly injured. The thrombus is destroyed by the infusion of streptokinase, which is a plasminogen activator, and the injured area is reperfused. The patient, however, develops an arrhythmia and dies. An electron microscopic (EM) picture taken of the irreversibly injured myocardium reveals the presence of large, dark, irregular amorphic densities within mitochondria. What are these abnormal structures?",
       "options": {
         "A": "Apoptotic bodies",
         "B": "Flocculent densities",
@@ -3198,7 +3205,7 @@
     },
     {
       "type": "single",
-      "title": "A 37-year-old man had a 2.5cm mass, which was sharply circumscribed with a soft, white center, in his pulmonary wedge resection specimen. Mycobacterium tuberculosis is found afterwards with pathologic special staining. Which of the following pathologic processes has most likely occurred in this nodule?",
+      "title": "A 37-year-old man had a 2.5 cm mass, which was sharply circumscribed with a soft, white center, in his pulmonary wedge resection specimen. Mycobacterium tuberculosis is found afterwards with pathologic special staining. Which of the following pathologic processes has most likely occurred in this nodule?",
       "options": {
         "A": "Fat necrosis",
         "B": "Caseous necrosis",
@@ -3228,7 +3235,7 @@
     },
     {
       "type": "single",
-      "title": "Laboratory findings in a middle-aged man show hypercalcemia and hypophosphatemia(血钙增高和血磷降低) and normal serum albumin. Urine microscopic analysis shows deposition of calcium salts in the renal tubular epithelium. Which of the following processes has most likely produced this change in the kidney?",
+      "title": "Laboratory findings in a middle-aged man show hypercalcemia and hypophosphatemia (血钙增高和血磷降低) and normal serum albumin. Urine microscopic analysis shows deposition of calcium salts in the renal tubular epithelium. Which of the following processes has most likely produced this change in the kidney?",
       "options": {
         "A": "Cellular aging",
         "B": "Dystrophic calcification",
@@ -3258,7 +3265,7 @@
     },
     {
       "type": "single",
-      "title": "At autopsy, the heart of an elderly man weighs only 250g and has small right and left ventricles. The myocardium is firm, with a dark chocolate brown color throughout. The coronary arteries show minimal atherosclerotic changes. An excessive amount of which of the following substances will most likely be found in the myocardial fibers of this heart?",
+      "title": "At autopsy, the heart of an elderly man weighs only 250 g and has small right and left ventricles. The myocardium is firm, with a dark chocolate brown color throughout. The coronary arteries show minimal atherosclerotic changes. An excessive amount of which of the following substances will most likely be found in the myocardial fibers of this heart?",
       "options": {
         "A": "Melanin",
         "B": "Lipofuscin",
@@ -3273,7 +3280,7 @@
     },
     {
       "type": "single",
-      "title": "A patient undergoes bone marrow transplantation for leukemia and receives partially mismatched donor marrow. One month later, she has a scaling skin rash. Examination of a skin biopsy specimen reveals the cellular change shown in the figure. This change most likely results from which of the following biochemical reactions?[图片]",
+      "title": "A patient undergoes bone marrow transplantation for leukemia and receives partially mismatched donor marrow. One month later, she has a scaling skin rash. Examination of a skin biopsy specimen reveals the cellular change shown in the figure. This change most likely results from which of the following biochemical reactions?",
       "options": {
         "A": "Increase in glycolysis",
         "B": "Lipid peroxidation",
@@ -3284,11 +3291,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-3.jpg"
     },
     {
       "type": "single",
-      "title": "The microscopic appearance of an enlarged liver with a yellow cut surface is shown in the preceding figure. Before death, the man's total serum cholesterol and triglyceride levels were normal, but he had a decreased serum albumin concentration and increased prothrombin time (凝血酶原时间). Which of the following activities or conditions most likely led to these findings?[图片]",
+      "title": "The microscopic appearance of an enlarged liver with a yellow cut surface is shown in the preceding figure. Before death, the man's total serum cholesterol and triglyceride levels were normal, but he had a decreased serum albumin concentration and increased prothrombin time (凝血酶原时间). Which of the following activities or conditions most likely led to these findings?",
       "options": {
         "A": "Suffering tumor",
         "B": "Playing basketball",
@@ -3299,7 +3307,8 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/1-chap1-3.jpg"
     },
     {
       "type": "single",
@@ -3318,7 +3327,7 @@
     },
     {
       "type": "single",
-      "title": "A small portion of the left lobe of a man's liver is removed because of trauma. Several weeks later, a CT scan of the abdomenshows that the liver has nearly regained its size prior to the injury. Which of the following processes best explains this CT scan finding?",
+      "title": "A small portion of the left lobe of a man's liver is removed because of trauma. Several weeks later, a CT scan of the abdomen shows that the liver has nearly regained its size prior to the injury. Which of the following processes best explains this CT scan finding?",
       "options": {
         "A": "Hypertrophy",
         "B": "Hyperplasia",
@@ -3333,7 +3342,7 @@
     },
     {
       "type": "single",
-      "title": "An old man died subbenly and at autopsy multiple tissue sites were sampled for microscopic analysis. Examination of the tissues showed noncrystalline amorphous deposits of calcium salts in the intestinal mucosa, renal interstitium, and alveolar walls of lungs. Which of the following conditions is most likely to explain these findings?",
+      "title": "An old man died suddenly and at autopsy multiple tissue sites were sampled for microscopic analysis. Examination of the tissues showed noncrystalline amorphous deposits of calcium salts in the intestinal mucosa, renal interstitium, and alveolar walls of lungs. Which of the following conditions is most likely to explain these findings?",
       "options": {
         "A": "Pulmonary emphysema",
         "B": "Generalized atherosclerosis",
@@ -3363,7 +3372,7 @@
     },
     {
       "type": "single",
-      "title": "After thrombolytic therapy (溶血栓疗法) with tissue plasminogen activator (t-PA) (血浆纤溶酶原激活剂), the serum creatine kinase (CK,血清肌酸磷酸激酶) level increased in a patient with acute myocardial infarction. Which of the following events most likely occurred following t-PA therapy?",
+      "title": "After thrombolytic therapy (溶血栓疗法) with tissue plasminogen activator (t-PA) (血浆纤溶酶原激活剂), the serum creatine kinase (CK，血清肌酸磷酸激酶) level increased in a patient with acute myocardial infarction. Which of the following events most likely occurred following t-PA therapy?",
       "options": {
         "A": "Chemical injury",
         "B": "Increased synthesis of CK",
@@ -3393,7 +3402,7 @@
     },
     {
       "type": "single",
-      "title": "An old man experienced an episode of chest pain prior to sudden death. A histologic section of left ventricular my-ocardium taken at autopsy showed a deeply eosinophilic staining area with loss of nuclei and cross striations in myocardial fibers. There was no hemorrhage or inflammation. Which of the following conditions most likely produced these myocardial changes?",
+      "title": "An old man experienced an episode of chest pain prior to sudden death. A histologic section of left ventricular myocardium taken at autopsy showed a deeply eosinophilic staining area with loss of nuclei and cross striations in myocardial fibers. There was no hemorrhage or inflammation. Which of the following conditions most likely produced these myocardial changes?",
       "options": {
         "A": "Antibodies directed against myocardium",
         "B": "Viral infection",

@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 局部血液及体液循环障碍",
-  "description": "本解析依据「病理学题库」整理 - 局部血液及体液循环障碍",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 局部血液及体液循环障碍",
   "questions": [
     {
       "type": "single",
@@ -64,7 +64,7 @@
     },
     {
       "type": "single",
-      "title": "男性,40岁,慢性活动性肝炎伴肝硬化,符合该患者的症状是",
+      "title": "男性，40 岁，慢性活动性肝炎伴肝硬化，符合该患者的症状是",
       "options": {
         "A": "颈静脉怒张",
         "B": "下肢大隐静脉曲张",
@@ -178,7 +178,7 @@
         "E": "大叶性肺炎肉质变"
       },
       "answers": [
-        "C"
+        "B"
       ],
       "explanation": ""
     },
@@ -276,7 +276,7 @@
       "type": "single",
       "title": "不符合肝淤血的描述是",
       "options": {
-        "A": "Kupffer细胞增生",
+        "A": "Kupffer 细胞增生",
         "B": "中央静脉扩张",
         "C": "肝窦扩张",
         "D": "肝细胞萎缩",
@@ -289,7 +289,7 @@
     },
     {
       "type": "single",
-      "title": "女性,60岁,二尖瓣狭窄约15年,近日呼吸困难加重,咳粉红色泡沫痰。不符合患者肺脏的病理变化的是",
+      "title": "女性，60 岁，二尖瓣狭窄约 15 年，近日呼吸困难加重，咳粉红色泡沫痰。不符合患者肺脏的病理变化的是",
       "options": {
         "A": "肺泡内大量纤维素渗出",
         "B": "肺泡腔内大量蛋白性液体",
@@ -304,9 +304,9 @@
     },
     {
       "type": "single",
-      "title": "男性,60岁,长时间吸烟,肺原性心脏病已近3年的历史,近日咳嗽,气喘,心悸。检查肝脏肿大并有压痛。符合患者肝脏的病理变化的是",
+      "title": "男性，60 岁，长时间吸烟，肺原性心脏病已近 3 年的历史，近日咳嗽，气喘，心悸。检查肝脏肿大并有压痛。符合患者肝脏的病理变化的是",
       "options": {
-        "A": "肝细胞水肿,气球样变",
+        "A": "肝细胞水肿，气球样变",
         "B": "肝细胞大片坏死",
         "C": "肝细胞碎片坏死",
         "D": "肝细胞萎缩、脂肪变性",
@@ -364,7 +364,7 @@
     },
     {
       "type": "single",
-      "title": "关于血栓形成的描述,错误的是",
+      "title": "关于血栓形成的描述，错误的是",
       "options": {
         "A": "静脉血栓多于动脉血栓",
         "B": "下肢血栓多于上肢血栓",
@@ -384,8 +384,8 @@
         "A": "流行性出血热引起的出血",
         "B": "白血病引起的出血",
         "C": "肺癌引起的咯血",
-        "D": "血友病A引起的出血",
-        "E": "DIC引起的出血"
+        "D": "血友病 A 引起的出血",
+        "E": "DIC 引起的出血"
       },
       "answers": [
         "C"
@@ -424,7 +424,7 @@
     },
     {
       "type": "single",
-      "title": "男性,50岁,患轻型血友病A,患者常在运动后发生关节红、肿、热、痛,多由关节内出血引起。此种出血的原因是",
+      "title": "男性，50 岁，患轻型血友病 A，患者常在运动后发生关节红、肿、热、痛，多由关节内出血引起。此种出血的原因是",
       "options": {
         "A": "血管破裂",
         "B": "毛细血管内皮变性",
@@ -442,7 +442,7 @@
       "title": "不属于漏出性出血的是",
       "options": {
         "A": "肺结核空洞引起的出血",
-        "B": "维生素C缺乏症引起的出血",
+        "B": "维生素 C 缺乏症引起的出血",
         "C": "血小板减少性紫癜引起的出血",
         "D": "肺淤血引起的出血",
         "E": "流行性出血热引起的出血"
@@ -469,7 +469,7 @@
     },
     {
       "type": "single",
-      "title": "男性,30岁,突发性畏寒、发热;并出现颜面、颈部及上胸部潮红,皮肤瘀点;伴有头痛、腰痛及眼眶痛,并出现肾功能衰竭。确诊为流行性出血热。患者的出血性倾向主要是因为",
+      "title": "男性，30 岁，突发性畏寒、发热；并出现颜面、颈部及上胸部潮红，皮肤瘀点；伴有头痛、腰痛及眼眶痛，并出现肾功能衰竭。确诊为流行性出血热。患者的出血性倾向主要是因为",
       "options": {
         "A": "血管破裂",
         "B": "毛细血管壁损害",
@@ -489,7 +489,7 @@
         "A": "冠状动脉前降支斑块处凝血块",
         "B": "主动脉粥样斑块表面凝血块",
         "C": "心肌梗死处的心内膜表面凝血块",
-        "D": "尸体解剖时心脏内凝血块,并与心壁粘连不紧密",
+        "D": "尸体解剖时心脏内凝血块，并与心壁粘连不紧密",
         "E": "克山病心肌坏死处心内膜表面凝血块"
       },
       "answers": [
@@ -550,7 +550,7 @@
         "B": "血栓位于心血管外",
         "C": "血栓是指死后凝血",
         "D": "血栓不易脱落",
-        "E": "血栓常与血管壁粘连紧密,不易剥离"
+        "E": "血栓常与血管壁粘连紧密，不易剥离"
       },
       "answers": [
         "E"
@@ -589,12 +589,12 @@
     },
     {
       "type": "single",
-      "title": "男性,60岁,胃癌根治术后7天,出现左下肢肿痛。检查时,小腿腓肠肌有压痛、沿股静脉压迫有疼痛,下肢可凹性水肿。诊断为左下肢深静脉血栓形成。与深静脉血栓形成无关的因素是",
+      "title": "男性，60 岁，胃癌根治术后 7 天，出现左下肢肿痛。检查时，小腿腓肠肌有压痛、沿股静脉压迫有疼痛，下肢可凹性水肿。诊断为左下肢深静脉血栓形成。与深静脉血栓形成无关的因素是",
       "options": {
         "A": "癌细胞释放促凝因子",
         "B": "手术后血小板增多、粘性增高",
         "C": "下肢血流缓慢",
-        "D": "血液中蛋白质C、蛋白质S大量减少",
+        "D": "血液中蛋白质 C、蛋白质 S 大量减少",
         "E": "纤维蛋白溶酶系统被激活"
       },
       "answers": [
@@ -679,7 +679,7 @@
     },
     {
       "type": "single",
-      "title": "女性,36岁,因胆囊结石行胆囊切除术,术后5天,出现右小腿肿胀、凹陷性水肿,腓肠肌压痛。诊断为右下肢深静脉血栓形成。深静脉血栓是",
+      "title": "女性，36 岁，因胆囊结石行胆囊切除术，术后 5 天，出现右小腿肿胀、凹陷性水肿，腓肠肌压痛。诊断为右下肢深静脉血栓形成。深静脉血栓是",
       "options": {
         "A": "白色血栓",
         "B": "红色血栓",
@@ -713,9 +713,9 @@
       "options": {
         "A": "透明血栓",
         "B": "白色血栓",
-        "C": "脱落",
-        "D": "钙化",
-        "E": "下肢坏疽"
+        "C": "混合性血栓",
+        "D": "红色血栓",
+        "E": "肿瘤性栓子"
       },
       "answers": [
         "B"
@@ -724,7 +724,7 @@
     },
     {
       "type": "single",
-      "title": "下肢深静脉血栓形成,可引起",
+      "title": "下肢深静脉血栓形成，可引起",
       "options": {
         "A": "下肢坏疽",
         "B": "门静脉栓塞",
@@ -739,7 +739,7 @@
     },
     {
       "type": "single",
-      "title": "上肢深静脉血栓形成,可引起",
+      "title": "上肢深静脉血栓形成，可引起",
       "options": {
         "A": "肠系膜动脉栓塞",
         "B": "冠状动脉栓塞",
@@ -756,11 +756,11 @@
       "type": "single",
       "title": "静脉内较大血栓完全机化需要的时间是",
       "options": {
-        "A": "1~2天",
-        "B": "1周",
-        "C": "2周",
-        "D": "3周",
-        "E": "4周"
+        "A": "1 ~2 天",
+        "B": "1 周",
+        "C": "2 周",
+        "D": "3 周",
+        "E": "4 周"
       },
       "answers": [
         "C"
@@ -774,7 +774,7 @@
         "A": "较小血栓可溶解吸收",
         "B": "较大血栓可由肉芽组织机化",
         "C": "长时间不能机化的血栓可形成静脉石",
-        "D": "机化的血栓,可使上下游血流再沟通",
+        "D": "机化的血栓，可使上下游血流再沟通",
         "E": "再沟通的血管可恢复正常血流"
       },
       "answers": [
@@ -787,7 +787,10 @@
       "title": "股静脉血栓形成不易发生",
       "options": {
         "A": "栓塞",
-        "B": "机化"
+        "B": "机化",
+        "C": "脱落",
+        "D": "钙化",
+        "E": "下肢坏疽"
       },
       "answers": [
         "E"
@@ -813,11 +816,11 @@
       "type": "single",
       "title": "股静脉血栓形成患者需卧床休息的时间为",
       "options": {
-        "A": "5天",
-        "B": "10天",
-        "C": "15天",
-        "D": "20天",
-        "E": "25天"
+        "A": "5 天",
+        "B": "10 天",
+        "C": "15 天",
+        "D": "20 天",
+        "E": "25 天"
       },
       "answers": [
         "B"
@@ -856,7 +859,7 @@
     },
     {
       "type": "single",
-      "title": "关于侧支循环的描述,错误的是",
+      "title": "关于侧支循环的描述，错误的是",
       "options": {
         "A": "痔静脉丛扩张是门静脉与下腔静脉之间的吻合支开放扩张的结果",
         "B": "脐周腹壁静脉扩张是门静脉与下腔静脉之间的吻合支开放扩张的结果",
@@ -901,7 +904,7 @@
     },
     {
       "type": "single",
-      "title": "弥散性血管内凝血(DIC)发生广泛出血的主要原因是",
+      "title": "弥散性血管内凝血（DIC）发生广泛出血的主要原因是",
       "options": {
         "A": "肝凝血酶原合成减少",
         "B": "血管壁广泛损伤",
@@ -940,7 +943,7 @@
         "E": "层状血栓"
       },
       "answers": [
-        "B"
+        "A"
       ],
       "explanation": ""
     },
@@ -976,7 +979,7 @@
     },
     {
       "type": "single",
-      "title": "大循环的动脉栓塞,栓子主要来自",
+      "title": "大循环的动脉栓塞，栓子主要来自",
       "options": {
         "A": "左心",
         "B": "主动脉瓣",
@@ -994,8 +997,8 @@
       "title": "栓子是指",
       "options": {
         "A": "活体心血管内血液凝固的过程",
-        "B": "人体死亡后,血液凝固的过程",
-        "C": "循环血液中不溶于血液,随血流运动并阻塞血管的物质",
+        "B": "人体死亡后，血液凝固的过程",
+        "C": "循环血液中不溶于血液，随血流运动并阻塞血管的物质",
         "D": "心瓣膜的疣状赘生物",
         "E": "动脉夹层内的凝血块"
       },
@@ -1036,7 +1039,7 @@
     },
     {
       "type": "single",
-      "title": "脑动脉发生栓塞,其栓子最可内来自",
+      "title": "脑动脉发生栓塞，其栓子最可内来自",
       "options": {
         "A": "下肢深静脉血栓",
         "B": "下肢浅静脉血栓",
@@ -1126,13 +1129,13 @@
     },
     {
       "type": "single",
-      "title": "女性,36岁,因胆囊结石住院手术,手术后3天,患者出现右侧胸痛,伴有咳嗽、气喘。查体:右侧胸膜可闻摩擦音,左小腿肿胀,凹陷性水肿。腓肠肌压痛,X线检查,右下肺有阴影。临床诊断应为",
+      "title": "女性，36 岁，因胆囊结石住院手术，手术后 3 天，患者出现右侧胸痛，伴有咳嗽、气喘。查体：右侧胸膜可闻摩檫音，左小腿肿胀，凹陷性水肿。腓肠肌压痛，X 线检查，右下肺有阴影。临床诊断应为",
       "options": {
         "A": "肺淤血",
         "B": "右肺小叶性肺炎",
         "C": "左下肢深静脉炎",
         "D": "右肺血栓栓塞",
-        "E": "左下肢深静脉血栓形成,肺动脉血栓栓塞伴肺梗死"
+        "E": "左下肢深静脉血栓形成，肺动脉血栓栓塞伴肺梗死"
       },
       "answers": [
         "E"
@@ -1201,13 +1204,13 @@
     },
     {
       "type": "single",
-      "title": "关于脂肪栓塞的描述,正确的是",
+      "title": "关于脂肪栓塞的描述，正确的是",
       "options": {
         "A": "脂肪栓子全部来源于损伤的脂肪组织",
-        "B": "直径小于 20um 的脂滴可栓塞于肺毛细血管",
-        "C": "进入肺内脂肪量达9~20g时,肺内血循环面积可丧失 3/4,导致窒息和右心衰竭",
-        "D": "脑脂肪栓塞,可引起脑点状出血和坏死,是死亡主要原因",
-        "E": "肾脂肪栓塞可引起急性肾功能衰竭,是死亡的常见原因"
+        "B": "直径小于 20 μm 的脂滴可栓塞于肺毛细血管",
+        "C": "进入肺内脂肪量达 9 ~20 g 时，肺内血循环面积可丧失 3/4，导致窒息和右心衰竭",
+        "D": "脑脂肪栓塞，可引起脑点状出血和坏死，是死亡主要原因",
+        "E": "肾脂肪栓塞可引起急性肾功能衰竭，是死亡的常见原因"
       },
       "answers": [
         "C"
@@ -1246,7 +1249,7 @@
     },
     {
       "type": "single",
-      "title": "男性,40岁,因左股骨粉碎性骨折入院,突然发生昏厥、呼吸困难、胸痛。查体,呼吸增快、紫绀,肺部湿音。X线检查,肺不张,胸腔内可见少量积液。肺内的病变是",
+      "title": "男性，40 岁，因左股骨粉碎性骨折入院，突然发生昏厥、呼吸困难、胸痛。查体，呼吸增快、紫绀，肺部湿啰音。X 线检查，肺不张，胸腔内可见少量积液。肺内的病变是",
       "options": {
         "A": "肺炎",
         "B": "肺动脉血栓栓塞",
@@ -1366,13 +1369,13 @@
     },
     {
       "type": "single",
-      "title": "一次多量空气进入静脉可引起猝死,最低进入空气量约为",
+      "title": "一次多量空气进入静脉可引起猝死，最低进入空气量约为",
       "options": {
-        "A": "1ml",
-        "B": "5ml",
-        "C": "10ml",
-        "D": "50ml",
-        "E": "100ml"
+        "A": "1 ml",
+        "B": "5 ml",
+        "C": "10 ml",
+        "D": "50 ml",
+        "E": "100 ml"
       },
       "answers": [
         "E"
@@ -1431,7 +1434,8 @@
         "A": "手臂静脉穿刺输液",
         "B": "足背静脉穿刺输液",
         "C": "大隐静脉切开输液",
-        "D": "小儿头皮静脉穿刺输液"
+        "D": "小儿头皮静脉穿刺输液",
+        "E": "锁骨下静脉插管输液"
       },
       "answers": [
         "E"
@@ -1461,7 +1465,7 @@
         "B": "肺泡内出血",
         "C": "肺内透明膜形成",
         "D": "肺泡腔内角化上皮、胎便小体",
-        "E": "肺毛细血管內角化上皮及其他羊水成分"
+        "E": "肺毛细血管内角化上皮及其他羊水成分"
       },
       "answers": [
         "E"
@@ -1470,7 +1474,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 52岁, 书店经理。因近四周来疲乏无力、嗜睡、体重下降、间歇性发热出汗而入院。查体, 左结膜下出血, 两下肢多处出血斑。两手甲下可见线状出血, 脾脏可触及, 心率缓慢, 心前区可闻收缩期吹风样杂音。临床诊断为急性细菌性心内膜炎。患者多脏器可发生栓塞, 其栓子为",
+      "title": "女性，52 岁，书店经理。因近四周来疲乏无力、嗜睡、体重下降、间歇性发热出汗而入院。查体，左结膜下出血，两下肢多处出血斑。两手甲下可见线状出血，脾脏可触及，心率缓慢，心前区可闻收缩期吹风样杂音。临床诊断为急性细菌性心内膜炎。患者多脏器可发生栓塞，其栓子为",
       "options": {
         "A": "血栓栓子",
         "B": "脂肪栓子",
@@ -1485,7 +1489,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 25岁, 静脉吸毒者。因突发高热、寒战、皮肤淤点及左前臂注射部位红肿、热、痛二天而住院。查体, 患者体弱、消瘦, 左前臂红肿, 压痛, 针眼处可见脓庖, 皮肤多处淤点。肝脾大, 心前区可闻高调收缩期杂音。血液检查, 白细胞总数25×109/L。以中性粒为主。临床诊断为急性感染性心内膜炎。患者二尖瓣疣状赘生物脫落的栓子引起感染为",
+      "title": "男性，25 岁，静脉吸毒者。因突发高热、寒战、皮肤淤点及左前臂注射部位红肿、热、痛二天而住院。查体，患者体弱、消瘦，左前臂红肿，压痛，针眼处可见脓庖，皮肤多处淤点。肝脾大，心前区可闻高调收缩期杂音。血液检查，白细胞总数 25 × 10^9/L。以中性粒为主。临床诊断为急性感染性心内膜炎。患者二尖瓣疣状赘生物脱落的栓子引起感染为",
       "options": {
         "A": "肺脏感染",
         "B": "肝脏感染",
@@ -1650,7 +1654,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 65岁, 长期吸烟, 近3年出现心绞痛, 近半年来, 右下肢间歇性疼痛, 检查右下肢足背动脉波动弱, 右足苍白, 发凉。右足变化符合",
+      "title": "男性，65 岁，长期吸烟，近 3 年出现心绞痛，近半年来，右下肢间歇性疼痛，检查右下肢足背动脉波动弱，右足苍白，发凉。右足变化符合",
       "options": {
         "A": "充血",
         "B": "淤血",
@@ -1740,7 +1744,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 50岁, 警官, 近一年来经常出现间歇性胸痛, 劳累后出现症状, 疼痛向左肩、左臂放射。有近20年吸烟史。此次发作持续时间超过四小时, 伴有恶心、呕吐, 并出现心率失常。心电图显示T波倒置。心肌的病变是",
+      "title": "男性，50 岁，警官，近一年来经常出现间歇性胸痛，劳累后出现症状，疼痛向左肩、左臂放射。有近 20 年吸烟史。此次发作持续时间超过四小时，伴有恶心、呕吐，并出现心率失常。心电图显示 T 波倒置。心肌的病变是",
       "options": {
         "A": "心肌梗死",
         "B": "心肌细胞增生",
@@ -1755,7 +1759,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 57岁, 饭馆经理, 因帮助服务员抬啤酒箱, 突然发作, 前胸部剧痛并向左肩放射, 伴有恶心、呕吐, 发作后半小时入院。查体, 患者心率缓慢, 皮肤苍白而潮湿, 心电图显 ST 段升高。X线检查, 胸部未见异常。诊断为心肌梗死。心肌梗死的常见原因是",
+      "title": "女性，57 岁，饭馆经理，因帮助服务员抬啤酒箱，突然发作，前胸部剧痛并向左肩放射，伴有恶心、呕吐，发作后半小时入院。查体，患者心率缓慢，皮肤苍白而潮湿，心电图显 ST 段升高。X 线检查，胸部未见异常。诊断为心肌梗死。心肌梗死的常见原因是",
       "options": {
         "A": "冠状动脉血栓栓塞",
         "B": "冠状动脉粥样硬化合并血栓形成",
@@ -2315,8 +2319,8 @@
         "A": "出血",
         "B": "血栓",
         "C": "淤血",
-        "D": "梗死",
-        "E": "水肿"
+        "D": "缺血",
+        "E": "贫血"
       },
       "answers": [
         "B"
@@ -2400,7 +2404,7 @@
     },
     {
       "type": "single",
-      "title": "All of the followings are adverse effects of thrombosis except ______",
+      "title": "All of the followings are adverse effects of thrombosis except \\udline",
       "options": {
         "A": "Obstruction of arteries and veins",
         "B": "Deformity of mitral valve",
@@ -2432,7 +2436,7 @@
       "type": "single",
       "title": "Which of the following factors is not associated with thrombosis?",
       "options": {
-        "A": "Thrombocytemia",
+        "A": "Thrombocythemia",
         "B": "Vasculitis",
         "C": "Fibrin degradation products",
         "D": "Atrial fibrillation",
@@ -2460,7 +2464,7 @@
     },
     {
       "type": "single",
-      "title": "Which is liqueactive necrosis:",
+      "title": "Which is liquefactive necrosis:",
       "options": {
         "A": "Pulmonary infarct",
         "B": "Spleenic infarct",
@@ -2565,7 +2569,7 @@
     },
     {
       "type": "single",
-      "title": "A 62-year-old retired man was found to have high blood pressure of (172/100mm Hg) 2 months ago. Sincethen, he hasn't taken any medications. About 5 hours ago, he was admitted to the hospital after suddenly losing consciousness. When he regained consciousness, he was unable to move his right arm and his right leg. Which of the following intracranial pathologic abnormalities is most likely to be present?",
+      "title": "A 62-year-old retired man was found to have high blood pressure of 172/100 mmHg 2 months ago. Sincethen, he hasn't taken any medications. About 5 hours ago, he was admitted to the hospital after suddenly losing consciousness. When he regained consiousness, he was unable to move his right arm and his right leg. Which of the following intracranial pathologic abnormalities is most likely to be present?",
       "options": {
         "A": "Metastatic carcinoma",
         "B": "Hemorrhage into the putamen",
@@ -2631,10 +2635,10 @@
         "B": "Diffuse alveolar damage",
         "C": "Fibrin thrombi in the pulmonary microcirculation",
         "D": "The presence of squamous cell shedding lanugo hair, fat and mucin in pulmonary microcirculation",
-        "E": "The presence of squamous cell shedding lanugo hair, fat and mucin in alveolar spaces"
+        "E": "The presence of squamous cell sheding lanugo hair, fat and mucin in alveolar spaces"
       },
       "answers": [
-        "C"
+        "D"
       ],
       "explanation": ""
     },
@@ -2715,7 +2719,7 @@
     },
     {
       "type": "single",
-      "title": "The arterial thromboemboli of lower limbs most likely arise from:",
+      "title": "The arterial thromboemoboli of lower limbs most likely arise from:",
       "options": {
         "A": "Left ventricular and atria",
         "B": "Right ventricular and atria",
@@ -2730,7 +2734,7 @@
     },
     {
       "type": "single",
-      "title": "A 65-year-old man had rheumatic heart disease 20 years ago. He presents to the emergency room complaining of breath-lessness for the past three days. He woke at 3 am feeling short of breath and had to sleep in his recliner for the rest of night. On physical examination, he has swelling in his feet and ankles, distended neck veins with visible cannon waves and his liver is palpable three centimeters be-low the right costal margin. Based on the gross appearance of the liver seen in the figure, which of the following underling conditions is most likely to be present?[图片]",
+      "title": "A 65-year-old man had rheumatic heart disease 20 years ago. He presents to the emergency room complaining of breathlessness for the past three days. He woke at 3 am feeling short of breath and had to sleep in his recliner for the rest of night. On physical examination, he has swelling in his feet and ankles, distended neck veins with visible cannon waves and his liver is palpable three centimeters below the right costal margin. Based on the gross appearance of the liver seen in the figure, which of the following underling conditions is most likely to be present?",
       "options": {
         "A": "Inferior vena cava obstruction",
         "B": "Chronic renal failure",
@@ -2741,7 +2745,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/2-chap2-1.jpg"
     },
     {
       "type": "single",
@@ -2756,7 +2761,8 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/2-chap2-1.jpg"
     },
     {
       "type": "single",
@@ -2790,7 +2796,7 @@
     },
     {
       "type": "single",
-      "title": "During the autopsy of a 46-year-old man who died when the motorcycle he was riding was hit by a truck, a 1.2cm red mass is found within a branch of the left pulmonary artery. Grossly this mass is rubbery, gelatinous, and has a “chicken fat\" appearance. Histologic sections re-veal that this mass is not attached to the wall of the pulmonary artery, and lines of Zahn are not seen. Which of the following statements best describes this intravascu-lar mass?",
+      "title": "During the autopsy of a 46-year-old man who died when the motorcycle he was riding was hit by a truck, a 1.2 cm red mass is found within a branch of the left pulmonary artery. Grossly this mass is rubbery, gelatinous, and has a \"chicken fat\" appearance. Histologic sections reveal that this mass is not attached to the wall of the pulmonary artery, and lines of Zahn are not seen. Which of the following statements best describes this intravascular mass?",
       "options": {
         "A": "Postmortem blood clot",
         "B": "Postmortem hematoma",
@@ -2805,7 +2811,7 @@
     },
     {
       "type": "single",
-      "title": "A 59-year-old obese woman with a history of diabetes mellitus had a myocardial in-farction 3 months ago. She is now taking low dose aspirin to reduce the risk of arte-rial thrombosis. On which of the follow-ing steps in hemostasis does aspirin has its greatest effect?",
+      "title": "A 59-year-old obese woman with a history of diabetes mellitus had a myocardial infarction 3 months ago. She is now taking low dose aspirin to reduce the risk of arterial thrombosis. On which of the following steps in hemostasis does aspirin has its greatest effect?",
       "options": {
         "A": "Adhesion of platelets to collagen",
         "B": "Aggregation of platelets",
@@ -2820,7 +2826,7 @@
     },
     {
       "type": "single",
-      "title": "A 73-year-old man was diagnosed 1 year ago with pancreatic adenocarcinoma. He now sees his physician because of a tran-sient ischemic attack. On auscultation of the chest, a heart murmur is heard. Echocardiography shows an 1cm nodular lesion on the superior aspect of the ante-rior mitral valve leaflet. The valve leaflet appears to be intact. The blood culture is negative. Which of the following terms best describes this mitral valve lesion?",
+      "title": "A 73-year-old man was diagnosed l year ago with pancreatic adenocarcinoma. He now sees his physician because of a transient ischemic attack. On auscultation of the chest, a heart murmur is heard. Echocardiography shows an 1 cm nodular lesion on the superior aspect of the anterior mitral valve leaflet. The valve leaflet appears to be intact. The blood culture is negative. Which of the following terms best describes this mitral valve lesion?",
       "options": {
         "A": "Adenocarcinoma",
         "B": "Atheroma",
@@ -2835,11 +2841,11 @@
     },
     {
       "type": "single",
-      "title": "A 56-year-old man with a history of dia-betes mellitus goes to the emergency de-partment because he has had left-sided chest pain that radiates to the arm for the past 5 hours. Serial measurements ofserum creatine kinase-MB levels show el-evation 24 hours after the onset of pain. Partial thromboplastin time and prothrom-bin time are normal. Coronary angiogra-phy shows occlusion of the left anterior descending artery. Which of the follow-ing mechanisms is the most likely cause of thrombosis in this patient?",
+      "title": "A 56-year-old man with a history of diabetes mellitus goes to the emergency department because he has had left-sided chest pain that radiates to the arm for the past 5 hours. Serial measurements of serum creatine kinase-MB levels show elevation 24 hours after the onset of pain. Partial thromboplastin time and prothrombin time are normal. Coronary angiography shows occlusion of the left anterior descending artery. Which of the following mechanisms is the most likely cause of thrombosis in this patient?",
       "options": {
         "A": "Stasis of blood flow",
         "B": "Damage to endothelium",
-        "C": "Decreased production of tissue plas-minogen activator by intact endothe-lial cells",
+        "C": "Decreased production of tissue plasminogen activator by intact endothelial cells",
         "D": "Decreased antithrombin III level",
         "E": "Mutation in factor V gene"
       },
@@ -2895,7 +2901,7 @@
     },
     {
       "type": "single",
-      "title": "In lung tissue sections in chronic pul-monary congestion, some cells celled \"heart failure cells” can be found, and these cells are",
+      "title": "In lung tissue sections in chronic pulmonary congestion, some cells celled \"heart failure cells\" can be found, and these cells are \\udline",
       "options": {
         "A": "Dust cells",
         "B": "Lymphocytes",
@@ -2910,7 +2916,7 @@
     },
     {
       "type": "single",
-      "title": "All of these conditions are highly associ-ated with an increased risk of thrombosis except:",
+      "title": "All of these conditions are highly associated with an increased risk of thrombosis except:",
       "options": {
         "A": "Genetic factor V mutations",
         "B": "Prolonged bed rest after surgery",
@@ -2940,7 +2946,7 @@
     },
     {
       "type": "single",
-      "title": "What may be found in the microcircula-tion when DIC occurs?",
+      "title": "What may be found in the microcirculation when DIC occurs?",
       "options": {
         "A": "Pale thrombi",
         "B": "Mixed thrombi",
@@ -2985,7 +2991,7 @@
     },
     {
       "type": "single",
-      "title": "A 78-year-old woman falls in the bathtub and strikes the back of her head. Over the next 24 hours, she becomes increas-ingly somnolent. A head CT scan shows an accumulation of fluid beneath the dura, compressing the left cerebral hemisphere. Which of the following terms best de-scribes this collection of fluid?",
+      "title": "A 78-year-old woman falls in the bathtub and strikes the back of her head. Over the next 24 hours, she becomes increasingly somnolent. A head CT scan shows an accumulation of fluid beneath the dura, compressing the left cerebral hemisphere. Which of the following terms best describes this collection of fluid?",
       "options": {
         "A": "Hematoma",
         "B": "Purpura",
@@ -3000,13 +3006,13 @@
     },
     {
       "type": "single",
-      "title": "Which of the followings is false concern-ing hemorrhage:",
+      "title": "Which of the followings is false concerning hemorrhage:",
       "options": {
-        "A": "May be external or enclosed within atissue",
-        "B": "The clinical significance of hemor-rhage depends on the volume, rate and site of blood loss",
+        "A": "May be external or enclosed within a tissue",
+        "B": "The clinical significance of hemorrhage depends on the volume, rate and site of blood loss",
         "C": "Rupture of an aortic aneurysm can cause sudden death",
-        "D": "Arteriolar vasoconstriction is the ini-tial response to injury but is transient",
-        "E": "Loss of up to 20% of the blood volume in healthy adult may result in hemor-rhagic shock"
+        "D": "Arteriolar vasoconstriction is the initial response to injury but is transient",
+        "E": "Loss of up to 20% of the blood volume in healthy adult may result in hemorrhagic shock"
       },
       "answers": [
         "E"
@@ -3015,7 +3021,7 @@
     },
     {
       "type": "single",
-      "title": "A 44-year-old man has an acute myocar-dial infarction. Four days later, his car-diac output is reduced with an ejection fraction is of 25%. The patient becomes increasingly dyspneic, and a chest radio-graph shows bilateral pulmonary edema. These pulmonary findings are most likely caused by which of the following mecha-nisms?",
+      "title": "A 44-year-old man has an acute myocardial infarction. Four days later, his cardiac output is reduced with an ejection fraction is of 25%. The patient becomes increasingly dyspneic, and a chest radiograph shows bilateral pulmonary edema. These pulmonary findings are most likely caused by which of the following mechanisms?",
       "options": {
         "A": "Lymphatic obstruction",
         "B": "Decreased plasma osmotic pressure",
@@ -3030,7 +3036,7 @@
     },
     {
       "type": "single",
-      "title": "A 39-year-old woman comes to the physi-cian because she has noticed a lump in her breast. Over the past 2 months, the left breast has become slightly enlarged com-pared with the right breast. On physical examination, the skin overlying the left breast is thickened, reddish-orange, andpitted. Mammography shows a 3-cm un-derlying density, and a fine-needle aspi-rate of the density indicates carcinoma. Which of the following mechanisms best explains the gross appearance of the left breast?",
+      "title": "A 39-year-old woman comes to the physician because she has noticed a lump in her breast. Over the past 2 months, the left breast has become slightly enlarged compared with the right breast. On physical examination, the skin overlying the left breast is thickened, reddish-orange, and pitted. Mammography shows a 3-cm underlying density, and a fine-needle aspirate of the density indicates carcinoma. Which of the following mechanisms best explains the gross appearance of the left breast?",
       "options": {
         "A": "Venous thrombosis",
         "B": "Lymphatic obstruction",
@@ -3075,7 +3081,7 @@
     },
     {
       "type": "single",
-      "title": "A 22-year-old second-year medical stu-dent develops a \"red\" face after being asked a question during lecture. Which of the following statements best describes this vascular reaction?",
+      "title": "A 22-year-old second-year medical student develops a \"red\" face after being asked a question during lecture. Which of the following statements best describes this vascular reaction?",
       "options": {
         "A": "Active hyperemia",
         "B": "Acute congestion",
@@ -3090,7 +3096,7 @@
     },
     {
       "type": "single",
-      "title": "For the past week, a 61-year-old man has had increasing levels of serum AST and ALT. On physical examination, he has lower leg swelling with grade 2+ pitting edema from feet to knees and prominent jugular venous distention to the level of the mandible. Which of the following un-derlying conditions is most likely to be present?",
+      "title": "For the past week, a 61-year-old man has had increasing levels of serum AST and ALT. On physical examination, he has lower leg swelling with grade 2+ pitting edema from feet to knees and prominent jugular venous distention to the level of the mandible. Which of the following underlying conditions is most likely to be present?",
       "options": {
         "A": "Thrombocytopenia",
         "B": "Portal vein thrombosis",
@@ -3105,10 +3111,10 @@
     },
     {
       "type": "single",
-      "title": "Right-sided heart failure can cause con-gestion of",
+      "title": "Right-sided heart failure can cause congestion of",
       "options": {
         "A": "Lung brain and gastrointestinal tract",
-        "B": "Lung and kidney liver and gastroin-testinal tract",
+        "B": "Lung and kidney liver and gastrointestinal tract",
         "C": "spleen, liver and gastrointestinal tract",
         "D": "spleen, liver and lung",
         "E": "spleen, lung and kidney"
@@ -3120,10 +3126,10 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is incorrect con-cerning chronic congestion of the liver:",
+      "title": "Which of the following is incorrect concerning chronic congestion of the liver:",
       "options": {
-        "A": "“Nutmeg liver\" is found grossly",
-        "B": "The central vein and sinusoids are is-tended with blood",
+        "A": "\"Nutmeg liver\" is found grossly",
+        "B": "The central vein and sinusoids are istended with blood",
         "C": "It is always be caused by right-sided heart failure",
         "D": "Fatty degeneration, atrophy and necrosis of hepatocytes are found",
         "E": "Will not result in cirrhosis"
@@ -3135,7 +3141,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is incorrect con-cerning arterial hyperemia:",
+      "title": "Which of the following is incorrect concerning arterial hyperemia:",
       "options": {
         "A": "It is an active process",
         "B": "It is found sites of inflammation",
@@ -3150,7 +3156,7 @@
     },
     {
       "type": "single",
-      "title": "Which are the main components found in the alveolar spaces during acute pul-monary congestion:",
+      "title": "Which are the main components found in the alveolar spaces during acute pulmonary congestion:",
       "options": {
         "A": "Heart failure cells",
         "B": "Fibrin",
@@ -3165,11 +3171,11 @@
     },
     {
       "type": "single",
-      "title": "A patient with mitral stenosis for 15 years develops severe dyspnea especially dur-ing periods of physical activities or when lying down. Which one of the following states will not be found in the lungs of this patient:",
+      "title": "A patient with mitral stenosis for 15 years develops severe dyspnea especially during periods of physical activities or when lying down. Which one of the following states will not be found in the lungs of this patient:",
       "options": {
-        "A": "The septa become thickened and fi-brotic",
-        "B": "“Heart failure cells\" and red blood cells can be found in the alveolar spaces",
-        "C": "The cut surface of the lung exudes a frothy mixture of surfactant-rich fluidand blood",
+        "A": "The septa become thickened and fibrotic",
+        "B": "\"Heart failure cells\" and red blood cells can be found in the alveolar spaces",
+        "C": "The cut surface of the lung exudes a frothy mixture of surfactant-rich fluid and blood",
         "D": "The alveolar capillaries are congested",
         "E": "Hyaline membranes line the alveolar spaces"
       },
@@ -3180,7 +3186,7 @@
     },
     {
       "type": "single",
-      "title": "A coronary artery is shown from the au-topsy of a 61-year-old patient who had acute chest pain and difficulty breathing. What is most likely to have resulted from the pathologic findings in this artery?[图片]",
+      "title": "A coronary artery is shown from the autopsy of a 61-year-old patient who had acute chest pain and difficulty breathing. What is most likely to have resulted from the pathologic findings in this artery?",
       "options": {
         "A": "Caseous necrosis",
         "B": "Coagulative necrosis",
@@ -3191,13 +3197,14 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/2-chap2-2.jpg"
     },
     {
       "type": "single",
-      "title": "When going upstairs, a 60-year-old man had severe crushing chest pain, which lasted about 45 minutes and was not re-lieved by nitroglycerine. A coronary an-giogram revealed 75% stenosis of the left anterior descending artery. Despite ag-gressive resuscitative measures, his con-dition deteriorated and he died. Which of the following microscopic findings is most likely to be present in his left ven-tricular myocardium at the time of death?",
+      "title": "When going upstairs, a 60-year-old man had severe crushing chest pain, which lasted about 45 minutes and was not relieved by nitroglycerine. A coronary angiogram revealed 75% stenosis of the left anterior descending artery. Despite aggressive resuscitative measures, his condition deteriorated and he died. Which of the following microscopic findings is most likely to be present in his left ventricular myocardium at the time of death?",
       "options": {
-        "A": "Extensive collagen deposition andabundant capillaries",
+        "A": "Extensive collagen deposition and abundant capillaries",
         "B": "Necrosis with neutrophils and macrophages",
         "C": "Edema and loss of cross striation",
         "D": "Lymphocytic interstitial infiltrates",
@@ -3206,7 +3213,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/2-chap2-2.jpg"
     },
     {
       "type": "single",
@@ -3215,7 +3223,7 @@
         "A": "Ventilatory disorder",
         "B": "Pleuritis in the infarct area",
         "C": "Stimulation of the bronchi by necrotic tissue",
-        "D": "Stimulation of the bronchi by hemor-rhage",
+        "D": "Stimulation of the bronchi by hemorrhage",
         "E": "Pulmonary infection"
       },
       "answers": [
@@ -3240,7 +3248,7 @@
     },
     {
       "type": "single",
-      "title": "A 72-year-old male has been treated in the hospital for pneumonia for the past several weeks. One day, he suddenly developed dyspnea, palpitations and chest pain. A pulmonary ventilation-perfusion scan re-veals a high probability for a perfusion de-fect involving right segmental pulmonary arterial branch. Which of the followings is the most important factor favoring de-velopment of these findings?",
+      "title": "A 72-year-old male has been treated in the hospital for pneumonia for the past several weeks. One day, he suddenly developed dyspnea, palpitations and chest pain. A pulmonary ventilation-perfusion scan reveals a high probability for a perfusion defect involving right segmental pulmonary arterial branch. Which of the followings is the most important factor favoring development of these findings?",
       "options": {
         "A": "An increased platelet count",
         "B": "Altered blood flow with stasis",
@@ -3255,13 +3263,13 @@
     },
     {
       "type": "single",
-      "title": "Which of the following conditions would most likely be the cause of death fol-lowing surgery for adenocarcinoma of the prostate for in a 70 years old man?",
+      "title": "Which of the following conditions would most likely be the cause of death following surgery for adenocarcinoma of the prostate for in a 70 years old man?",
       "options": {
         "A": "Inhalation of inorganic dust",
         "B": "Prolonged immobilization",
         "C": "Pulmonary contusion",
         "D": "Chronic bronchitis",
-        "E": "Bronchial carcinoid[图片]"
+        "E": "Bronchial carcinoid"
       },
       "answers": [
         "B"
@@ -3270,7 +3278,7 @@
     },
     {
       "type": "single",
-      "title": "This is the gross appearance of a heart from autopsy of a 49-year-old man who had experienced worsening orthopnea for several months. He became dyspneic with exercise, but had no chest pain or periph-eral edema. Which of the following un-derlying conditions do you most strongly suspect?",
+      "title": "This is the gross appearance of a heart from autopsy of a 49-year-old man who had experienced worsening orthopnea for several months. He became dyspneic with exercise, but had no chest pain or peripheral edema. Which of the following underlying conditions do you most strongly suspect？",
       "options": {
         "A": "Dilated cardiomyopathy",
         "B": "Viral myocarditis",
@@ -3281,11 +3289,12 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/2-chap2-3.jpg"
     },
     {
       "type": "single",
-      "title": "A 16-year-old female presented to the emergency department, following a pedestrian vehicular accident. X-ray imaging revealed multiple fractures in-cluding the right lower leg and pelvis. After treatment her condition was stable. However, approximately 2 days after ini-tial presentation, she became tachypnea and confused, and then died. This micro-scopic appearance was found at autopsy. Which of the followings in the most likely explanation?",
+      "title": "A 16-year-old female presented to the emergency department, following a pedestrian vehicular accident. X-ray imaging revealed multiple fractures including the right lower leg and pelvis. After treatment her condition was stable. However, approximately 2 days after initial presentation, she became tachypnea and confused, and then died. This microscopic appearance was found at autopsy. Which of the followings in the most likely explanation?",
       "options": {
         "A": "Bronchopneumonia",
         "B": "Fat embolism",
@@ -3296,14 +3305,15 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/2-chap2-3.jpg"
     },
     {
       "type": "single",
-      "title": "A solitary red wedge shaped area is found upon sectioning an organ, which is firm and accompanied by extensive hemor-rhage. The base of this lesion is on the sur-face of the organ. In which of the follow-ing situations will this lesion most likely occur?",
+      "title": "A solitary red wedge shaped area is found upon sectioning an organ, which is firm and accompanied by extensive hemorrhage. The base of this lesion is on the surface of the organ. In which of the following situations will this lesion most likely occur?",
       "options": {
-        "A": "Heart with coronary thromboem-bolism",
-        "B": "Lung with pulmonary thromboem-bolism",
+        "A": "Heart with coronary thromboembolism",
+        "B": "Lung with pulmonary thromboembolism",
         "C": "Liver with congestion",
         "D": "Kidney with septic embolus",
         "E": "Brain with cerebral hemorrhage"
@@ -3317,11 +3327,11 @@
       "type": "single",
       "title": "A 56-year-old female with a history of rheumatic heart disease and chronic atrial fibrillation presents eith dyspnea. Which of the following vascular complications is most likely to occur in this patient?",
       "options": {
-        "A": "Pulmonary embolism from a left ven-tricular mural thrombus",
+        "A": "Pulmonary embolism from a left ventricular mural thrombus",
         "B": "Pulmonary emboli from thrombosis in a peripheral vein",
-        "C": "Systemic emboli from a left atrial mu-ral thrombus",
-        "D": "Systemic emboli from a left ventricu-lar mural thrombus",
-        "E": "Systemic emboli from a lower extrem-ity deep vein thrombus"
+        "C": "Systemic emboli from a left atrial mural thrombus",
+        "D": "Systemic emboli from a left ventricular mural thrombus",
+        "E": "Systemic emboli from a lower extremity deep vein thrombus"
       },
       "answers": [
         "C"
@@ -3360,7 +3370,7 @@
     },
     {
       "type": "single",
-      "title": "After a long train trip, a 45-year-old pre-viously healthy female is found to have swelling and tenderness of her legs. An ultrasound examination reveals findings suggestive of femoral vein thrombosis. Which of the following conditions is most likely to have contributed to this problem?",
+      "title": "After a long train trip, a 45-year-old previously healthy female is found to have swelling and tenderness of her legs. An ultrasound examination reveals findings suggestive of femoral vein thrombosis. Which of the following conditions is most likely to have contributed to this problem?",
       "options": {
         "A": "Pregnancy",
         "B": "Trousseau syndrome",
@@ -3375,7 +3385,7 @@
     },
     {
       "type": "single",
-      "title": "Capillary channels are formed in orga-nized thrombi, which then create conduits and interconnect with the original lumen. This process can partly restore blood flow and is called",
+      "title": "Capillary channels are formed in organized thrombi, which then create conduits and interconnect with the original lumen. This process can partly restore blood flow and is called \\udline",
       "options": {
         "A": "Establishment of collateral circulation",
         "B": "Organization",
@@ -3390,7 +3400,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following conditions is un-likely to cause edema?",
+      "title": "Which of the following conditions is unlikely to cause edema?",
       "options": {
         "A": "Congestive heart failure",
         "B": "Liver cirrhosis",

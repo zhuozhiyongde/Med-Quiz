@@ -4,6 +4,7 @@ export interface Question {
     options: Record<string, string>;
     answers: string[];
     explanation: string;
+    image?: string; // 题目配图路径
 }
 
 export interface QuizData {

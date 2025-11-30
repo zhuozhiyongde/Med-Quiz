@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 泌尿系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 泌尿系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 泌尿系统疾病",
   "questions": [
     {
       "type": "single",
@@ -37,9 +37,9 @@
       "title": "肾小球肾炎属于",
       "options": {
         "A": "I型变态反应",
-        "B": "II 型变态反应",
-        "C": "III 型变态反应",
-        "D": "IV 型变态反应",
+        "B": "II型变态反应",
+        "C": "III型变态反应",
+        "D": "IV型变态反应",
         "E": "以上都不是"
       },
       "answers": [
@@ -64,13 +64,13 @@
     },
     {
       "type": "single",
-      "title": "非免疫复合物性肾小球肾炎时,引起肾小球损伤的因素是",
+      "title": "非免疫复合物性肾小球肾炎时，引起肾小球损伤的因素是",
       "options": {
         "A": "补体",
         "B": "血小板",
         "C": "中性粒细胞",
         "D": "巨噬细胞",
-        "E": "T细胞"
+        "E": "T 细胞"
       },
       "answers": [
         "E"
@@ -159,7 +159,7 @@
         "A": "肾小球内皮细胞增生",
         "B": "肾小球系膜细胞增生",
         "C": "肾小球基底膜弥漫性增厚",
-        "D": "肾小球毛细血管壁显示 IgG 和 C3的颗粒荧光",
+        "D": "肾小球毛细血管壁显示 IgG 和 C3 的颗粒荧光",
         "E": "肾小球基底膜外侧有驼峰状电子致密物"
       },
       "answers": [
@@ -190,7 +190,7 @@
         "B": "毛细血管基底膜上皮侧见驼峰状致密沉积物",
         "C": "脏层上皮细胞足突融合",
         "D": "毛细血管基底膜严重缺损",
-        "E": "毛细血管基底膜內见致密沉积物"
+        "E": "毛细血管基底膜内见致密沉积物"
       },
       "answers": [
         "B"
@@ -199,7 +199,7 @@
     },
     {
       "type": "single",
-      "title": "不符合弥漫性毛细血管內增生性肾小球肾炎尿液变化的是",
+      "title": "不符合弥漫性毛细血管内增生性肾小球肾炎尿液变化的是",
       "options": {
         "A": "少尿无尿",
         "B": "血尿",
@@ -218,7 +218,7 @@
       "options": {
         "A": "弥漫性膜性增生性肾小球肾炎",
         "B": "弥漫性新月体性肾小球肾炎",
-        "C": "弥漫性毛细血管內增生性肾小球肾炎",
+        "C": "弥漫性毛细血管内增生性肾小球肾炎",
         "D": "弥漫性膜性肾小球肾炎",
         "E": "肺出血肾炎综合征"
       },
@@ -229,7 +229,7 @@
     },
     {
       "type": "single",
-      "title": "弥漫性毛细血管內增生性肾小球肾炎的临床表现常为",
+      "title": "弥漫性毛细血管内增生性肾小球肾炎的临床表现常为",
       "options": {
         "A": "肾病综合征",
         "B": "急性肾炎综合征",
@@ -351,7 +351,7 @@
       "type": "single",
       "title": "不符合新月体性肾小球肾炎的描述是",
       "options": {
-        "A": "病变严重,进展快,预后差",
+        "A": "病变严重，进展快，预后差",
         "B": "多数肾小球新月体形成",
         "C": "新月体由肾球囊壁层上皮和巨噬细胞构成",
         "D": "免疫荧光沿基底膜呈线性分布",
@@ -382,7 +382,7 @@
       "title": "符合弥漫性膜性肾小球肾炎的描述是",
       "options": {
         "A": "肾小球系膜区免疫复合物沉积",
-        "B": "肾小球基底膜內免疫复合物沉积",
+        "B": "肾小球基底膜内免疫复合物沉积",
         "C": "肾小球基底膜和上皮细胞间驼峰状免疫复合物沉积",
         "D": "肾小球基底膜和内皮细胞间免疫复合物沉积",
         "E": "肾小球内无免疫复合物沉积"
@@ -398,7 +398,7 @@
       "options": {
         "A": "肾小球基底膜弥漫性增生",
         "B": "肾小球基底膜有钉突形成",
-        "C": "肾小球毛细血管壁有颗粒状 IgG 和C3 荧光",
+        "C": "肾小球毛细血管壁有颗粒状 IgG 和 C3 荧光",
         "D": "肾小球系膜区有团块状 IgG 荧光",
         "E": "肾小球基底膜外侧有多数电子致密物"
       },
@@ -414,7 +414,7 @@
         "A": "肾球囊壁层上皮细胞增生",
         "B": "肾小球内皮细胞增生",
         "C": "小球毛细血管壁增厚系膜细胞和基质增生",
-        "D": "脏层上皮细胞足突消失融合",
+        "D": "脏层上皮细胞足土消失融合",
         "E": "肾小球毛细血管壁弥漫性增厚"
       },
       "answers": [
@@ -424,7 +424,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 38岁, 面部及下肢浮肿两月余,尿液检查蛋白++++, 肾穿刺组织光镜观察肾小球体积增大, 肾小球毛细血管基底膜弥漫性增厚。此例肾炎的类型最大可能是",
+      "title": "男性，38 岁，面部及下肢浮肿两月余，尿液检查蛋白++++，肾穿刺组织光镜观察肾小球体积增大，肾小球毛细血管基底膜弥漫性增厚。此例肾炎的类型最大可能是",
       "options": {
         "A": "弥漫性膜性增生性肾小球肾炎",
         "B": "弥漫性膜性肾小球肾炎",
@@ -439,7 +439,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 38岁, 面部及下肢浮肿两月余,尿液检查蛋白++++, 肾穿刺组织光镜观察肾小球体积增大, 肾小球毛细血管基底膜弥漫性增厚。此例患者肾脏呈",
+      "title": "男性，38 岁，面部及下肢浮肿两月余，尿液检查蛋白++++，肾穿刺组织光镜观察肾小球体积增大，肾小球毛细血管基底膜弥漫性增厚。此例患者肾脏呈",
       "options": {
         "A": "大红肾",
         "B": "固缩肾",
@@ -456,7 +456,7 @@
       "type": "single",
       "title": "不符合弥漫性膜性肾小球肾炎的描述是",
       "options": {
-        "A": "起病缓慢, 病程长",
+        "A": "起病缓慢，病程长",
         "B": "对皮质激素治疗效果不佳",
         "C": "晚期导致肾功能衰竭",
         "D": "常引起肾病综合征",
@@ -549,7 +549,7 @@
         "A": "系膜区致密物沉积",
         "B": "基底膜内致密物沉积",
         "C": "基底膜和上皮细胞间驼峰状致密物沉积",
-        "D": "基底膜內和基底膜内、外侧致密物沉积",
+        "D": "基底膜内和基底膜内、外侧致密物沉积",
         "E": "无致密物沉积"
       },
       "answers": [
@@ -624,7 +624,7 @@
         "A": "系膜细胞和基质增生",
         "B": "毛细血管无明显改变",
         "C": "系膜区电子致密物沉积",
-        "D": "系膜区 IgM、IgG 和 C3 沉积",
+        "D": "系膜区 IgM 、IgG 和 C3 沉积",
         "E": "系膜细胞和内皮细胞弥漫性增生"
       },
       "answers": [
@@ -652,9 +652,9 @@
       "title": "符合弥漫性系膜增生性肾小球肾炎的电镜下变化是",
       "options": {
         "A": "系膜区致密物沉积",
-        "B": "基底膜內致密物沉积",
+        "B": "基底膜内致密物沉积",
         "C": "基底膜和上皮细胞间驼峰状致密物沉积",
-        "D": "基底膜內和基底膜内、外侧致密物沉积",
+        "D": "基底膜内和基底膜内、外侧致密物沉积",
         "E": "无致密物沉积"
       },
       "answers": [
@@ -679,9 +679,9 @@
     },
     {
       "type": "single",
-      "title": "不符合IgA肾病的描述是",
+      "title": "不符合 IgA 肾病的描述是",
       "options": {
-        "A": "约占弥漫性系膜增生性肾小球肾炎的50%",
+        "A": "约占弥漫性系膜增生性肾小球肾炎的 50%",
         "B": "青少年多见",
         "C": "可引起肉眼血尿",
         "D": "预后差",
@@ -696,8 +696,8 @@
       "type": "single",
       "title": "不符合弥漫性系膜增生性肾小球肾炎的描述是",
       "options": {
-        "A": "约占原发性肾小球肾炎的50%",
-        "B": "可分为IgA肾病及非 IgA 肾病",
+        "A": "约占原发性肾小球肾炎的 50%",
+        "B": "可分为 IgA 肾病及非 IgA 肾病",
         "C": "部分病例可发展为硬化性肾小球肾炎",
         "D": "皮质激素和细胞毒药物治疗无效",
         "E": "可引起肾病综合征"
@@ -712,7 +712,7 @@
       "title": "符合弥漫性系膜增生性肾小球肾炎的描述是",
       "options": {
         "A": "肾小球系膜区免疫复合物沉积",
-        "B": "肾小球基底膜內免疫复合物沉积",
+        "B": "肾小球基底膜内免疫复合物沉积",
         "C": "肾小球基底膜和上皮细胞间驼峰状免疫复合物沉积",
         "D": "肾小球基底膜和内皮细胞间免疫复合物沉积",
         "E": "肾小球内无免疫复合物沉积"
@@ -742,7 +742,7 @@
       "title": "轻微病变性肾小球肾炎的免疫病理变化是",
       "options": {
         "A": "肾小球基底膜上皮下有免疫复合物沉积",
-        "B": "肾小球基底膜內有免疫复合物沉积",
+        "B": "肾小球基底膜内有免疫复合物沉积",
         "C": "肾小球基底膜内皮细胞下有免疫复合物沉积",
         "D": "肾小球系膜区有免疫复合物沉积",
         "E": "以上都不是"
@@ -775,7 +775,7 @@
         "B": "属抗基底膜肾小球肾炎",
         "C": "由植入性非肾性抗原引起",
         "D": "通过补体旁路激活引起",
-        "E": "由T细胞介导引起"
+        "E": "由 T 细胞介导引起"
       },
       "answers": [
         "E"
@@ -789,7 +789,7 @@
         "A": "弥漫性膜性肾小球肾炎",
         "B": "弥漫性新月体性肾小球肾炎",
         "C": "轻微病变性肾小球肾炎",
-        "D": "弥漫性毛细血管內增生性肾小球肾炎",
+        "D": "弥漫性毛细血管内增生性肾小球肾炎",
         "E": "弥漫性膜性增生性肾小球肾炎"
       },
       "answers": [
@@ -895,7 +895,7 @@
         "B": "多数转变为新月体性肾小球肾炎",
         "C": "多数可自行消退",
         "D": "多数严重影响肾功能",
-        "E": "多数10年以内死亡"
+        "E": "多数 10 年以内死亡"
       },
       "answers": [
         "C"
@@ -910,7 +910,7 @@
         "B": "属抗基底膜肾小球肾炎",
         "C": "由植入性非肾性抗原引起",
         "D": "病因不明",
-        "E": "由T细胞介导引起"
+        "E": "由 T 细胞介导引起"
       },
       "answers": [
         "D"
@@ -1011,10 +1011,10 @@
       "type": "single",
       "title": "很少发展为慢性硬化性肾小球肾炎的是",
       "options": {
-        "A": "IgA肾病",
+        "A": "IgA 肾病",
         "B": "膜性增生性肾小球肾炎",
         "C": "膜性肾小球肾炎",
-        "D": "毛细血管內增生性肾小球肾炎",
+        "D": "毛细血管内增生性肾小球肾炎",
         "E": "新月体性肾小球肾炎"
       },
       "answers": [
@@ -1144,7 +1144,7 @@
     },
     {
       "type": "single",
-      "title": "尿毒症时,引起纤维素性胸膜炎的是",
+      "title": "尿毒症时，引起纤维素性胸膜炎的是",
       "options": {
         "A": "肌酐",
         "B": "酚类及其代谢产物",
@@ -1474,7 +1474,7 @@
     },
     {
       "type": "single",
-      "title": "女性,60岁,送检组织为膀胱肿瘤标本,肉眼检查:肿瘤直径约 3cm,呈乳头状,表面溃疡形成,切面灰白、质硬,侵及膀胱肌层。符合此肿瘤的诊断是",
+      "title": "女性，60 岁，送检组织为膀胱肿瘤标本，肉眼检查：肿瘤直径约 3 cm，呈乳头状，表面溃疡形成，切面灰白、质硬，侵及膀胱肌层。符合此肿瘤的诊断是",
       "options": {
         "A": "腺癌",
         "B": "鳞癌",
@@ -1537,8 +1537,8 @@
       "title": "预后较好的膀胱癌是",
       "options": {
         "A": "移行细胞癌I级",
-        "B": "移行细胞癌 II级",
-        "C": "移行细胞癌 III 级",
+        "B": "移行细胞癌II级",
+        "C": "移行细胞癌III级",
         "D": "鳞状细胞癌",
         "E": "未分化癌"
       },
@@ -1671,7 +1671,7 @@
       "type": "single",
       "title": "不符合肾细胞癌的描述是",
       "options": {
-        "A": "肿瘤间质丰富,血管少",
+        "A": "肿瘤间质丰富，血管少",
         "B": "发病隐匿",
         "C": "可引起副肿瘤综合征",
         "D": "多见于肾脏上极",
@@ -1686,7 +1686,7 @@
       "type": "single",
       "title": "肾母细胞瘤是",
       "options": {
-        "A": "Wilms' tumor",
+        "A": "Wilms tumor",
         "B": "Ewing tumor",
         "C": "Krukenberg tumor",
         "D": "Borderline tumor",
@@ -1746,11 +1746,11 @@
       "type": "single",
       "title": "肾母细胞瘤的肉眼特点是",
       "options": {
-        "A": "鱼肉状,边界清楚",
-        "B": "淡黄色,质软,边界清楚",
-        "C": "灰白,质硬,边界不清",
-        "D": "鱼肉状,边界不清",
-        "E": "淡黄色,质软,边界不清"
+        "A": "鱼肉状，边界清楚",
+        "B": "淡黄色，质软，边界清楚",
+        "C": "灰白，质硬，边界不清",
+        "D": "鱼肉状，边界不清",
+        "E": "淡黄色，质软，边界不清"
       },
       "answers": [
         "A"
@@ -1870,7 +1870,7 @@
         "B": "蛋白尿",
         "C": "尿潴留",
         "D": "尿内异物",
-        "E": "尿液pH 的改变"
+        "E": "尿液 pH 的改变"
       },
       "answers": [
         "B"
@@ -2091,7 +2091,7 @@
       "type": "single",
       "title": "不符合成人型多囊肾的描述是",
       "options": {
-        "A": "常在50岁左右出现肾功能衰竭",
+        "A": "常在 50 岁左右出现肾功能衰竭",
         "B": "多累及单侧肾脏",
         "C": "肾脏体积增大",
         "D": "肾脏由大小不等的囊肿构成",
@@ -2179,7 +2179,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 34岁, 肾病综合征十多年。近年来出现高血压、多尿、夜尿。近来出现贫血、视力减退、心率紊乱、全身出现尿味、身体虚弱等症状。数月来, 呕吐、抽搐、昏迷而死亡。肾脏的病理表现可能为",
+      "title": "男性，34 岁，肾病综合征十多年。近年来出现高血压、多尿、夜尿。近来出现贫血、视力减退、心率紊乱、全身出现尿味、身体虚弱等症状。数月来，呕吐、抽搐、昏迷而死亡。肾脏的病理表现可能为",
       "options": {
         "A": "蚤咬肾",
         "B": "大白肾",
@@ -2194,12 +2194,12 @@
     },
     {
       "type": "single",
-      "title": "女性, 45岁, 数年前曾出现发烧、尿频、尿急、尿疼等尿路刺激症, 未彻底治疗。近年来上述症状时轻时重。符合该患者疾病的病理变化是",
+      "title": "女性，45 岁，数年前曾出现发烧、尿频、尿急、尿疼等尿路刺激症，未彻底治疗。近年来上述症状时轻时重。符合该患者疾病的病理变化是",
       "options": {
         "A": "肾入球小动脉玻璃样变",
         "B": "肾小球新月体形成",
         "C": "肾小管坏死",
-        "D": "尿内可见大量脓细胞, 可查到大肠杆菌",
+        "D": "尿内可见大量脓细胞，可查到大肠杆菌",
         "E": "肾小球广泛硬化"
       },
       "answers": [
@@ -2209,7 +2209,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 10岁, 2周前患扁桃腺炎, 经治疗好转。近2天来出现眼睑水肿, 少尿、血尿, 尿蛋白(+++), 血压升高(150/90mmHg)。患者的临床表现符合",
+      "title": "男性，10 岁，2 周前患扁桃腺炎，经治疗好转。近 2 天来出现眼睑水肿，少尿、血尿，尿蛋白（+++），血压升高（150/90 mmHg）。患者的临床表现符合",
       "options": {
         "A": "急性肾炎综合征",
         "B": "慢性肾炎综合征",
@@ -2242,10 +2242,10 @@
       "title": "急进性肾炎综合征是指",
       "options": {
         "A": "蛋白尿、脓尿、菌尿",
-        "B": "血尿、蛋白尿、少尿, 快速进入肾功能衰竭",
+        "B": "血尿、蛋白尿、少尿，快速进入肾功能衰竭",
         "C": "无症状的蛋白尿、血尿",
         "D": "大量蛋白尿、低蛋白血症、高度水肿和高胆固醇血症",
-        "E": "突起性血尿, 伴有水肿、蛋白尿、少尿"
+        "E": "突起性血尿，伴有水肿、蛋白尿、少尿"
       },
       "answers": [
         "B"
@@ -2434,7 +2434,7 @@
     },
     {
       "type": "single",
-      "title": "A 65-year-old man recently retired after many years in a job that involved exposure to aniline dyes, including β-naphthylamine. One month ago, he had an episode of hematuria that was not accompanied by abdominal pain. On physical examination, there are no abnormal findings. Urinalysis shows 4+hematuria and no ketones, glucose, or protein. Microscopic examination of the urine shows RBCs that are too numerous to count, 5 to 10 WBCs per high-power field, and no crystals or casts. The result of a urine culture is negative. Which of the following is the most likely diagnosis?",
+      "title": "A 65-year-old man recently retired after many years in a job that involved exposure to aniline dyes, including β-naphthylamine. One month ago, he had an episode of hematuria that was not accompanied by abdominal pain. On physical examination, there are no abnormal findings. Urinalysis shows 4+ hematuria and no ketones, glucose, or protein. Microscopic examination of the urine shows RBCs that are too numerous to count, 5 to 10 WBCs per high-power field, and no crystals or casts. The result of a urine culture is negative. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Renal cell carcinoma",
         "B": "Hemorrhagic cystitis",
@@ -2494,7 +2494,7 @@
     },
     {
       "type": "single",
-      "title": "A 40-year-old man has experienced increasing lower extremity edema for the past 3 weeks. On physical examination, he has pitting edema up to the knees. The 24-hour urine protein level is 7g. Urinalysis shows 4+ protein but no blood or glucose. Serologic test results for ANA, anti-streptolysin O (ASO), HIV, and ANCA are all negative. A renal biopsy is performed. Light microscopy shows glomeruli which appear normal except for diffuse, uniform thickening of the glomerular capillary basement membranes. Immunofluorescence shows granular peripheral staining of the basement membrane for IgG and C3. Given the clinical and histopathologic findings, electron microscopy of this biopsy specimen is most likely to show which of the following findings?",
+      "title": "A 40-year-old man has experienced increasing lower extremity edema for the past 3 weeks. On physical examination, he has pitting edema up to the knees. The 24-hour urine protein level is 7 g. Urinalysis shows 4+ protein but no blood or glucose. Serologic test results for ANA, anti-streptolysin O (ASO), HIV, and ANCA are all negative. A renal biopsy is performed. Light microscopy shows glomeruli which appear normal except for diffuse, uniform thickening of the glomerular capillary basement membranes. Immunofluorescence shows granular peripheral staining of the basement membrane for IgG and C3. Given the clinical and histopathologic findings, electron microscopy of this biopsy specimen is most likely to show which of the following findings?",
       "options": {
         "A": "Subepithelial electron-dense deposits",
         "B": "Subendothelial electron-dense deposits with duplication of the basement membrane",
@@ -2509,7 +2509,7 @@
     },
     {
       "type": "single",
-      "title": "A 26-year-old man is involved in a motor vehicle accident and sustains acute blood loss. He is hypotensive for several hours before paramedical personnel arrive. They stabilize the bleeding and transport him to a hospital, where he receives a transfusion of 3 units of packed RBCs. Over the next week, the serum urea nitrogen level increases to 48md/dL, the serum creatinine level increases to 5mg/dL, and the urine output decreases. He undergoes hemodialysis for the next 2 weeks and then develops marked polyuria, with urine output of 2 to 3L per day. His recovery is complicated by bronchopneumonia, but renal function gradually returns to normal. Which of the following histological features best characterizes the patient's transient renal disease?",
+      "title": "A 26-year-old man is involved in a motor vehicle accident and sustains acute blood loss. He is hypotensive for several hours before paramedical personnel arrive. They stabilize the bleeding and transport him to a hospital, where he receives a transfusion of 3 units of packed RBCs. Over the next week, the serum urea nitrogen level increases to 48md/dL, the serum creatinine level increases to 5 mg/dL, and the urine output decreases. He undergoes hemodialysis for the next 2 weeks and then develops marked polyuria, with urine output of 2 to 3L per day. His recovery is complicated by bronchopneumonia, but renal function gradually returns to normal. Which of the following histological features best characterizes the patient's transient renal disease?",
       "options": {
         "A": "Glomerular crescents in Bowman's space",
         "B": "Interstitial lymphocytic infiltrates",
@@ -2535,26 +2535,28 @@
       "answers": [
         "A"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-3.jpg"
     },
     {
       "type": "single",
-      "title": "A 77-year-old man has had increasing difficulties with urination for the past 2 years. He has difficulty starting and stopping the urine stream. On physical examination, his temperature is 37.0 °C and blood pressure is 130/85 mmHg.The representative gross appearance of the bladder is shown. Which of the following laboratory findings is most likely to be reported in this patient?[图片]",
+      "title": "A 77-year-old man has had increasing difficulties with urination for the past 2 years. He has difficulty starting and stopping the urine stream. On physical examination, his temperature is 37.0°C and blood pressure is 130/85 mmHg. The representative gross appearance of the bladder is shown. Which of the following laboratory findings is most likely to be reported in this patient?",
       "options": {
         "A": "Positive ANA test result",
         "B": "Urine culture positive for Mycobacterium tuberculosis",
-        "C": "Hemoglobin concentration 225g/dL",
+        "C": "Hemoglobin concentration 225 g/dL",
         "D": "Schistosoma haematobium eggs in urine",
-        "E": "Prostate-specific antigen level of 5ng/mL"
+        "E": "Prostate-specific antigen level of 5 ng/mL"
       },
       "answers": [
         "E"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-3.jpg"
     },
     {
       "type": "single",
-      "title": "A 25-year-old woman experiences a sudden onset of fever, malaise, and nausea. Her temperature is 38.2°C, pulse 85/min, respirations 18/min, and blood pressure 140/90mmHg. A routine urinalysis shows 1+ proteinuria, 4+ hematuria, and no ketones or glucose. RBC casts are seen on microscopic examination of the urine. A renal biopsy is performed, and light microscopic examination shows marked glomerular hypercellularity with neutrophils in the glomerular capillary loops. Immunofluorescence microscopy shows granular deposition of IgG and C3 in glomerular capillary basement membranes. Electron microscopy shows electron-dense subepithelial \"humps\". Which of the following is the most likely diagnosis?",
+      "title": "A 25-year-old woman experiences a sudden onset of fever, malaise, and nausea. Her temperature is 38.2°C , pulse 85/min, respirations 18/min, and blood pressure 140/90 mmHg. A routine urinalysis shows 1+ proteinuria, 4+ hematuria, and no ketones or glucose. RBC casts are seen on microscopic examination of the urine. A renal biopsy is performed, and light microscopic examination shows marked glomerular hypercellularity with neutrophils in the glomerular capillary loops. Immunofluorescence microscopy shows granular deposition of IgG and C3 in glomerular capillary basement membranes. Electron microscopy shows electron-dense subepithelial \"humps\"-0.25em. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Goodpasture syndrome",
         "B": "Systemic amyloidosis",
@@ -2569,7 +2571,7 @@
     },
     {
       "type": "single",
-      "title": "The parents of a 6-year-old girl notice that she has become increasingly lethargic over the past 2 weeks. On examination by the physician, she has puffiness around the eyes. Laboratory findings show a serum creatinine level of 0.7 mg/dL and a urea nitrogen level of 12 md/dL. Urinalysis shows 4+ proteinuria, and no blood or glucose. The 24-hour urine protein level is 3.8g. The child's condition improves after a course of glucocorticoid therapy. Which of the following electron microscopic findings is most likely to characterize this disease process?",
+      "title": "The parents of a 6-year-old girl notice that she has become increasingly lethargic over the past 2 weeks. On examination by the physician, she has puffiness around the eyes. Laboratory findings show a serum creatinine level of 0.7 mg/dL and a urea nitrogen level of 12 md/dL. Urinalysis shows 4+ proteinuria, and no blood or glucose. The 24-hour urine protein level is 3.8 g . The child's condition improves after a course of glucocorticoid therapy. Which of the following electron microscopic findings is most likely to characterize this disease process?",
       "options": {
         "A": "Subepithelial electron-dense humps",
         "B": "Effacement of podocyte foot processes",
@@ -2584,7 +2586,7 @@
     },
     {
       "type": "single",
-      "title": "Several days after a mild upper respiratory infection, a 29-year-old man begins passing dark red-brown urine. The dark urine persists for the next 3 days and then becomes clear and yellow, only to become red-brown again 1 month later. There are no remarkable findings on physical examination. Urinalysis shows 3+ hematuria, 1+ proteinuria, and no glucose or ketones. Microscopic examination of the urine shows RBCs and no WBCs, casts, or crystals. The 24-hour urine protein level is 200mg. A renal biopsy for evaluation of the glomeruli in this patient is most likely to show which of the following alterations?",
+      "title": "Several days after a mild upper respiratory infection, a 29-year-old man begins passing dark red-brown urine. The dark urine persists for the next 3 days and then becomes clear and yellow, only to become red-brown again 1 month later. There are no remarkable findings on physical examination. Urinalysis shows 3+ hematuria, 1+ proteinuria, and no glucose or ketones. Microscopic examination of the urine shows RBCs and no WBCs, casts, or crystals. The 24-hour urine protein level is 200 mg. A renal biopsy for evaluation of the glomeruli in this patient is most likely to show which of the following alterations?",
       "options": {
         "A": "Thrombosis in the glomerular capillaries",
         "B": "Diffuse proliferation and basement membrane thickening",
@@ -2614,7 +2616,7 @@
     },
     {
       "type": "single",
-      "title": "A 49-year-old man who is a long-term smoker presents with frequency and hematuria. Histologic examination of sections taken from an exophytic lesion of the urinary bladder reveals groups of atypical cells with frequent mitoses forming finger-like projections that have thin, fibrovascular cores. These groups of atypical cells do not extend into the lamina propria and muscularis. No glands or keratin production are found. Which of the following is the most likely diagnosis?",
+      "title": "A 49-year-old man who is a long-term smoker presents with frequency and hematuria. Histologic examination of sections taken from an exophytic lesion of the urinary bladder reveals groups of atypical cells with frequent mitoses forming finger-like projections that have thin, fibrovascular cores. These groups of atypical cells do not extend into the lamina propria and muscularis. No glands or keratin production are found. Which of the fol-lowing is the most likely diagnosis?",
       "options": {
         "A": "Adenocarcinoma, noninvasive",
         "B": "Inverted papilloma, noninvasive",
@@ -2648,9 +2650,9 @@
       "options": {
         "A": "MET gene",
         "B": "PRCC gene",
-        "C": "p16INK4a gene",
-        "D": "VHLgene",
-        "E": "WT-1 gene[图片]"
+        "C": "p16/INK4A gene",
+        "D": "VHL gene",
+        "E": "WT-1 gene"
       },
       "answers": [
         "E"
@@ -2659,7 +2661,7 @@
     },
     {
       "type": "single",
-      "title": "A 58-year-old man presents with left-sided costovertebral pain and gross hematuria. A large mass is found in the upper pole of one of his kidneys, as seen in the picture. Which of the following histologicchanges is most likely to be seen when examining microscopic sections from this mass?",
+      "title": "A 58-year-old man presents with left-sided costovertebral pain and gross hematuria. A large mass is found in the upper pole of one of his kidneys, as seen in the picture. Which of the following histologic changes is most likely to be seen when examining microscopic sections from this mass?",
       "options": {
         "A": "Groups and sheets of transitional epithelial cells",
         "B": "Immature tubules and abortive glomerular formation",
@@ -2670,7 +2672,8 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-1.jpg"
     },
     {
       "type": "single",
@@ -2680,16 +2683,17 @@
         "B": "Multiple small petechial hemorrhages on the surface",
         "C": "Diffuse, irregular cortical scars overlying dilated calyces",
         "D": "Cortical scars overlying dilated calyces in the renal poles",
-        "E": "Depressed cortical areas overlyingnecrotic papillae of varying stages"
+        "E": "Depressed cortical areas overlying necrotic papillae of varying stages"
       },
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-2.jpg"
     },
     {
       "type": "single",
-      "title": "A 67-year-old woman presents with signs of slowly progressive renal failure. Physical examination reveals mild hypertension, while laboratory tests find increased serum creatinine and BUN with mild proteinuria. A few scat-tered neutrophils and rare bacteria are seen microscopically in her urine. Grossly both of her kidneys are small and irregular with dilation of the renal pelvis and clubbing of the calyces, and these changes are similar in appearance to those seen in the picture below. Histologic sections from her kidneys reveal chronic inflammation of the interstitium. Which one of the following additional microscopic findings should be present in these histologic sections?[图片]",
+      "title": "A 67-year-old woman presents with signs of slowly progressive renal failure. Physical examination reveals mild hypertension, while laboratory tests find increased serum creatinine and BUN with mild proteinuria. A few scat-tered neutrophils and rare bacteria are seen microscopically in her urine. Grossly both of her kidneys are small and irregular with dilation of the renal pelvis and clubbing of the calyces, and these changes are similar in appearance to those seen in the picture below. Histologic sections from her kidneys reveal chronic inflammation of the interstitium. Which one of the following additional microscopic findings should be present in these histologic sections?",
       "options": {
         "A": "The renal papillae should have numerous activated macrophages",
         "B": "The tubules should be dilated and filled with colloid casts",
@@ -2700,7 +2704,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-2.jpg"
     },
     {
       "type": "single",
@@ -2719,7 +2724,7 @@
     },
     {
       "type": "single",
-      "title": "A 50-year-old man presents with increasing peripheral edema and dark, tea-colored urine. Laboratory examination finds decreased serum albumin, while examination of a 24h urine specimen reveals marked proteinuria. Microscopic examination of this patient's urine reveals numerous red cells along with rare red cell casts. Electron microscopic examination of a renal biopsy from this patient reveals dense, ribbon-like deposits in the lamina densa of the glomerular basement mem-brane. Which of the following is the most likely diagnosis?",
+      "title": "A 50-year-old man presents with increasing peripheral edema and dark, tea-colored urine. Laboratory examination finds decreased serum albumin, while examination of a 24 h urine specimen reveals marked proteinuria. Microscopic examination of this patient's urine reveals numerous red cells along with rare red cell casts. Electron microscopic examination of a renal biopsy from this patient reveals dense, ribbon-like deposits in the lamina densa of the glomerular basement membrane. Which of the following is the most likely diagnosis?",
       "options": {
         "A": "Acute glomerulonephritis",
         "B": "IgA nephropathy",
@@ -2779,7 +2784,7 @@
     },
     {
       "type": "single",
-      "title": "A 75-year-old man gets up several times during a football match to go to the restroom to urinate, even though he has had only one beer. This is a problem that has plagued him for several years. When he visits his physician for a checkup, on physical examination he has an enlarged, nodular prostate palpated on digital rectal examination. Laboratory studies show his serum prostate specific antigen is 5ng/mL. Which of the following pathologic findings is most likely to be present on prostate biopsy in this man?",
+      "title": "A 75-year-old man gets up several times during a football match to go to the restroom to urinate, even though he has had only one beer. This is a problem that has plagued him for severa1 years. When he visits his physician for a checkup, on physical examination he has an enlarged, nodular prostate palpated on digital rectal examination. Laboratory studies show his serum prostate specific antigen is 5 ng/mL. Which of the following pathologic findings is most likely to be present on prostate biopsy in this man?",
       "options": {
         "A": "Adenocarcinoma",
         "B": "Acute inflammation",
@@ -2872,8 +2877,8 @@
       "title": "A clinical study is performed with pediatric subjects who have minimal change disease. These patients are observed to have prominent periorbital edema. Laboratory test findings from serum and urine tests are analyzed. Which of the following laboratory test findings is most likely to be consistently present in these subjects?",
       "options": {
         "A": "Nitrite positive urinalysis specimen",
-        "B": "Proteinuria >3.5 gm/24 hours",
-        "C": "Hematuria with >10 RBC/hpf",
+        "B": "Proteinuria > 3.5 g/24 hours",
+        "C": "Hematuria with > 10 RBC/hpf",
         "D": "Renal tubular epithelial cells and casts",
         "E": "Lipiduria in association with hypercholesterolemia"
       },
@@ -3034,7 +3039,7 @@
     },
     {
       "type": "single",
-      "title": "The kidney shown in the photomicrograph below exhibits a tumor that originated in the upper pole. Histologic sections from this lesion would most likely reveal which of the following carcinomas?[图片]",
+      "title": "The kidney shown in the photomicrograph below exhibits a tumor that originated in the upper pole. Histologic sections from this lesion would most likely reveal which of the following carcinomas?",
       "options": {
         "A": "Squamous cell carcinoma",
         "B": "Small cell carcinoma",
@@ -3045,7 +3050,8 @@
       "answers": [
         "D"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-1.jpg"
     },
     {
       "type": "single",
@@ -3060,11 +3066,12 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-1.jpg"
     },
     {
       "type": "single",
-      "title": "A 55-year-old male is found to have a 3.0-cm “coin lesion” in the upper lobe of his left lung. The lesion is removed surgically, and histologic sections reveal sheets of malignant cells with clear cytoplasm (clear cell carcinoma). This lung lesion is most likely a metastasis from which of the following sites?",
+      "title": "A 55-year-old male is found to have a 3.0-cm \"coin lesion\" in the upper lobe of his left lung. The lesion is removed surgically, and histologic sections reveal sheets of malignant cells with clear cytoplasm (clear cell carcinoma). This lung lesion is most likely a metastasis from which of the following sites?",
       "options": {
         "A": "Breast",
         "B": "Appendix",
@@ -3139,7 +3146,7 @@
     },
     {
       "type": "single",
-      "title": "The gross appearance of the kidney shown below is most compatible with which of the following conditions?[图片]",
+      "title": "The gross appearance of the kidney shown below is most compatible with which of the following conditions?",
       "options": {
         "A": "Chronic glomerulonephritis",
         "B": "Acute glomerulonephritis",
@@ -3150,7 +3157,8 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-2.jpg"
     },
     {
       "type": "single",
@@ -3165,7 +3173,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/8-chap8-2.jpg"
     },
     {
       "type": "single",
@@ -3184,7 +3193,7 @@
     },
     {
       "type": "single",
-      "title": "A 2-year-old boy has an abdominal massand undergoes diagnostic biopsy. The tumor reveals a variety of cellular patterns including dense immature islands of epithelial cells, ribbons of spindled fibroblast-like stromal cells, and poorly formed tubular structures. This triphasic histology is most suggestive of which of the following childhood neoplasms?",
+      "title": "A 2-year-old boy has an abdominal mass and undergoes diagnostic biopsy. The tumor reveals a variety of cellular patterns including dense immature islands of epithelial cells, ribbons of spindled fibroblast-like stromal cells, and poorly formed tubular structures. This triphasic histology is most suggestive of which of the following childhood neoplasms?",
       "options": {
         "A": "Embryonal rhabdomyosarcoma",
         "B": "Wilms' tumor",
@@ -3319,7 +3328,7 @@
     },
     {
       "type": "single",
-      "title": "A 5-year-old boy has developed a \"puffy face.\" On examination, the child has marked periorbital edema, and pitting edema of both the hands and feet. His cardiac examination is unremarkable and he has no splenomegaly or signs of liver disease. Laboratory values are notable for decreased serum albumin and increased total cholesterol. A urinalysis reveals 4+ proteinuria but no red blood cells, whiteblood cells, or casts. The most likely cause of this child's disease is",
+      "title": "A 5-year-old boy has developed a \"puffy face.\" On examination, the child has marked periorbital edema, and pitting edema of both the hands and feet. His cardiac examination is unremarkable and he has no splenomegaly or signs of liver disease. Laboratory values are notable for decreased serum albumin and increased total cholesterol. A urinalysis reveals 4+ proteinuria but no red blood cells, white blood cells, or casts. The most likely cause of this child's disease is",
       "options": {
         "A": "Wegener's granulomatosis",
         "B": "Systemic lupus erythematosus",
@@ -3399,7 +3408,7 @@
         "A": "Electron-dense subendothelial deposits",
         "B": "Electron-dense subepithelial hump deposits",
         "C": "GBM damaged seriously",
-        "D": "Diffuse fusion and loss of thepodocyte foot processes",
+        "D": "Diffuse fusion and loss of the podocyte foot processes",
         "E": "Diffuse thickening of the GBM with spikes"
       },
       "answers": [
@@ -3445,7 +3454,7 @@
         "B": "Electron-dense subepithelial hump deposits",
         "C": "Poststreptococcal infection",
         "D": "Very poor prognosis",
-        "E": "TypeIII hypersensitivity reactions"
+        "E": "Type III hypersensitivity reactions"
       },
       "answers": [
         "D"
@@ -3454,7 +3463,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is characteristic ofmesangial proliferative glomerulonephritis?",
+      "title": "Which of the following is characteristic of mesangial proliferative glomerulonephritis?",
       "options": {
         "A": "Electron-dense deposits in the mesangium and subendothelium",
         "B": "Electron-dense deposits in the mesangium",
@@ -3517,7 +3526,7 @@
       "title": "Glomerulonephritis is:",
       "options": {
         "A": "Type II hypersensitivity reaction",
-        "B": "Type II and typeIIIhypersensitivity reaction",
+        "B": "Type II and type III hypersensitivity reaction",
         "C": "Type IV hypersensitivity reaction",
         "D": "Type III hypersensitivity reaction",
         "E": "Type I hypersensitivity reactions"
@@ -3834,7 +3843,7 @@
         "A": "Ureter",
         "B": "Anterior wall of bladder",
         "C": "Renal pelvis",
-        "D": "Trigone and lateral wall of bladder",
+        "D": "Ttrigone and lateral wall of bladder",
         "E": "Dome of bladder"
       },
       "answers": [

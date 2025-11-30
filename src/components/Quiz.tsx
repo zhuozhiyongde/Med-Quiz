@@ -602,6 +602,17 @@ export function Quiz({ data }: QuizProps) {
 
                                             <p className="text-theme-text mb-4 text-sm md:text-base">{q.title}</p>
 
+                                            {q.image && (
+                                                <div className="mb-4">
+                                                    <img
+                                                        src={q.image}
+                                                        alt="题目配图"
+                                                        className="max-w-full h-auto rounded-md border border-theme-border mx-auto"
+                                                        style={{ maxHeight: '250px', objectFit: 'contain' }}
+                                                    />
+                                                </div>
+                                            )}
+
                                             <div className="space-y-2 mb-4">
                                                 {Object.entries(q.options).map(([key, value]) => {
                                                     const isCorrectAnswer = q.answers.includes(key);
@@ -739,6 +750,16 @@ export function Quiz({ data }: QuizProps) {
                         <h2 className="text-base md:text-lg text-theme-text leading-relaxed">
                             {currentQuestion.title}
                         </h2>
+                        {currentQuestion.image && (
+                            <div className="mt-4">
+                                <img
+                                    src={currentQuestion.image}
+                                    alt="题目配图"
+                                    className="max-w-full h-auto rounded-md border border-theme-border mx-auto"
+                                    style={{ maxHeight: '300px', objectFit: 'contain' }}
+                                />
+                            </div>
+                        )}
                     </div>
 
                     <div className="p-3 md:p-4 space-y-2">

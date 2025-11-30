@@ -27,13 +27,6 @@
       "title": "局部解剖学",
       "description": "本解析依据「局部解剖学在线闯关网站」整理",
       "enable_chapters": true
-    },
-    {
-      "input_file": "病理学.txt",
-      "slug": "bl",
-      "title": "病理学",
-      "description": "本解析依据「病理学题库」整理",
-      "enable_chapters": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 ## 呼吸系统疾病
 
-最常见的慢性阻塞性肺病是
+1. 最常见的慢性阻塞性肺病是
 A. 支气管扩张
 B. 支气管哮喘
 C. 慢性支气管炎
@@ -8,7 +8,7 @@ D. 矽肺
 E. 慢性空洞性肺结核
 【参考答案】 C
 
-不符合慢性支气管炎的描述是
+2. 不符合慢性支气管炎的描述是
 A. 可引起肺心病
 B. 可引起肺气肿
 C. 吸烟是常见的原因
@@ -16,7 +16,7 @@ D. 可伴喘息症状
 E. 支气管呈囊性扩张
 【参考答案】 E
 
-与慢性支气管炎发病无关的是
+3. 与慢性支气管炎发病无关的是
 A. 呼吸道反复病毒感染
 B. 肺孢子虫感染
 C. 呼吸道细菌感染
@@ -24,7 +24,7 @@ D. 大气污染
 E. 吸烟
 【参考答案】 B
 
-慢性支气管炎的临床表现是
+4. 慢性支气管炎的临床表现是
 A. 慢性咳嗽
 B. 咳铁锈色痰
 C. 肺实变
@@ -32,7 +32,7 @@ D. 最大通气量明显降低
 E. 大咯血
 【参考答案】 A
 
-慢性支气管炎的主要病变不包括
+5. 慢性支气管炎的主要病变不包括
 A. 粘膜上皮纤毛脱落、倒伏
 B. 肉芽肿形成
 C. 粘液腺肥大
@@ -40,7 +40,7 @@ D. 管壁淋巴细胞、浆细胞浸润
 E. 鳞状上皮化生
 【参考答案】 B
 
-慢性支气管炎患者通气功能障碍的病理基础是
+6. 慢性支气管炎患者通气功能障碍的病理基础是
 A. 粘液腺肥大、增生
 B. 上皮纤毛倒伏、脱落
 C. 软骨变性萎缩
@@ -48,7 +48,7 @@ D. 小气道阻塞
 E. 管壁平滑肌萎缩
 【参考答案】 D
 
-女性, 50岁, 慢性咳嗽, 咳白色泡沫粘痰, 每年秋冬发作, 持续三个月左右。不符合该患者疾病的描述是
+7. 女性，50 岁，慢性咳嗽，咳白色泡沫粘痰，每年秋冬发作，持续三个月左右。不符合该患者疾病的描述是
 A. 可发生肺气肿
 B. 可发生支气管肺炎
 C. 可发生肺源性心脏病
@@ -56,7 +56,7 @@ D. 可发生支气管扩张
 E. 可发生鳞状上皮化生
 【参考答案】 D
 
-女性, 50岁, 慢性咳嗽, 咳白色泡沫粘痰, 每年秋冬发作, 持续三个月左右。不符合该患者疾病的描述是
+8. 女性，50 岁，慢性咳嗽，咳白色泡沫粘痰，每年秋冬发作，持续三个月左右。不符合该患者疾病的描述是
 A. 支气管粘膜上皮变性坏死
 B. 支气管粘膜上皮杯状细胞增多
 C. 支气管粘液腺肥大
@@ -64,15 +64,15 @@ D. 支气管软骨变性萎缩
 E. 支气管壁弹力纤维增生
 【参考答案】 E
 
-不符合急性细支气管炎的特点是
-A. 累及管径<2mm 的细支气管
+9. 不符合急性细支气管炎的特点是
+A. 累及管径 < 2 mm 的细支气管
 B. 常见于婴幼儿
-C. 多由流感杆菌、葡萄球菌等细菌感染引起155
+C. 多由流感杆菌、葡萄球菌等细菌感染引起
 D. 多引起喘憋性呼吸困难
 E. 可引起呼吸衰竭
 【参考答案】 C
 
-急性细支气管炎出现呼吸困难的主要病变基础是
+10. 急性细支气管炎出现呼吸困难的主要病变基础是
 A. 细支气管上皮坏死脱落
 B. 细支气管管腔内炎性渗出物阻塞
 C. 肺间质炎细胞浸润
@@ -80,15 +80,15 @@ D. 肺萎陷
 E. 急性阻塞性肺气肿
 【参考答案】 B
 
-不符合支气管哮喘的描述是
-A. 属Ⅰ型超敏反应性疾病
+11. 不符合支气管哮喘的描述是
+A. 属I型超敏反应性疾病
 B. 有多种炎症介质参与
 C. 支气管内大量粘液分泌
 D. 支气管壁多量嗜碱粒细胞浸润
 E. 支气管平滑肌痉挛
 【参考答案】 D
 
-引起支气管哮喘的主要原因是
+12. 引起支气管哮喘的主要原因是
 A. 支气管粘膜内杯状细胞增多
 B. 支气管粘膜水肿
 C. 支气管壁平滑肌痉挛
@@ -96,7 +96,7 @@ D. 支气管腔内粘液增多
 E. 支气管管壁炎细胞浸润
 【参考答案】 C
 
-符合支气管哮喘的描述是
+13. 符合支气管哮喘的描述是
 A. 单基因遗传病
 B. 常染色体显性遗传病
 C. 常染色体隐性遗传病
@@ -104,7 +104,7 @@ D. 多因素遗传病
 E. 性连锁遗传病
 【参考答案】 D
 
-不符合支气管哮喘的描述是
+14. 不符合支气管哮喘的描述是
 A. 多种炎细胞参与
 B. 多种炎症介质参与
 C. 多种细胞因子参与
@@ -112,7 +112,7 @@ D. 嗜酸粒细胞是最主要的效应细胞
 E. 气道的高反应性是重要特征
 【参考答案】 D
 
-不符合支气管哮喘病变的描述是
+15. 不符合支气管哮喘病变的描述是
 A. 可见胆固醇结晶
 B. 可见 Curschmann 螺旋
 C. 支气管内粘液栓填塞
@@ -120,7 +120,7 @@ D. 支气管壁多量炎细胞浸润
 E. 支气管平滑肌肥厚
 【参考答案】 A
 
-不符合支气管哮喘的合并症的描述是
+16. 不符合支气管哮喘的合并症的描述是
 A. 可引起肺气肿
 B. 可引起肺炎
 C. 可引起肺心病
@@ -128,15 +128,15 @@ D. 可引起支气管扩张
 E. 不引起急性死亡
 【参考答案】 E
 
-引起肺气肿的因素有
+17. 引起肺气肿的因素有
 A. 小气道的狭窄、阻塞
 B. 肺泡壁破坏、弹性减弱
 C. 弹性蛋白酶增多
-D. 遗传性 a₁-抗胰蛋白酶缺乏
+D. 遗传性α_1-抗胰蛋白酶缺乏
 E. 以上都是
 【参考答案】 E
 
-腺泡中央型肺气肿病变主要累及
+18. 腺泡中央型肺气肿病变主要累及
 A. 肺泡管
 B. 终末细支气管
 C. 肺泡囊
@@ -144,7 +144,7 @@ D. 呼吸性细支气管
 E. 细支气管
 【参考答案】 D
 
-累及肺腺泡各部分的肺气肿为
+19. 累及肺腺泡各部分的肺气肿为
 A. 腺泡中央型
 B. 全腺泡型
 C. 腺泡周围型
@@ -152,7 +152,7 @@ D. 间质性肺气肿
 E. 不规则型
 【参考答案】 B
 
-在小叶间隔与肺膜连接处形成串珠状156小气泡, 应诊断为
+20. 在小叶间隔与肺膜连接处形成串珠状小气泡，应诊断为
 A. 小叶周围型
 B. 不规则型
 C. 肺大泡
@@ -160,7 +160,7 @@ D. 间质性肺气肿
 E. 全小叶型
 【参考答案】 D
 
-肺气肿可导致
+21. 肺气肿可导致
 A. 肺源性心脏病
 B. 自发性气胸
 C. 肺性脑病
@@ -168,7 +168,7 @@ D. 筒状胸
 E. 以上都是
 【参考答案】 E
 
-肺气肿的病变累及
+22. 肺气肿的病变累及
 A. 肺泡
 B. 终末细支气管
 C. 呼吸性细支气管
@@ -176,15 +176,15 @@ D. 肺泡管
 E. 以上都是
 【参考答案】 E
 
-全腺泡型肺气肿的主要原因是
+23. 全腺泡型肺气肿的主要原因是
 A. 小气道阻塞
 B. 支气管壁炎细胞浸润
 C. 肺组织炎细胞浸润
-D. 先天性 α₁-抗胰蛋白酶缺乏
+D. 先天性α_1-抗胰蛋白酶缺乏
 E. 支气管壁扩张
 【参考答案】 D
 
-女性, 60岁, 慢性支气管炎近10年,近3年来感觉气短、胸闷、呼吸困难。查体: 桶状胸, 胸廓呼吸运动减弱;叩诊呈过清音, 心浊音界缩小, 肝浊音界下降; 听诊呼吸音减弱。不符合该患者疾病的描述是
+24. 女性，60 岁，慢性支气管炎近 10 年，近 3 年来感觉气短、胸闷、呼吸困难。查体：桶状胸，胸廓呼吸运动减弱；叩诊呈过清音，心浊音界缩小，肝浊音界下降；听诊呼吸音减弱。不符合该患者疾病的描述是
 A. 肺泡扩张
 B. 肺泡间隔变窄
 C. 肺泡融合成囊泡状
@@ -192,7 +192,7 @@ D. 肺间质广泛纤维化
 E. 肺组织膨胀
 【参考答案】 D
 
-下列疾病中, 最常引起肺心病者是
+25. 下列疾病中，最常引起肺心病者是
 A. 肺动脉栓塞
 B. 胸廓畸形
 C. 矽肺
@@ -200,23 +200,23 @@ D. 慢性肺结核
 E. 肺气肿
 【参考答案】 E
 
-诊断肺心病的主要标准是
+26. 诊断肺心病的主要标准是
 A. 心脏增大
 B. 心尖钝圆
 C. 右心室扩张
 D. 肺动脉圆锥膨隆
-E. 肺动脉下 2cm 处右心室壁厚超过5mm
+E. 肺动脉下 2 cm 处右心室壁厚超过 5 mm
 【参考答案】 E
 
-肺心病的心肌病变不包括
-A. 心肌细胞肥大, 核大深染
-B. 心肌细胞增生, 数目增多
+27. 肺心病的心肌病变不包括
+A. 心肌细胞肥大，核大深染
+B. 心肌细胞增生，数目增多
 C. 心肌纤维萎缩、变细
 D. 心肌细胞肌浆溶解
 E. 心肌间质纤维化
 【参考答案】 B
 
-肺心病时, 肺内小动脉的变化不包括
+28. 肺心病时，肺内小动脉的变化不包括
 A. 小动脉炎
 B. 小动脉玻璃样变
 C. 无肌性细动脉肌化
@@ -224,15 +224,15 @@ D. 小动脉弹力纤维增生
 E. 肌型小动脉中膜肥厚
 【参考答案】 B
 
-引起肺心病的关键环节是
+29. 引起肺心病的关键环节是
 A. 小气道阻塞
 B. 肺部感染
-C. 肺动脉高压157
+C. 肺动脉高压
 D. 肺间质纤维组织增生
 E. 肺水肿
 【参考答案】 C
 
-肺心病可引起
+30. 肺心病可引起
 A. 呼吸衰竭
 B. 心力衰竭
 C. 肺性脑病
@@ -240,7 +240,7 @@ D. DIC
 E. 以上都是
 【参考答案】 E
 
-慢性肺源性心脏病最常见的原因是
+31. 慢性肺源性心脏病最常见的原因是
 A. 矽肺
 B. 硬变性肺结核
 C. 弥漫性肺间质纤维化
@@ -248,7 +248,7 @@ D. 慢性阻塞性肺气肿
 E. 结节性多动脉炎
 【参考答案】 D
 
-引起急性肺源性心脏病的常见原因是
+32. 引起急性肺源性心脏病的常见原因是
 A. 肺脂肪栓塞
 B. 肺空气栓塞
 C. 肺总动脉主干血栓栓塞
@@ -256,7 +256,7 @@ D. 肺动脉小分支血栓栓塞
 E. 肺动脉分支肿瘤栓塞
 【参考答案】 C
 
-不符合支气管扩张特点的是
+33. 不符合支气管扩张特点的是
 A. 多发生于叶及段等大支气管
 B. 支气管壁的炎症损伤是主要发病基础
 C. 肺脓肿为其常见合并症
@@ -264,7 +264,7 @@ D. 可导致肺心病
 E. 临床表现咳大量脓痰及反复咯血
 【参考答案】 A
 
-支气管扩张常合并
+34. 支气管扩张常合并
 A. 肺肉质变
 B. 弥漫性肺气肿
 C. 肺结核
@@ -272,7 +272,7 @@ D. 肺脓肿
 E. 早期肺门淋巴结病变
 【参考答案】 D
 
-支气管扩张的发病基础是
+35. 支气管扩张的发病基础是
 A. 支气管的炎症损伤和管腔阻塞
 B. 支气管旁淋巴组织增生
 C. 支气管发育异常
@@ -280,7 +280,7 @@ D. 肺免疫功能障碍
 E. 肺内胰蛋白酶水平增高
 【参考答案】 A
 
-支气管扩张的病变不包括
+36. 支气管扩张的病变不包括
 A. 支气管呈节段性囊性扩张
 B. 囊内为脓性渗出物
 C. 支气管壁结构破坏
@@ -288,7 +288,7 @@ D. 支气管壁多量炎细胞浸润
 E. 支气管上皮呈乳头状增生
 【参考答案】 E
 
-肺炎是指
+37. 肺炎是指
 A. 各种致炎因子引起的肺的炎症
 B. 各种细菌引起的肺的炎症
 C. 各种原因引起的肺泡的炎症
@@ -296,7 +296,7 @@ D. 各种原因引起肺的急性渗出性炎症
 E. 以中性白细胞渗出为主的肺的炎症
 【参考答案】 A
 
-肺炎中最常见的病原体是
+38. 肺炎中最常见的病原体是
 A. 病毒
 B. 衣原体
 C. 支原体
@@ -304,7 +304,7 @@ D. 细菌
 E. 真菌
 【参考答案】 D
 
-在肺炎的诊治中, 最重要的是
+39. 在肺炎的诊治中，最重要的是
 A. 确定炎症的部位
 B. 确定炎症的类型
 C. 确定炎症的分布特点
@@ -312,7 +312,7 @@ D. 确定炎症的严重程度和病原体
 E. 确定感染的途径
 【参考答案】 D
 
-医院内肺炎常见的病原体是158
+40. 医院内肺炎常见的病原体是
 A. 肺炎链球菌等多见
 B. 绿脓杆菌及其他假单胞菌等多见
 C. 厌氧菌多见
@@ -320,7 +320,7 @@ D. 病毒多见
 E. 支原体多见
 【参考答案】 B
 
-不符合小叶性肺炎的是
+41. 不符合小叶性肺炎的是
 A. 由多种致病菌引起
 B. 常为其他疾病的合并症
 C. 病变呈灶状、小叶分布
@@ -328,7 +328,7 @@ D. 病变为纤维素性炎
 E. 可导致支气管扩张
 【参考答案】 D
 
-小叶性肺炎的典型病变是
+42. 小叶性肺炎的典型病变是
 A. 支气管急性卡他性炎
 B. 以细支气管为中心的小叶性化脓性炎
 C. 肺泡的纤维素性炎
@@ -336,7 +336,7 @@ D. 肺泡出血性炎
 E. 肺间质非化脓性炎
 【参考答案】 B
 
-不符合小叶性肺炎的是
+43. 不符合小叶性肺炎的是
 A. 主要由病毒引起
 B. 小叶和小叶融合性病变
 C. 病变以肺的背部和下部较重
@@ -344,7 +344,7 @@ D. 可导致心力衰竭
 E. 可引起肺脓肿
 【参考答案】 A
 
-不符合小叶性肺炎的是
+44. 不符合小叶性肺炎的是
 A. 由多种细菌引起
 B. 病变从细支气管开始
 C. 属化脓性炎症
@@ -352,7 +352,7 @@ D. 常咳铁锈色痰
 E. 可破坏肺泡壁
 【参考答案】 D
 
-小叶性肺炎一般不引起
+45. 小叶性肺炎一般不引起
 A. 肺肉质变
 B. 脓胸
 C. 脓毒败血症
@@ -360,7 +360,7 @@ D. 支气管扩张
 E. 肺脓肿
 【参考答案】 A
 
-不属于小叶性肺炎的是
+46. 不属于小叶性肺炎的是
 A. 麻疹后肺炎
 B. 病毒性肺炎
 C. 手术后肺炎
@@ -368,7 +368,7 @@ D. 吸入性肺炎
 E. 坠积性肺炎
 【参考答案】 B
 
-男性, 80岁, 直肠癌根治术后2周。7天来发热(39℃)、咳嗽、咳粘液脓痰。查体: 双肺下叶背侧可闻及湿罗音。X线见双肺下叶散在不规则斑片状模糊阴影。符合该患者疾病的描述是
+47. 男性，80 岁，直肠癌根治术后 2 周。7 天来发热（39°C）、咳嗽、咳粘液脓痰。查体：双肺下叶背侧可闻及湿罗音。X 线见双肺下叶散在不规则斑片状模糊阴影。符合该患者疾病的描述是
 A. 肺泡纤维素性炎
 B. 支气管肺泡化脓性炎
 C. 间质性肺炎
@@ -376,7 +376,7 @@ D. 病毒性肺炎
 E. 支原体性肺炎
 【参考答案】 B
 
-男性, 80岁, 直肠癌根治术后2周。7天来发热(39℃)、咳嗽、咳粘液脓痰。查体: 双肺下叶背侧可闻及湿罗音。X线见双肺下叶散在不规则斑片状模糊阴影。不符合该患者疾病的合并症的描述是
+48. 男性，80 岁，直肠癌根治术后 2 周。7 天来发热（39°C）、咳嗽、咳粘液脓痰。查体：双肺下叶背侧可闻及湿罗音。X 线见双肺下叶散在不规则斑片状模糊阴影。不符合该患者疾病的合并症的描述是
 A. 中毒性休克
 B. 肺脓肿
 C. 脓胸
@@ -384,7 +384,7 @@ D. 肺栓塞
 E. 心力衰竭
 【参考答案】 D
 
-大叶性肺炎的病变属于159
+49. 大叶性肺炎的病变属于
 A. 化脓性炎
 B. 出血性炎
 C. 纤维素性炎
@@ -392,7 +392,7 @@ D. 浆液性炎
 E. 肉芽肿性炎
 【参考答案】 C
 
-大叶性肺炎发生肺肉质变是因为
+50. 大叶性肺炎发生肺肉质变是因为
 A. 局部组织缺血
 B. 纤维素渗出过多
 C. 机体抵抗力降低
@@ -400,7 +400,7 @@ D. 吞噬细胞数量少或功能障碍
 E. 合并其他细菌感染
 【参考答案】 D
 
-不符合大叶性肺炎的描述是
+51. 不符合大叶性肺炎的描述是
 A. 多由肺炎链球菌感染引起
 B. 累及整个或多个大叶
 C. 属于纤维素性炎
@@ -408,7 +408,7 @@ D. 破坏小支气管壁和肺泡壁结构
 E. 咳铁锈色痰
 【参考答案】 D
 
-大叶性肺炎的合并症有
+52. 大叶性肺炎的合并症有
 A. 肺肉质变
 B. 感染性休克
 C. 纤维素性胸膜炎
@@ -416,7 +416,7 @@ D. 肺脓肿
 E. 以上都是
 【参考答案】 E
 
-大叶性肺炎合并金黄色葡萄球菌感染可引起
+53. 大叶性肺炎合并金黄色葡萄球菌感染可引起
 A. 败血症
 B. 肺脓肿
 C. 脓胸
@@ -424,7 +424,7 @@ D. 感染性休克
 E. 以上都是
 【参考答案】 E
 
-不符合大叶性肺炎病理变化的描述是
+54. 不符合大叶性肺炎病理变化的描述是
 A. 肺泡腔内浆液渗出
 B. 肺泡腔内纤维素渗出
 C. 肺泡腔内可有红细胞
@@ -432,7 +432,7 @@ D. 肺泡腔内中性粒细胞渗出
 E. 肺泡腔内多量心力衰竭细胞
 【参考答案】 E
 
-男性, 30岁, 2天前上呼吸道感染, 病情迅速加重, 发热(39.8℃), 伴寒战、胸痛、咳嗽、咳铁锈色痰。X线检查见左肺下叶大片致密阴影。符合该患者疾病的描述是
+55. 男性，30 岁，2 天前上呼吸道感染，病情迅速加重，发热（39.8°C），伴寒战、胸痛、咳嗽、咳铁锈色痰。X 线检查见左肺下叶大片致密阴影。符合该患者疾病的描述是
 A. 大叶性肺炎
 B. 小叶性肺炎
 C. 间质性肺炎
@@ -440,7 +440,7 @@ D. 病毒性肺炎
 E. 支原体性肺炎
 【参考答案】 A
 
-男性, 30岁, 2天前上呼吸道感染, 病情迅速加重, 发热(39.8℃), 伴寒战、胸痛、咳嗽、咳铁锈色痰。X线检查见左肺下叶大片致密阴影。不符合该患者疾病的描述是
+56. 男性，30 岁，2 天前上呼吸道感染，病情迅速加重，发热（39.8°C），伴寒战、胸痛、咳嗽、咳铁锈色痰。X 线检查见左肺下叶大片致密阴影。不符合该患者疾病的描述是
 A. 可合并中毒性休克
 B. 可合并肺脓肿
 C. 可合并肺肉质变
@@ -448,7 +448,7 @@ D. 可合并支气管扩张
 E. 可合并胸膜炎
 【参考答案】 D
 
-病毒性肺炎的特点中不包括
+57. 病毒性肺炎的特点中不包括
 A. 多由上呼吸道病毒感染蔓延引起
 B. 炎症主要累及肺间质
 C. 肺泡内可有浆液渗出
@@ -456,7 +456,7 @@ D. 肺组织可出现片状坏死
 E. 细胞内可出现包涵体
 【参考答案】 D
 
-病毒性肺炎具有诊断价值的组织学特点是
+58. 病毒性肺炎具有诊断价值的组织学特点是
 A. 肺间质中单核细胞、淋巴细胞浸润
 B. 肺泡腔内浆液渗出
 C. 肺泡上皮细胞增生
@@ -464,15 +464,15 @@ D. 胞浆内和胞核内出现包涵体
 E. 细支气管上皮增生
 【参考答案】 D
 
-麻疹病毒性肺炎的特点是
+59. 麻疹病毒性肺炎的特点是
 A. 间质性肺炎
 B. 肺泡上皮细胞增生
 C. 形成核内包涵体
 D. 形成胞浆内包涵体
-E. 形成核内包涵体, 也形成胞浆内包涵体
+E. 形成核内包涵体，也形成胞浆内包涵体
 【参考答案】 E
 
-病毒性肺炎最常见的病原体是
+60. 病毒性肺炎最常见的病原体是
 A. 腺病毒
 B. 巨细胞病毒
 C. 流感病毒
@@ -480,7 +480,7 @@ D. 副流感病毒
 E. 鼻病毒
 【参考答案】 C
 
-病毒性肺炎中, 不形成病毒包涵体的是
+61. 病毒性肺炎中，不形成病毒包涵体的是
 A. 腺病毒
 B. 麻疹病毒
 C. 巨细胞病毒
@@ -488,7 +488,7 @@ D. 呼吸道合胞病毒
 E. 流感病毒
 【参考答案】 E
 
-病毒性肺炎的肉眼特点是
+62. 病毒性肺炎的肉眼特点是
 A. 大叶性病变
 B. 小叶性病变
 C. 斑片状病变
@@ -496,7 +496,7 @@ D. 小叶融合性病变
 E. 结节状病变
 【参考答案】 C
 
-巨细胞病毒、单纯疱疹病毒引起的肺炎多见于
+63. 巨细胞病毒、单纯疱疹病毒引起的肺炎多见于
 A. 青壮年
 B. 儿童
 C. 老年人
@@ -504,23 +504,23 @@ D. 艾滋病患者
 E. 妇女
 【参考答案】 B
 
-病毒性肺炎的确诊主要依据是
-A. X线检查
+64. 病毒性肺炎的确诊主要依据是
+A. X 线检查
 B. 血清学检查
 C. 病毒和病毒抗原的检查
 D. 病毒感染流行状况
 E. 儿童和老年人
 【参考答案】 C
 
-确诊支原体肺炎的依据是
+65. 确诊支原体肺炎的依据是
 A. 患者多为儿童和青年
-B. 起病急, 多有发热、头痛、咽痛及剧烈干性呛咳
-C. X线检查, 肺部呈段性分布的纹理增加及网状阴影
-D. 病变呈间质性炎症, 肺泡腔内可无渗出物
+B. 起病急，多有发热、头痛、咽痛及剧烈干性呛咳
+C. X 线检查，肺部呈段性分布的纹理增加及网状阴影
+D. 病变呈间质性炎症，肺泡腔内可无渗出物
 E. 以上都不是
 【参考答案】 E
 
-不符合原发性非典型性肺炎的描述是
+66. 不符合原发性非典型性肺炎的描述是
 A. 可由病毒引起
 B. 可由支原体引起
 C. 可由衣原体引起
@@ -528,7 +528,7 @@ D. 可由细菌引起
 E. 可呈间质性肺炎
 【参考答案】 D
 
-原发性非典型性肺炎的病变特点是
+67. 原发性非典型性肺炎的病变特点是
 A. 大叶性病变
 B. 小叶性病变
 C. 斑片状病变
@@ -536,7 +536,7 @@ D. 小叶融合性病变
 E. 结节状病变
 【参考答案】 C
 
-原发性非典型性肺炎的病变特点是
+68. 原发性非典型性肺炎的病变特点是
 A. 肺纤维素性炎
 B. 肺化脓性炎
 C. 肺浆液性炎
@@ -544,15 +544,15 @@ D. 肺出血性炎
 E. 肺间质性炎
 【参考答案】 E
 
-确诊支原体肺炎的可靠依据是
-A. X线检查
+69. 确诊支原体肺炎的可靠依据是
+A. X 线检查
 B. 血清学检查
 C. 病原学检查
 D. 支原体感染流行状况
 E. 排除细菌性肺炎的可能
 【参考答案】 C
 
-不符合支原体肺炎的描述是
+70. 不符合支原体肺炎的描述是
 A. 肺炎支原体不直接破坏肺组织
 B. 多有发热、头痛、咽痛及剧烈干性呛咳
 C. 病变呈斑片状阴影
@@ -560,7 +560,7 @@ D. 肺间质内淋巴单核细胞浸润
 E. 肺泡不受累
 【参考答案】 E
 
-符合支原体肺炎的描述是
+71. 符合支原体肺炎的描述是
 A. 可合并中毒性休克
 B. 可合并肺脓肿
 C. 可合并肺肉质变
@@ -568,15 +568,15 @@ D. 可合并急性支气管炎
 E. 可合并胸膜炎
 【参考答案】 D
 
-肺炎支原体的主要致病作用是
+72. 肺炎支原体的主要致病作用是
 A. 毒素
 B. 对肺组织的直接破坏作用
 C. 引起过敏反应
-D. 损伤T细胞
-E. 损伤B细胞
+D. 损伤 T 细胞
+E. 损伤 B 细胞
 【参考答案】 C
 
-军团菌肺炎的特点是
+73. 军团菌肺炎的特点是
 A. 大叶性病变
 B. 小叶性病变
 C. 斑片状病变
@@ -584,15 +584,15 @@ D. 小叶融合性病变
 E. 小叶性病变、小叶融合性病变或大叶性病变
 【参考答案】 E
 
-诊断军团菌肺炎的确切依据是
-A. X线检查
+74. 诊断军团菌肺炎的确切依据是
+A. X 线检查
 B. 尿液内抗军团菌抗体检查
 C. 支气管、肺冲洗液病原学检查
 D. 军团菌感染流行状况
 E. 病情危重
 【参考答案】 C
 
-不符合军团菌肺炎特点的是
+75. 不符合军团菌肺炎特点的是
 A. 可呈散发性
 B. 可呈流行性
 C. 病情急、死亡率高
@@ -600,7 +600,7 @@ D. 红霉素治疗效果良好
 E. 呈大叶性病变
 【参考答案】 E
 
-不符合金黄色葡萄球菌肺炎特点的是
+76. 不符合金黄色葡萄球菌肺炎特点的是
 A. 多呈大叶性病变
 B. 多呈小叶性病变
 C. 多见于医院内肺炎
@@ -608,7 +608,7 @@ D. 对青霉素有抗药性
 E. 多引起肺脓肿
 【参考答案】 A
 
-符合克雷白杆菌肺炎特点的是
+77. 符合克雷白杆菌肺炎特点的是
 A. 咳铁锈色痰
 B. 咳黄色脓痰
 C. 咳淡绿色痰
@@ -616,7 +616,7 @@ D. 咳臭味痰
 E. 咳粘冻样痰
 【参考答案】 E
 
-不符合绿脓杆菌肺炎特点的是
+78. 不符合绿脓杆菌肺炎特点的是
 A. 易引起败血症
 B. 多呈小叶性病变
 C. 多见于社区性肺炎
@@ -624,7 +624,7 @@ D. 多发生于严重烧伤、白血病、化学治疗患者
 E. 多引起肺脓肿
 【参考答案】 C
 
-不符合流感嗜血杆菌肺炎特点的是
+79. 不符合流感嗜血杆菌肺炎特点的是
 A. 起病隐匿
 B. 多呈小叶性病变
 C. 多发生于慢性支气管炎和支气管扩张患者
@@ -632,7 +632,7 @@ D. 病情较轻
 E. 多引起肺脓肿
 【参考答案】 D
 
-不符合吸入性肺炎特点的是
+80. 不符合吸入性肺炎特点的是
 A. 多呈大叶性病变
 B. 多呈小叶性病变
 C. 多见于医院内肺炎
@@ -640,15 +640,15 @@ D. 多发生于危重病人
 E. 多引起肺脓肿
 【参考答案】 A
 
-引起矽肺最主要的是
-A. 10µm 的矽尘颗粒
-B. 8µm 的矽尘颗粒
-C. 6µm 的矽尘颗粒
-D. 4µm 的矽尘颗粒
-E. 1~2µm 的矽尘颗粒
+81. 引起矽肺最主要的是
+A. 10 μm 的矽尘颗粒
+B. 8 μm 的矽尘颗粒
+C. 6 μm 的矽尘颗粒
+D. 4 μm 的矽尘颗粒
+E. 1 ~2 μm 的矽尘颗粒
 【参考答案】 E
 
-不符合矽肺的病理变化的是
+82. 不符合矽肺的病理变化的是
 A. 矽结节形成
 B. 肺纤维组织弥漫增生
 C. 肺纤维化具有病理诊断意义
@@ -656,7 +656,7 @@ D. 晚期矽结节可融合成团
 E. 早期矽结节由巨噬细胞构成
 【参考答案】 C
 
-不符合矽肺合并症的是
+83. 不符合矽肺合并症的是
 A. 肺癌
 B. 肺心病
 C. 肺气肿
@@ -664,23 +664,23 @@ D. 自发性气胸
 E. 矽肺结核病
 【参考答案】 A
 
-不符合矽肺各期的病变特点的是
+84. 不符合矽肺各期的病变特点的是
 A. 早期病变累及周围肺组织
 B. 肺门淋巴结常受累
 C. I期矽肺累及肺门部
-D. II 期矽肺累及全肺1/3以下
-E. III 期矽肺累及肺的大部分, 矽结节密集融合成块
+D. II期矽肺累及全肺 1/3 以下
+E. III期矽肺累及肺的大部分，矽结节密集融合成块
 【参考答案】 A
 
-符合矽结节的描述是
+85. 符合矽结节的描述是
 A. 早期是纤维结节
 B. 晚期是细胞结节
-C. 其发生与T淋巴细胞关系密切
+C. 其发生与 T 淋巴细胞关系密切
 D. 具有病理诊断意义
 E. 不含免疫球蛋白
 【参考答案】 D
 
-不符合矽肺发病特点的是
+86. 不符合矽肺发病特点的是
 A. 免疫反应参与矽肺发病
 B. 游离的二氧化硅具有细胞毒性
 C. 纤维化与巨噬细胞分泌的细胞因子有关
@@ -688,15 +688,15 @@ D. 较大的矽尘颗粒致病作用更强
 E. 病变首先累及淋巴系统
 【参考答案】 D
 
-不符合矽肺结核病的描述是
-A. 矽肺结核性空洞数目多, 直径大
+87. 不符合矽肺结核病的描述是
+A. 矽肺结核性空洞数目多，直径大
 B. 易引起大咯血
 C. 易发生于矽肺晚期
 D. 病变发展缓慢
 E. 与肺组织的防御能力下降有关
 【参考答案】 D
 
-男性, 60岁, 煤矿工人, 近10年来出现憋气、心悸、口唇青紫。X片检查, 肺门部可见较密集的结节, 多数直径小于1cm。符合该患者疾病描述的是
+88. 男性，60 岁，煤矿工人，近 10 年来出现憋气、心悸、口唇青紫。X 片检查，肺门部可见较密集的结节，多数直径小于 1 cm。符合该患者疾病描述的是
 A. 煤矽肺
 B. 肺结核
 C. 肺癌
@@ -704,7 +704,7 @@ D. 结节病
 E. 肺炎性假瘤
 【参考答案】 A
 
-男性, 60岁, 煤矿工人, 近10年来出现憋气、心悸、口唇青紫。X 片检查, 肺门部可见较密集的结节, 多数直径小于1cm。不符合该患者疾病描述的是
+89. 男性，60 岁，煤矿工人，近 10 年来出现憋气、心悸、口唇青紫。X 片检查，肺门部可见较密集的结节，多数直径小于 1 cm。不符合该患者疾病描述的是
 A. 可引起呼吸衰竭
 B. 可合并肺结核
 C. 可合并肺源性心脏病
@@ -712,15 +712,15 @@ D. 可合并肺气肿
 E. 可合并间皮瘤
 【参考答案】 E
 
-男性, 60岁, 煤矿工人, 近10年来出现憋气、心悸、口唇青紫。X 片检查, 肺门部可见较密集的结节, 多数直径小于1cm。不符合该患者疾病描述的是
+90. 男性，60 岁，煤矿工人，近 10 年来出现憋气、心悸、口唇青紫。X 片检查，肺门部可见较密集的结节，多数直径小于 1 cm。不符合该患者疾病描述的是
 A. 矽结节对本病有诊断意义
-B. 大于 5µm 的矽粉尘最有致病性
+B. 大于 5 μm 的矽粉尘最有致病性
 C. 肺间质弥漫性纤维化
-D. II 期矽肺矽结节直径小于 1cm
-E. III 期矽肺矽结节直径大于2cm
+D. II期矽肺矽结节直径小于 1 cm
+E. III期矽肺矽结节直径大于 2 cm
 【参考答案】 B
 
-晚期矽肺脏层胸膜下可出现
+91. 晚期矽肺脏层胸膜下可出现
 A. 腺泡中央型肺气肿
 B. 全腺泡型肺气肿
 C. 腺泡周围型肺气肿
@@ -728,7 +728,7 @@ D. 不规则型肺气肿
 E. 间质性肺气肿
 【参考答案】 D
 
-石棉肺的病理诊断依据是
+92. 石棉肺的病理诊断依据是
 A. 弥漫性纤维化的肺组织内可见石棉小体
 B. 壁层胸膜斑
 C. 肺间质纤维化
@@ -736,7 +736,7 @@ D. 肺脱屑性间质性肺炎
 E. 肺气肿
 【参考答案】 A
 
-不符合石棉肺合并症的描述是
+93. 不符合石棉肺合并症的描述是
 A. 可引起肺脓肿
 B. 可引起间皮瘤
 C. 可引起肺心病
@@ -744,7 +744,7 @@ D. 可引起肺气肿
 E. 可引起肺结核
 【参考答案】 A
 
-石棉小体是
+94. 石棉小体是
 A. 肉芽肿性病变
 B. 呈同心圆排列的纤维结节
 C. 胸膜纤维瘢痕
@@ -752,7 +752,7 @@ D. 有铁蛋白沉积的石棉纤维
 E. 巨噬细胞构成的小体
 【参考答案】 D
 
-不符合农民肺的描述是
+95. 不符合农民肺的描述是
 A. 由于吸入高温放线菌引起的过敏性肺泡炎
 B. 肺内出现肉芽肿病变
 C. 类上皮细胞内可见放线菌孢子
@@ -760,7 +760,7 @@ D. 肺间质纤维组织增生
 E. 属I型超敏反应性疾病
 【参考答案】 E
 
-石棉粉尘能引起
+96. 石棉粉尘能引起
 A. 脱屑性间质性肺炎
 B. 巨细胞肺炎
 C. 大叶性肺炎
@@ -768,7 +768,7 @@ D. 过敏性肺泡炎
 E. 小叶性肺炎
 【参考答案】 A
 
-不符合鼻咽癌特征的是
+97. 不符合鼻咽癌特征的是
 A. 多起源于鼻咽部柱状上皮
 B. 多发生于鼻咽顶部
 C. 癌组织浸润能力强
@@ -776,7 +776,7 @@ D. 可破坏颅底骨向颅内浸润
 E. 晚期方经淋巴道及血道转移
 【参考答案】 E
 
-最常见的鼻咽癌的组织学类型是
+98. 最常见的鼻咽癌的组织学类型是
 A. 未分化癌
 B. 泡状核细胞癌
 C. 腺泡状腺癌
@@ -784,7 +784,7 @@ D. 低分化鳞状细胞癌
 E. 高分化鳞状细胞癌
 【参考答案】 D
 
-在我国,头颈部恶性肿瘤中发病率最高的是
+99. 在我国，头颈部恶性肿瘤中发病率最高的是
 A. 恶性淋巴瘤
 B. 喉癌
 C. 扁桃体癌
@@ -792,7 +792,7 @@ D. 基底细胞癌
 E. 鼻咽癌
 【参考答案】 E
 
-鼻咽癌的病因中,最重要的发病因素是
+100. 鼻咽癌的病因中，最重要的发病因素是
 A. 遗传因素
 B. 亚硝胺类
 C. 多环芳烃类
@@ -800,15 +800,15 @@ D. 激素
 E. EB 病毒
 【参考答案】 E
 
-鼻咽癌的辅助诊断中,常用的检验指标是
+101. 鼻咽癌的辅助诊断中，常用的检验指标是
 A. CEA
 B. AFP
 C. CA19-9
 D. 酸性磷酸酶
-E. 抗EB病毒壳抗原的癌基因抗体
+E. 抗 EB 病毒壳抗原的癌基因抗体
 【参考答案】 E
 
-泡状核细胞癌的特点是
+102. 泡状核细胞癌的特点是
 A. 出现角化珠
 B. 形成腺体
 C. 形成癌巢
@@ -816,7 +816,7 @@ D. 核大呈空泡状
 E. 对放射治疗敏感
 【参考答案】 D
 
-鼻咽癌的显著特点是
+103. 鼻咽癌的显著特点是
 A. 早期症状明显
 B. 可引起脑神经破坏
 C. 早期发生淋巴道转移
@@ -824,7 +824,7 @@ D. 可引起耳鸣、鼻堵
 E. 可有家族聚集倾向
 【参考答案】 C
 
-鼻咽癌最常见的肉眼类型是
+104. 鼻咽癌最常见的肉眼类型是
 A. 溃疡型
 B. 菜花型
 C. 粘膜下型
@@ -832,7 +832,7 @@ D. 浸润型
 E. 结节型
 【参考答案】 E
 
-不易发生肺真菌病的患者是
+105. 不易发生肺真菌病的患者是
 A. 慢性消耗性疾病患者
 B. 长期使用广谱抗生素患者
 C. 长期使用肾上腺皮质激素患者
@@ -840,15 +840,15 @@ D. 接受放射治疗、化学治疗、免疫抑制剂的患者
 E. 静脉输液患者
 【参考答案】 E
 
-肺真菌病的确诊主要依据
+106. 肺真菌病的确诊主要依据
 A. 患者免疫功能低下
 B. 血清学检查
-C. X线检查
+C. X 线检查
 D. 真菌检查或在病变中查到真菌
 E. 炎症的病理学类型
 【参考答案】 D
 
-不符合肺孢子虫性肺炎的描述是
+107. 不符合肺孢子虫性肺炎的描述是
 A. 仅发生于艾滋病患者
 B. 可引起肺实变
 C. 可引起间质性肺炎
@@ -856,7 +856,7 @@ D. 肺泡腔内可见泡沫状蛋白
 E. 肺活检组织内可查到滋养体
 【参考答案】 A
 
-不符合巨细胞病毒性肺炎的描述是
+108. 不符合巨细胞病毒性肺炎的描述是
 A. 成人多见于艾滋病患者和免疫功能低下患者
 B. 可合并胃肠道、中枢神经和视网膜感染
 C. 可引起呼吸窘迫综合征
@@ -864,7 +864,7 @@ D. 可见巨细胞形成和巨大的核内包涵体
 E. 正常人群仅有少数人抗巨细胞病毒抗体阳性
 【参考答案】 E
 
-不符合念珠菌病的描述是
+109. 不符合念珠菌病的描述是
 A. 是常见的深部真菌病
 B. 可累及消化道、呼吸道、泌尿道、心脏和脑
 C. 可形成小脓肿和肉芽肿
@@ -872,7 +872,7 @@ D. 芽生孢子和假菌丝是主要诊断依据
 E. 多为外源性感染
 【参考答案】 E
 
-不符合隐球病的描述是
+110. 不符合隐球病的描述是
 A. 主要通过呼吸道感染
 B. 病原体为芽生酵母菌
 C. 以肺部病变多见
@@ -880,15 +880,15 @@ D. 可引起脑膜炎
 E. 可形成肉芽肿
 【参考答案】 C
 
-不符合曲菌病的描述是
+111. 不符合曲菌病的描述是
 A. 主要通过呼吸道传染
 B. 以肺部病变多见
 C. 可形成脓肿
 D. 可引起过敏性支气管炎
-E. 菌丝有隔,呈直角分支
+E. 菌丝有隔，呈直角分支
 【参考答案】 E
 
-不符合放线菌病的描述是
+112. 不符合放线菌病的描述是
 A. 主要通过外源性感染
 B. 常引起慢性化脓性炎
 C. 脓液中可见“硫磺颗粒”
@@ -896,7 +896,7 @@ D. 蓝紫色分支状菌丝放射状排列
 E. 病变可累及颌面部、胸部和腹部
 【参考答案】 A
 
-女性,60岁,40年吸烟史。慢性咳嗽30年,近1月来痰中带血丝。X线检查,显示左肺门处不规则巨大阴影。支气管镜检查,左主支气管粘膜不平,管腔狭窄。活检病理诊断最可能是
+113. 女性，60 岁，40 年吸烟史。慢性咳嗽 30 年，近 1 月来痰中带血丝。X 线检查，显示左肺门处不规则巨大阴影。支气管镜检查，左主支气管粘膜不平，管腔狭窄。活检病理诊断最可能是
 A. 肺结核病
 B. 肺结节病
 C. 细支气管肺泡细胞癌
@@ -904,7 +904,7 @@ D. 肺鳞状细胞癌
 E. 肺炎性假瘤
 【参考答案】 D
 
-女性,50岁,本人不吸烟,但家中多个成员吸烟。查体偶然发现右肺近胸膜处有一直径3cm 的边界较清的阴影,伴肺门淋巴结肿大。该结节最可能是
+114. 女性，50 岁，本人不吸烟，但家中多个成员吸烟。查体偶然发现右肺近胸膜处有一直径 3 cm 的边界较清的阴影，伴肺门淋巴结肿大。该结节最可能是
 A. 鳞状细胞癌
 B. 细支气管肺泡细胞癌
 C. 腺癌
@@ -912,7 +912,7 @@ D. 大细胞癌
 E. 小细胞癌
 【参考答案】 C
 
-男性,60岁,3个月来咳嗽、胸痛。X线检查,左肺下叶大片云雾状、不均匀密度增高阴影,经用抗生素治疗无效。痰脱落细胞检查,可见腺癌细胞。对该患者疾病的诊断是
+115. 男性，60 岁，3 个月来咳嗽、胸痛。X 线检查，左肺下叶大片云雾状、不均匀密度增高阴影，经用抗生素治疗无效。痰脱落细胞检查，可见腺癌细胞。对该患者疾病的诊断是
 A. 鳞状细胞癌
 B. 类癌
 C. 细支气管肺泡细胞癌
@@ -920,7 +920,7 @@ D. 小细胞癌
 E. 巨细胞癌
 【参考答案】 C
 
-肺癌的最常见肉眼类型是
+116. 肺癌的最常见肉眼类型是
 A. 中央型
 B. 周围型
 C. 弥漫型
@@ -928,7 +928,7 @@ D. 管内型
 E. 管壁浸润型
 【参考答案】 A
 
-弥漫型肺癌多为
+117. 弥漫型肺癌多为
 A. 大细胞癌
 B. 鳞状细胞癌
 C. 小细胞癌
@@ -936,7 +936,7 @@ D. 细支气管肺泡细胞癌
 E. 类癌
 【参考答案】 D
 
-不符合肺腺癌的描述是
+118. 不符合肺腺癌的描述是
 A. 多为周围型
 B. 常有吸烟史
 C. 可伴有粘液分泌
@@ -944,15 +944,15 @@ D. 常有肺门淋巴结转移
 E. 常有乳头形成
 【参考答案】 B
 
-不符合肺癌的特点的是
+119. 不符合肺癌的特点的是
 A. 发病隐匿
-B. 生长迅速,转移较早
+B. 生长迅速，转移较早
 C. 易发生脑、骨及肾上腺转移
 D. 可发生种植转移
 E. 不引起内分泌紊乱
 【参考答案】 E
 
-肺癌不会引起
+120. 肺癌不会引起
 A. Horner 综合征
 B. Cushing 综合征
 C. 类癌综合征
@@ -960,7 +960,7 @@ D. 甲状腺机能亢进
 E. 骨关节病
 【参考答案】 D
 
-肺癌的肉眼形态不包括
+121. 肺癌的肉眼形态不包括
 A. 肺门部巨大肿块
 B. 肺膜下的球形结节
 C. 散布于两肺的多发性结节
@@ -968,15 +968,15 @@ D. 大叶性实性病变
 E. 小叶融合性实性病变
 【参考答案】 D
 
-肺癌的主要组织来源是
+122. 肺癌的主要组织来源是
 A. 支气管上皮细胞
 B. Clara 细胞
 C. Kultschitzky 细胞
 D. I型肺泡上皮细胞
-E. II 性肺泡上皮细胞
+E. II性肺泡上皮细胞
 【参考答案】 A
 
-最容易引起的皮肤潮红、水泻、心动过速、支气管哮喘等症状的肺癌类型是
+123. 最容易引起的皮肤潮红、水泻、心动过速、支气管哮喘等症状的肺癌类型是
 A. 低分化鳞状细胞癌
 B. 未分化腺癌
 C. 大细胞癌
@@ -984,7 +984,7 @@ D. 类癌
 E. 粘液癌
 【参考答案】 D
 
-累及整个大叶呈肺炎样外观的肺癌类型是
+124. 累及整个大叶呈肺炎样外观的肺癌类型是
 A. 低分化鳞状细胞癌
 B. 大细胞癌
 C. 小细胞癌
@@ -992,7 +992,7 @@ D. 粘液癌
 E. 细支气管肺泡细胞癌
 【参考答案】 E
 
-可能来源于 II 型肺泡上皮细胞的肺癌是
+125. 可能来源与II型肺泡上皮细胞的肺癌是
 A. 腺癌
 B. 瘢痕癌
 C. 小细胞癌
@@ -1000,31 +1000,31 @@ D. 细支气管肺泡细胞癌
 E. 腺样囊性癌
 【参考答案】 D
 
-不符合隐性肺癌的描述是
+126. 不符合隐性肺癌的描述是
 A. 临床检查无明显肺癌体征
-B. X线检查未见阴影
+B. X 线检查未见阴影
 C. 病理证实为原位癌或早期侵润性癌
 D. 无淋巴结转移
 E. 痰细胞学检查癌细胞阴性
 【参考答案】 E
 
-不符合小细胞肺癌特点的描述是
+127. 不符合小细胞肺癌特点的描述是
 A. 多发生于肺周边部
-B. 细胞小、密集排列,由结缔组织加以分隔
+B. 细胞小、密集排列，由结缔组织加以分隔
 C. 分化程度低、恶性度高
 D. 肿瘤细胞胞浆内出现神经内分泌颗粒
 E. 起源于嗜银细胞
 【参考答案】 A
 
-腺癌起源于
+128. 腺癌起源于
 A. 主支气管粘膜上皮细胞
 B. 支气管腺体
 C. 小支气管粘膜上皮细胞
 D. 嗜银细胞
-E. II 型肺泡上皮细胞
+E. II型肺泡上皮细胞
 【参考答案】 C
 
-不符合急性鼻炎的描述是
+129. 不符合急性鼻炎的描述是
 A. 由各种呼吸道病毒引起
 B. 可呈肉芽肿性炎
 C. 可由各种变应原引起
@@ -1032,7 +1032,7 @@ D. 可呈浆液性炎
 E. 可呈化脓性炎
 【参考答案】 B
 
-“臭鼻症”指
+130. “臭鼻症”指
 A. 急性过敏性鼻炎
 B. 慢性肥厚性鼻炎
 C. 慢性萎缩性鼻炎
@@ -1040,7 +1040,7 @@ D. 急性化脓性鼻炎
 E. 急性浆液性鼻炎
 【参考答案】 C
 
-鼻腔恶性肉芽肿实质上是指
+131. 鼻腔恶性肉芽肿实质上是指
 A. 以巨噬细胞增生为主的炎性肉芽肿
 B. Wegener 肉芽肿
 C. 血管中心型非霍奇金淋巴瘤
@@ -1048,7 +1048,7 @@ D. 致死性中线肉芽肿
 E. 中线恶性网状细胞增生症
 【参考答案】 C
 
-符合鼻腔内翻性乳头状瘤的特点的是
+132. 符合鼻腔内翻性乳头状瘤的特点的是
 A. 慢性炎症性增生
 B. 不易恶变
 C. 鳞状上皮团向间质内生长
@@ -1056,7 +1056,7 @@ D. 与 HPV 感染无关
 E. 术后不复发
 【参考答案】 C
 
-不符合扁桃体炎的描述是
+133. 不符合扁桃体炎的描述是
 A. 多由乙型溶血性链球菌引起
 B. 可呈急性化脓性扁桃体炎
 C. 可呈慢性肥大性扁桃体炎
@@ -1064,15 +1064,15 @@ D. 可呈慢性纤维性扁桃体炎
 E. 中老年患者多见
 【参考答案】 E
 
-不符合鼻息肉的特点的是
+134. 不符合鼻息肉的特点的是
 A. 良性肿瘤
 B. 肉眼呈灰白色
 C. 间质水肿
-D. 腺体增生,并可呈囊状扩张
+D. 腺体增生，并可呈囊状扩张
 E. 间质炎性细胞侵润
 【参考答案】 A
 
-不符合鼻窦炎的特点的是
+135. 不符合鼻窦炎的特点的是
 A. 以上颌窦炎多见
 B. 可呈浆液性炎
 C. 可呈化脓性炎
@@ -1080,7 +1080,7 @@ D. 可呈慢性炎
 E. 多由血源性细菌引起
 【参考答案】 E
 
-不符合咽炎的特点的是
+136. 不符合咽炎的特点的是
 A. 多由葡萄球菌引起
 B. 可呈纤维素性炎
 C. 可呈急性化脓性炎
@@ -1088,7 +1088,7 @@ D. 可呈慢性肥厚性炎
 E. 可呈慢性萎缩性炎
 【参考答案】 A
 
-不符合特发性肺间质纤维化的描述是
+137. 不符合特发性肺间质纤维化的描述是
 A. 可能是一种自身免疫性疾病
 B. 早期表现为脱屑性间质性肺炎
 C. 晚期可形成蜂窝肺
@@ -1096,7 +1096,7 @@ D. 蜂窝肺小囊腔由扩张的细支气管和融合的肺泡构成
 E. 蜂窝肺的囊壁由肺泡壁构成
 【参考答案】 E
 
-不符合特发性肺间质纤维化合并症的是
+138. 不符合特发性肺间质纤维化合并症的是
 A. 肺气肿
 B. 肺心病
 C. 肺炎
@@ -1104,7 +1104,7 @@ D. 肺癌
 E. 间皮瘤
 【参考答案】 E
 
-符合特发性肺间质纤维化病因的描述是
+139. 符合特发性肺间质纤维化病因的描述是
 A. 是一种自身免疫性疾病
 B. 是一种遗传病
 C. 是一种病毒感染性疾病
@@ -1112,7 +1112,7 @@ D. 是一种原因不明的疾病
 E. 是一种职业病
 【参考答案】 D
 
-蜂窝肺是
+140. 蜂窝肺是
 A. 大叶性肺炎引起的肺肉质变
 B. 阻塞性肺气肿引起的肺病变
 C. 特发性肺间质纤维化引起的肺病变
@@ -1120,15 +1120,15 @@ D. 矽肺引起的肺病变
 E. 农民肺引起的肺病变
 【参考答案】 C
 
-不符合成人呼吸窘迫症的描述是
+141. 不符合成人呼吸窘迫症的描述是
 A. 是一种肺的原发性疾病
 B. 表现为突发性进行性呼吸困难
 C. 肺泡毛细血管膜弥漫性损伤
-D. 病死率高达36%~68%
-E. X线检查两肺弥漫性浸润性阴影
+D. 病死率高达 36% ~68%
+E. X 线检查两肺弥漫性浸润性阴影
 【参考答案】 A
 
-不符合成人呼吸窘迫症的病因是
+142. 不符合成人呼吸窘迫症的病因是
 A. 严重创伤
 B. 严重感染
 C. 休克
@@ -1136,7 +1136,7 @@ D. 中毒
 E. 晚期癌症
 【参考答案】 E
 
-成人呼吸窘迫症的发病机制的中心环节是
+143. 成人呼吸窘迫症的发病机制的中心环节是
 A. 肺内淋巴细胞渗出
 B. 肺内单核细胞渗出
 C. 肺泡毛细血管膜弥漫性损伤
@@ -1144,7 +1144,7 @@ D. 肺毛细血管内血小板聚集
 E. 肺表面活性物质减少
 【参考答案】 C
 
-成人呼吸窘迫症的特征性病理变化是
+144. 成人呼吸窘迫症的特征性病理变化是
 A. 肺水肿
 B. 透明膜形成
 C. 肺出血
@@ -1152,7 +1152,7 @@ D. 肺纤维化
 E. 肺萎陷
 【参考答案】 B
 
-不符合喉癌的描述是
+145. 不符合喉癌的描述是
 A. 腺癌少见
 B. 声门上癌转移率高
 C. 声带癌转移率高
@@ -1160,15 +1160,15 @@ D. 声带癌最多见
 E. 鳞癌最多见
 【参考答案】 C
 
-不符合喉炎特点的描述是
-A. 儿童急性喉炎可引起哮吼,甚至室息
+146. 不符合喉炎特点的描述是
+A. 儿童急性喉炎可引起哮吼，甚至窒息
 B. 声带小结与长期用声过度或用声不当有关
 C. 慢性喉炎与吸烟关系密切
 D. 急性喉炎与病毒、细菌感染关系密切
-E. 声带小结易恶变,是一种癌前病变
+E. 声带小结易恶变，是一种癌前病变
 【参考答案】 E
 
-肺脓肿最常见的病原体是
+147. 肺脓肿最常见的病原体是
 A. 厌氧菌
 B. 需氧菌
 C. 革兰氏阴性菌
@@ -1176,7 +1176,7 @@ D. 革兰氏阳性菌
 E. 兼性厌氧菌
 【参考答案】 A
 
-吸入性肺脓肿易发生于
+148. 吸入性肺脓肿易发生于
 A. 左上肺
 B. 左下肺
 C. 右上肺
@@ -1184,7 +1184,7 @@ D. 右上肺腋亚段和右下肺上部
 E. 右下肺
 【参考答案】 D
 
-不符合肺脓肿的描述是
+149. 不符合肺脓肿的描述是
 A. 吸入性肺脓肿常为多发
 B. 肺炎和支气管扩张引起的肺脓肿常为多发
 C. 可引起脓胸、脓气胸
@@ -1192,15 +1192,15 @@ D. 可引起败血症
 E. 可引起支气管胸膜瘘
 【参考答案】 A
 
-符合癌性胸水的描述是
-A. 比重大于1.020
+150. 符合癌性胸水的描述是
+A. 比重大于 1.020
 B. 可见多量淋巴细胞
 C. 可见多量中性粒细胞
 D. 可见肿瘤细胞
 E. 可见多量间皮细胞
 【参考答案】 D
 
-引起胸膜漏出的疾病是
+151. 引起胸膜漏出的疾病是
 A. 肺癌
 B. 肺梗死
 C. 肺结核
@@ -1208,7 +1208,7 @@ D. 肺脓肿
 E. 肺淤血
 【参考答案】 E
 
-男性,50岁,近一月来感到胸部胀闷,近3天伴有气促、心慌。X线检查,左胸腔大量积液,肺门部可见 5×3cm 大小的阴影。查体:患者无发热,结核菌实验阴性。该患者胸水最可能为
+152. 男性，50 岁，近一月来感到胸部胀闷，近 3 天伴有气促、心慌。X 线检查，左胸腔大量积液，肺门部可见 5 × 3 cm 大小的阴影。查体：患者无发热，结核菌实验阴性。该患者胸水最可能为
 A. 炎性渗出液
 B. 癌性胸水
 C. 胸腔积血
@@ -1216,7 +1216,7 @@ D. 胸腔积脓
 E. 乳糜液
 【参考答案】 B
 
-emphysema
+153. emphysema
 A. 肺气肿
 B. 肺梗死
 C. 肺结核
@@ -1224,7 +1224,7 @@ D. 肺脓肿
 E. 肺淤血
 【参考答案】 A
 
-bronchopneumonia
+154. bronchopneumonia
 A. 大叶性肺炎
 B. 支气管肺炎
 C. 间质性肺炎
@@ -1232,7 +1232,7 @@ D. 腺泡中央型肺气肿
 E. 全腺泡型肺气肿
 【参考答案】 B
 
-nasopharyngeal carcinoma
+155. nasopharyngeal carcinoma
 A. 肺癌
 B. 鼻咽癌
 C. 喉癌
@@ -1240,7 +1240,7 @@ D. 支气管癌
 E. 肺泡细胞癌
 【参考答案】 B
 
-asbestosis
+156. asbestosis
 A. 农民肺
 B. 矽肺
 C. 煤矽肺
@@ -1248,7 +1248,7 @@ D. 尘肺
 E. 石棉肺
 【参考答案】 E
 
-chronic cor pulmonale
+157. chronic cor pulmonale
 A. 慢性阻塞性肺气肿
 B. 慢性支气管炎
 C. 支气管扩张症
@@ -1256,7 +1256,7 @@ D. 慢性肺纤维化
 E. 慢性肺源性心脏病
 【参考答案】 E
 
-respiratory distress syndrome
+158. respiratory distress syndrome
 A. 特发性肺间质纤维化
 B. 呼吸窘迫综合征
 C. 肺副肿瘤综合征
@@ -1264,7 +1264,7 @@ D. 上腔静脉综合征
 E. 交感神经麻痹综合征
 【参考答案】 B
 
-actinomycosis
+159. actinomycosis
 A. 念珠菌病
 B. 组织胞浆菌病
 C. 曲菌病
@@ -1272,7 +1272,7 @@ D. 放线菌病
 E. 球孢子菌病
 【参考答案】 D
 
-mesothelioma
+160. mesothelioma
 A. 胸膜炎
 B. 气胸
 C. 血胸
@@ -1280,7 +1280,7 @@ D. 间皮瘤
 E. 错构瘤
 【参考答案】 D
 
-A 70-year-old woman is referred to an ophthalmologist because of difficulty with her right eye. She also has pain in the right upper chest. The findings on physical examination include enophthal-mos, meiosis, anhidrosis, and ptosis. A chest radiograph shows right upper lobe opacification and bony destruction of the right first rib. Which of the following con-ditions is most likely to be present?
+161. A 70-year-old woman is referred to an ophthalmologist because of difficulty with her right eye. She also has pain in the right upper chest. The findings on physical examination include enophthalmos, meiosis, anhidrosis, and ptosis. A chest radiograph shows right upper lobe opacification and bony destruction of the right first rib. Which of the following conditions is most likely to be present?
 A. Bronchopneumonia
 B. Bronchiectasis
 C. Bronchogenic carcinoma
@@ -1288,7 +1288,7 @@ D. Sarcoidosis
 E. Tuberculosis
 【参考答案】 C
 
-Which of the following is the most fre-quent site of intestinal tuberculosis
+162. Which of the following is the most frequent site of intestinal tuberculosis
 A. Ileocecum
 B. Jejunum
 C. Descending colon
@@ -1296,7 +1296,7 @@ D. Duodenum
 E. Ascending colon
 【参考答案】 A
 
-Which of the following is not present in secondary pulmonary tuberculosis?
+163. Which of the following is not present in secondary pulmonary tuberculosis?
 A. The apex of the lung is the most common site of lesions
 B. Fibro-cavities may form
 C. The course of the disease is long and the state of the illness is sometimes good and sometimes bad
@@ -1304,7 +1304,7 @@ D. Old and new lesions are mixed
 E. It mainly spreads through the lymphatics
 【参考答案】 E
 
-Which of the following descriptions of secondary tuberculosis is appropriate?
+164. Which of the following descriptions of secondary tuberculosis is appropriate?
 A. Old and new lesions are mixed and the lesions of the upper lung are more severe
 B. There are obvious lesion of tuberculosis in the lymph nodes of the hilus of lung
 C. It does not readily cause cavitation
@@ -1312,15 +1312,15 @@ D. The vast majority of patients recover naturally
 E. It spreads easily through lymph vessels and blood vessels
 【参考答案】 A
 
-Which of the following is characteristic of chronic fibro-cavitative pulmonary tuberculosis?
+165. Which of the following is characteristic of chronic fibro-cavitative pulmonary tuberculosis?
 A. The cavities are the same size and regular shape
 B. There is formation of one or a few acute cavities in the lung
 C. The beam-like tissue frequently seen in the cavity is the remaining branch of the bronchus
-D. There is caseous necrosis in the inner wall of the cavity containing a large number of mycobacterium tuberculosis
+D. There is caseous necrosis in the inner wall of the cavity containing a large number of Mycobacterium tuberculosis
 E. The cavity does not communicate with the bronchus
 【参考答案】 D
 
-Which of the following is not characteris-tic of infiltrative pulmonary tuberculosis?
+166. Which of the following is not characteristic of infiltrative pulmonary tuberculosis?
 A. The lesion may be extensive
 B. There is a small amount of caseous necrosis in the center of the lesion
 C. The alveolar cavity is full of serous fluid, mononuclear cells and lymphocytes microscopically
@@ -1328,15 +1328,15 @@ D. The alveolar cavity is filled with a large number of neutrophils
 E. Acute cavity formation may be seen
 【参考答案】 D
 
-Which of the following is the definition of tuberculoma?
-A. It is a benign tumor caused by mycobacterium tuberculosis
-B. It is a malignant tumor caused by mycobacterium tuberculosis
-C. It is a tumor-like invasive lesion caused by mycobacterium tuberculosis
-D. It is a solitary focus of caseous necrosis caused by mycobacterium tuberculosis
-E. It is a cold abscess caused by mycobacterium tuberculosis
+167. Which of the following is the definition of tuberculoma?
+A. It is a benign tumor caused by Mycobacterium tuberculosis
+B. It is a malignant tumor caused by Mycobacterium tuberculosis
+C. It is a tumor-like invasive lesion caused by Mycobacterium tuberculosis
+D. It is a solitary focus of caseous necrosis caused by Mycobacterium tuberculosis
+E. It is a cold abscess caused by Mycobacterium tuberculosis
 【参考答案】 D
 
-Which of the following is the most common type of adult pulmonary tuberculosis?
+168. Which of the following is the most common type of adult pulmonary tuberculosis?
 A. Focal pulmonary tuberculosis
 B. Infiltrative pulmonary tuberculosis
 C. Tuberculoma
@@ -1344,7 +1344,7 @@ D. Caseous pneumonia
 E. Chronic fibro-cavitative pulmonary tuberculosis
 【参考答案】 B
 
-Which of the following is not correct regarding secondary tuberculosis?
+169. Which of the following is not correct regarding secondary tuberculosis?
 A. It is mainly caused by endogenic reinfection
 B. It mainly disseminates through lymphatics and blood vessels
 C. It mainly disseminates through air passages
@@ -1352,7 +1352,7 @@ D. It mostly starts from the apex of the lung
 E. Old and new lesions are mixed together
 【参考答案】 B
 
-Which of the following descriptions of tu-berculosis is not appropriate?
+170. Which of the following descriptions of tuberculosis is not appropriate?
 A. Tuberculosis is a chronic infectious disease
 B. Tuberculosis is attributed to type III allergic reaction
 C. Extrapulmonary tuberculosis is mostly caused by blood born dissemination
@@ -1360,7 +1360,7 @@ D. Mycobacterium tuberculosis is still present in calcified necrotic foci
 E. Cavitative pulmonary tuberculosis is an exoteric tuberculosis
 【参考答案】 B
 
-Which of the following is caused by primary pulmonary tuberculosis?
+171. Which of the following is caused by primary pulmonary tuberculosis?
 A. Acute miliary tuberculosis
 B. Focal pulmonary tuberculosis
 C. Infiltrative pulmonary tuberculosis
@@ -1368,7 +1368,7 @@ D. Caseous pneumonia
 E. Cavitative tuberculosis
 【参考答案】 A
 
-Which of the following is the most frequent site of primary tuberculosis in the lung?
+172. Which of the following is the most frequent site of primary tuberculosis in the lung?
 A. Hilum of lung
 B. Apex of lung
 C. Lower portion of upper lobe or upper portion of lower lobe of lung
@@ -1376,7 +1376,7 @@ D. Diaphragmatic surface of the lung
 E. Pleura
 【参考答案】 C
 
-Which of the following is the most frequent site of tuberculosis in the male reproductive system?
+173. Which of the following is the most frequent site of tuberculosis in the male reproductive system?
 A. Seminal vesicle
 B. Prostate
 C. Spermatic ducts
@@ -1384,15 +1384,15 @@ D. Epididymis
 E. Testicle
 【参考答案】 D
 
-Which of the following is true of ulcerative-type intestinal tuberculosis?
+174. Which of the following is true of ulcerative-type intestinal tuberculosis?
 A. The ulcers are round or oval-shaped and the edges are well demarcated
 B. It mostly occurs in the hepatic flexure of the colon
-C. The major axis of the ulcer is parallel to the intestinal axis
+C. The major axis of the ulcer is parallel too the intestinal axis
 D. Only a little serous exudation is seen at the bottom of ulcers
 E. It mostly occurs in the splenic flexure of the colon
 【参考答案】 C
 
-Which of the following is not true of tu-berculosis of bone?
+175. Which of the following is not true of tuberculosis of bone?
 A. It is frequently seen in the upper thoracic vertebrae
 B. It may form a sequestrum
 C. It may form a cold abscess
@@ -1400,15 +1400,15 @@ D. It may form caseous necrosis
 E. It often involves vertebrae, phalanges and long bones
 【参考答案】 A
 
-Which of the following is not true of tuberculous meningitis?
+176. Which of the following is not true of tuberculous meningitis?
 A. There is a large amount of fibrinopurulent exudate at the base of the brain
 B. It is caused mainly by blood born dissemination of mycobacterium tuberculosis
-C. It is often a part of systemic miliary tu-berculosis
+C. It is often a part of systemic miliary tuberculosis
 D. The lesions at the base of the brain are the most obvious
 E. It is mostly found in children
 【参考答案】 A
 
-Which of the following is true of intestinal tuberculosis?
+177. Which of the following is true of intestinal tuberculosis?
 A. It may be present as primary tuberculosis
 B. It mainly involves the jejunum
 C. It may cause cancer
@@ -1416,7 +1416,7 @@ D. It can lead to the formation of longitudinal ulcers
 E. It mainly involves ileum
 【参考答案】 A
 
-Which of the following is the most fre-quent site of tuberculosis of the female reproductive system?
+178. Which of the following is the most frequent site of tuberculosis of the female reproductive system?
 A. Cervix
 B. Vagina
 C. Endometrium
@@ -1424,7 +1424,7 @@ D. Fallopian tube
 E. Ovary
 【参考答案】 D
 
-Which of the following is true of small cell carcinoma of the lung?
+179. Which of the following is true of small cell carcinoma of the lung?
 A. It does not have a close relationship with smoking
 B. It may be associated with secretion of ectopic hormones
 C. It originates in metaplasia of epithelial cells
@@ -1432,15 +1432,15 @@ D. The 5-year survival rate of it is high
 E. Among lung cancers its incidence is highest
 【参考答案】 B
 
-Which of the following is not true of small cell carcinoma of the lung?
+180. Which of the following is not true of small cell carcinoma of the lung?
 A. It occurs mostly in the periphery of the lung
 B. The tumor cells are small with intensive arrays
 C. Neuroendocrine granules can be seen in tumor cells
 D. It is high-grade malignant tumor
-E. It is not suitable for surgical resection,but is sensitive to chemotherapy and radiotherapy
+E. It is not suitable for surgical resection, but is sensitive to chemotherapy and radiotherapy
 【参考答案】 A
 
-Which of the following is not true of squamous cell carcinoma of the lung?
+181. Which of the following is not true of squamous cell carcinoma of the lung?
 A. It often occurs in smokers
 B. The vast majority arises in bronchial squamous metaplasia
 C. It is mostly central type
@@ -1448,7 +1448,7 @@ D. The tumor often produces ectopic hormones
 E. It is easily found by fiberoptic bronchoscopy
 【参考答案】 D
 
-Which of the following types of lung cancer has the lowest degree of malignancy?
+182. Which of the following types of lung cancer has the lowest degree of malignancy?
 A. Carcinoid tumor
 B. Adenocarcinoma
 C. Squamous cell carcinoma
@@ -1456,7 +1456,7 @@ D. Large cell carcinoma
 E. Small cell carcinoma
 【参考答案】 A
 
-50-year-old woman is not a smoker, but many members of her family are smokers. A shadow of 3 cm in diameter with a clear border and hilar lymphadenopathy near the pleura of the right lung was discovered incidentally during a routine checkup. Which of the following is likely to be the correct diagnosis?
+183. 50-year-old woman is not a smoker, but many members of her family are smokers. A shadow of 3 cm in diameter with a clear border and hilar lymphadenopathy near the pleura of the right lung was discovered incidentally during a routine checkup. Which of the following is likely to be the correct diagnosis?
 A. Bronchioloalveolar carcinoma
 B. Squamous cell carcinoma
 C. Adenocarcinoma
@@ -1464,7 +1464,7 @@ D. Carcinoid tumor
 E. Small cell carcinoma
 【参考答案】 C
 
-Which of the following types of lung cancer can cause symptoms such as skin flushing, watery diarrhea, tachycardia and bronchial asthma?
+184. Which of the following types of lung cancer can cause symptoms such as skin flushing, watery diarrhea, tachycardia and bronchial asthma?
 A. Differentiated adenocarcinoma
 B. Poorly differentiated squamous cell carcinoma
 C. Large cell carcinoma
@@ -1472,7 +1472,7 @@ D. Carcinoid tumor
 E. Bronchioloalveolar carcinoma
 【参考答案】 D
 
-Which of the following descriptions of lung cancer is correct?
+185. Which of the following descriptions of lung cancer is correct?
 A. Adenocarcinoma is the most frequent
 B. Most small cell carcinoma is diffuse type
 C. Most patients with squamous cell carcinoma have a history of smoking
@@ -1480,7 +1480,7 @@ D. Peripheral type lung cancer is mostly squamous cell carcinoma
 E. Bronchioloalveolar carcinoma is mostly central type
 【参考答案】 C
 
-Which of the following is not caused by lung cancer?
+186. Which of the following is not caused by lung cancer?
 A. Cushing syndrome
 B. Horner's syndrome
 C. Carcinoid syndrome
@@ -1488,7 +1488,7 @@ D. Hyperthyroidism
 E. Superior vena cava syndrome
 【参考答案】 D
 
-60-year-old man has suffered from a cough and chest pain for 3 months. A chest x-ray shows large shadows with cloud-like and irregular increasing densityin the left lower lobe. Treatment with antibiotics has no effect in this patient. Exfoliative cytology of the sputum reveals adenocarcinoma cells. Which of the following diagnoses is likely to be correct?
+187. 60-year-old man has suffered from a cough and chest pain for 3 months. A chest x-ray shows large shadows with cloud-like and irregular increasing density in the left lower lobe. Treatment with antibiotics has no effect in this patient. Exfoliative cytology of the sputum reveals adenocarcinoma cells. Which of the following diagnoses is likely to be correct?
 A. Carcinoid
 B. Squamous cell carcinoma
 C. Bronchioloalveolar carcinoma
@@ -1496,7 +1496,7 @@ D. Small cell carcinoma
 E. Large cell carcinoma
 【参考答案】 C
 
-70-year-old man has a 40-year history of smoking. He has suffered from a chronic cough for 30 years, and has been coughing bloody sputum for nearly 1 month. A chest x-ray shows irregular huge shadow in left hilum of the lung. Bronchoscopy shows irregular mucosa in the left main stem bronchus and narrowing of the lumen. Which of the following diagnoses is likely to be correct?
+188. 70-year-old man has a 40-year history of smoking. He has suffered from a chronic cough for 30 years, and has been coughing bloody sputum for nearly 1 month. A chest x-ray shows irregular huge shadow in left hilum of the lung. Bronchoscopy shows irregular mucosa in the left main stem bronchus and narrowing of the lumen. Which of the following diagnoses is likely to be correct?
 A. Pulmonary sarcoidosis
 B. Tuberculosis
 C. Bronchioloalveolar carcinoma
@@ -1504,7 +1504,7 @@ D. Squamous cell carcinoma of the lung
 E. Pulmonary adenocarcinoma
 【参考答案】 D
 
-Which of the following types of lung cancer is likely to involve the whole lobe and show a pneumonia-like appearance?
+189. Which of the following types of lung cancer is likely to involve the whole lobe and show a pneumonia-like appearance?
 A. Bronchioloalveolar carcinoma
 B. Large cell carcinoma
 C. Small cell carcinoma
@@ -1512,7 +1512,7 @@ D. Mucinous adenocarcinoma
 E. Signet-ring cell carcinoma
 【参考答案】 A
 
-Which of the following is not true of silicosis?
+190. Which of the following is not true of silicosis?
 A. It can easily be complicated by tuberculosis
 B. It can cause pulmonary fibrosis
 C. Early silicon nodules are present in the alveolus
@@ -1520,15 +1520,15 @@ D. Necrosis can be seen in the center of silicon nodules
 E. Silicon nodules are composed of concentric ring-like collagen fibers
 【参考答案】 C
 
-Which of the following is true regarding silicosis?
-A. Silicon granules greater than 5µm in diameter are strongly pathogenic
+191. Which of the following is true regarding silicosis?
+A. Silicon granules greater than 5 μm in diameter are strongly pathogenic
 B. Silicic acid can result in the injury of macrophages
 C. There is no immunoglobulin in silicon nodules
 D. The fibrous nodule is an early lesion
 E. There are no lesions of the pleura
 【参考答案】 B
 
-Which of the following description is not consistent with silicotuberculosis?
+192. Which of the following description is not consistent with silicotuberculosis?
 A. It can easily cause massive hemoptysis
 B. The tubercular cavities of silicosis are typically greater in number and of larger diameter
 C. It is likely to occur in late stages of silicosis
@@ -1536,15 +1536,15 @@ D. The disease is slowly progressive
 E. The frequency of complication by tuberculosis parallels the severity of the silicotic lesions
 【参考答案】 D
 
-Which of the following is true of pulmonary disease?
-A. Silicosis is caused mainly by silicon granules less than 5µm in diameter
+193. Which of the following is true of pulmonary disease?
+A. Silicosis is caused mainly by silicon granules less than 5 μm in diameter
 B. Lobular pneumonia is caused mainly by mycoplasma
-C. α1-antitrypsin deficiency is the most common cause of emphysema
+C. α_1-antitrypsin deficiency is the most common cause of emphysema
 D. Bronchiectasis means expansion of the bronchial cavity
 E. Bronchopneumonia often occurs as an independent disease process
 【参考答案】 A
 
-60-year-old man who works in a coal mine presents with pulmonary distress, palpitation and cyanosis of his lips. A chest x-ray reveals extensive nodules in the pulmonary hilus, the majority of which are less than 1 cm in diameter. Which of the following is not true of this disease?
+194. 60-year-old man who works in a coal mine presents with pulmonary distress, palpitation and cyanosis of his lips. A chest x-ray reveals extensive nodules in the pulmonary hilus, the majority of which are less than 1 cm in diameter. Which of the following is not true of this disease?
 A. Mesothelioma is a possible complication
 B. Pulmonary tuberculosis is a possible complication
 C. Pulmonary heart disease is a possible complication
@@ -1552,15 +1552,15 @@ D. Emphysema is a possible complication
 E. Chronic bronchitis is a possible complication
 【参考答案】 A
 
-40-year-old man who works in a coal mine presents with respiratory distress, palpitation and cyanosis of his lips. A chest x-ray reveals extensive nodules in the hilus of the lung, the majority of which are less than 1 cm in diameter. Which of the following is not consistent with this patient's disease?
+195. 40-year-old man who works in a coal mine presents with respiratory distress, palpitation and cyanosis of his lips. A chest x-ray reveals extensive nodules in the hilus of the lung, the majority of which are less than 1 cm in diameter. Which of the following is not consistent with this patient's disease?
 A. Silicon nodules are the characteristic lesion of this disease
-B. Silicon granules greater than 5µm are the most pathogenic
+B. Silicon granules greater than 5 μm are the most pathogenic
 C. This is silicosis, phase II
 D. Diffuse interstitial fibrosis of lung
 E. May lead to pulmonary heart disease
 【参考答案】 B
 
-Which of the following results from silicosis and leads to pulmonary heart disease?
+196. Which of the following results from silicosis and leads to pulmonary heart disease?
 A. Pulmonary cavity formation due to silicosis
 B. Secondary infection of the lung
 C. Diffuse interstitial fibrosis of the lung
@@ -1568,7 +1568,7 @@ D. Silicotuberculosis
 E. Chronic bronchitis
 【参考答案】 C
 
-Which of the following lesions is likely to be caused by silicon particles?
+197. Which of the following lesions is likely to be caused by silicon particles?
 A. Suppurative inflammation of the lung
 B. Fibrinous inflammation of the lung
 C. Pulmonary fibrosis
@@ -1576,7 +1576,7 @@ D. Interstitial pneumonia
 E. Serous inflammation of the lung
 【参考答案】 C
 
-Which of the following cells are present inearly silicotic nodules?
+198. Which of the following cells are present in early silicotic nodules?
 A. large number of macrophages
 B. A large number of eosinophils
 C. A large number of plasma cells
@@ -1584,7 +1584,7 @@ D. A large number of fibroblasts
 E. A large number of neutrophils
 【参考答案】 A
 
-Which of the following is the main pathogenesis of bronchiectasis?
+199. Which of the following is the main pathogenesis of bronchiectasis?
 A. Chronic bronchial infection
 B. Pulmonary ventilation barrier due to bronchial obstruction
 C. Obstruction by bronchial tumo
@@ -1592,7 +1592,7 @@ D. Destruction of bronchial smooth muscle and elastic tissue
 E. Squamous metaplasia of bronchial mucosa
 【参考答案】 D
 
-Which of the following is characteristic of viral pneumonia?
+200. Which of the following is characteristic of viral pneumonia?
 A. Fibrinous pneumonia
 B. Suppurative pneumonia
 C. Hemorrhagic pneumonia
@@ -1600,7 +1600,7 @@ D. Pulmonary fibrosis
 E. Interstitial pneumonia
 【参考答案】 E
 
-Which of the following groups of findings is strongly characteristic of interstitial pneumonia?
+201. Which of the following groups of findings is strongly characteristic of interstitial pneumonia?
 A. Interstitial congestion and edema, infiltration of mononuclear cells and lymphocytes
 B. Interstitial congestion and edema, lymphocytic infiltration
 C. Interstitial congestion, edema and bleeding
@@ -1608,7 +1608,7 @@ D. Interstitial congestion and edema, neutrophil infiltration
 E. Interstitial congestion and edema, infiltration of plasma cells
 【参考答案】 A
 
-Which of the following types of pneumonia has inclusion bodies in alveolar epithelial cells and/or macrophages?
+202. Which of the following types of pneumonia has inclusion bodies in alveolar epithelial cells and/or macrophages?
 A. Streptococcus pneumonia
 B. Viral pneumonia
 C. Mycoplasma pneumonia
@@ -1616,7 +1616,7 @@ D. Bacillary pneumonia
 E. Fungal pneumonia
 【参考答案】 B
 
-Which of the following types of pneumonia is likely to be caused by influenza virus?
+203. Which of the following types of pneumonia is likely to be caused by influenza virus?
 A. Lobular pneumonia
 B. Lobar pneumonia
 C. Interstitial pneumonia
@@ -1624,7 +1624,7 @@ D. Hypersensity pneumonia
 E. Hemorrhagic pneumonia
 【参考答案】 C
 
-Which of the following is a diagnostic indicator of viral pneumonia?
+204. Which of the following is a diagnostic indicator of viral pneumonia?
 A. Interstitial pneumonia
 B. Infiltration of lymphocytes and monocytes
 C. Virus inclusion bodies within epithelial cells
@@ -1632,7 +1632,7 @@ D. Hyperplasia of alveolar cell
 E. Hyaline membrane formation in alveoli
 【参考答案】 C
 
-Which of the following lesions is charac-teristic of viral pneumonia?
+205. Which of the following lesions is characteristic of viral pneumonia?
 A. Lobular lesions
 B. Lobar lesions
 C. Reticulate or irregular patchy lesions
@@ -1640,7 +1640,7 @@ D. Confluent lobular lesions
 E. Segmental lesions
 【参考答案】 C
 
-Which of the following is not present in lobar pneumonia?
+206. Which of the following is not present in lobar pneumonia?
 A. Fibrinous inflammation of alveoli
 B. Bronchial suppuration
 C. Toxic shock
@@ -1648,7 +1648,7 @@ D. Lung abscess
 E. Pulmonary carnification
 【参考答案】 B
 
-Which of the following diseases is not an interstitial type pneumonia?
+207. Which of the following diseases is not an interstitial type pneumonia?
 A. Mycoplasmal pneumonia
 B. Chlamydia pneumonia
 C. Legionella pneumonia
@@ -1656,7 +1656,7 @@ D. Viral pneumonia
 E. SARS
 【参考答案】 C
 
-Which of the following is not true in legionella pneumonia?
+208. Which of the following is not true in legionella pneumonia?
 A. It can manifest as lobar pneumonia
 B. It can manifest as confluent bronchopneumonia
 C. It can manifest as interstitial inflammation
@@ -1664,7 +1664,7 @@ D. It can manifest as lobular pneumonia
 E. It can manifest as purulent pleuritis
 【参考答案】 C
 
-Which of the following lesions is characteristic of lobar pneumonia?
+209. Which of the following lesions is characteristic of lobar pneumonia?
 A. Lymphocytic exudation
 B. Fibrin exudation
 C. Serous exudation
@@ -1672,7 +1672,7 @@ D. Monocyte and macrophage exudation
 E. Neutrophil exudation
 【参考答案】 B
 
-Which of the following lesions is characteristic of lobular pneumonia?
+210. Which of the following lesions is characteristic of lobular pneumonia?
 A. Lymphocytic exudation
 B. Fibrin exudation
 C. Serous exudation
@@ -1680,7 +1680,7 @@ D. Monocyte and macrophage exudation
 E. Neutrophil exudation
 【参考答案】 E
 
-Which of the following lesions is characteristic of lobular pneumonia?
+211. Which of the following lesions is characteristic of lobular pneumonia?
 A. Lobular suppurative inflammation surrounding bronchioles
 B. Fibrinous inflammation of alveoli
 C. Hemorrhagic inflammation of alveoli
@@ -1688,7 +1688,7 @@ D. Interstitial non-suppurative inflammation
 E. Serous inflammation of alveoli
 【参考答案】 A
 
-Which of the following is the typical lesion of lobular pneumonia?
+212. Which of the following is the typical lesion of lobular pneumonia?
 A. Purulent inflammation of the trachea
 B. Necrotizing inflammation of alveoli
 C. Hyaline membrane formation of the alveolar wall
@@ -1696,7 +1696,7 @@ D. Fibrinous inflammation of alveoli
 E. Suppurative inflammation surrounding bronchioles
 【参考答案】 E
 
-Which of the following is not characteristic of lobular pneumonia?
+213. Which of the following is not characteristic of lobular pneumonia?
 A. The lesions begin from bronchioles
 B. It is caused by a variety of bacteria
 C. Suppurative inflammation
@@ -1704,7 +1704,7 @@ D. The patient often coughs up rust-colored sputum
 E. The patient often coughs up mucopurulent sputum
 【参考答案】 D
 
-Which of the following is not a complication of lobular pneumonia?
+214. Which of the following is not a complication of lobular pneumonia?
 A. Pulmonary carnification
 B. Lung abscess
 C. Pyemia
@@ -1712,7 +1712,7 @@ D. Respiratory failure
 E. Empyema
 【参考答案】 A
 
-Which of the following lesions is characteristic of lobular pneumonia?
+215. Which of the following lesions is characteristic of lobular pneumonia?
 A. Fibrinous inflammation
 B. Serous inflammation
 C. Suppurative inflammation
@@ -1720,7 +1720,7 @@ D. Catarrhal inflammation
 E. Necrotizing inflammation
 【参考答案】 C
 
-Which of the following is characteristic of lobular pneumonia?
+216. Which of the following is characteristic of lobular pneumonia?
 A. It often develops from acute bronchiolitis
 B. Fibrinous inflammation of bronchi and alveoli
 C. It can develop into a lobar pneumonia
@@ -1728,7 +1728,7 @@ D. It is often complicated by obstructive pulmonary emphysema
 E. It will not destroy the alveolar structure
 【参考答案】 A
 
-Which of the following is not characteristic of lobar pneumonia?
+217. Which of the following is not characteristic of lobar pneumonia?
 A. Many heart failure cells in the alveolar spaces
 B. Serous exudation in the alveolar spaces
 C. Red blood cell in the alveolar spaces alveolar cavity
@@ -1736,7 +1736,7 @@ D. Fibrinous inflammation in the alveolar space exudate
 E. Neutrophils infiltration in the alveolar spaces
 【参考答案】 A
 
-Which of the following is not characteristic of lobar pneumonia?
+218. Which of the following is not characteristic of lobar pneumonia?
 A. Involves a whole lobe or more than one lobes
 B. Usually infected by Streptococcus pneumoniae
 C. Fibrinous inflammation
@@ -1744,7 +1744,7 @@ D. The structure of the small bronchial wall and alveolar wall is damaged
 E. Pulmonary carnification
 【参考答案】 D
 
-Which of the following pathogens is found most frequently in pneumonia?
+219. Which of the following pathogens is found most frequently in pneumonia?
 A. Bacteria
 B. Chlamydia
 C. Mycoplasma
@@ -1752,7 +1752,7 @@ D. Virus
 E. Fungi
 【参考答案】 A
 
-Which of the following is the most common cause of acute infection of the upper respiratory tract?
+220. Which of the following is the most common cause of acute infection of the upper respiratory tract?
 A. Cold
 B. Bacteria
 C. Mycoplasma
@@ -1760,7 +1760,7 @@ D. Virus
 E. Fungi
 【参考答案】 D
 
-Which of the following is characteristic of the red liver-like phage of lobar pneumonia?
+221. Which of the following is characteristic of the red liver-like phage of lobar pneumonia?
 A. Fibrinous inflammation
 B. Hemorrhagic inflammation
 C. Hemorrhagic serous inflammation
@@ -1768,7 +1768,7 @@ D. hemorrhagic fibrinous inflammation
 E. Fibrinous purulent inflammation
 【参考答案】 D
 
-Which of the following is characteristic of lobar pneumonia?
+222. Which of the following is characteristic of lobar pneumonia?
 A. Hemorrhagic inflammation
 B. Suppurative inflammation
 C. Fibrinous inflammation
@@ -1776,7 +1776,7 @@ D. Serous inflammation
 E. Necrotizing inflammation
 【参考答案】 C
 
-Which of the following is characteristic of pulmonary carnification?
+223. Which of the following is characteristic of pulmonary carnification?
 A. Sarcoma cells diffusely infiltrate the lung
 B. Chronic pulmonary congestion and fibrosis
 C. Cancer cells infiltrate the lung resulting consolidation
@@ -1784,7 +1784,7 @@ D. Organization of lung exudation
 E. Formation of pulmonary inflammatory pseudotumor
 【参考答案】 D
 
-Which of the following is the pathologic phases is present when a patient with lobar pneumonia coughs up rust colored sputum?
+224. Which of the following is the pathologic phases is present when a patient with lobar pneumonia coughs up rust colored sputum?
 A. Congestion and edema phase
 B. Red liver-like phase
 C. Resolution phase
@@ -1792,7 +1792,7 @@ D. Gray liver-like phase
 E. Recovery stage
 【参考答案】 B
 
-Which of the following pathologic phases is present when rust colored sputum changes into mucoid purulent sputum in a patient with lobar pneumonia?
+225. Which of the following pathologic phases is present when rust colored sputum changes into mucoid purulent sputum in a patient with lobar pneumonia?
 A. Gray liver-like phase
 B. Red liver-like phase
 C. Resolution phase
@@ -1800,7 +1800,7 @@ D. Recovery stage
 E. Congestion and edema phase
 【参考答案】 A
 
-There are macrophages in the sputum whose cytoplasm contains hemosiderin when there is lung congestion. Which of the following is the best name?
+226. There are macrophages in the sputum whose cytoplasm contains hemosiderin when there is lung congestion. Which of the following is the best name?
 A. Large mononuclear cells
 B. Dust cells
 C. Macrophages in tissue
@@ -1808,7 +1808,7 @@ D. Heart failure cells
 E. Foreign-body giant cells
 【参考答案】 D
 
-A 35-year-old man has had an infection of the upper respiratory tract for two days. His condition rapidly deteriorated. He developed fever, chills, chest pain, cough, and rust-colored sputum. His temperature is 39.8°C. A chest radiograph shows a large dense shadow in the left lower lobe. Which of the following conditions is not usually associated with this patients illness?
+227. A 35-year-old man has had an infection of the upper respiratory tract for two days. His condition rapidly deteriorated. He developed fever, chills, chest pain, cough, and rust-colored sputum. His temperature is 39.8°C. A chest radiograph shows a large dense shadow in the left lower lobe. Which of the following conditions is not usually associated with this patients illness?
 A. Lung abscess
 B. Septic shock
 C. Pulmonary carnification
@@ -1816,7 +1816,7 @@ D. Bronchiectasis
 E. Fibrinous pleuritis
 【参考答案】 D
 
-Which of the following is the cause of pulmonary carnification in patients with lobar pulmonary?
+228. Which of the following is the cause of pulmonary carnification in patients with lobar pulmonary?
 A. Fibrin exudation
 B. Ischemia of local tissue
 C. Lower resistance of the body
@@ -1824,7 +1824,7 @@ D. Smaller number and dysfunction of phagocytic cells
 E. Highly pathogenic bacteria
 【参考答案】 D
 
-Which of the following is likely to be present when lobar pneumonia is combined with staphylococcus infection?
+229. Which of the following is likely to be present when lobar pneumonia is combined with staphylococcus infection?
 A. Inflammatory pseudotumor
 B. Lung abscess
 C. Obstructive pulmonary emphysema
@@ -1832,7 +1832,7 @@ D. Pulmonary carnification
 E. Fibrinous pleuritis
 【参考答案】 B
 
-Which of the following changes in pulmonary vessels is not associated with chronic pulmonary heart disease?
+230. Which of the following changes in pulmonary vessels is not associated with chronic pulmonary heart disease?
 A. The number of capillaries is reduced
 B. Fibrinoid necrosis of medium-sized arteries
 C. Muscularization of arterioles
@@ -1840,7 +1840,7 @@ D. Thickening of intima in small muscular arteries
 E. Pulmonary arteritis
 【参考答案】 B
 
-Which of the following pathological changes is not present in chronic pulmonary heart disease?
+231. Which of the following pathological changes is not present in chronic pulmonary heart disease?
 A. Fibrinoid necrosis of pulmonary muscular arterioles
 B. Myocardial dissolution and fibrosis
 C. Diffuse obstructive pulmonary emphysema
@@ -1848,15 +1848,15 @@ D. Pulmonary fibrosis
 E. Muscularization of arterioles
 【参考答案】 A
 
-Which of the following factors is not associated with chronic obstructive pulmonary emphysema?
+232. Which of the following factors is not associated with chronic obstructive pulmonary emphysema?
 A. Dysfunction of ventilation in small airways
 B. Increase in endogenous elastase
 C. Smoking
-D. Hereditary a₁-antitrypsin deficiency
+D. Hereditary α_1-antitrypsin deficiency
 E. Pulmonary cystic fibrosis
 【参考答案】 E
 
-Which of the following lesions is not present in chronic bronchitis?
+233. Which of the following lesions is not present in chronic bronchitis?
 A. The cilia of columnar epithelium show lodging and shedding
 B. Hyperplasia of bronchial glands and metaplasia of mucous glands
 C. There are a large numbers of lymphocytes in the bronchial wall
@@ -1864,7 +1864,7 @@ D. Atypical hyperplasia of cartilage cells in bronchial wall
 E. Squamous metaplasia of bronchial mucosa
 【参考答案】 D
 
-Which of the following diseases leads most frequently to pulmonary heart disease?
+234. Which of the following diseases leads most frequently to pulmonary heart disease?
 A. Chronic obstructive pulmonary emphysema
 B. Thoracic malformation
 C. Silicosis
@@ -1872,7 +1872,7 @@ D. Chronic tuberculosis
 E. Asthma
 【参考答案】 A
 
-Which of the following is not appropriate in describing pulmonary heart disease?
+235. Which of the following is not appropriate in describing pulmonary heart disease?
 A. Persistent pulmonary hypertension is the basis of pathogenesis
 B. It may be caused by chronic obstructive pulmonary emphysema
 C. It can cause systemic congestion
@@ -1880,7 +1880,7 @@ D. It can cause lung congestion
 E. It can cause right heart failure
 【参考答案】 D
 
-Which of the following is not associated with chronic pulmonary heart disease?
+236. Which of the following is not associated with chronic pulmonary heart disease?
 A. Chronic obstructive pulmonary disease
 B. Pulmonary hypertension
 C. Atherosclerosis of the pulmonary artery
@@ -1888,7 +1888,7 @@ D. Myocardial hypertrophy of the right ventricle
 E. Thromboembolism of the main branch of the pulmonary artery
 【参考答案】 E
 
-Which of the following types of arterial lesions is not associated wtih pulmonary heart disease?
+237. Which of the following types of arterial lesions is not associated wtih pulmonary heart disease?
 A. Small vessel arteritis
 B. Hyalinization of small arteries
 C. Fibroelastosis of arterioles
@@ -1896,7 +1896,7 @@ D. Muscularization of arterioles
 E. Intimal hyperplasia of pulmonary arterioles
 【参考答案】 B
 
-Which of the following is not an outcome of pulmonary heart disease?
+238. Which of the following is not an outcome of pulmonary heart disease?
 A. Respiratory failure
 B. Myocardial infarction
 C. Arrhythmia
@@ -1904,7 +1904,7 @@ D. Pulmonary encephalopathy
 E. Expansion of the right ventricle
 【参考答案】 B
 
-Which of the following is the common cause of acute pulmonary heart disease?
+239. Which of the following is the common cause of acute pulmonary heart disease?
 A. Gas embolism
 B. Fat embolism
 C. Thromboembolism of the main branch of the pulmonary artery
@@ -1912,7 +1912,7 @@ D. Thromboembolism of a small branch of the pulmonary artery
 E. Amniotic fluid embolism
 【参考答案】 C
 
-Which of the following is the key mechanism of pulmonary heart disease?
+240. Which of the following is the key mechanism of pulmonary heart disease?
 A. Infection of the lung
 B. Obstruction of small airways
 C. Pulmonary hypertension
@@ -1920,7 +1920,7 @@ D. Pulmonary interstitial fibrosis
 E. Pulmonary thrombosis
 【参考答案】 C
 
-Which is the following is not a cause of pulmonary heart disease?
+241. Which is the following is not a cause of pulmonary heart disease?
 A. Pulmonary embolism
 B. Interstitial pneumonia
 C. Chronic fibro-cavitative pulmonary tuberculosis
@@ -1928,7 +1928,7 @@ D. Silicosis
 E. Emphysema
 【参考答案】 B
 
-Which of the following is the most common cause of pulmonary heart disease?
+242. Which of the following is the most common cause of pulmonary heart disease?
 A. Chronic obstructive pulmonary emphysema
 B. Tuberculoma
 C. Lobar pneumonia
@@ -1936,7 +1936,7 @@ D. Lung cancer, peripheral type
 E. Silicosis
 【参考答案】 A
 
-Which of the following findings is the main standard for pathologic diagnosis of pulmonary heart disease?
+243. Which of the following findings is the main standard for pathologic diagnosis of pulmonary heart disease?
 A. The thickness of the right ventricular wall is more than 5 mm in the area two centimeters below the pulmonic valve
 B. The apex of heart is blunt and round
 C. There is expansion of the right ventricle
@@ -1944,7 +1944,7 @@ D. There is bulging of the pulmonary cone
 E. There is endothelial thickening of the pulmonary artery
 【参考答案】 A
 
-Which of the following chronic obstructive pulmonary diseases is the most common?
+244. Which of the following chronic obstructive pulmonary diseases is the most common?
 A. Asthma
 B. Bronchiectasis
 C. Silicosis
@@ -1952,7 +1952,7 @@ D. Chronic bronchitis
 E. Chronic fibro-cavitative pulmonary tuberculosis
 【参考答案】 D
 
-Which of the following is involved in lesions of centriacinar emphysema?
+245. Which of the following is involved in lesions of centriacinar emphysema?
 A. Terminal bronchiole
 B. Alveolar ducts
 C. Alveolar sac
@@ -1960,15 +1960,15 @@ D. Respiratory bronchiole
 E. Alveoli
 【参考答案】 D
 
-Which of the following is not true of centriacinar emphysema?
+246. Which of the following is not true of centriacinar emphysema?
 A. The lesion involves the central part of the acinus, and lesions of the respiratory bronchiole are most obvious, showing cystic dilatation
 B. Chronic bronchiolitis is the main cause
-C. The lesion is associated with hereditary a₁-antitrypsin deficiency
+C. The lesion is associated with hereditary α_1-antitrypsin deficiency
 D. The lesion is frequent in smokers
 E. Infection of small airways may play a role
 【参考答案】 C
 
-Which of the following types of emphysema is closely associated with hereditary a1-antitrypsin deficiency?
+247. Which of the following types of emphysema is closely associated with hereditary α_1-antitrypsin deficiency?
 A. Centriacinar emphysema
 B. Interstitial emphysema
 C. Panacinar emphysema
@@ -1976,7 +1976,7 @@ D. Bullous emphysema
 E. Paracicatrical emphysema
 【参考答案】 C
 
-Which of the following chronic lung diseases is associated with hereditary a₁-antitrypsin deficiency?
+248. Which of the following chronic lung diseases is associated with hereditary α_1-antitrypsin deficiency?
 A. Goodpasture syndrome
 B. Panacinar emphysema
 C. Bronchiectasis
@@ -1984,7 +1984,7 @@ D. Chronic bronchitis
 E. Pulmonary fibrosis
 【参考答案】 B
 
-Which type of emphysema involves the entire acinus?
+249. Which type of emphysema involves the entire acinus?
 A. Centriacinar emphysema
 B. Panacinar emphysema
 C. Interstitial emphysema
@@ -1992,7 +1992,7 @@ D. Periacinar emphysema
 E. Irregular emphysema
 【参考答案】 B
 
-Which of the following is not associated with the pathogenesis of emphysema?
+250. Which of the following is not associated with the pathogenesis of emphysema?
 A. Destruction of alveolar wall and reduced elasticity
 B. Airway narrowing and obstruction
 C. Squamous metaplasia
@@ -2000,7 +2000,7 @@ D. Increase in elastase
 E. Smoking
 【参考答案】 C
 
-Which is the main factor leading to emphysema?
+251. Which is the main factor leading to emphysema?
 A. Air pollution
 B. Smoking
 C. Infection of small airways
@@ -2008,7 +2008,7 @@ D. Chronic obstructive bronchiolitis
 E. Cold
 【参考答案】 D
 
-Which of the following is not included in emphysema lesions?
+252. Which of the following is not included in emphysema lesions?
 A. Terminal bronchioles
 B. Alveoli
 C. Alveolar tube
@@ -2016,7 +2016,7 @@ D. Respiratory bronchiole
 E. Alveolar sacs
 【参考答案】 A
 
-A 70-year-old woman has a nearly 10 year history of chronic bronchitis She has had shortness of breath, chest distress and dyspnea for nearly 3 years. She has barrel chest which is hyperresonant on percussion, with weakened respiratory movement, and weakened breath sounds. Which of the following pathologic conditions is NOT typically associated with these clinical findings?
+253. A 70-year-old woman has a nearly 10 year history of chronic bronchitis She has had shortness of breath, chest distress and dyspnea for nearly 3 years. She has Barrel chest which is hyperresonant on percussion, with weakened respiratory movement, and weakened breath sounds. Which of the following pathologic conditions is NOT typically associated with these clinical findings?
 A. Narrowing of alveolar septa
 B. Alveolar expansion
 C. Alveoli fusing into vesicles
@@ -2024,7 +2024,7 @@ D. Extensive pulmonary fibrosis
 E. Fracture of the alveolar septum
 【参考答案】 D
 
-There is formation of small beaded bubbles at the junction of the lobular interval and pleura. Which of the following is the most likely diagnosis?
+254. There is formation of small beaded bubbles at the junction of the lobular interval and pleura. Which of the following is the most likely diagnosis?
 A. Emphysema, irregular type
 B. Periacinar emphysema
 C. Bullae of the lung
@@ -2032,7 +2032,7 @@ D. Interstitial emphysema
 E. Centriacinar emphysema
 【参考答案】 D
 
-Which of these is the most common complication of chronic bronchitis?
+255. Which of these is the most common complication of chronic bronchitis?
 A. Emphysema
 B. lobular pneumonia
 C. Lung Abscess
@@ -2040,7 +2040,7 @@ D. Bronchiectasis
 E. Asthma
 【参考答案】 A
 
-Which type of epithelial metaplasia is prone to occur in patients with chronic bronchitis?
+256. Which type of epithelial metaplasia is prone to occur in patients with chronic bronchitis?
 A. Transitional cell metaplasia
 B. Mucinous metaplasia
 C. Squamous metaplasia
@@ -2048,7 +2048,7 @@ D. Goblet metaplasia
 E. Columnar cell metaplasia
 【参考答案】 C
 
-Which of these is the pathological basis of ventilation dysfunction in patients with chronic bronchitis?
+257. Which of these is the pathological basis of ventilation dysfunction in patients with chronic bronchitis?
 A. Lodging and shedding of epithelial cilia
 B. Hypertrophy and hyperplasia of mucous glands
 C. Degeneration and atrophy of cartilage
@@ -2056,7 +2056,7 @@ D. Obstruction of small airways
 E. Squamous metaplasia of bronchial mucosa
 【参考答案】 D
 
-A 60-year-old woman develops a chronic cough with white foamy mucous sputum in autumn and winter each year, continuing each time for about three months. Which of the following conditions is NOT true of the disease associated with these clinical findings?
+258. A 60-year-old woman develops a chronic cough with white foamy mucous sputum in autumn and winter each year, continuing each time for about three months. Which of the following conditions is NOT true of the disease associated with these clinical findings?
 A. It can cause lobar pneumonia
 B. Smoking is a common cause
 C. It can cause pulmonary heart disease
@@ -2064,7 +2064,7 @@ D. It may be associated with asthma
 E. It can cause emphysema
 【参考答案】 A
 
-Which factor is not closely related to the occurrence of chronic bronchitis?
+259. Which factor is not closely related to the occurrence of chronic bronchitis?
 A. Viral infection
 B. Bacterial infection
 C. Mycoplasma infection
@@ -2072,7 +2072,7 @@ D. Harmful gases
 E. Smoking
 【参考答案】 C
 
-A 60-year-old woman develops a chronic cough with white foamy mucous sputum in autumn and winter each year, which continues for about three months each time. Which of the following pathologic conditions is not associated with these clinical findings?
+260. A 60-year-old woman develops a chronic cough with white foamy mucous sputum in autumn and winter each year, which continues for about three months each time. Which of the following pathologic conditions is not associated with these clinical findings?
 A. Fibroelastosis of the bronchial wall
 B. Hyperplasia of goblet cells in mucosal epithelium
 C. Hypertrophy of mucous glands
@@ -2080,7 +2080,7 @@ D. Degeneration and atrophy of bronchial cartilage
 E. Squamous metaplasia of bronchial mucosa
 【参考答案】 A
 
-Which of these lesions is the basis for sputum production in patients with chronic bronchitis?
+261. Which of these lesions is the basis for sputum production in patients with chronic bronchitis?
 A. Degeneration, necrosis and detachment of bronchial epithelial cells
 B. Hypertrophy of glands, hyperplasia of goblet cells in mucosal epithelium
 C. Atrophy, fibrosis, calcification and ossification of cartilage

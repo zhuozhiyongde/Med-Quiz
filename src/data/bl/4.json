@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 肿瘤",
-  "description": "本解析依据「病理学题库」整理 - 肿瘤",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 肿瘤",
   "questions": [
     {
       "type": "single",
@@ -169,7 +169,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 26岁, 右乳外上象限有一直径约2cm 大小的圆形肿块, 边界清楚, 表面光滑, 可移动, 不疼。此肿块最可能是",
+      "title": "女性，26 岁，右乳外上象限有一直径约 2 cm 大小的圆形肿块，边界清楚，表面光滑，可移动，不疼。此肿块最可能是",
       "options": {
         "A": "乳腺癌",
         "B": "乳腺增生症",
@@ -231,7 +231,7 @@
       "type": "single",
       "title": "不符合肿瘤代谢特点的是",
       "options": {
-        "A": "DNA、RNA合成代谢旺盛",
+        "A": "DNA、RNA 合成代谢旺盛",
         "B": "蛋白质合成代谢旺盛",
         "C": "糖代谢以无氧酵解为主",
         "D": "可产生肿瘤蛋白",
@@ -244,7 +244,7 @@
     },
     {
       "type": "single",
-      "title": "癌转移至淋巴结时, 首先出现在",
+      "title": "癌转移至淋巴结时，首先出现在",
       "options": {
         "A": "边缘窦",
         "B": "髓窦",
@@ -274,7 +274,7 @@
     },
     {
       "type": "single",
-      "title": "在恶性肿瘤患者的周围血中查见恶性肿瘤细胞, 说明该患者",
+      "title": "在恶性肿瘤患者的周围血中查见恶性肿瘤细胞，说明该患者",
       "options": {
         "A": "已发生了血道转移",
         "B": "已发生了淋巴道转移",
@@ -304,7 +304,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 60岁, 上腹痛半年, 因上消化道大出血, 急诊入院。手术标本胃窦部粘膜可见一个巨大的火山口状溃疡。切面质硬, 磁白色, 侵入肌层。肝内可见数个小结节, 手术切除一同送病理, 支持胃癌肝转移的病理变化是",
+      "title": "男性，60 岁，上腹痛半年，因上消化道大出血，急诊入院。手术标本胃窦部粘膜可见一个巨大的火山口状溃疡。切面质硬，磁白色，侵入肌层。肝内可见数个小结节，手术切除一同送病理，支持胃癌肝转移的病理变化是",
       "options": {
         "A": "小结节由肝细胞构成",
         "B": "小结节由印戒细胞癌构成",
@@ -334,7 +334,7 @@
     },
     {
       "type": "single",
-      "title": "胃内两个癌结节, 支持胃内癌转移最可靠的依据是",
+      "title": "胃内两个癌结节，支持胃内癌转移最可靠的依据是",
       "options": {
         "A": "两个癌结节不相连",
         "B": "两个癌结节组织学类型不同",
@@ -502,7 +502,7 @@
       "title": "原位癌的主要特征是",
       "options": {
         "A": "发生于粘膜、表皮和腺体",
-        "B": "癌细胞占据上皮全层, 但基底膜仍完整",
+        "B": "癌细胞占据上皮全层，但基底膜仍完整",
         "C": "可以治愈",
         "D": "上皮内出现异型性的细胞",
         "E": "胃粘膜内癌是一种原位癌"
@@ -559,7 +559,7 @@
     },
     {
       "type": "single",
-      "title": "癌前病变中, 需要积极治疗的病变是",
+      "title": "癌前病变中，需要积极治疗的病变是",
       "options": {
         "A": "纤维组织增生",
         "B": "上皮增生",
@@ -682,10 +682,10 @@
       "title": "腺鳞癌是指",
       "options": {
         "A": "伴有鳞状上皮化生的腺癌",
-        "B": "既有上皮成分, 又有间质成分的肿瘤",
+        "B": "既有上皮成分，又有间质成分的肿瘤",
         "C": "介于良性与恶性之间的肿瘤",
         "D": "同时具有癌和肉瘤结构的肿瘤",
-        "E": "肿瘤中既有鳞状细胞癌成分, 又有腺癌成分"
+        "E": "肿瘤中既有鳞状细胞癌成分，又有腺癌成分"
       },
       "answers": [
         "E"
@@ -718,13 +718,13 @@
         "E": "腺癌"
       },
       "answers": [
-        "E"
+        "A"
       ],
       "explanation": ""
     },
     {
       "type": "single",
-      "title": "男性, 70岁, 1年来常有便血, 肠镜检查, 发现距肛门8cm 的肠粘膜有一2cm 大小的肿物, 中心有溃疡。活检诊断为粘液腺癌, 组织学改变是",
+      "title": "男性，70 岁，1 年来常有便血，肠镜检查，发现距肛门 8 cm 的肠粘膜有一 2 cm 大小的肿物，中心有溃疡。活检诊断为粘液腺癌，组织学改变是",
       "options": {
         "A": "癌细胞形成腺腔",
         "B": "癌细胞大小较一致",
@@ -784,9 +784,9 @@
     },
     {
       "type": "single",
-      "title": "有关移行细胞癌的描述,错误的是",
+      "title": "有关移行细胞癌的描述，错误的是",
       "options": {
-        "A": "III 级预后最好",
+        "A": "III级预后最好",
         "B": "好发于膀胱和肾盂等处",
         "C": "组织学上可有不同程度的移行上皮的特点",
         "D": "呈浸润性生长",
@@ -804,7 +804,7 @@
         "A": "肿瘤细胞多形性明显",
         "B": "出现病理核分裂",
         "C": "侵犯血管",
-        "D": "细胞异型性明显,呈腺样排列",
+        "D": "细胞异型性明显，呈腺样排列",
         "E": "核深染"
       },
       "answers": [
@@ -819,7 +819,7 @@
         "A": "具有分泌功能",
         "B": "形成导管和小叶结构",
         "C": "细胞异型性不明显",
-        "D": "浸润性生长",
+        "D": "膨胀性生长",
         "E": "形成腺样结构"
       },
       "answers": [
@@ -832,7 +832,7 @@
       "title": "不符合髓样癌特征的是",
       "options": {
         "A": "来源于腺上皮",
-        "B": "癌巢呈实体性,无腺腔形成",
+        "B": "癌巢呈实体性，无腺腔形成",
         "C": "癌细胞多",
         "D": "可见淋巴细胞浸润",
         "E": "纤维间质丰富"
@@ -848,7 +848,7 @@
       "options": {
         "A": "是一种良性肿瘤",
         "B": "好发于青年女性",
-        "C": "切面灰白、质韧,呈编织状",
+        "C": "切面灰白、质韧，呈编织状",
         "D": "包膜完整",
         "E": "由分化良好的纤维组织构成"
       },
@@ -859,7 +859,7 @@
     },
     {
       "type": "single",
-      "title": "男性,60岁,1年来进行性吞咽困难,日渐加重。胃镜检查,食管下段可见一溃疡型肿物,质地较硬,溃疡周边隆起,底部凹凸不平。活检的病理诊断最可能是",
+      "title": "男性，60 岁，1 年来进行性吞咽困难，日渐加重。胃镜检查，食管下段可见一溃疡型肿物，质地较硬，溃疡周边隆起，底部凹凸不平。活检的病理诊断最可能是",
       "options": {
         "A": "食管小细胞癌",
         "B": "食管腺癌",
@@ -874,7 +874,7 @@
     },
     {
       "type": "single",
-      "title": "女性,58岁,停经6年后,阴道不规则出血2个月。妇科检查,子宫体积增大,如孕两个月大。刮宫取子宫内膜送病理,诊断为中分化子宫内膜腺癌。不符合其组织学改变的是",
+      "title": "女性，58 岁，停经 6 年后，阴道不规则出血 2 个月。妇科检查，子宫体积增大，如孕两个月大。刮宫取子宫内膜送病理，诊断为中分化子宫内膜腺癌。不符合其组织学改变的是",
       "options": {
         "A": "腺体密集、背靠背",
         "B": "出现鳞状上皮",
@@ -889,7 +889,7 @@
     },
     {
       "type": "single",
-      "title": "女性,40岁,偶然发现右乳有一肿块,黄豆大,质硬,手术切除,其组织学改变符合导管内癌的是",
+      "title": "女性，40 岁，偶然发现右乳有一肿块，黄豆大，质硬，手术切除，其组织学改变符合导管内癌的是",
       "options": {
         "A": "导管上皮乳头状增生",
         "B": "导管上皮与纤维组织混合增生",
@@ -904,7 +904,7 @@
     },
     {
       "type": "single",
-      "title": "男性,60岁,无痛性血尿半年余。膀胱镜检查,膀胱三角区可见一乳头状肿物,有蒂。活检报告为乳头状瘤。符合此诊断的病变是",
+      "title": "男性，60 岁，无痛性血尿半年余。膀胱镜检查，膀胱三角区可见一乳头状肿物，有蒂。活检报告为乳头状瘤。符合此诊断的病变是",
       "options": {
         "A": "可见鳞状细胞团",
         "B": "可见腺体",
@@ -938,7 +938,7 @@
       "options": {
         "A": "发生于腺上皮",
         "B": "癌细胞无腺腔形成",
-        "C": "癌巢小而少,间质纤维组织多",
+        "C": "癌巢小而少，间质纤维组织多",
         "D": "可弥漫性浸润",
         "E": "分化较好"
       },
@@ -969,7 +969,7 @@
         "A": "儿童常见",
         "B": "多为先天性发生",
         "C": "多见于皮肤",
-        "D": "成年后可停止发展,甚至可以自行消退",
+        "D": "成年后可停止发展，甚至可以自行消退",
         "E": "膨胀性生长"
       },
       "answers": [
@@ -984,7 +984,7 @@
         "A": "多见于婴幼儿和青少年",
         "B": "肿瘤由不同分化阶段的横纹肌母细胞构成",
         "C": "切面呈鱼肉状",
-        "D": "恶性度较高,主要发生血道转移",
+        "D": "恶性度较高，主要发生血道转移",
         "E": "常发生于横纹肌的部位"
       },
       "answers": [
@@ -1009,7 +1009,7 @@
     },
     {
       "type": "single",
-      "title": "有关瘤样纤维组织增生的描述,错误的是",
+      "title": "有关瘤样纤维组织增生的描述，错误的是",
       "options": {
         "A": "是一种良性肿瘤",
         "B": "呈浸润性生长",
@@ -1028,7 +1028,7 @@
       "options": {
         "A": "好发于子宫、胃肠道",
         "B": "肿瘤有包膜",
-        "C": "切面灰白、质韧,呈编织状",
+        "C": "切面灰白、质韧，呈编织状",
         "D": "不见核分裂像",
         "E": "不转移"
       },
@@ -1039,11 +1039,11 @@
     },
     {
       "type": "single",
-      "title": "有关脂肪肉瘤的描述,错误的是",
+      "title": "有关脂肪肉瘤的描述，错误的是",
       "options": {
         "A": "多由脂肪瘤恶变而来",
         "B": "好发于大腿、腹膜后等部位",
-        "C": "多见于40岁以上的患者",
+        "C": "多见于 40 岁以上的患者",
         "D": "肿瘤呈结节状或分叶状",
         "E": "常有假包膜"
       },
@@ -1054,7 +1054,7 @@
     },
     {
       "type": "single",
-      "title": "平滑肌肉瘤的诊断依据中,最重要的是",
+      "title": "平滑肌肉瘤的诊断依据中，最重要的是",
       "options": {
         "A": "肿瘤细胞丰富",
         "B": "肿瘤粘液变性",
@@ -1069,7 +1069,7 @@
     },
     {
       "type": "single",
-      "title": "女性,50岁,发现背部肿瘤5年,生长缓慢。检查时,肿瘤直径约5cm 大小,可活动,境界清楚。手术切除,肿瘤呈淡黄色,分叶状,包膜完整,质地较软。此结节最可能是",
+      "title": "女性，50 岁，发现背部肿瘤 5 年，生长缓慢。检查时，肿瘤直径约 5 cm 大小，可活动，境界清楚。手术切除，肿瘤呈淡黄色，分叶状，包膜完整，质地较软。此结节最可能是",
       "options": {
         "A": "纤维瘤",
         "B": "血管瘤",
@@ -1084,7 +1084,7 @@
     },
     {
       "type": "single",
-      "title": "男性,30岁,右胫骨上端病理性骨折,局部被囊性肿物破坏。手术后,病理诊断为骨巨细胞瘤。符合此诊断的描述是",
+      "title": "男性，30 岁，右胫骨上端病理性骨折，局部被囊性肿物破坏。手术后，病理诊断为骨巨细胞瘤。符合此诊断的描述是",
       "options": {
         "A": "良性肿瘤",
         "B": "巨细胞是肿瘤的主要细胞",
@@ -1099,7 +1099,7 @@
     },
     {
       "type": "single",
-      "title": "女性,47岁,因子宫多发性结节,子宫切除。病理检查,符合平滑肌肉瘤的病变是",
+      "title": "女性，47 岁，因子宫多发性结节，子宫切除。病理检查，符合平滑肌肉瘤的病变是",
       "options": {
         "A": "肿瘤细胞分化良好",
         "B": "肿瘤细胞密集",
@@ -1264,12 +1264,12 @@
     },
     {
       "type": "single",
-      "title": "有关畸胎瘤的描述,错误的是",
+      "title": "有关畸胎瘤的描述，错误的是",
       "options": {
         "A": "好发于卵巢、睾丸",
         "B": "由两个胚层以上的组织构成",
         "C": "未成熟型可见原始神经组织",
-        "D": "多呈囊性,囊内充满油脂、毛发",
+        "D": "多呈囊性，囊内充满油脂、毛发",
         "E": "肿瘤起源于生发上皮"
       },
       "answers": [
@@ -1279,7 +1279,7 @@
     },
     {
       "type": "single",
-      "title": "关于皮肤黑痣的描述,错误的是",
+      "title": "关于皮肤黑痣的描述，错误的是",
       "options": {
         "A": "皮内痣易恶变",
         "B": "来源于黑色素细胞",
@@ -1294,10 +1294,10 @@
     },
     {
       "type": "single",
-      "title": "有关黑色素瘤的描述,错误的是",
+      "title": "有关黑色素瘤的描述，错误的是",
       "options": {
         "A": "可由黑色素痣恶变而来",
-        "B": "恶性度较高,易发生血道转移",
+        "B": "恶性度较高，易发生血道转移",
         "C": "均可见色素颗粒",
         "D": "好发于足底、外阴、肛周的皮肤",
         "E": "瘤细胞核仁清楚、核分裂像多见"
@@ -1309,7 +1309,7 @@
     },
     {
       "type": "single",
-      "title": "女性,22岁,发现右下腹包块3个月,手术发现右卵巢被破坏,被一囊性肿物所取代,囊内充满脂性物质、毛发,囊壁可见牙齿。应诊断为",
+      "title": "女性，22 岁，发现右下腹包块 3 个月，手术发现右卵巢被破坏，被一囊性肿物所取代，囊内充满脂性物质、毛发，囊壁可见牙齿。应诊断为",
       "options": {
         "A": "无性细胞瘤",
         "B": "皮样囊肿",
@@ -1414,7 +1414,7 @@
     },
     {
       "type": "single",
-      "title": "不符合3,4-苯并芘致癌特点的描述是",
+      "title": "不符合 3,4-苯并芘致癌特点的描述是",
       "options": {
         "A": "致癌性强",
         "B": "致癌谱广",
@@ -1459,6 +1459,21 @@
     },
     {
       "type": "single",
+      "title": "与肝癌关系密切的病毒是",
+      "options": {
+        "A": "HBV",
+        "B": "HSV",
+        "C": "EBV",
+        "D": "HPV",
+        "E": "HTLV"
+      },
+      "answers": [
+        "A"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "single",
       "title": "艾滋病患者常见的恶性肿瘤是",
       "options": {
         "A": "鼻咽癌",
@@ -1474,7 +1489,7 @@
     },
     {
       "type": "single",
-      "title": "与HPV感染关系密切的肿瘤是",
+      "title": "与 HPV 感染关系密切的肿瘤是",
       "options": {
         "A": "鼻咽癌",
         "B": "食管癌",
@@ -1489,7 +1504,7 @@
     },
     {
       "type": "single",
-      "title": "与HCV感染关系密切的肿瘤是",
+      "title": "与 HCV 感染关系密切的肿瘤是",
       "options": {
         "A": "鼻咽癌",
         "B": "Kaposi 肉瘤",
@@ -1504,7 +1519,7 @@
     },
     {
       "type": "single",
-      "title": "与EBV感染关系密切的肿瘤是",
+      "title": "与 EBV 感染关系密切的肿瘤是",
       "options": {
         "A": "鼻咽癌",
         "B": "Kaposi 肉瘤",
@@ -1519,13 +1534,13 @@
     },
     {
       "type": "single",
-      "title": "与HTLV 感染关系密切的肿瘤是",
+      "title": "与 HTLV 感染关系密切的肿瘤是",
       "options": {
         "A": "鼻咽癌",
         "B": "Kaposi 肉瘤",
         "C": "食管癌",
         "D": "胃癌",
-        "E": "T细胞白血病"
+        "E": "T 细胞白血病"
       },
       "answers": [
         "E"
@@ -1534,13 +1549,13 @@
     },
     {
       "type": "single",
-      "title": "与EBV感染关系密切的肿瘤是",
+      "title": "与 EBV 感染关系密切的肿瘤是",
       "options": {
         "A": "Burkitt 淋巴瘤",
         "B": "Kaposi 肉瘤",
         "C": "食管癌",
         "D": "胃癌",
-        "E": "T细胞白血病"
+        "E": "T 细胞白血病"
       },
       "answers": [
         "A"
@@ -1549,7 +1564,7 @@
     },
     {
       "type": "single",
-      "title": "男性,20岁,轻度腹泻,伴粘液便4年。肠镜检查,结肠粘膜可见密布的米粒到黄豆大的息肉。病变符合",
+      "title": "男性，20 岁，轻度腹泻，伴粘液便 4 年。肠镜检查，结肠粘膜可见密布的米粒到黄豆大的息肉。病变符合",
       "options": {
         "A": "结肠腺瘤",
         "B": "结肠癌",
@@ -1564,7 +1579,7 @@
     },
     {
       "type": "single",
-      "title": "女性,5岁,双眼均患有视网膜母细胞瘤。生殖细胞发生改变的基因是",
+      "title": "女性，5 岁，双眼均患有视网膜母细胞瘤。生殖细胞发生改变的基因是",
       "options": {
         "A": "APC 基因",
         "B": "WT-1 基因",
@@ -1684,7 +1699,7 @@
     },
     {
       "type": "single",
-      "title": "有关肿瘤免疫的描述,错误的是",
+      "title": "有关肿瘤免疫的描述，错误的是",
       "options": {
         "A": "体液免疫起主要作用",
         "B": "癌组织内大量淋巴细胞浸润是预后较好的指标",
@@ -1731,7 +1746,7 @@
       "type": "single",
       "title": "不符合肿瘤抗原的描述是",
       "options": {
-        "A": "肿瘤相关抗原既存在于肿瘤细胞,又存在于某些正常细胞",
+        "A": "肿瘤相关抗原既存在于肿瘤细胞，又存在于某些正常细胞",
         "B": "肿瘤胚胎抗原在正常机体有微量存在",
         "C": "肿瘤特异抗原可以用于肿瘤的诊断",
         "D": "肿瘤胚胎抗原在胚胎发育中曾多量出现",
@@ -1747,7 +1762,7 @@
       "title": "不符合肿瘤免疫逃避的描述是",
       "options": {
         "A": "肿瘤细胞有较强的抗原性",
-        "B": "3. 肿瘤细胞 MHC 抗原减少",
+        "B": "肿瘤细胞 MHC 抗原减少",
         "C": "肿瘤患者的免疫系统受到抑制",
         "D": "肿瘤细胞产生免疫抑制因子",
         "E": "极少数癌症患者的肿瘤自行消退与免疫功能增强有关"
@@ -1780,7 +1795,7 @@
         "B": "浆细胞",
         "C": "巨噬细胞",
         "D": "嗜酸粒细胞",
-        "E": "B细胞"
+        "E": "B 细胞"
       },
       "answers": [
         "C"
@@ -1824,7 +1839,7 @@
         "A": "3,4-苯并芘",
         "B": "黄曲霉毒素",
         "C": "石棉纤维",
-        "D": "X线",
+        "D": "X 线",
         "E": "乙萘胺"
       },
       "answers": [
@@ -1839,7 +1854,7 @@
         "A": "3,4-苯并芘",
         "B": "黄曲霉毒素",
         "C": "石棉纤维",
-        "D": "紫外线引起的DNA 损伤",
+        "D": "紫外线引起的 DNA 损伤",
         "E": "乙萘胺"
       },
       "answers": [
@@ -1909,13 +1924,13 @@
     },
     {
       "type": "single",
-      "title": "有关抗癌基因与肿瘤关系的描述,错误的是",
+      "title": "有关抗癌基因与肿瘤关系的描述，错误的是",
       "options": {
         "A": "APC 基因——结肠腺瘤性息肉病",
         "B": "NF-1 基因——神经纤维瘤病",
         "C": "Rb 基因——视网膜母细胞瘤",
         "D": "WT-1 基因——肾母细胞瘤",
-        "E": "P53 基因————肺癌"
+        "E": "P53 基因——肺癌"
       },
       "answers": [
         "E"
@@ -1924,7 +1939,7 @@
     },
     {
       "type": "single",
-      "title": "有关原癌基因的描述,错误的是",
+      "title": "有关原癌基因的描述，错误的是",
       "options": {
         "A": "正常细胞的固有基因",
         "B": "对细胞的生长起抑制作用",
@@ -1939,7 +1954,7 @@
     },
     {
       "type": "single",
-      "title": "有关肿瘤的发生发展的描述,错误的是",
+      "title": "有关肿瘤的发生发展的描述，错误的是",
       "options": {
         "A": "长时间的过程",
         "B": "多个因素参与",
@@ -1958,7 +1973,7 @@
       "options": {
         "A": "正常细胞的固有基因",
         "B": "促进细胞的生长",
-        "C": "Rb 基因和P53 基因是两种常见的抗癌基因",
+        "C": "Rb 基因和 P53 基因是两种常见的抗癌基因",
         "D": "抗癌基因突变可能引起细胞的肿瘤性转化",
         "E": "肿瘤的发生需要两个等位基因的突变"
       },
@@ -1990,7 +2005,7 @@
         "B": "单一基因改变即可引起细胞恶性转化",
         "C": "累及癌基因的改变",
         "D": "累及肿瘤抑制基因的改变",
-        "E": "累及DNA修复基因的改变"
+        "E": "累及 DNA 修复基因的改变"
       },
       "answers": [
         "B"
@@ -2014,13 +2029,13 @@
     },
     {
       "type": "single",
-      "title": "不符合P53 基因的描述是",
+      "title": "不符合 P53 基因的描述是",
       "options": {
         "A": "P53 基因的突变发生于结肠癌、肺癌等实体肿瘤",
         "B": "野生型 P53 蛋白抑制细胞生长",
         "C": "突变型 P53 蛋白促进细胞增生",
         "D": "P53 蛋白存在于细胞浆内",
-        "E": "P53 基因位于17号染色体"
+        "E": "P53 基因位于 17 号染色体"
       },
       "answers": [
         "D"
@@ -2155,7 +2170,7 @@
         "B": "淋巴道转移",
         "C": "呈鱼肉状",
         "D": "血道转移",
-        "E": "肿瘤细胞弥漫散在,与间质混杂"
+        "E": "肿瘤细胞弥漫散在，与间质混杂"
       },
       "answers": [
         "E"
@@ -2226,11 +2241,11 @@
       "type": "single",
       "title": "不符合恶性肿瘤分期的描述是",
       "options": {
-        "A": "T表示肿瘤的大小",
-        "B": "L表示淋巴结转移情况",
+        "A": "T 表示肿瘤的大小",
+        "B": "L 表示淋巴结转移情况",
         "C": "M 表示脏器转移情况",
-        "D": "T₁L₀M₀ 表示肿瘤处于早期",
-        "E": "T₄L₃M₁ 表示肿瘤处于中期"
+        "D": "T_1L_0M_0表示肿瘤处于早期",
+        "E": "T_4L_3M_1表示肿瘤处于中期"
       },
       "answers": [
         "E"
@@ -2419,7 +2434,7 @@
     },
     {
       "type": "single",
-      "title": "A 72-year-old female has been feeling fatigued for weeks. She has had a 10kg weight loss in the past couple of months. She has some nausea, but no vomiting, hemoptysis, or hematemesis. She does not have a cough. She is afebrile. The most likely explanation for these findings, from the gross appearance of the liver seen here, is the presence of: [图片]",
+      "title": "A 72-year-old female has been feeling fatigued for weeks. She has had a 10 kg weight loss in the past couple of months. She has some nausea, but no vomiting, hemoptysis, or hematemesis. She does not have a cough. She is afebrile. The most likely explanation for these findings, from the gross appearance of the liver seen here, is the presence of:",
       "options": {
         "A": "Hepatic adenomas",
         "B": "Metastatic adenocarcinoma",
@@ -2430,22 +2445,24 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/4-chap4-1.jpg"
     },
     {
       "type": "single",
-      "title": "Which one of the following statements is most appropriate for the lesion shown here? [图片]",
+      "title": "Which one of the following statements is most appropriate for the lesion shown here?",
       "options": {
         "A": "This tumor is always well-differentiated",
         "B": "The growth pattern for the tumor is local invasion",
         "C": "Metastasis may be exist when the tumor is identified",
         "D": "The etiology of the tumor is related to specific virus",
-        "E": "None of above[图片]"
+        "E": "None of above"
       },
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/4-chap4-1.jpg"
     },
     {
       "type": "single",
@@ -2460,11 +2477,12 @@
       "answers": [
         "C"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/4-chap4-3.jpg"
     },
     {
       "type": "single",
-      "title": "A 68-year-old male is found to have occult blood in the stool on physicial examination. A colonoscopy is performed, and the lesion seen here was found and resected. Which of the following statements is most appropriate for this patient? [图片]",
+      "title": "A 68-year-old male is found to have occult blood in the stool on physicial examination. A colonoscopy is performed, and the lesion seen here was found and resected. Which of the following statements is most appropriate for this patient?",
       "options": {
         "A": "His children have a high risk for a similar lesion",
         "B": "This is a benign lesion that will not recur",
@@ -2475,7 +2493,8 @@
       "answers": [
         "B"
       ],
-      "explanation": ""
+      "explanation": "",
+      "image": "/data/bl/images/4-chap4-3.jpg"
     },
     {
       "type": "single",
@@ -2659,7 +2678,7 @@
     },
     {
       "type": "single",
-      "title": "A 62-year-old man with an 80 pack year history of smoking experiences an episode of hemoptysis. On physical examination his face shows puffiness, there is some pedal edema and bruises on the skin, and his blood pressure is 165/100mmHg. A chest radiograph reveals a 5cm right upper lobe lung mass. A fine needle aspiration of this mass shows small cell carcinoma. A bone scan shows no metastases. Immunohistochemical staining of the tumor cells is likely to be positive for whichof the following hormones?",
+      "title": "A 62-year-old man with an 80 pack year history of smoking experiences an episode of hemoptysis. On physical examination his face shows puffiness, there is some pedal edema and bruises on the skin, and his blood pressure is 165/100 mmHg. A chest radiograph reveals a 5 cm right upper lobe lung mass. A fine needle aspiration of this mass shows small cell carcinoma. A bone scan shows no metastases. Immunohistochemical staining of the tumor cells is likely to be positive for which of the following hormones?",
       "options": {
         "A": "Parathormone related peptide",
         "B": "Erythropoietin",
@@ -2689,12 +2708,12 @@
     },
     {
       "type": "single",
-      "title": "A 14-year-old boy has had lumps in the right neck for the past 5 months. On phys- ical examination there is painless lym- phadenopathy in the right cervical region. One of the lymph nodes is biopsied and on microscopic examination shows many lymphocytes that are large, with clumped chromatin and occasional mitoses. The characterization of this population of lym- phocytes as a neoplasm is best accom- plished by which of the following meth- ods?",
+      "title": "A 14-year-old boy has had lumps in the right neck for the past 5 months. On physical examination there is painless lymphadenopathy in the right cervical region. One of the lymph nodes is biopsied and on microscopic examination shows many lymphocytes that are large, with clumped chromatin and occasional mitoses. The characterization of this population of lymphocytes as a neoplasm is best accomplished by which of the following methods?",
       "options": {
-        "A": "Immunohistochemical staining identi- fying leukocyte common antigen",
+        "A": "Immunohistochemical staining identifying leukocyte common antigen",
         "B": "Gene rearrangement studies that demonstrate clonality",
-        "C": "A differential white blood count show- ing a lymphocytosis",
-        "D": "Flow cytometry indicating a high S- phase",
+        "C": "A differential white blood count showing a lymphocytosis",
+        "D": "Flow cytometry indicating a high S-phase",
         "E": "Demonstrating necrosis within the mass by light microscopy"
       },
       "answers": [
@@ -2704,10 +2723,10 @@
     },
     {
       "type": "single",
-      "title": "A 58-year-old man dies after a year-long illness. At autopsy the liver contains mul- tiple tumor masses from 2cm to 5cm that are mostly firm and tan, and these masses grossly exhibit umbilication with central necrosis. Which of the following state- ments would best characterize the signifi- cance of such findings?",
+      "title": "A 58-year-old man dies after a year-long illness. At autopsy the liver contains multiple tumor masses from 2 cm to 5 cm that are mostly firm and tan, and these masses grossly exhibit umbilication with central necrosis. Which of the following statements would best characterize the significance of such findings?",
       "options": {
-        "A": "There is multicentric origin of a be- nign neoplasm",
-        "B": "The primary neoplasm is in the stom- ach",
+        "A": "There is multicentric origin of a benign neoplasm",
+        "B": "The primary neoplasm is in the stomach",
         "C": "A carcinogen was the underlying cause for the neoplasm",
         "D": "The neoplasm is at an advanced stage",
         "E": "The neoplasm is high grade"
@@ -2734,7 +2753,7 @@
     },
     {
       "type": "single",
-      "title": "A 35-year-old woman has had a feeling of abdominal discomfort for the past 7 months. On pelvic examination, there is a right adnexal mass. An abdominal CT scan demonstrates a 6 cm cystic mass in- volving the right ovary with small areas of calcification. The uterus is normal in size. The right fallopian tube and ovary are re- moved surgically. Grossly, on section- ing the mass is filled with abundant hair and sebum. Microscopically, the mass has glandular spaces lined by columnar ep- ithelium, squamous epithelium with hair follicles, cartilage, and dense connective tissue. Which of the following statements regarding this type of neoplasm is most appropriate?",
+      "title": "A 35-year-old woman has had a feeling of abdominal discomfort for the past 7 months. On pelvic examination, there is a right adnexal mass. An abdominal CT scan demonstrates a 6 cm cystic mass involving the right ovary with small areas of calcification. The uterus is normal in size. The right fallopian tube and ovary are removed surgically. Grossly, on sectioning the mass is filled with abundant hair and sebum. Microscopically, the mass has glandular spaces lined by columnar epithelium, squamous epithelium with hair follicles, cartilage, and dense connective tissue. Which of the following statements regarding this type of neoplasm is most appropriate?",
       "options": {
         "A": "A human papillomavirus infection preceded development of this mass",
         "B": "Primitive immature tissues resembling those from an embryo can usually be seen",
@@ -2764,7 +2783,7 @@
     },
     {
       "type": "single",
-      "title": "A 51-year-old man has experienced vague abdominal discomfort for the past 4 months. On physical examination he has no lymphadenopathy, and no abdominal masses or organomegaly can be palpated. Bowel sounds are present. An abdominal CT scan shows a 20cm retroperitoneal soft tissue mass obscuring the left psoas mus- cle. A stool specimen tested for occult blood is negative. Which of the follow- ing neoplasms is this man most likely to have?",
+      "title": "A 51-year-old man has experienced vague abdominal discomfort for the past 4 months. On physical examination he has no lymphadenopathy, and no abdominal masses or organomegaly can be palpated. Bowel sounds are present. An abdominal CT scan shows a 20 cm retroperitoneal soft tissue mass obscuring the left psoas muscle. A stool specimen tested for occult blood is negative. Which of the following neoplasms is this man most likely to have?",
       "options": {
         "A": "Melanoma",
         "B": "Hamartoma",
@@ -2784,7 +2803,7 @@
         "A": "The incidence of malignancy tends to increase with age",
         "B": "Certain tumors tend to occur in certain age groups",
         "C": "Certain tumors tend to occur in certain locations",
-        "D": "Hormones may inhibit or promote tu- mor growth",
+        "D": "Hormones may inhibit or promote tumor growth",
         "E": "All of the above statements are correct"
       },
       "answers": [
@@ -2796,10 +2815,10 @@
       "type": "single",
       "title": "Which one of the following statements is not true about paraneoplastic syndromes?",
       "options": {
-        "A": "They may represent the earliest mani- festation of an occult neoplasm",
+        "A": "They may represent the earliest manifestation of an occult neoplasm",
         "B": "They may be serious and even be lethal",
-        "C": "Cushing syndrome is the most com- mon endocrinopathy",
-        "D": "They can only be seen in cancer pa- tients, not in sarcoma patients",
+        "C": "Cushing syndrome is the most common endocrinopathy",
+        "D": "They can only be seen in cancer patients, not in sarcoma patients",
         "E": "They can mimic metastatic disease"
       },
       "answers": [
@@ -2811,10 +2830,10 @@
       "type": "single",
       "title": "Which one of the following statements is not correct about tumor antigens?",
       "options": {
-        "A": "Tumor associated antigens are present on tumor cells and also on some nor- mal cells",
-        "B": "Tumor antigens may be normal cellu- lar proteins",
+        "A": "Tumor associated antigens are present on tumor cells and also on some normal cells",
+        "B": "Tumor antigens may be normal cellular proteins",
         "C": "The expression of oncofetal antigens in adults is only limited to tumors",
-        "D": "CD20 is a cell type-specific differen- tiation antigen",
+        "D": "CD20 is a cell type-specific differentiation antigen",
         "E": "All of above"
       },
       "answers": [
@@ -2839,9 +2858,9 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is true in identi- fying the steps involved in chemical car- cinogenesis?",
+      "title": "Which of the following is true in identifying the steps involved in chemical carcinogenesis?",
       "options": {
-        "A": "Promoters are tumorigenic by them- selves",
+        "A": "Promoters are tumorigenic by themselves",
         "B": "The effect of promoters is reversible",
         "C": "Initiation alone is sufficient for tumor formation",
         "D": "Initiators are direct-acting compounds",
@@ -2860,7 +2879,7 @@
         "B": "Tumor angiogenesis is related to the decreased production of VEGF",
         "C": "VEGF can only be produced by tumor cells",
         "D": "Angiogenesis is induced from a very early stage of tumor growth",
-        "E": "During angiogenesis anti-angiogenesis molecules can also be induced by tu- mor cells"
+        "E": "During angiogenesis anti-angiogenesis molecules can also be induced by tumor cells"
       },
       "answers": [
         "E"
@@ -2871,7 +2890,7 @@
       "type": "single",
       "title": "Which of the following statements is true about tumor suppressor genes?",
       "options": {
-        "A": "The function of these genes is to pre- vent tumor formation",
+        "A": "The function of these genes is to prevent tumor formation",
         "B": "These genes were discovered by studying common diseases",
         "C": "WT1 and VHL genes act in a manner similar to the RB gene",
         "D": "Loss of heterozygosity involving the P16 gene is the mechanism of retinoblastoma",
@@ -2889,7 +2908,7 @@
         "A": "HNPCC",
         "B": "Xeroderma pigmentosum",
         "C": "Ataxiatelangectasia",
-        "D": "Li-Fraumeni syndorme",
+        "D": "Li-Fraumeni syndrome",
         "E": "Bloom syndrome"
       },
       "answers": [
@@ -2902,7 +2921,7 @@
       "title": "Which of the following features is true about metastasis?",
       "options": {
         "A": "All cancers can metastasize, In general the more rapidly growing",
-        "B": "In general, the more rapidly growing, the greater the likelihood that cancer will metastasize",
+        "B": "In general，the more rapidly growing， the greater the likelihood that cancer will metastasize",
         "C": "The probability of metastasis can be determined by pathologic examination of the primary tumor",
         "D": "Nodal enlargement in proximity to a cancer definitely means lymphatic spread",
         "E": "Sarcoma can only metastasis by hematogenous spread"
@@ -2944,7 +2963,7 @@
     },
     {
       "type": "single",
-      "title": "The characteristic appearance of a neo- plasm depends on which of the following?",
+      "title": "The characteristic appearance of a neoplasm depends on which of the following?",
       "options": {
         "A": "parenchyma",
         "B": "mesenchyma",
@@ -2959,7 +2978,7 @@
     },
     {
       "type": "single",
-      "title": "A 53-year-old man has a palpable mass le- sion on digital rectal examination. Biopsy was performed. Of the following micro- scopic findings, which is most likely to in- dicate that the neoplasm is malignant?",
+      "title": "A 53-year-old man has a palpable mass lesion on digital rectal examination. Biopsy was performed. Of the following microscopic findings, which is most likely to indicate that the neoplasm is malignant?",
       "options": {
         "A": "Pleomorphism",
         "B": "Increased nuclear/cytoplasmic ratio",
@@ -2974,13 +2993,13 @@
     },
     {
       "type": "single",
-      "title": "A 55-year-old woman goes to her physi- cian for a routine physical examination. A4 cm diameter non-tender mass is palpated in her right breast. The mass appears fixed to the chest wall. Another 2 cm non- tender mass is palpable in the left axilla. A chest radiograph reveals multiple 0.5 to 2 cm nodules in both lungs. Which of the following classifications best rerpresents the stage of her disease?",
+      "title": "A 55-year-old woman goes to her physician for a routine physical examination. A 4 cm diameter non-tender mass is palpated in her right breast. The mass appears fixed to the chest wall. Another 2 cm non-tender mass is palpable in the left axilla. A chest radiograph reveals multiple 0.5 to 2 cm nodules in both lungs. Which of the following classifications best rerpresents the stage of her disease?",
       "options": {
-        "A": "T1 N1 M0",
-        "B": "T1 N0 M1",
-        "C": "T2 N1 M0",
-        "D": "T3 N0 M1",
-        "E": "T4 N1 M1"
+        "A": "T1N1M0",
+        "B": "T1N0M1",
+        "C": "T2N1M0",
+        "D": "T3N0M1",
+        "E": "T4N1M1"
       },
       "answers": [
         "E"
@@ -3010,7 +3029,7 @@
         "B": "Lack of differentiation is a hallmark of malignant transformation",
         "C": "The presence of mitoses indicate that a tumor is malignant",
         "D": "The bigger the neoplasm the higher the tumor grade",
-        "E": "Anaplastic tumors do not differ cyto-logically from normal counterparts"
+        "E": "Anaplastic tumors do not differ cytologically from normal counterparts"
       },
       "answers": [
         "B"
@@ -3034,7 +3053,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following tumors is not ma- lignant?",
+      "title": "Which of the following tumors is not malignant?",
       "options": {
         "A": "Mesothelioma",
         "B": "Seminoma",
@@ -3052,7 +3071,7 @@
       "title": "The term border line tumor means:",
       "options": {
         "A": "Tumor consisting of both carcinoma and sarcoma",
-        "B": "Tumor consisting of squamous carci- noma and adenocarcinoma",
+        "B": "Tumor consisting of squamous carcinoma and adenocarcinoma",
         "C": "Tumor consisting of epithelial tissue and meschymal tissue",
         "D": "Tumor bordering between benign and malignant",
         "E": "Tumor bordering between hyperplasia and carcinoma"
@@ -3142,7 +3161,7 @@
       "title": "Which gene is most likely to have mutation in the familial breast carcinoma?",
       "options": {
         "A": "BCL2 (antiapoptosis gene)",
-        "B": "BRCAI (DNA repair gene)",
+        "B": "BRCA1 (DNA repair gene)",
         "C": "EGF (epidermal growth factor gene)",
         "D": "ERBB2 (growth factor receptor gene)",
         "E": "K-RAS (GTP-binding protein gene)"
@@ -3159,7 +3178,7 @@
         "A": "Protooncogenes can be activated by chromosomal translocation",
         "B": "Extensive regeneration of tissues increases the risk of cancer-causing mutations",
         "C": "Malignant transformation involves accumulation of mutations in protooncogenes and tumor suppressor genes in a step-wise fashion",
-        "D": "Inherited defects in DNA repair increases the susceptibility to developcancer",
+        "D": "Inherited defects in DNA repair increase the susceptibility to develop cancer",
         "E": "Overexpression of growth factor receptor genes is associated with poor prognosis"
       },
       "answers": [
@@ -3229,7 +3248,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following investigational research procedures can most clearly distinguish whether an isolated 1cm pedunculated polyp represents hyperplasia of thecolonic mucosa or a tubular adenoma?",
+      "title": "Which of the following investigational research procedures can most clearly distinguish whether an isolated 1 cm pedunculated polyp represents hyperplasia of the colonic mucosa or a tubular adenoma?",
       "options": {
         "A": "Immunoperoxidase staining for keratin",
         "B": "Immunoperoxidase staining for Ki-67",
@@ -3459,8 +3478,8 @@
         "A": "Activation of the WNT signaling pathway",
         "B": "Inability to hydrolyze GTP-bound RAS",
         "C": "Mutations in mismatch repair genes",
-        "D": "K-RAS",
-        "E": "p53"
+        "D": "Loss of heterozygosity affecting the p53 gene",
+        "E": "Translocation of BCL2 from mitochondria to cytoplasm"
       },
       "answers": [
         "A"
@@ -3490,7 +3509,7 @@
         "B": "Reduced DNA repair",
         "C": "Gene amplifications",
         "D": "Lack of apoptosis",
-        "E": "Loss of cell cycle inhibition120"
+        "E": "Loss of cell cycle inhibition"
       },
       "answers": [
         "D"

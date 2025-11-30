@@ -1,6 +1,6 @@
 {
   "title": "病理学 - 呼吸系统疾病",
-  "description": "本解析依据「病理学题库」整理 - 呼吸系统疾病",
+  "description": "本解析依据袁帅学长所编「病理学题库」整理 - 呼吸系统疾病",
   "questions": [
     {
       "type": "single",
@@ -94,7 +94,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 50岁, 慢性咳嗽, 咳白色泡沫粘痰, 每年秋冬发作, 持续三个月左右。不符合该患者疾病的描述是",
+      "title": "女性，50 岁，慢性咳嗽，咳白色泡沫粘痰，每年秋冬发作，持续三个月左右。不符合该患者疾病的描述是",
       "options": {
         "A": "可发生肺气肿",
         "B": "可发生支气管肺炎",
@@ -109,7 +109,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 50岁, 慢性咳嗽, 咳白色泡沫粘痰, 每年秋冬发作, 持续三个月左右。不符合该患者疾病的描述是",
+      "title": "女性，50 岁，慢性咳嗽，咳白色泡沫粘痰，每年秋冬发作，持续三个月左右。不符合该患者疾病的描述是",
       "options": {
         "A": "支气管粘膜上皮变性坏死",
         "B": "支气管粘膜上皮杯状细胞增多",
@@ -126,9 +126,9 @@
       "type": "single",
       "title": "不符合急性细支气管炎的特点是",
       "options": {
-        "A": "累及管径<2mm 的细支气管",
+        "A": "累及管径 < 2 mm 的细支气管",
         "B": "常见于婴幼儿",
-        "C": "多由流感杆菌、葡萄球菌等细菌感染引起155",
+        "C": "多由流感杆菌、葡萄球菌等细菌感染引起",
         "D": "多引起喘憋性呼吸困难",
         "E": "可引起呼吸衰竭"
       },
@@ -156,7 +156,7 @@
       "type": "single",
       "title": "不符合支气管哮喘的描述是",
       "options": {
-        "A": "属Ⅰ型超敏反应性疾病",
+        "A": "属I型超敏反应性疾病",
         "B": "有多种炎症介质参与",
         "C": "支气管内大量粘液分泌",
         "D": "支气管壁多量嗜碱粒细胞浸润",
@@ -249,7 +249,7 @@
         "A": "小气道的狭窄、阻塞",
         "B": "肺泡壁破坏、弹性减弱",
         "C": "弹性蛋白酶增多",
-        "D": "遗传性 a₁-抗胰蛋白酶缺乏",
+        "D": "遗传性α_1-抗胰蛋白酶缺乏",
         "E": "以上都是"
       },
       "answers": [
@@ -289,7 +289,7 @@
     },
     {
       "type": "single",
-      "title": "在小叶间隔与肺膜连接处形成串珠状156小气泡, 应诊断为",
+      "title": "在小叶间隔与肺膜连接处形成串珠状小气泡，应诊断为",
       "options": {
         "A": "小叶周围型",
         "B": "不规则型",
@@ -339,7 +339,7 @@
         "A": "小气道阻塞",
         "B": "支气管壁炎细胞浸润",
         "C": "肺组织炎细胞浸润",
-        "D": "先天性 α₁-抗胰蛋白酶缺乏",
+        "D": "先天性α_1-抗胰蛋白酶缺乏",
         "E": "支气管壁扩张"
       },
       "answers": [
@@ -349,7 +349,7 @@
     },
     {
       "type": "single",
-      "title": "女性, 60岁, 慢性支气管炎近10年,近3年来感觉气短、胸闷、呼吸困难。查体: 桶状胸, 胸廓呼吸运动减弱;叩诊呈过清音, 心浊音界缩小, 肝浊音界下降; 听诊呼吸音减弱。不符合该患者疾病的描述是",
+      "title": "女性，60 岁，慢性支气管炎近 10 年，近 3 年来感觉气短、胸闷、呼吸困难。查体：桶状胸，胸廓呼吸运动减弱；叩诊呈过清音，心浊音界缩小，肝浊音界下降；听诊呼吸音减弱。不符合该患者疾病的描述是",
       "options": {
         "A": "肺泡扩张",
         "B": "肺泡间隔变窄",
@@ -364,7 +364,7 @@
     },
     {
       "type": "single",
-      "title": "下列疾病中, 最常引起肺心病者是",
+      "title": "下列疾病中，最常引起肺心病者是",
       "options": {
         "A": "肺动脉栓塞",
         "B": "胸廓畸形",
@@ -385,7 +385,7 @@
         "B": "心尖钝圆",
         "C": "右心室扩张",
         "D": "肺动脉圆锥膨隆",
-        "E": "肺动脉下 2cm 处右心室壁厚超过5mm"
+        "E": "肺动脉下 2 cm 处右心室壁厚超过 5 mm"
       },
       "answers": [
         "E"
@@ -396,8 +396,8 @@
       "type": "single",
       "title": "肺心病的心肌病变不包括",
       "options": {
-        "A": "心肌细胞肥大, 核大深染",
-        "B": "心肌细胞增生, 数目增多",
+        "A": "心肌细胞肥大，核大深染",
+        "B": "心肌细胞增生，数目增多",
         "C": "心肌纤维萎缩、变细",
         "D": "心肌细胞肌浆溶解",
         "E": "心肌间质纤维化"
@@ -409,7 +409,7 @@
     },
     {
       "type": "single",
-      "title": "肺心病时, 肺内小动脉的变化不包括",
+      "title": "肺心病时，肺内小动脉的变化不包括",
       "options": {
         "A": "小动脉炎",
         "B": "小动脉玻璃样变",
@@ -428,7 +428,7 @@
       "options": {
         "A": "小气道阻塞",
         "B": "肺部感染",
-        "C": "肺动脉高压157",
+        "C": "肺动脉高压",
         "D": "肺间质纤维组织增生",
         "E": "肺水肿"
       },
@@ -574,7 +574,7 @@
     },
     {
       "type": "single",
-      "title": "在肺炎的诊治中, 最重要的是",
+      "title": "在肺炎的诊治中，最重要的是",
       "options": {
         "A": "确定炎症的部位",
         "B": "确定炎症的类型",
@@ -589,7 +589,7 @@
     },
     {
       "type": "single",
-      "title": "医院内肺炎常见的病原体是158",
+      "title": "医院内肺炎常见的病原体是",
       "options": {
         "A": "肺炎链球菌等多见",
         "B": "绿脓杆菌及其他假单胞菌等多见",
@@ -694,7 +694,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 80岁, 直肠癌根治术后2周。7天来发热(39℃)、咳嗽、咳粘液脓痰。查体: 双肺下叶背侧可闻及湿罗音。X线见双肺下叶散在不规则斑片状模糊阴影。符合该患者疾病的描述是",
+      "title": "男性，80 岁，直肠癌根治术后 2 周。7 天来发热（39°C）、咳嗽、咳粘液脓痰。查体：双肺下叶背侧可闻及湿罗音。X 线见双肺下叶散在不规则斑片状模糊阴影。符合该患者疾病的描述是",
       "options": {
         "A": "肺泡纤维素性炎",
         "B": "支气管肺泡化脓性炎",
@@ -709,7 +709,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 80岁, 直肠癌根治术后2周。7天来发热(39℃)、咳嗽、咳粘液脓痰。查体: 双肺下叶背侧可闻及湿罗音。X线见双肺下叶散在不规则斑片状模糊阴影。不符合该患者疾病的合并症的描述是",
+      "title": "男性，80 岁，直肠癌根治术后 2 周。7 天来发热（39°C）、咳嗽、咳粘液脓痰。查体：双肺下叶背侧可闻及湿罗音。X 线见双肺下叶散在不规则斑片状模糊阴影。不符合该患者疾病的合并症的描述是",
       "options": {
         "A": "中毒性休克",
         "B": "肺脓肿",
@@ -724,7 +724,7 @@
     },
     {
       "type": "single",
-      "title": "大叶性肺炎的病变属于159",
+      "title": "大叶性肺炎的病变属于",
       "options": {
         "A": "化脓性炎",
         "B": "出血性炎",
@@ -814,7 +814,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 30岁, 2天前上呼吸道感染, 病情迅速加重, 发热(39.8℃), 伴寒战、胸痛、咳嗽、咳铁锈色痰。X线检查见左肺下叶大片致密阴影。符合该患者疾病的描述是",
+      "title": "男性，30 岁，2 天前上呼吸道感染，病情迅速加重，发热（39.8°C），伴寒战、胸痛、咳嗽、咳铁锈色痰。X 线检查见左肺下叶大片致密阴影。符合该患者疾病的描述是",
       "options": {
         "A": "大叶性肺炎",
         "B": "小叶性肺炎",
@@ -829,7 +829,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 30岁, 2天前上呼吸道感染, 病情迅速加重, 发热(39.8℃), 伴寒战、胸痛、咳嗽、咳铁锈色痰。X线检查见左肺下叶大片致密阴影。不符合该患者疾病的描述是",
+      "title": "男性，30 岁，2 天前上呼吸道感染，病情迅速加重，发热（39.8°C），伴寒战、胸痛、咳嗽、咳铁锈色痰。X 线检查见左肺下叶大片致密阴影。不符合该患者疾病的描述是",
       "options": {
         "A": "可合并中毒性休克",
         "B": "可合并肺脓肿",
@@ -880,7 +880,7 @@
         "B": "肺泡上皮细胞增生",
         "C": "形成核内包涵体",
         "D": "形成胞浆内包涵体",
-        "E": "形成核内包涵体, 也形成胞浆内包涵体"
+        "E": "形成核内包涵体，也形成胞浆内包涵体"
       },
       "answers": [
         "E"
@@ -904,7 +904,7 @@
     },
     {
       "type": "single",
-      "title": "病毒性肺炎中, 不形成病毒包涵体的是",
+      "title": "病毒性肺炎中，不形成病毒包涵体的是",
       "options": {
         "A": "腺病毒",
         "B": "麻疹病毒",
@@ -951,7 +951,7 @@
       "type": "single",
       "title": "病毒性肺炎的确诊主要依据是",
       "options": {
-        "A": "X线检查",
+        "A": "X 线检查",
         "B": "血清学检查",
         "C": "病毒和病毒抗原的检查",
         "D": "病毒感染流行状况",
@@ -967,9 +967,9 @@
       "title": "确诊支原体肺炎的依据是",
       "options": {
         "A": "患者多为儿童和青年",
-        "B": "起病急, 多有发热、头痛、咽痛及剧烈干性呛咳",
-        "C": "X线检查, 肺部呈段性分布的纹理增加及网状阴影",
-        "D": "病变呈间质性炎症, 肺泡腔内可无渗出物",
+        "B": "起病急，多有发热、头痛、咽痛及剧烈干性呛咳",
+        "C": "X 线检查，肺部呈段性分布的纹理增加及网状阴影",
+        "D": "病变呈间质性炎症，肺泡腔内可无渗出物",
         "E": "以上都不是"
       },
       "answers": [
@@ -1026,7 +1026,7 @@
       "type": "single",
       "title": "确诊支原体肺炎的可靠依据是",
       "options": {
-        "A": "X线检查",
+        "A": "X 线检查",
         "B": "血清学检查",
         "C": "病原学检查",
         "D": "支原体感染流行状况",
@@ -1074,8 +1074,8 @@
         "A": "毒素",
         "B": "对肺组织的直接破坏作用",
         "C": "引起过敏反应",
-        "D": "损伤T细胞",
-        "E": "损伤B细胞"
+        "D": "损伤 T 细胞",
+        "E": "损伤 B 细胞"
       },
       "answers": [
         "C"
@@ -1101,7 +1101,7 @@
       "type": "single",
       "title": "诊断军团菌肺炎的确切依据是",
       "options": {
-        "A": "X线检查",
+        "A": "X 线检查",
         "B": "尿液内抗军团菌抗体检查",
         "C": "支气管、肺冲洗液病原学检查",
         "D": "军团菌感染流行状况",
@@ -1206,11 +1206,11 @@
       "type": "single",
       "title": "引起矽肺最主要的是",
       "options": {
-        "A": "10µm 的矽尘颗粒",
-        "B": "8µm 的矽尘颗粒",
-        "C": "6µm 的矽尘颗粒",
-        "D": "4µm 的矽尘颗粒",
-        "E": "1~2µm 的矽尘颗粒"
+        "A": "10 μm 的矽尘颗粒",
+        "B": "8 μm 的矽尘颗粒",
+        "C": "6 μm 的矽尘颗粒",
+        "D": "4 μm 的矽尘颗粒",
+        "E": "1 ~2 μm 的矽尘颗粒"
       },
       "answers": [
         "E"
@@ -1254,8 +1254,8 @@
         "A": "早期病变累及周围肺组织",
         "B": "肺门淋巴结常受累",
         "C": "I期矽肺累及肺门部",
-        "D": "II 期矽肺累及全肺1/3以下",
-        "E": "III 期矽肺累及肺的大部分, 矽结节密集融合成块"
+        "D": "II期矽肺累及全肺 1/3 以下",
+        "E": "III期矽肺累及肺的大部分，矽结节密集融合成块"
       },
       "answers": [
         "A"
@@ -1268,7 +1268,7 @@
       "options": {
         "A": "早期是纤维结节",
         "B": "晚期是细胞结节",
-        "C": "其发生与T淋巴细胞关系密切",
+        "C": "其发生与 T 淋巴细胞关系密切",
         "D": "具有病理诊断意义",
         "E": "不含免疫球蛋白"
       },
@@ -1296,7 +1296,7 @@
       "type": "single",
       "title": "不符合矽肺结核病的描述是",
       "options": {
-        "A": "矽肺结核性空洞数目多, 直径大",
+        "A": "矽肺结核性空洞数目多，直径大",
         "B": "易引起大咯血",
         "C": "易发生于矽肺晚期",
         "D": "病变发展缓慢",
@@ -1309,7 +1309,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 60岁, 煤矿工人, 近10年来出现憋气、心悸、口唇青紫。X片检查, 肺门部可见较密集的结节, 多数直径小于1cm。符合该患者疾病描述的是",
+      "title": "男性，60 岁，煤矿工人，近 10 年来出现憋气、心悸、口唇青紫。X 片检查，肺门部可见较密集的结节，多数直径小于 1 cm。符合该患者疾病描述的是",
       "options": {
         "A": "煤矽肺",
         "B": "肺结核",
@@ -1324,7 +1324,7 @@
     },
     {
       "type": "single",
-      "title": "男性, 60岁, 煤矿工人, 近10年来出现憋气、心悸、口唇青紫。X 片检查, 肺门部可见较密集的结节, 多数直径小于1cm。不符合该患者疾病描述的是",
+      "title": "男性，60 岁，煤矿工人，近 10 年来出现憋气、心悸、口唇青紫。X 片检查，肺门部可见较密集的结节，多数直径小于 1 cm。不符合该患者疾病描述的是",
       "options": {
         "A": "可引起呼吸衰竭",
         "B": "可合并肺结核",
@@ -1339,13 +1339,13 @@
     },
     {
       "type": "single",
-      "title": "男性, 60岁, 煤矿工人, 近10年来出现憋气、心悸、口唇青紫。X 片检查, 肺门部可见较密集的结节, 多数直径小于1cm。不符合该患者疾病描述的是",
+      "title": "男性，60 岁，煤矿工人，近 10 年来出现憋气、心悸、口唇青紫。X 片检查，肺门部可见较密集的结节，多数直径小于 1 cm。不符合该患者疾病描述的是",
       "options": {
         "A": "矽结节对本病有诊断意义",
-        "B": "大于 5µm 的矽粉尘最有致病性",
+        "B": "大于 5 μm 的矽粉尘最有致病性",
         "C": "肺间质弥漫性纤维化",
-        "D": "II 期矽肺矽结节直径小于 1cm",
-        "E": "III 期矽肺矽结节直径大于2cm"
+        "D": "II期矽肺矽结节直径小于 1 cm",
+        "E": "III期矽肺矽结节直径大于 2 cm"
       },
       "answers": [
         "B"
@@ -1474,7 +1474,7 @@
     },
     {
       "type": "single",
-      "title": "在我国,头颈部恶性肿瘤中发病率最高的是",
+      "title": "在我国，头颈部恶性肿瘤中发病率最高的是",
       "options": {
         "A": "恶性淋巴瘤",
         "B": "喉癌",
@@ -1489,7 +1489,7 @@
     },
     {
       "type": "single",
-      "title": "鼻咽癌的病因中,最重要的发病因素是",
+      "title": "鼻咽癌的病因中，最重要的发病因素是",
       "options": {
         "A": "遗传因素",
         "B": "亚硝胺类",
@@ -1504,13 +1504,13 @@
     },
     {
       "type": "single",
-      "title": "鼻咽癌的辅助诊断中,常用的检验指标是",
+      "title": "鼻咽癌的辅助诊断中，常用的检验指标是",
       "options": {
         "A": "CEA",
         "B": "AFP",
         "C": "CA19-9",
         "D": "酸性磷酸酶",
-        "E": "抗EB病毒壳抗原的癌基因抗体"
+        "E": "抗 EB 病毒壳抗原的癌基因抗体"
       },
       "answers": [
         "E"
@@ -1583,7 +1583,7 @@
       "options": {
         "A": "患者免疫功能低下",
         "B": "血清学检查",
-        "C": "X线检查",
+        "C": "X 线检查",
         "D": "真菌检查或在病变中查到真菌",
         "E": "炎症的病理学类型"
       },
@@ -1660,7 +1660,7 @@
         "B": "以肺部病变多见",
         "C": "可形成脓肿",
         "D": "可引起过敏性支气管炎",
-        "E": "菌丝有隔,呈直角分支"
+        "E": "菌丝有隔，呈直角分支"
       },
       "answers": [
         "E"
@@ -1684,7 +1684,7 @@
     },
     {
       "type": "single",
-      "title": "女性,60岁,40年吸烟史。慢性咳嗽30年,近1月来痰中带血丝。X线检查,显示左肺门处不规则巨大阴影。支气管镜检查,左主支气管粘膜不平,管腔狭窄。活检病理诊断最可能是",
+      "title": "女性，60 岁，40 年吸烟史。慢性咳嗽 30 年，近 1 月来痰中带血丝。X 线检查，显示左肺门处不规则巨大阴影。支气管镜检查，左主支气管粘膜不平，管腔狭窄。活检病理诊断最可能是",
       "options": {
         "A": "肺结核病",
         "B": "肺结节病",
@@ -1699,7 +1699,7 @@
     },
     {
       "type": "single",
-      "title": "女性,50岁,本人不吸烟,但家中多个成员吸烟。查体偶然发现右肺近胸膜处有一直径3cm 的边界较清的阴影,伴肺门淋巴结肿大。该结节最可能是",
+      "title": "女性，50 岁，本人不吸烟，但家中多个成员吸烟。查体偶然发现右肺近胸膜处有一直径 3 cm 的边界较清的阴影，伴肺门淋巴结肿大。该结节最可能是",
       "options": {
         "A": "鳞状细胞癌",
         "B": "细支气管肺泡细胞癌",
@@ -1714,7 +1714,7 @@
     },
     {
       "type": "single",
-      "title": "男性,60岁,3个月来咳嗽、胸痛。X线检查,左肺下叶大片云雾状、不均匀密度增高阴影,经用抗生素治疗无效。痰脱落细胞检查,可见腺癌细胞。对该患者疾病的诊断是",
+      "title": "男性，60 岁，3 个月来咳嗽、胸痛。X 线检查，左肺下叶大片云雾状、不均匀密度增高阴影，经用抗生素治疗无效。痰脱落细胞检查，可见腺癌细胞。对该患者疾病的诊断是",
       "options": {
         "A": "鳞状细胞癌",
         "B": "类癌",
@@ -1777,7 +1777,7 @@
       "title": "不符合肺癌的特点的是",
       "options": {
         "A": "发病隐匿",
-        "B": "生长迅速,转移较早",
+        "B": "生长迅速，转移较早",
         "C": "易发生脑、骨及肾上腺转移",
         "D": "可发生种植转移",
         "E": "不引起内分泌紊乱"
@@ -1825,7 +1825,7 @@
         "B": "Clara 细胞",
         "C": "Kultschitzky 细胞",
         "D": "I型肺泡上皮细胞",
-        "E": "II 性肺泡上皮细胞"
+        "E": "II性肺泡上皮细胞"
       },
       "answers": [
         "A"
@@ -1864,7 +1864,7 @@
     },
     {
       "type": "single",
-      "title": "可能来源于 II 型肺泡上皮细胞的肺癌是",
+      "title": "可能来源与II型肺泡上皮细胞的肺癌是",
       "options": {
         "A": "腺癌",
         "B": "瘢痕癌",
@@ -1882,7 +1882,7 @@
       "title": "不符合隐性肺癌的描述是",
       "options": {
         "A": "临床检查无明显肺癌体征",
-        "B": "X线检查未见阴影",
+        "B": "X 线检查未见阴影",
         "C": "病理证实为原位癌或早期侵润性癌",
         "D": "无淋巴结转移",
         "E": "痰细胞学检查癌细胞阴性"
@@ -1897,7 +1897,7 @@
       "title": "不符合小细胞肺癌特点的描述是",
       "options": {
         "A": "多发生于肺周边部",
-        "B": "细胞小、密集排列,由结缔组织加以分隔",
+        "B": "细胞小、密集排列，由结缔组织加以分隔",
         "C": "分化程度低、恶性度高",
         "D": "肿瘤细胞胞浆内出现神经内分泌颗粒",
         "E": "起源于嗜银细胞"
@@ -1915,7 +1915,7 @@
         "B": "支气管腺体",
         "C": "小支气管粘膜上皮细胞",
         "D": "嗜银细胞",
-        "E": "II 型肺泡上皮细胞"
+        "E": "II型肺泡上皮细胞"
       },
       "answers": [
         "C"
@@ -2004,7 +2004,7 @@
         "A": "良性肿瘤",
         "B": "肉眼呈灰白色",
         "C": "间质水肿",
-        "D": "腺体增生,并可呈囊状扩张",
+        "D": "腺体增生，并可呈囊状扩张",
         "E": "间质炎性细胞侵润"
       },
       "answers": [
@@ -2109,8 +2109,8 @@
         "A": "是一种肺的原发性疾病",
         "B": "表现为突发性进行性呼吸困难",
         "C": "肺泡毛细血管膜弥漫性损伤",
-        "D": "病死率高达36%~68%",
-        "E": "X线检查两肺弥漫性浸润性阴影"
+        "D": "病死率高达 36% ~68%",
+        "E": "X 线检查两肺弥漫性浸润性阴影"
       },
       "answers": [
         "A"
@@ -2181,11 +2181,11 @@
       "type": "single",
       "title": "不符合喉炎特点的描述是",
       "options": {
-        "A": "儿童急性喉炎可引起哮吼,甚至室息",
+        "A": "儿童急性喉炎可引起哮吼，甚至窒息",
         "B": "声带小结与长期用声过度或用声不当有关",
         "C": "慢性喉炎与吸烟关系密切",
         "D": "急性喉炎与病毒、细菌感染关系密切",
-        "E": "声带小结易恶变,是一种癌前病变"
+        "E": "声带小结易恶变，是一种癌前病变"
       },
       "answers": [
         "E"
@@ -2241,7 +2241,7 @@
       "type": "single",
       "title": "符合癌性胸水的描述是",
       "options": {
-        "A": "比重大于1.020",
+        "A": "比重大于 1.020",
         "B": "可见多量淋巴细胞",
         "C": "可见多量中性粒细胞",
         "D": "可见肿瘤细胞",
@@ -2269,7 +2269,7 @@
     },
     {
       "type": "single",
-      "title": "男性,50岁,近一月来感到胸部胀闷,近3天伴有气促、心慌。X线检查,左胸腔大量积液,肺门部可见 5×3cm 大小的阴影。查体:患者无发热,结核菌实验阴性。该患者胸水最可能为",
+      "title": "男性，50 岁，近一月来感到胸部胀闷，近 3 天伴有气促、心慌。X 线检查，左胸腔大量积液，肺门部可见 5 × 3 cm 大小的阴影。查体：患者无发热，结核菌实验阴性。该患者胸水最可能为",
       "options": {
         "A": "炎性渗出液",
         "B": "癌性胸水",
@@ -2404,7 +2404,7 @@
     },
     {
       "type": "single",
-      "title": "A 70-year-old woman is referred to an ophthalmologist because of difficulty with her right eye. She also has pain in the right upper chest. The findings on physical examination include enophthal-mos, meiosis, anhidrosis, and ptosis. A chest radiograph shows right upper lobe opacification and bony destruction of the right first rib. Which of the following con-ditions is most likely to be present?",
+      "title": "A 70-year-old woman is referred to an ophthalmologist because of difficulty with her right eye. She also has pain in the right upper chest. The findings on physical examination include enophthalmos, meiosis, anhidrosis, and ptosis. A chest radiograph shows right upper lobe opacification and bony destruction of the right first rib. Which of the following conditions is most likely to be present?",
       "options": {
         "A": "Bronchopneumonia",
         "B": "Bronchiectasis",
@@ -2419,7 +2419,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is the most fre-quent site of intestinal tuberculosis",
+      "title": "Which of the following is the most frequent site of intestinal tuberculosis",
       "options": {
         "A": "Ileocecum",
         "B": "Jejunum",
@@ -2469,7 +2469,7 @@
         "A": "The cavities are the same size and regular shape",
         "B": "There is formation of one or a few acute cavities in the lung",
         "C": "The beam-like tissue frequently seen in the cavity is the remaining branch of the bronchus",
-        "D": "There is caseous necrosis in the inner wall of the cavity containing a large number of mycobacterium tuberculosis",
+        "D": "There is caseous necrosis in the inner wall of the cavity containing a large number of Mycobacterium tuberculosis",
         "E": "The cavity does not communicate with the bronchus"
       },
       "answers": [
@@ -2479,7 +2479,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is not characteris-tic of infiltrative pulmonary tuberculosis?",
+      "title": "Which of the following is not characteristic of infiltrative pulmonary tuberculosis?",
       "options": {
         "A": "The lesion may be extensive",
         "B": "There is a small amount of caseous necrosis in the center of the lesion",
@@ -2496,11 +2496,11 @@
       "type": "single",
       "title": "Which of the following is the definition of tuberculoma?",
       "options": {
-        "A": "It is a benign tumor caused by mycobacterium tuberculosis",
-        "B": "It is a malignant tumor caused by mycobacterium tuberculosis",
-        "C": "It is a tumor-like invasive lesion caused by mycobacterium tuberculosis",
-        "D": "It is a solitary focus of caseous necrosis caused by mycobacterium tuberculosis",
-        "E": "It is a cold abscess caused by mycobacterium tuberculosis"
+        "A": "It is a benign tumor caused by Mycobacterium tuberculosis",
+        "B": "It is a malignant tumor caused by Mycobacterium tuberculosis",
+        "C": "It is a tumor-like invasive lesion caused by Mycobacterium tuberculosis",
+        "D": "It is a solitary focus of caseous necrosis caused by Mycobacterium tuberculosis",
+        "E": "It is a cold abscess caused by Mycobacterium tuberculosis"
       },
       "answers": [
         "D"
@@ -2539,7 +2539,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following descriptions of tu-berculosis is not appropriate?",
+      "title": "Which of the following descriptions of tuberculosis is not appropriate?",
       "options": {
         "A": "Tuberculosis is a chronic infectious disease",
         "B": "Tuberculosis is attributed to type III allergic reaction",
@@ -2603,7 +2603,7 @@
       "options": {
         "A": "The ulcers are round or oval-shaped and the edges are well demarcated",
         "B": "It mostly occurs in the hepatic flexure of the colon",
-        "C": "The major axis of the ulcer is parallel to the intestinal axis",
+        "C": "The major axis of the ulcer is parallel too the intestinal axis",
         "D": "Only a little serous exudation is seen at the bottom of ulcers",
         "E": "It mostly occurs in the splenic flexure of the colon"
       },
@@ -2614,7 +2614,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is not true of tu-berculosis of bone?",
+      "title": "Which of the following is not true of tuberculosis of bone?",
       "options": {
         "A": "It is frequently seen in the upper thoracic vertebrae",
         "B": "It may form a sequestrum",
@@ -2633,7 +2633,7 @@
       "options": {
         "A": "There is a large amount of fibrinopurulent exudate at the base of the brain",
         "B": "It is caused mainly by blood born dissemination of mycobacterium tuberculosis",
-        "C": "It is often a part of systemic miliary tu-berculosis",
+        "C": "It is often a part of systemic miliary tuberculosis",
         "D": "The lesions at the base of the brain are the most obvious",
         "E": "It is mostly found in children"
       },
@@ -2659,7 +2659,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following is the most fre-quent site of tuberculosis of the female reproductive system?",
+      "title": "Which of the following is the most frequent site of tuberculosis of the female reproductive system?",
       "options": {
         "A": "Cervix",
         "B": "Vagina",
@@ -2695,7 +2695,7 @@
         "B": "The tumor cells are small with intensive arrays",
         "C": "Neuroendocrine granules can be seen in tumor cells",
         "D": "It is high-grade malignant tumor",
-        "E": "It is not suitable for surgical resection,but is sensitive to chemotherapy and radiotherapy"
+        "E": "It is not suitable for surgical resection, but is sensitive to chemotherapy and radiotherapy"
       },
       "answers": [
         "A"
@@ -2794,7 +2794,7 @@
     },
     {
       "type": "single",
-      "title": "60-year-old man has suffered from a cough and chest pain for 3 months. A chest x-ray shows large shadows with cloud-like and irregular increasing densityin the left lower lobe. Treatment with antibiotics has no effect in this patient. Exfoliative cytology of the sputum reveals adenocarcinoma cells. Which of the following diagnoses is likely to be correct?",
+      "title": "60-year-old man has suffered from a cough and chest pain for 3 months. A chest x-ray shows large shadows with cloud-like and irregular increasing density in the left lower lobe. Treatment with antibiotics has no effect in this patient. Exfoliative cytology of the sputum reveals adenocarcinoma cells. Which of the following diagnoses is likely to be correct?",
       "options": {
         "A": "Carcinoid",
         "B": "Squamous cell carcinoma",
@@ -2856,7 +2856,7 @@
       "type": "single",
       "title": "Which of the following is true regarding silicosis?",
       "options": {
-        "A": "Silicon granules greater than 5µm in diameter are strongly pathogenic",
+        "A": "Silicon granules greater than 5 μm in diameter are strongly pathogenic",
         "B": "Silicic acid can result in the injury of macrophages",
         "C": "There is no immunoglobulin in silicon nodules",
         "D": "The fibrous nodule is an early lesion",
@@ -2886,9 +2886,9 @@
       "type": "single",
       "title": "Which of the following is true of pulmonary disease?",
       "options": {
-        "A": "Silicosis is caused mainly by silicon granules less than 5µm in diameter",
+        "A": "Silicosis is caused mainly by silicon granules less than 5 μm in diameter",
         "B": "Lobular pneumonia is caused mainly by mycoplasma",
-        "C": "α1-antitrypsin deficiency is the most common cause of emphysema",
+        "C": "α_1-antitrypsin deficiency is the most common cause of emphysema",
         "D": "Bronchiectasis means expansion of the bronchial cavity",
         "E": "Bronchopneumonia often occurs as an independent disease process"
       },
@@ -2917,7 +2917,7 @@
       "title": "40-year-old man who works in a coal mine presents with respiratory distress, palpitation and cyanosis of his lips. A chest x-ray reveals extensive nodules in the hilus of the lung, the majority of which are less than 1 cm in diameter. Which of the following is not consistent with this patient's disease?",
       "options": {
         "A": "Silicon nodules are the characteristic lesion of this disease",
-        "B": "Silicon granules greater than 5µm are the most pathogenic",
+        "B": "Silicon granules greater than 5 μm are the most pathogenic",
         "C": "This is silicosis, phase II",
         "D": "Diffuse interstitial fibrosis of lung",
         "E": "May lead to pulmonary heart disease"
@@ -2959,7 +2959,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following cells are present inearly silicotic nodules?",
+      "title": "Which of the following cells are present in early silicotic nodules?",
       "options": {
         "A": "large number of macrophages",
         "B": "A large number of eosinophils",
@@ -3064,7 +3064,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following lesions is charac-teristic of viral pneumonia?",
+      "title": "Which of the following lesions is characteristic of viral pneumonia?",
       "options": {
         "A": "Lobular lesions",
         "B": "Lobar lesions",
@@ -3474,7 +3474,7 @@
         "A": "Dysfunction of ventilation in small airways",
         "B": "Increase in endogenous elastase",
         "C": "Smoking",
-        "D": "Hereditary a₁-antitrypsin deficiency",
+        "D": "Hereditary α_1-antitrypsin deficiency",
         "E": "Pulmonary cystic fibrosis"
       },
       "answers": [
@@ -3683,7 +3683,7 @@
       "options": {
         "A": "The lesion involves the central part of the acinus, and lesions of the respiratory bronchiole are most obvious, showing cystic dilatation",
         "B": "Chronic bronchiolitis is the main cause",
-        "C": "The lesion is associated with hereditary a₁-antitrypsin deficiency",
+        "C": "The lesion is associated with hereditary α_1-antitrypsin deficiency",
         "D": "The lesion is frequent in smokers",
         "E": "Infection of small airways may play a role"
       },
@@ -3694,7 +3694,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following types of emphysema is closely associated with hereditary a1-antitrypsin deficiency?",
+      "title": "Which of the following types of emphysema is closely associated with hereditary α_1-antitrypsin deficiency?",
       "options": {
         "A": "Centriacinar emphysema",
         "B": "Interstitial emphysema",
@@ -3709,7 +3709,7 @@
     },
     {
       "type": "single",
-      "title": "Which of the following chronic lung diseases is associated with hereditary a₁-antitrypsin deficiency?",
+      "title": "Which of the following chronic lung diseases is associated with hereditary α_1-antitrypsin deficiency?",
       "options": {
         "A": "Goodpasture syndrome",
         "B": "Panacinar emphysema",
@@ -3784,7 +3784,7 @@
     },
     {
       "type": "single",
-      "title": "A 70-year-old woman has a nearly 10 year history of chronic bronchitis She has had shortness of breath, chest distress and dyspnea for nearly 3 years. She has barrel chest which is hyperresonant on percussion, with weakened respiratory movement, and weakened breath sounds. Which of the following pathologic conditions is NOT typically associated with these clinical findings?",
+      "title": "A 70-year-old woman has a nearly 10 year history of chronic bronchitis She has had shortness of breath, chest distress and dyspnea for nearly 3 years. She has Barrel chest which is hyperresonant on percussion, with weakened respiratory movement, and weakened breath sounds. Which of the following pathologic conditions is NOT typically associated with these clinical findings?",
       "options": {
         "A": "Narrowing of alveolar septa",
         "B": "Alveolar expansion",

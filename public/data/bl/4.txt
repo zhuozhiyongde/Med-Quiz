@@ -1,6 +1,6 @@
 ## 肿瘤
 
-不符合肿瘤性增生的是
+1. 不符合肿瘤性增生的是
 A. 增生的细胞具有异型性
 B. 需致瘤因素的持续存在
 C. 细胞代谢旺盛
@@ -8,7 +8,7 @@ D. 可不形成肿块
 E. 相对无止境生长
 【参考答案】 B
 
-肿瘤性增生区别于炎症性增生的特点是
+2. 肿瘤性增生区别于炎症性增生的特点是
 A. 增生组织不分化不成熟
 B. 血管增生
 C. 纤维组织增生
@@ -16,7 +16,7 @@ D. 器官的实质细胞增生
 E. 炎症细胞浸润
 【参考答案】 A
 
-大肠癌的肿瘤标志是
+3. 大肠癌的肿瘤标志是
 A. CEA
 B. AFP
 C. CA19-9
@@ -24,7 +24,7 @@ D. 酸性磷酸酶
 E. 碱性磷酸酶
 【参考答案】 A
 
-前列腺癌的肿瘤标志是
+4. 前列腺癌的肿瘤标志是
 A. CEA
 B. AFP
 C. CA19-9
@@ -32,7 +32,7 @@ D. 酸性磷酸酶
 E. 碱性磷酸酶
 【参考答案】 D
 
-骨肉瘤的肿瘤标志是
+5. 骨肉瘤的肿瘤标志是
 A. CEA
 B. AFP
 C. CA19-9
@@ -40,7 +40,7 @@ D. 酸性磷酸酶
 E. 碱性磷酸酶
 【参考答案】 E
 
-肝细胞癌的肿瘤标志是
+6. 肝细胞癌的肿瘤标志是
 A. CEA
 B. AFP
 C. CA19-9
@@ -48,7 +48,7 @@ D. 酸性磷酸酶
 E. 碱性磷酸酶
 【参考答案】 B
 
-胰腺癌的肿瘤标志是
+7. 胰腺癌的肿瘤标志是
 A. CEA
 B. AFP
 C. CA19-9
@@ -56,7 +56,7 @@ D. 酸性磷酸酶
 E. 碱性磷酸酶
 【参考答案】 C
 
-符合肿瘤防治现状的描述是
+8. 符合肿瘤防治现状的描述是
 A. 恶性肿瘤早期症状明显
 B. 大多数中晚期癌的治疗效果满意
 C. 早期发现、早期诊断、早期治疗具有重要意义
@@ -64,7 +64,7 @@ D. 公民对癌的防治意识已大幅度提高
 E. 癌症的发病率不断下降
 【参考答案】 C
 
-符合癌的肉眼形态是
+9. 符合癌的肉眼形态是
 A. 包膜完整
 B. 火山口状
 C. 分叶状
@@ -72,7 +72,7 @@ D. 质地软
 E. 灰红色
 【参考答案】 B
 
-弥漫型胃癌肉眼形态呈
+10. 弥漫型胃癌肉眼形态呈
 A. 息肉状
 B. 溃疡状
 C. 弥漫浸润
@@ -80,7 +80,7 @@ D. 结节状
 E. 囊状
 【参考答案】 C
 
-诊断恶性肿瘤的组织学依据主要是
+11. 诊断恶性肿瘤的组织学依据主要是
 A. 细胞浆呈嗜碱性
 B. 细胞核大
 C. 细胞异型性明显
@@ -88,7 +88,7 @@ D. 核仁明显
 E. 可见核分裂像
 【参考答案】 C
 
-女性, 26岁, 右乳外上象限有一直径约2cm 大小的圆形肿块, 边界清楚, 表面光滑, 可移动, 不疼。此肿块最可能是
+12. 女性，26 岁，右乳外上象限有一直径约 2 cm 大小的圆形肿块，边界清楚，表面光滑，可移动，不疼。此肿块最可能是
 A. 乳腺癌
 B. 乳腺增生症
 C. 乳腺纤维瘤
@@ -96,7 +96,7 @@ D. 乳腺纤维腺瘤
 E. 乳腺炎症性肿块
 【参考答案】 D
 
-恶性肿瘤异型性主要表现在
+13. 恶性肿瘤异型性主要表现在
 A. 肿瘤细胞胞浆嗜碱性
 B. 可见核分裂
 C. 肿瘤细胞核的多形性
@@ -104,7 +104,7 @@ D. 肿瘤细胞分泌减少
 E. 组织结构紊乱
 【参考答案】 C
 
-良性肿瘤异型性主要表现在
+14. 良性肿瘤异型性主要表现在
 A. 细胞形态不一
 B. 核分裂像增多
 C. 组织结构紊乱
@@ -112,7 +112,7 @@ D. 细胞间变明显
 E. 细胞分泌减少
 【参考答案】 C
 
-不符合肿瘤形态特点的描述的是
+15. 不符合肿瘤形态特点的描述的是
 A. 体积巨大的肿瘤多为恶性
 B. 可发生多原发癌
 C. 可形成微小癌
@@ -120,15 +120,15 @@ D. 可发生重复癌
 E. 多为单发
 【参考答案】 A
 
-不符合肿瘤代谢特点的是
-A. DNA、RNA合成代谢旺盛
+16. 不符合肿瘤代谢特点的是
+A. DNA、RNA 合成代谢旺盛
 B. 蛋白质合成代谢旺盛
 C. 糖代谢以无氧酵解为主
 D. 可产生肿瘤蛋白
 E. 肿瘤标志物仅见于肿瘤组织
 【参考答案】 E
 
-癌转移至淋巴结时, 首先出现在
+17. 癌转移至淋巴结时，首先出现在
 A. 边缘窦
 B. 髓窦
 C. 淋巴滤泡内
@@ -136,7 +136,7 @@ D. 副皮质区
 E. 淋巴结门部
 【参考答案】 A
 
-淋巴结转移性癌的确切诊断依据是
+18. 淋巴结转移性癌的确切诊断依据是
 A. 淋巴结肿大
 B. 淋巴结质地变硬
 C. 淋巴结疼痛
@@ -144,7 +144,7 @@ D. 淋巴结内出现上皮细胞
 E. 淋巴结内出现癌巢
 【参考答案】 E
 
-在恶性肿瘤患者的周围血中查见恶性肿瘤细胞, 说明该患者
+19. 在恶性肿瘤患者的周围血中查见恶性肿瘤细胞，说明该患者
 A. 已发生了血道转移
 B. 已发生了淋巴道转移
 C. 已是恶性肿瘤晚期
@@ -152,7 +152,7 @@ D. 并发白血病
 E. 有可能发生血道转移
 【参考答案】 E
 
-左锁骨上淋巴结转移性鳞癌的原发部位最可能是
+20. 左锁骨上淋巴结转移性鳞癌的原发部位最可能是
 A. 甲状腺
 B. 胃
 C. 食管
@@ -160,7 +160,7 @@ D. 乳腺
 E. 肝
 【参考答案】 C
 
-男性, 60岁, 上腹痛半年, 因上消化道大出血, 急诊入院。手术标本胃窦部粘膜可见一个巨大的火山口状溃疡。切面质硬, 磁白色, 侵入肌层。肝内可见数个小结节, 手术切除一同送病理, 支持胃癌肝转移的病理变化是
+21. 男性，60 岁，上腹痛半年，因上消化道大出血，急诊入院。手术标本胃窦部粘膜可见一个巨大的火山口状溃疡。切面质硬，磁白色，侵入肌层。肝内可见数个小结节，手术切除一同送病理，支持胃癌肝转移的病理变化是
 A. 小结节由肝细胞构成
 B. 小结节由印戒细胞癌构成
 C. 小结节由假小叶构成
@@ -168,7 +168,7 @@ D. 小结节由鳞癌细胞构成
 E. 小结节由毛细血管构成
 【参考答案】 B
 
-肿瘤血道转移的确切依据是
+22. 肿瘤血道转移的确切依据是
 A. 肿瘤细胞侵入静脉
 B. 肿瘤细胞侵入动脉
 C. 肿瘤细胞出现在血液中
@@ -176,7 +176,7 @@ D. 肿瘤细胞栓塞于远隔器官
 E. 在远隔器官形成与原发瘤同一组织学类型的肿瘤
 【参考答案】 E
 
-胃内两个癌结节, 支持胃内癌转移最可靠的依据是
+23. 胃内两个癌结节，支持胃内癌转移最可靠的依据是
 A. 两个癌结节不相连
 B. 两个癌结节组织学类型不同
 C. 血管、淋巴管内可见癌栓
@@ -184,7 +184,7 @@ D. 两个癌结节组织学类型相同
 E. 两个癌结节均发生在粘膜层
 【参考答案】 D
 
-不符合癌转移的特点是
+24. 不符合癌转移的特点是
 A. 可发生淋巴道转移
 B. 可发生血道转移
 C. 可发生种植性转移
@@ -192,7 +192,7 @@ D. 可发生跳跃转移
 E. 不发生逆行转移
 【参考答案】 E
 
-不易发生癌转移的器官是
+25. 不易发生癌转移的器官是
 A. 脑
 B. 骨
 C. 肺
@@ -200,7 +200,7 @@ D. 肝
 E. 心
 【参考答案】 E
 
-恶性肿瘤最本质的表现是
+26. 恶性肿瘤最本质的表现是
 A. 浸润性生长
 B. 生长迅速
 C. 出现转移
@@ -208,7 +208,7 @@ D. 异型性明显
 E. 有出血坏死
 【参考答案】 C
 
-良性肿瘤的最显著的特点是
+27. 良性肿瘤的最显著的特点是
 A. 异型性小
 B. 生长缓慢
 C. 不浸润周围组织
@@ -216,7 +216,7 @@ D. 出血坏死少见
 E. 不转移
 【参考答案】 E
 
-良性肿瘤对机体的影响最主要决定于
+28. 良性肿瘤对机体的影响最主要决定于
 A. 肿瘤的病程
 B. 肿瘤的大小
 C. 肿瘤组织的来源
@@ -224,7 +224,7 @@ D. 肿瘤发生的部位
 E. 肿瘤出现继发性变化
 【参考答案】 D
 
-不符合良性肿瘤对机体的影响的描述是
+29. 不符合良性肿瘤对机体的影响的描述是
 A. 可发生癌变
 B. 可引起内分泌紊乱
 C. 可发生出血囊性变
@@ -232,7 +232,7 @@ D. 可浸润周围组织
 E. 可发生转移
 【参考答案】 E
 
-副肿瘤综合征是指
+30. 副肿瘤综合征是指
 A. 恶性肿瘤引起的发热
 B. 恶性肿瘤引起的贫血
 C. 恶性肿瘤引起的营养不良
@@ -240,7 +240,7 @@ D. 恶性肿瘤引起的内分泌紊乱
 E. 恶性肿瘤引起的神经功能紊乱
 【参考答案】 D
 
-恶性肿瘤患者的主要死亡原因是
+31. 恶性肿瘤患者的主要死亡原因是
 A. 继发大出血
 B. 继发感染
 C. 广泛转移
@@ -248,7 +248,7 @@ D. 疼痛
 E. 营养不良
 【参考答案】 C
 
-不符合副肿瘤综合征的描述是
+32. 不符合副肿瘤综合征的描述是
 A. 可发生于肝癌
 B. 可发生于肺癌
 C. 可发生于胰腺癌
@@ -256,7 +256,7 @@ D. 可发生于结肠癌
 E. 不发生于肉瘤
 【参考答案】 E
 
-癌前病变不包括
+33. 癌前病变不包括
 A. 大肠腺瘤
 B. 甲状腺腺瘤
 C. 膀胱乳头状瘤
@@ -264,15 +264,15 @@ D. 阴茎乳头状瘤
 E. 家族性腺瘤性息肉病
 【参考答案】 B
 
-原位癌的主要特征是
+34. 原位癌的主要特征是
 A. 发生于粘膜、表皮和腺体
-B. 癌细胞占据上皮全层, 但基底膜仍完整
+B. 癌细胞占据上皮全层，但基底膜仍完整
 C. 可以治愈
 D. 上皮内出现异型性的细胞
 E. 胃粘膜内癌是一种原位癌
 【参考答案】 B
 
-不符合非典型增生的描述是
+35. 不符合非典型增生的描述是
 A. 属癌前病变
 B. 增生的细胞大小形态不一、核深染、核分裂增多
 C. 轻度和中度非典型增生是不可逆转的
@@ -280,7 +280,7 @@ D. 重度非典型增生需积极治疗
 E. 可发展为原位癌
 【参考答案】 C
 
-不属于癌前病变的是
+36. 不属于癌前病变的是
 A. 粘膜白斑
 B. 乳腺纤维腺瘤
 C. 结肠腺瘤性息肉病
@@ -288,7 +288,7 @@ D. 慢性萎缩性胃炎
 E. 乳腺纤维囊性病
 【参考答案】 B
 
-符合原位癌的是
+37. 符合原位癌的是
 A. 早期子宫颈癌
 B. 乳腺导管内癌
 C. 大肠粘膜内癌
@@ -296,7 +296,7 @@ D. 早期食管癌
 E. 胃粘膜内癌
 【参考答案】 B
 
-癌前病变中, 需要积极治疗的病变是
+38. 癌前病变中，需要积极治疗的病变是
 A. 纤维组织增生
 B. 上皮增生
 C. 轻度非典型增生
@@ -304,7 +304,7 @@ D. 中度非典型增生
 E. 重度非典型增生
 【参考答案】 E
 
-符合癌前病变的描述是
+39. 符合癌前病变的描述是
 A. 一类较高癌变潜能的病变
 B. 一类已发生癌变的病变
 C. 一类必然癌变的病变
@@ -312,7 +312,7 @@ D. 一类需积极手术治疗的病变
 E. 一类交界性病变
 【参考答案】 A
 
-上皮非典型增生是指
+40. 上皮非典型增生是指
 A. 上皮细胞单纯增生
 B. 上皮细胞层次增多
 C. 上皮细胞化生
@@ -320,7 +320,7 @@ D. 增生的上皮细胞具有异型性
 E. 无癌变倾向
 【参考答案】 D
 
-非间叶组织来源的肿瘤是
+41. 非间叶组织来源的肿瘤是
 A. 骨肉瘤
 B. 血管肉瘤
 C. 精原细胞瘤
@@ -328,7 +328,7 @@ D. 恶性纤维组织细胞瘤
 E. 平滑肌肉瘤
 【参考答案】 C
 
-癌肉瘤是
+42. 癌肉瘤是
 A. 既有癌又有肉瘤的肿瘤
 B. 腺上皮发生的恶性肿瘤
 C. 色素细胞发生的恶性肿瘤
@@ -336,7 +336,7 @@ D. 间叶组织发生的恶性肿瘤
 E. 鳞状上皮发生的恶性肿瘤
 【参考答案】 A
 
-黑色素瘤
+43. 黑色素瘤
 A. 既有癌又有肉瘤的肿瘤
 B. 腺上皮发生的恶性肿瘤
 C. 色素细胞发生的恶性肿瘤
@@ -344,7 +344,7 @@ D. 恶性间叶性肿瘤
 E. 恶性上皮性肿瘤
 【参考答案】 C
 
-不属于恶性肿瘤的是
+44. 不属于恶性肿瘤的是
 A. 黑色素瘤
 B. 淋巴瘤
 C. 尤文瘤
@@ -352,7 +352,7 @@ D. 多形性腺瘤
 E. 骨髓瘤
 【参考答案】 D
 
-交界性肿瘤是指
+45. 交界性肿瘤是指
 A. 有两个胚层的组织构成的肿瘤
 B. 介于良性与恶性肿瘤之间的肿瘤
 C. 具有癌和肉瘤结构的肿瘤
@@ -360,15 +360,15 @@ D. 发生于表皮与真皮交界处的肿瘤
 E. 既有鳞癌又有腺癌结构的肿瘤
 【参考答案】 B
 
-腺鳞癌是指
+46. 腺鳞癌是指
 A. 伴有鳞状上皮化生的腺癌
-B. 既有上皮成分, 又有间质成分的肿瘤
+B. 既有上皮成分，又有间质成分的肿瘤
 C. 介于良性与恶性之间的肿瘤
 D. 同时具有癌和肉瘤结构的肿瘤
-E. 肿瘤中既有鳞状细胞癌成分, 又有腺癌成分
+E. 肿瘤中既有鳞状细胞癌成分，又有腺癌成分
 【参考答案】 E
 
-属于恶性肿瘤的是
+47. 属于恶性肿瘤的是
 A. 纤维瘤
 B. 神经母细胞瘤
 C. 骨瘤
@@ -376,15 +376,15 @@ D. 乳头状瘤
 E. 腺瘤
 【参考答案】 B
 
-发生于儿童的恶性肿瘤是
+48. 发生于儿童的恶性肿瘤是
 A. 肾母细胞瘤
 B. 黑色素瘤
 C. 骨髓瘤
 D. 鳞状细胞癌
 E. 腺癌
-【参考答案】 E
+【参考答案】 A
 
-男性, 70岁, 1年来常有便血, 肠镜检查, 发现距肛门8cm 的肠粘膜有一2cm 大小的肿物, 中心有溃疡。活检诊断为粘液腺癌, 组织学改变是
+49. 男性，70 岁，1 年来常有便血，肠镜检查，发现距肛门 8 cm 的肠粘膜有一 2 cm 大小的肿物，中心有溃疡。活检诊断为粘液腺癌，组织学改变是
 A. 癌细胞形成腺腔
 B. 癌细胞大小较一致
 C. 癌细胞分泌大量粘液
@@ -392,7 +392,7 @@ D. 癌细胞周围间质丰富
 E. 癌细胞周围血管丰富
 【参考答案】 C
 
-鳞状细胞癌的主要诊断依据是
+50. 鳞状细胞癌的主要诊断依据是
 A. 发生于鳞状上皮的覆盖部位
 B. 呈浸润性生长
 C. 癌细胞形成角化珠和细胞间桥
@@ -400,7 +400,7 @@ D. 肿瘤呈灰白色、质硬
 E. 经淋巴道转移
 【参考答案】 C
 
-胃幽门部一般不会出现
+51. 胃幽门部一般不会出现
 A. 腺癌
 B. 鳞状细胞癌
 C. 硬癌
@@ -408,7 +408,7 @@ D. 胶样癌
 E. 髓样癌
 【参考答案】 B
 
-不符合乳头状瘤特征是
+52. 不符合乳头状瘤特征是
 A. 可发生于移行上皮
 B. 可发生于皮肤表面
 C. 可发生于胃肠道粘膜
@@ -416,47 +416,47 @@ D. 呈外生性生长
 E. 极少发生恶变
 【参考答案】 E
 
-有关移行细胞癌的描述,错误的是
-A. III 级预后最好
+53. 有关移行细胞癌的描述，错误的是
+A. III级预后最好
 B. 好发于膀胱和肾盂等处
 C. 组织学上可有不同程度的移行上皮的特点
 D. 呈浸润性生长
 E. 可由乳头状瘤恶变而来
 【参考答案】 A
 
-诊断腺癌的组织学依据是
+54. 诊断腺癌的组织学依据是
 A. 肿瘤细胞多形性明显
 B. 出现病理核分裂
 C. 侵犯血管
-D. 细胞异型性明显,呈腺样排列
+D. 细胞异型性明显，呈腺样排列
 E. 核深染
 【参考答案】 D
 
-不符合腺瘤特征的是
+55. 不符合腺瘤特征的是
 A. 具有分泌功能
 B. 形成导管和小叶结构
 C. 细胞异型性不明显
-D. 浸润性生长
+D. 膨胀性生长
 E. 形成腺样结构
 【参考答案】 B
 
-不符合髓样癌特征的是
+56. 不符合髓样癌特征的是
 A. 来源于腺上皮
-B. 癌巢呈实体性,无腺腔形成
+B. 癌巢呈实体性，无腺腔形成
 C. 癌细胞多
 D. 可见淋巴细胞浸润
 E. 纤维间质丰富
 【参考答案】 E
 
-不符合乳腺纤维腺瘤特征的是
+57. 不符合乳腺纤维腺瘤特征的是
 A. 是一种良性肿瘤
 B. 好发于青年女性
-C. 切面灰白、质韧,呈编织状
+C. 切面灰白、质韧，呈编织状
 D. 包膜完整
 E. 由分化良好的纤维组织构成
 【参考答案】 E
 
-男性,60岁,1年来进行性吞咽困难,日渐加重。胃镜检查,食管下段可见一溃疡型肿物,质地较硬,溃疡周边隆起,底部凹凸不平。活检的病理诊断最可能是
+58. 男性，60 岁，1 年来进行性吞咽困难，日渐加重。胃镜检查，食管下段可见一溃疡型肿物，质地较硬，溃疡周边隆起，底部凹凸不平。活检的病理诊断最可能是
 A. 食管小细胞癌
 B. 食管腺癌
 C. 食管鳞状细胞癌
@@ -464,7 +464,7 @@ D. Barrett 食管
 E. 食管平滑肌瘤
 【参考答案】 C
 
-女性,58岁,停经6年后,阴道不规则出血2个月。妇科检查,子宫体积增大,如孕两个月大。刮宫取子宫内膜送病理,诊断为中分化子宫内膜腺癌。不符合其组织学改变的是
+59. 女性，58 岁，停经 6 年后，阴道不规则出血 2 个月。妇科检查，子宫体积增大，如孕两个月大。刮宫取子宫内膜送病理，诊断为中分化子宫内膜腺癌。不符合其组织学改变的是
 A. 腺体密集、背靠背
 B. 出现鳞状上皮
 C. 腺上皮细胞核深染
@@ -472,7 +472,7 @@ D. 腺上皮细胞排列紊乱
 E. 可见病理核分裂
 【参考答案】 B
 
-女性,40岁,偶然发现右乳有一肿块,黄豆大,质硬,手术切除,其组织学改变符合导管内癌的是
+60. 女性，40 岁，偶然发现右乳有一肿块，黄豆大，质硬，手术切除，其组织学改变符合导管内癌的是
 A. 导管上皮乳头状增生
 B. 导管上皮与纤维组织混合增生
 C. 导管扩张
@@ -480,7 +480,7 @@ D. 导管内细胞异型性明显
 E. 导管上皮及小叶上皮增生
 【参考答案】 D
 
-男性,60岁,无痛性血尿半年余。膀胱镜检查,膀胱三角区可见一乳头状肿物,有蒂。活检报告为乳头状瘤。符合此诊断的病变是
+61. 男性，60 岁，无痛性血尿半年余。膀胱镜检查，膀胱三角区可见一乳头状肿物，有蒂。活检报告为乳头状瘤。符合此诊断的病变是
 A. 可见鳞状细胞团
 B. 可见腺体
 C. 乳头被覆分化好的移行细胞
@@ -488,7 +488,7 @@ D. 乳头被覆分化好的腺上皮
 E. 乳头被覆分化好的鳞状上皮
 【参考答案】 C
 
-不符合皮肤基底细胞癌的描述是
+62. 不符合皮肤基底细胞癌的描述是
 A. 好发于面部
 B. 多见于老年人
 C. 可形成溃疡
@@ -496,15 +496,15 @@ D. 与紫外线照射有关
 E. 易发生转移
 【参考答案】 E
 
-不符合硬癌特征的是
+63. 不符合硬癌特征的是
 A. 发生于腺上皮
 B. 癌细胞无腺腔形成
-C. 癌巢小而少,间质纤维组织多
+C. 癌巢小而少，间质纤维组织多
 D. 可弥漫性浸润
 E. 分化较好
 【参考答案】 E
 
-腮腺多形性腺瘤的特点是
+64. 腮腺多形性腺瘤的特点是
 A. 由上皮和肌上皮细胞发生
 B. 由腺上皮发生
 C. 由肌上皮发生
@@ -512,23 +512,23 @@ D. 包膜完整
 E. 切除后不易复发
 【参考答案】 A
 
-不符合毛细血管瘤特征的是
+65. 不符合毛细血管瘤特征的是
 A. 儿童常见
 B. 多为先天性发生
 C. 多见于皮肤
-D. 成年后可停止发展,甚至可以自行消退
+D. 成年后可停止发展，甚至可以自行消退
 E. 膨胀性生长
 【参考答案】 E
 
-不符合横纹肌肉瘤特征的是
+66. 不符合横纹肌肉瘤特征的是
 A. 多见于婴幼儿和青少年
 B. 肿瘤由不同分化阶段的横纹肌母细胞构成
 C. 切面呈鱼肉状
-D. 恶性度较高,主要发生血道转移
+D. 恶性度较高，主要发生血道转移
 E. 常发生于横纹肌的部位
 【参考答案】 E
 
-不符合骨瘤特点的是
+67. 不符合骨瘤特点的是
 A. 良性肿瘤
 B. 好发于头面骨及颌骨
 C. 由成熟的骨质组成
@@ -536,7 +536,7 @@ D. 骨母细胞异型性明显
 E. 可引起压迫症状
 【参考答案】 D
 
-有关瘤样纤维组织增生的描述,错误的是
+68. 有关瘤样纤维组织增生的描述，错误的是
 A. 是一种良性肿瘤
 B. 呈浸润性生长
 C. 可复发
@@ -544,23 +544,23 @@ D. 不转移
 E. 肿瘤无包膜
 【参考答案】 A
 
-不符合平滑肌瘤特点的是
+69. 不符合平滑肌瘤特点的是
 A. 好发于子宫、胃肠道
 B. 肿瘤有包膜
-C. 切面灰白、质韧,呈编织状
+C. 切面灰白、质韧，呈编织状
 D. 不见核分裂像
 E. 不转移
 【参考答案】 B
 
-有关脂肪肉瘤的描述,错误的是
+70. 有关脂肪肉瘤的描述，错误的是
 A. 多由脂肪瘤恶变而来
 B. 好发于大腿、腹膜后等部位
-C. 多见于40岁以上的患者
+C. 多见于 40 岁以上的患者
 D. 肿瘤呈结节状或分叶状
 E. 常有假包膜
 【参考答案】 A
 
-平滑肌肉瘤的诊断依据中,最重要的是
+71. 平滑肌肉瘤的诊断依据中，最重要的是
 A. 肿瘤细胞丰富
 B. 肿瘤粘液变性
 C. 核分裂像的多少
@@ -568,7 +568,7 @@ D. 细胞的多形性明显
 E. 肿瘤出血坏死
 【参考答案】 C
 
-女性,50岁,发现背部肿瘤5年,生长缓慢。检查时,肿瘤直径约5cm 大小,可活动,境界清楚。手术切除,肿瘤呈淡黄色,分叶状,包膜完整,质地较软。此结节最可能是
+72. 女性，50 岁，发现背部肿瘤 5 年，生长缓慢。检查时，肿瘤直径约 5 cm 大小，可活动，境界清楚。手术切除，肿瘤呈淡黄色，分叶状，包膜完整，质地较软。此结节最可能是
 A. 纤维瘤
 B. 血管瘤
 C. 平滑肌瘤
@@ -576,7 +576,7 @@ D. 脂肪瘤
 E. 滑膜瘤
 【参考答案】 D
 
-男性,30岁,右胫骨上端病理性骨折,局部被囊性肿物破坏。手术后,病理诊断为骨巨细胞瘤。符合此诊断的描述是
+73. 男性，30 岁，右胫骨上端病理性骨折，局部被囊性肿物破坏。手术后，病理诊断为骨巨细胞瘤。符合此诊断的描述是
 A. 良性肿瘤
 B. 巨细胞是肿瘤的主要细胞
 C. 间质细胞是肿瘤的主要细胞
@@ -584,7 +584,7 @@ D. 瘤细胞形成骨组织
 E. 瘤细胞形成软骨组织
 【参考答案】 C
 
-女性,47岁,因子宫多发性结节,子宫切除。病理检查,符合平滑肌肉瘤的病变是
+74. 女性，47 岁，因子宫多发性结节，子宫切除。病理检查，符合平滑肌肉瘤的病变是
 A. 肿瘤细胞分化良好
 B. 肿瘤细胞密集
 C. 肿瘤细胞异型性明显
@@ -592,7 +592,7 @@ D. 肿瘤细胞核分裂像多见
 E. 肿瘤细胞粘液变性
 【参考答案】 D
 
-骨肉瘤的主要诊断依据是
+75. 骨肉瘤的主要诊断依据是
 A. 好发于青少年
 B. 血道转移
 C. 发生于长骨干骺端
@@ -600,7 +600,7 @@ D. 恶性肿瘤细胞产生骨组织
 E. 发生病理性骨折
 【参考答案】 D
 
-葡萄状肉瘤属于
+76. 葡萄状肉瘤属于
 A. 血管肉瘤
 B. 脂肪肉瘤
 C. 纤维肉瘤
@@ -608,7 +608,7 @@ D. 横纹肌肉瘤
 E. 纤维肉瘤
 【参考答案】 D
 
-不符合软骨肉瘤的描述是
+77. 不符合软骨肉瘤的描述是
 A. 青少年多见
 B. 肿瘤呈分叶状
 C. 浸润性生长
@@ -616,7 +616,7 @@ D. 肿瘤细胞产生软骨基质
 E. 可发生出血坏死
 【参考答案】 A
 
-不符合恶性纤维组织细胞瘤的描述是
+78. 不符合恶性纤维组织细胞瘤的描述是
 A. 可发生与内脏器官
 B. 由原始间叶组织发生
 C. 可见泡沫细胞和多核巨细胞
@@ -624,7 +624,7 @@ D. 可见异型性平滑肌细胞
 E. 恶性度高
 【参考答案】 D
 
-纤维肉瘤的主要诊断依据是
+79. 纤维肉瘤的主要诊断依据是
 A. 发生于深部组织
 B. 鱼肉状
 C. 异型性明显的纤维母细胞
@@ -632,7 +632,7 @@ D. 出血坏死
 E. 假包膜形成
 【参考答案】 C
 
-混合型血管瘤的组织学特点是
+80. 混合型血管瘤的组织学特点是
 A. 由毛细血管构成
 B. 由血窦构成
 C. 由小静脉构成
@@ -640,7 +640,7 @@ D. 由小动脉构成
 E. 由毛细血管和血窦构成
 【参考答案】 E
 
-不符合精原细胞瘤的特征的是
+81. 不符合精原细胞瘤的特征的是
 A. 恶性
 B. 多发于婴儿
 C. 起源于原始生殖细胞
@@ -648,7 +648,7 @@ D. 由较一致的大圆形细胞组成
 E. 间质可见淋巴细胞侵润
 【参考答案】 B
 
-不符合皮样囊肿的特征的描述是
+82. 不符合皮样囊肿的特征的描述是
 A. 属于良性肿瘤
 B. 多见于皮肤
 C. 囊内充满油脂和毛发
@@ -656,7 +656,7 @@ D. 囊壁内被覆鳞状上皮
 E. 囊壁内可见皮肤附属器
 【参考答案】 B
 
-符合成熟型畸胎瘤的特征的描述是
+83. 符合成熟型畸胎瘤的特征的描述是
 A. 良性肿瘤
 B. 不发生于胸腔
 C. 多为实性肿物
@@ -664,7 +664,7 @@ D. 不形成甲状腺组织
 E. 不形成脑组织
 【参考答案】 A
 
-卵巢成熟性畸胎瘤多呈
+84. 卵巢成熟性畸胎瘤多呈
 A. 分叶状
 B. 乳头状
 C. 弥漫浸润
@@ -672,15 +672,15 @@ D. 结节状
 E. 囊状
 【参考答案】 E
 
-有关畸胎瘤的描述,错误的是
+85. 有关畸胎瘤的描述，错误的是
 A. 好发于卵巢、睾丸
 B. 由两个胚层以上的组织构成
 C. 未成熟型可见原始神经组织
-D. 多呈囊性,囊内充满油脂、毛发
+D. 多呈囊性，囊内充满油脂、毛发
 E. 肿瘤起源于生发上皮
 【参考答案】 E
 
-关于皮肤黑痣的描述,错误的是
+86. 关于皮肤黑痣的描述，错误的是
 A. 皮内痣易恶变
 B. 来源于黑色素细胞
 C. 可恶变为黑色素瘤
@@ -688,15 +688,15 @@ D. 溃破、发炎是恶变的象征
 E. 痣细胞分泌色素
 【参考答案】 A
 
-有关黑色素瘤的描述,错误的是
+87. 有关黑色素瘤的描述，错误的是
 A. 可由黑色素痣恶变而来
-B. 恶性度较高,易发生血道转移
+B. 恶性度较高，易发生血道转移
 C. 均可见色素颗粒
 D. 好发于足底、外阴、肛周的皮肤
 E. 瘤细胞核仁清楚、核分裂像多见
 【参考答案】 C
 
-女性,22岁,发现右下腹包块3个月,手术发现右卵巢被破坏,被一囊性肿物所取代,囊内充满脂性物质、毛发,囊壁可见牙齿。应诊断为
+88. 女性，22 岁，发现右下腹包块 3 个月，手术发现右卵巢被破坏，被一囊性肿物所取代，囊内充满脂性物质、毛发，囊壁可见牙齿。应诊断为
 A. 无性细胞瘤
 B. 皮样囊肿
 C. 错构瘤
@@ -704,7 +704,7 @@ D. 迷离瘤
 E. 畸胎瘤
 【参考答案】 E
 
-不属于致癌因子的是
+89. 不属于致癌因子的是
 A. 硒
 B. 苯胺
 C. 亚硝胺
@@ -712,7 +712,7 @@ D. 二甲基氨基偶氮苯
 E. 3,4-苯并芘
 【参考答案】 A
 
-与肺癌发生关系密切的是
+90. 与肺癌发生关系密切的是
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
@@ -720,7 +720,7 @@ D. 紫外线
 E. 乙萘胺
 【参考答案】 A
 
-与膀胱癌发生关系密切的是
+91. 与膀胱癌发生关系密切的是
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
@@ -728,7 +728,7 @@ D. 紫外线
 E. 乙萘胺
 【参考答案】 E
 
-与肝癌发生关系密切的是
+92. 与肝癌发生关系密切的是
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
@@ -736,7 +736,7 @@ D. 紫外线
 E. 乙萘胺
 【参考答案】 B
 
-不属于致癌物质的是
+93. 不属于致癌物质的是
 A. 砷
 B. 金
 C. 铬
@@ -744,7 +744,7 @@ D. 镍
 E. 镉
 【参考答案】 B
 
-不符合亚硝胺致癌特点的描述是
+94. 不符合亚硝胺致癌特点的描述是
 A. 致癌性强
 B. 致癌谱广
 C. 自然界广泛存在
@@ -752,7 +752,7 @@ D. 其形成与亚硝酸盐有关
 E. 其形成与二级胺有关
 【参考答案】 C
 
-不符合3,4-苯并芘致癌特点的描述是
+95. 不符合 3,4-苯并芘致癌特点的描述是
 A. 致癌性强
 B. 致癌谱广
 C. 自然界广泛存在
@@ -760,7 +760,7 @@ D. 存在于烟草的烟雾中
 E. 具有直接致癌作用
 【参考答案】 E
 
-不符合化学致癌的描述是
+96. 不符合化学致癌的描述是
 A. 间接致癌物多见
 B. 直接致癌物少见
 C. 某些致癌物需要其他物质的协同作用
@@ -768,7 +768,7 @@ D. 激发剂是致癌物质
 E. 促进剂是致癌物质
 【参考答案】 E
 
-与病毒无关的肿瘤是
+97. 与病毒无关的肿瘤是
 A. 肝癌
 B. 鼻咽癌
 C. Burkitt 淋巴瘤
@@ -776,7 +776,15 @@ D. 子宫颈癌
 E. 胃癌
 【参考答案】 E
 
-艾滋病患者常见的恶性肿瘤是
+98. 与肝癌关系密切的病毒是
+A. HBV
+B. HSV
+C. EBV
+D. HPV
+E. HTLV
+【参考答案】 A
+
+99. 艾滋病患者常见的恶性肿瘤是
 A. 鼻咽癌
 B. Kaposi 肉瘤
 C. 食管癌
@@ -784,7 +792,7 @@ D. 胃癌
 E. 乳腺癌
 【参考答案】 B
 
-与HPV感染关系密切的肿瘤是
+100. 与 HPV 感染关系密切的肿瘤是
 A. 鼻咽癌
 B. 食管癌
 C. 子宫颈癌
@@ -792,7 +800,7 @@ D. 胃癌
 E. 乳腺癌
 【参考答案】 C
 
-与HCV感染关系密切的肿瘤是
+101. 与 HCV 感染关系密切的肿瘤是
 A. 鼻咽癌
 B. Kaposi 肉瘤
 C. 食管癌
@@ -800,7 +808,7 @@ D. 肝癌
 E. 乳腺癌
 【参考答案】 D
 
-与EBV感染关系密切的肿瘤是
+102. 与 EBV 感染关系密切的肿瘤是
 A. 鼻咽癌
 B. Kaposi 肉瘤
 C. 食管癌
@@ -808,23 +816,23 @@ D. 胃癌
 E. 乳腺癌
 【参考答案】 A
 
-与HTLV 感染关系密切的肿瘤是
+103. 与 HTLV 感染关系密切的肿瘤是
 A. 鼻咽癌
 B. Kaposi 肉瘤
 C. 食管癌
 D. 胃癌
-E. T细胞白血病
+E. T 细胞白血病
 【参考答案】 E
 
-与EBV感染关系密切的肿瘤是
+104. 与 EBV 感染关系密切的肿瘤是
 A. Burkitt 淋巴瘤
 B. Kaposi 肉瘤
 C. 食管癌
 D. 胃癌
-E. T细胞白血病
+E. T 细胞白血病
 【参考答案】 A
 
-男性,20岁,轻度腹泻,伴粘液便4年。肠镜检查,结肠粘膜可见密布的米粒到黄豆大的息肉。病变符合
+105. 男性，20 岁，轻度腹泻，伴粘液便 4 年。肠镜检查，结肠粘膜可见密布的米粒到黄豆大的息肉。病变符合
 A. 结肠腺瘤
 B. 结肠癌
 C. 家族性腺瘤性息肉病
@@ -832,7 +840,7 @@ D. 神经纤维瘤病
 E. 家族性大肠癌
 【参考答案】 C
 
-女性,5岁,双眼均患有视网膜母细胞瘤。生殖细胞发生改变的基因是
+106. 女性，5 岁，双眼均患有视网膜母细胞瘤。生殖细胞发生改变的基因是
 A. APC 基因
 B. WT-1 基因
 C. P53 基因
@@ -840,7 +848,7 @@ D. NF-1 基因
 E. Rb 基因
 【参考答案】 E
 
-APC 基因突变可引起
+107. APC 基因突变可引起
 A. 神经纤维瘤病
 B. 结肠腺瘤性息肉病
 C. 视网膜母细胞瘤
@@ -848,7 +856,7 @@ D. 肾母细胞瘤
 E. 家族性乳腺癌
 【参考答案】 B
 
-WT-1 基因突变可引起
+108. WT-1 基因突变可引起
 A. 神经纤维瘤病
 B. 结肠腺瘤性息肉病
 C. 视网膜母细胞瘤
@@ -856,7 +864,7 @@ D. 肾母细胞瘤
 E. 家族性乳腺癌
 【参考答案】 D
 
-BRCA-1 基因突变可引起
+109. BRCA-1 基因突变可引起
 A. 神经纤维瘤病
 B. 结肠腺瘤性息肉病
 C. 视网膜母细胞瘤
@@ -864,7 +872,7 @@ D. 肾母细胞瘤
 E. 家族性乳腺癌
 【参考答案】 E
 
-NF-1 基因突变可引起
+110. NF-1 基因突变可引起
 A. 神经纤维瘤病
 B. 结肠腺瘤性息肉病
 C. 视网膜母细胞瘤
@@ -872,7 +880,7 @@ D. 肾母细胞瘤
 E. 家族性乳腺癌
 【参考答案】 A
 
-不符合遗传因素在肿瘤发生中的作用的描述是
+111. 不符合遗传因素在肿瘤发生中的作用的描述是
 A. 在遗传性肿瘤中起决定作用
 B. 大多数恶性肿瘤的发生是环境与遗传共同作用的结果
 C. 着色性干皮病属于遗传性肿瘤
@@ -880,7 +888,7 @@ D. 遗传性肿瘤多由肿瘤抑制基因丢失或灭活引起
 E. 遗传性肿瘤也可由 DNA 修复基因突变引起
 【参考答案】 C
 
-不属于肿瘤易感性遗传的疾病是
+112. 不属于肿瘤易感性遗传的疾病是
 A. 着色性干皮病
 B. Bloom 综合征
 C. Fanconi 综合征
@@ -888,7 +896,7 @@ D. 毛细血管扩张性共济失调
 E. 视网膜母细胞瘤
 【参考答案】 E
 
-与雌激素水平过高关系密切的肿瘤是
+113. 与雌激素水平过高关系密切的肿瘤是
 A. 肝癌
 B. 肺癌
 C. 卵巢癌
@@ -896,7 +904,7 @@ D. 乳腺癌
 E. 子宫颈癌
 【参考答案】 D
 
-有关肿瘤免疫的描述,错误的是
+114. 有关肿瘤免疫的描述，错误的是
 A. 体液免疫起主要作用
 B. 癌组织内大量淋巴细胞浸润是预后较好的指标
 C. 恶性肿瘤可以破坏宿主的免疫功能
@@ -904,7 +912,7 @@ D. 免疫功能低下的患者容易发生恶性肿瘤
 E. 艾滋病患者恶性肿瘤的发生率升高
 【参考答案】 A
 
-与雄激素关系密切的肿瘤是
+115. 与雄激素关系密切的肿瘤是
 A. 精原细胞瘤
 B. 阴茎癌
 C. 前列腺癌
@@ -912,7 +920,7 @@ D. 胚胎性癌
 E. 内胚窦瘤
 【参考答案】 C
 
-不符合肿瘤免疫的描述是
+116. 不符合肿瘤免疫的描述是
 A. 艾滋病患者更易发生恶性肿瘤
 B. 免疫抑制治疗可诱发恶性肿瘤
 C. Wilms 瘤的发生与免疫系统不健全有关
@@ -920,23 +928,23 @@ D. 老年人肿瘤的发生与免疫系统功能下降有关
 E. 先天性免疫缺陷病恶性肿瘤的发病率升高
 【参考答案】 C
 
-不符合肿瘤抗原的描述是
-A. 肿瘤相关抗原既存在于肿瘤细胞,又存在于某些正常细胞
+117. 不符合肿瘤抗原的描述是
+A. 肿瘤相关抗原既存在于肿瘤细胞，又存在于某些正常细胞
 B. 肿瘤胚胎抗原在正常机体有微量存在
 C. 肿瘤特异抗原可以用于肿瘤的诊断
 D. 肿瘤胚胎抗原在胚胎发育中曾多量出现
 E. 肿瘤胚胎抗原可作为肿瘤标记物
 【参考答案】 C
 
-不符合肿瘤免疫逃避的描述是
+118. 不符合肿瘤免疫逃避的描述是
 A. 肿瘤细胞有较强的抗原性
-B. 3. 肿瘤细胞 MHC 抗原减少
+B. 肿瘤细胞 MHC 抗原减少
 C. 肿瘤患者的免疫系统受到抑制
 D. 肿瘤细胞产生免疫抑制因子
 E. 极少数癌症患者的肿瘤自行消退与免疫功能增强有关
 【参考答案】 A
 
-与营养因素有关的恶性肿瘤有
+119. 与营养因素有关的恶性肿瘤有
 A. 乳腺癌
 B. 子宫颈癌
 C. 食管癌
@@ -944,15 +952,15 @@ D. 胃癌
 E. 大肠癌
 【参考答案】 E
 
-在肿瘤免疫当中重要的效应细胞是
+120. 在肿瘤免疫当中重要的效应细胞是
 A. 中性粒细胞
 B. 浆细胞
 C. 巨噬细胞
 D. 嗜酸粒细胞
-E. B细胞
+E. B 细胞
 【参考答案】 C
 
-与皮肤癌发生关系密切的是
+121. 与皮肤癌发生关系密切的是
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
@@ -960,7 +968,7 @@ D. 紫外线
 E. 乙萘胺
 【参考答案】 D
 
-与肺间皮瘤发生关系密切的是
+122. 与肺间皮瘤发生关系密切的是
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
@@ -968,23 +976,23 @@ D. 紫外线
 E. 乙萘胺
 【参考答案】 C
 
-可引起白血病的因素是
+123. 可引起白血病的因素是
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
-D. X线
+D. X 线
 E. 乙萘胺
 【参考答案】 D
 
-着色性干皮病患者容易发生皮肤癌是由于
+124. 着色性干皮病患者容易发生皮肤癌是由于
 A. 3,4-苯并芘
 B. 黄曲霉毒素
 C. 石棉纤维
-D. 紫外线引起的DNA 损伤
+D. 紫外线引起的 DNA 损伤
 E. 乙萘胺
 【参考答案】 C
 
-与血吸虫卵慢性刺激有关的癌是
+125. 与血吸虫卵慢性刺激有关的癌是
 A. 肺癌
 B. 胆管上皮癌
 C. 膀胱癌
@@ -992,7 +1000,7 @@ D. 大肠癌
 E. 胃癌
 【参考答案】 D
 
-不符合电离辐射致癌的描述是
+126. 不符合电离辐射致癌的描述是
 A. 导致染色体断裂
 B. 导致染色体异位
 C. 引起点突变
@@ -1000,7 +1008,7 @@ D. 肿瘤发生潜伏期短
 E. 激活癌基因、灭活肿瘤抑制基因
 【参考答案】 D
 
-不符合紫外线照射致癌的描述是
+127. 不符合紫外线照射致癌的描述是
 A. 可引起黑色素瘤
 B. 可引起鳞状细胞癌
 C. 可引起基底细胞癌
@@ -1008,7 +1016,7 @@ D. 可引起蕈样霉菌病
 E. 可导致嘧啶二聚体形成
 【参考答案】 D
 
-不符合电离辐射致癌的描述是
+128. 不符合电离辐射致癌的描述是
 A. 致癌谱广
 B. 与辐射剂量有关
 C. 易防护
@@ -1016,15 +1024,15 @@ D. 放射治疗不会引起肿瘤发生
 E. 与化学及生物致癌因素有叠加作用
 【参考答案】 D
 
-有关抗癌基因与肿瘤关系的描述,错误的是
+129. 有关抗癌基因与肿瘤关系的描述，错误的是
 A. APC 基因——结肠腺瘤性息肉病
 B. NF-1 基因——神经纤维瘤病
 C. Rb 基因——视网膜母细胞瘤
 D. WT-1 基因——肾母细胞瘤
-E. P53 基因————肺癌
+E. P53 基因——肺癌
 【参考答案】 E
 
-有关原癌基因的描述,错误的是
+130. 有关原癌基因的描述，错误的是
 A. 正常细胞的固有基因
 B. 对细胞的生长起抑制作用
 C. 在正常细胞中以非激活的方式存在
@@ -1032,7 +1040,7 @@ D. 环境和遗传因素均可激活原癌基因
 E. 其激活可由点突变、染色体异位、插入、扩增引起
 【参考答案】 B
 
-有关肿瘤的发生发展的描述,错误的是
+131. 有关肿瘤的发生发展的描述，错误的是
 A. 长时间的过程
 B. 多个因素参与
 C. 多基因突变
@@ -1040,15 +1048,15 @@ D. 多阶段逐步演化
 E. 恶性肿瘤不可逆转
 【参考答案】 E
 
-不符合肿瘤抑制基因的特点有
+132. 不符合肿瘤抑制基因的特点有
 A. 正常细胞的固有基因
 B. 促进细胞的生长
-C. Rb 基因和P53 基因是两种常见的抗癌基因
+C. Rb 基因和 P53 基因是两种常见的抗癌基因
 D. 抗癌基因突变可能引起细胞的肿瘤性转化
 E. 肿瘤的发生需要两个等位基因的突变
 【参考答案】 B
 
-不符合原癌基因蛋白质产物的描述是
+133. 不符合原癌基因蛋白质产物的描述是
 A. 生长因子
 B. 生长因子受体
 C. 信号转导蛋白质
@@ -1056,15 +1064,15 @@ D. 核调节蛋白质
 E. 激素受体
 【参考答案】 E
 
-不符合恶性肿瘤发生发展的描述是
+134. 不符合恶性肿瘤发生发展的描述是
 A. 肿瘤是一种基因病
 B. 单一基因改变即可引起细胞恶性转化
 C. 累及癌基因的改变
 D. 累及肿瘤抑制基因的改变
-E. 累及DNA修复基因的改变
+E. 累及 DNA 修复基因的改变
 【参考答案】 B
 
-不符合恶性肿瘤发生发展的基因改变的描述是
+135. 不符合恶性肿瘤发生发展的基因改变的描述是
 A. 不同阶段均有相应的基因改变
 B. 多种基因受累
 C. 多种基因的积累效应为主
@@ -1072,15 +1080,15 @@ D. 多种基因的序贯效应为主
 E. 肿瘤抑制基因在生殖细胞的突变是某些遗传性肿瘤的基础
 【参考答案】 D
 
-不符合P53 基因的描述是
+136. 不符合 P53 基因的描述是
 A. P53 基因的突变发生于结肠癌、肺癌等实体肿瘤
 B. 野生型 P53 蛋白抑制细胞生长
 C. 突变型 P53 蛋白促进细胞增生
 D. P53 蛋白存在于细胞浆内
-E. P53 基因位于17号染色体
+E. P53 基因位于 17 号染色体
 【参考答案】 D
 
-不符合良性肿瘤的是
+137. 不符合良性肿瘤的是
 A. 生长缓慢
 B. 不浸润周围组织
 C. 可发生恶变
@@ -1088,7 +1096,7 @@ D. 术后很少复发
 E. 不发生转移
 【参考答案】 B
 
-诊断恶性肿瘤的主要组织学依据是
+138. 诊断恶性肿瘤的主要组织学依据是
 A. 结构紊乱
 B. 组织坏死
 C. 异型性明显
@@ -1096,7 +1104,7 @@ D. 血管丰富
 E. 浸润周围组织
 【参考答案】 C
 
-区别良性肿瘤与恶性肿瘤的主要组织学依据是
+139. 区别良性肿瘤与恶性肿瘤的主要组织学依据是
 A. 结构紊乱
 B. 细胞形态不一
 C. 间质内炎细胞浸润
@@ -1104,7 +1112,7 @@ D. 细胞核多形性
 E. 纤维组织增生
 【参考答案】 D
 
-区别乳腺内良性肿瘤与恶性肿瘤的主要临床依据是
+140. 区别乳腺内良性肿瘤与恶性肿瘤的主要临床依据是
 A. 肿瘤的体积
 B. 肿瘤的部位
 C. 肿瘤的硬度
@@ -1112,7 +1120,7 @@ D. 肿瘤的活动度
 E. 肿瘤的浸润情况
 【参考答案】 E
 
-区别子宫平滑肌瘤和平滑肌肉瘤的主要病理学依据是
+141. 区别子宫平滑肌瘤和平滑肌肉瘤的主要病理学依据是
 A. 结构紊乱
 B. 细胞形态不一
 C. 体积大小
@@ -1120,7 +1128,7 @@ D. 核分裂像的多少
 E. 细胞核多形性
 【参考答案】 D
 
-区别脂肪瘤与脂肪肉瘤的主要病理学依据是
+142. 区别脂肪瘤与脂肪肉瘤的主要病理学依据是
 A. 肿瘤的体积
 B. 肿瘤的分化情况
 C. 肿瘤的硬度
@@ -1128,7 +1136,7 @@ D. 肿瘤的活动度
 E. 肿瘤的部位
 【参考答案】 B
 
-大肠腺瘤癌变的主要肉眼形态改变是
+143. 大肠腺瘤癌变的主要肉眼形态改变是
 A. 腺瘤的体积
 B. 腺瘤的部位
 C. 腺瘤溃疡形成
@@ -1136,7 +1144,7 @@ D. 腺瘤呈分叶状
 E. 腺瘤呈绒毛状
 【参考答案】 C
 
-区别肺癌与肺炎性假瘤的主要组织学依据是
+144. 区别肺癌与肺炎性假瘤的主要组织学依据是
 A. 结构紊乱
 B. 肺泡上皮增生
 C. 间质内炎细胞浸润
@@ -1144,15 +1152,15 @@ D. 细胞核多形性
 E. 纤维组织增生
 【参考答案】 D
 
-支持肉瘤的主要诊断依据是
+145. 支持肉瘤的主要诊断依据是
 A. 假包膜形成
 B. 淋巴道转移
 C. 呈鱼肉状
 D. 血道转移
-E. 肿瘤细胞弥漫散在,与间质混杂
+E. 肿瘤细胞弥漫散在，与间质混杂
 【参考答案】 E
 
-支持癌的主要诊断依据是
+146. 支持癌的主要诊断依据是
 A. 恶性肿瘤细胞弥散分布
 B. 恶性肿瘤细胞浸润周围组织
 C. 坏死灶形成
@@ -1160,7 +1168,7 @@ D. 大片出血
 E. 恶性肿瘤细胞形成巢片
 【参考答案】 E
 
-符合肉瘤的主要组织学依据是
+147. 符合肉瘤的主要组织学依据是
 A. 恶性肿瘤细胞间可见网状纤维
 B. 恶性肿瘤细胞浸润周围组织
 C. 恶性肿瘤细胞有内分泌功能
@@ -1168,7 +1176,7 @@ D. 淋巴结内出现转移灶
 E. 恶性肿瘤细胞形成巢片
 【参考答案】 A
 
-确定癌的主要依据是
+148. 确定癌的主要依据是
 A. 老年人
 B. 浸润性生长
 C. 癌巢形成
@@ -1176,7 +1184,7 @@ D. 肿瘤组织的异型性明显
 E. 核分裂像多见
 【参考答案】 C
 
-不符合癌的分级的描述是
+149. 不符合癌的分级的描述是
 A. 高分化鳞癌形成角化珠
 B. 低分化鳞癌恶性度高
 C. 高分化腺癌恶性度低
@@ -1184,15 +1192,15 @@ D. 实性癌不形成腺体
 E. 未分化癌是腺癌的一种
 【参考答案】 E
 
-不符合恶性肿瘤分期的描述是
-A. T表示肿瘤的大小
-B. L表示淋巴结转移情况
+150. 不符合恶性肿瘤分期的描述是
+A. T 表示肿瘤的大小
+B. L 表示淋巴结转移情况
 C. M 表示脏器转移情况
-D. T₁L₀M₀ 表示肿瘤处于早期
-E. T₄L₃M₁ 表示肿瘤处于中期
+D. T_1L_0M_0表示肿瘤处于早期
+E. T_4L_3M_1表示肿瘤处于中期
 【参考答案】 E
 
-制定胃癌的治疗方案常依据
+151. 制定胃癌的治疗方案常依据
 A. 脱落细胞学诊断
 B. 细针穿刺病理诊断
 C. 冰冻切片病理诊断
@@ -1200,7 +1208,7 @@ D. 活体组织检查及手术标本的病理诊断
 E. 影像学诊断
 【参考答案】 D
 
-不符合腺癌的分级的描述是
+152. 不符合腺癌的分级的描述是
 A. 高分化腺癌形成腺体
 B. 中分化腺癌部分形成腺体
 C. 低分化腺癌恶性度低
@@ -1208,7 +1216,7 @@ D. 实性癌不形成腺体
 E. 髓样癌是腺癌的一种
 【参考答案】 C
 
-atypia
+153. atypia
 A. 间变
 B. 多形性
 C. 异型性
@@ -1216,7 +1224,7 @@ D. 分化
 E. 成熟
 【参考答案】 C
 
-leiomyosarcoma
+154. leiomyosarcoma
 A. 骨肉瘤
 B. 脂肪肉瘤
 C. 横纹肌肉瘤
@@ -1224,7 +1232,7 @@ D. 平滑肌肉瘤
 E. 软骨肉瘤
 【参考答案】 D
 
-teracoma
+155. teracoma
 A. 错构瘤
 B. 迷离瘤
 C. 假瘤
@@ -1232,7 +1240,7 @@ D. 结核瘤
 E. 畸胎瘤
 【参考答案】 E
 
-adenocarcinoma
+156. adenocarcinoma
 A. 鳞癌
 B. 移行细胞癌
 C. 腺癌
@@ -1240,7 +1248,7 @@ D. 粘液癌
 E. 硬癌
 【参考答案】 C
 
-melanoma
+157. melanoma
 A. 淋巴瘤
 B. 骨髓瘤
 C. 尤文瘤
@@ -1248,7 +1256,7 @@ D. 黑色素瘤
 E. 迷离瘤
 【参考答案】 D
 
-metastasis
+158. metastasis
 A. 侵袭
 B. 转移
 C. 扩散
@@ -1256,7 +1264,7 @@ D. 间变
 E. 进展
 【参考答案】 B
 
-cachexia
+159. cachexia
 A. 恶性度
 B. 恶病质
 C. 恶性转化
@@ -1264,7 +1272,7 @@ D. 恶变
 E. 癌变
 【参考答案】 B
 
-oncogene
+160. oncogene
 A. 原癌基因
 B. 病毒癌基因
 C. 癌基因
@@ -1272,7 +1280,7 @@ D. 凋亡基因
 E. 抗癌基因
 【参考答案】 C
 
-Workers in the dye industry are most prone to which of the following tumors?
+161. Workers in the dye industry are most prone to which of the following tumors?
 A. Aarcinoma of the lung
 B. Squamous cell carcinoma of the skin
 C. Basal cell carcinoma of the skin
@@ -1280,7 +1288,7 @@ D. Carcinoma of the stomach
 E. Carcinoma of the urinary bladder
 【参考答案】 E
 
-Which of the following tumors has been associated most strongly with a possible viral etiology?
+162. Which of the following tumors has been associated most strongly with a possible viral etiology?
 A. Carcinoma of the lung
 B. Burkitt's lymphoma
 C. Carcinoma of the esophagus
@@ -1288,7 +1296,8 @@ D. Follicular lymphoma
 E. Fibrosarcoma
 【参考答案】 B
 
-A 72-year-old female has been feeling fatigued for weeks. She has had a 10kg weight loss in the past couple of months. She has some nausea, but no vomiting, hemoptysis, or hematemesis. She does not have a cough. She is afebrile. The most likely explanation for these findings, from the gross appearance of the liver seen here, is the presence of: [图片]
+163. A 72-year-old female has been feeling fatigued for weeks. She has had a 10 kg weight loss in the past couple of months. She has some nausea, but no vomiting, hemoptysis, or hematemesis. She does not have a cough. She is afebrile. The most likely explanation for these findings, from the gross appearance of the liver seen here, is the presence of:
+![题目配图](https://course.huh.moe/data/bl/images/4-chap4-1.jpg)
 A. Hepatic adenomas
 B. Metastatic adenocarcinoma
 C. Hepatocellular carcinoma
@@ -1296,15 +1305,17 @@ D. This tumor should express AFP oncofetal protein
 E. Micronodular cirrhosis
 【参考答案】 B
 
-Which one of the following statements is most appropriate for the lesion shown here? [图片]
+164. Which one of the following statements is most appropriate for the lesion shown here?
+![题目配图](https://course.huh.moe/data/bl/images/4-chap4-1.jpg)
 A. This tumor is always well-differentiated
 B. The growth pattern for the tumor is local invasion
 C. Metastasis may be exist when the tumor is identified
 D. The etiology of the tumor is related to specific virus
-E. None of above[图片]
+E. None of above
 【参考答案】 C
 
-A 40-year-old female has noted some intermenstrual blooding and felt pelvic discomfort. A pelvic examination is performed and the cervical lesion seen here is found and a hysterectomy performed. Which one of the following statements is most appropriate based on the appearance of this lesion?
+165. A 40-year-old female has noted some intermenstrual blooding and felt pelvic discomfort. A pelvic examination is performed and the cervical lesion seen here is found and a hysterectomy performed. Which one of the following statements is most appropriate based on the appearance of this lesion?
+![题目配图](https://course.huh.moe/data/bl/images/4-chap4-3.jpg)
 A. This lesion is the result of smoking
 B. This is a benign lesion that will not recur
 C. This is a malignant lesion that will be lethal
@@ -1312,7 +1323,8 @@ D. This kind of tumor is not related to HPV
 E. Syphilis is the main cause of the lesion
 【参考答案】 C
 
-A 68-year-old male is found to have occult blood in the stool on physicial examination. A colonoscopy is performed, and the lesion seen here was found and resected. Which of the following statements is most appropriate for this patient? [图片]
+166. A 68-year-old male is found to have occult blood in the stool on physicial examination. A colonoscopy is performed, and the lesion seen here was found and resected. Which of the following statements is most appropriate for this patient?
+![题目配图](https://course.huh.moe/data/bl/images/4-chap4-3.jpg)
 A. His children have a high risk for a similar lesion
 B. This is a benign lesion that will not recur
 C. This lesion is the result of smoking
@@ -1320,7 +1332,7 @@ D. A sexually transmitted disease led to this lesion
 E. Metastases from this lesion may be present
 【参考答案】 B
 
-Which of the following is the most common growth pattern for transitional cell carcinoma?
+167. Which of the following is the most common growth pattern for transitional cell carcinoma?
 A. Ulcerative
 B. Odular
 C. Leather like
@@ -1328,7 +1340,7 @@ D. Cystic
 E. Papillary
 【参考答案】 E
 
-Basal cell carcinoma is most common in which location in the elderly?
+168. Basal cell carcinoma is most common in which location in the elderly?
 A. Hands
 B. Face
 C. Feet
@@ -1336,7 +1348,7 @@ D. Liver
 E. Trunk
 【参考答案】 B
 
-The most common cause of death from cancer in China is
+169. The most common cause of death from cancer in China is
 A. Stomach cancer
 B. Liver cancer
 C. Lung cancer
@@ -1344,7 +1356,7 @@ D. Breast cancer
 E. Colon cancer
 【参考答案】 C
 
-Which one of the following items is most helpful in distinguishing poorly differentiated carcinoma from sarcoma?
+170. Which one of the following items is most helpful in distinguishing poorly differentiated carcinoma from sarcoma?
 A. The growth pattern
 B. The manner of spread
 C. The age of patient
@@ -1352,7 +1364,7 @@ D. The location of the tumor
 E. Reticulum fiber stain
 【参考答案】 E
 
-Seeding metastasis is most common in which of the following malignancies?
+171. Seeding metastasis is most common in which of the following malignancies?
 A. Melanoma
 B. Gastric signet-ring carcinoma
 C. Breast carcinoma
@@ -1360,7 +1372,7 @@ D. Osteosarcoma
 E. Squamous carcinoma of penis
 【参考答案】 B
 
-Which one the following of statements concerning the total cell cycle time in tumors is most appropriate when it is compared with normal cells?
+172. Which one the following of statements concerning the total cell cycle time in tumors is most appropriate when it is compared with normal cells?
 A. 3 times faster than that of normal cells
 B. 2 times faster than that of normal cells
 C. Equal or even longer than that of normal cells
@@ -1368,7 +1380,7 @@ D. 5 times faster than that of normal cells
 E. Much slower than that of normal cells
 【参考答案】 C
 
-Analysis of cancers which have metastasized reveals a mutation which results in decreased cell surface expression of E-cadherin. Which of the following genes is most likely mutated to produce these findings?
+173. Analysis of cancers which have metastasized reveals a mutation which results in decreased cell surface expression of E-cadherin. Which of the following genes is most likely mutated to produce these findings?
 A. Beta-catenin
 B. Cyclin D
 C. BRCA-2
@@ -1376,7 +1388,7 @@ D. NF-1
 E. Rb
 【参考答案】 A
 
-Patients with long-standing Epstein-Barr virus infection have an increased risk for development of malignant neoplasms in adulthood. Which of the following neoplasms is most likely to be found in these patients?
+174. Patients with long-standing Epstein-Barr virus infection have an increased risk for development of malignant neoplasms in adulthood. Which of the following neoplasms is most likely to be found in these patients?
 A. Kaposi sarcoma
 B. Lipoma
 C. Cervical carcinoma
@@ -1384,7 +1396,7 @@ D. Nasopharyngeal carcinoma
 E. Endometrial carcinoma
 【参考答案】 D
 
-A previously healthy 67-year-old man has been feeling tired for 5 months. A complete physical examination is performed and stool guaiac is positive. A colonoscopy is performed, and a large, sessile 4.0 cm mass with surface ulceration is found in the cecum. A biopsy of this mass microscopically shows irregular glands with crowded, tall columnar cells having marked nuclear hyperchromatism. Which of the following statements about his condition is most accurate?
+175. A previously healthy 67-year-old man has been feeling tired for 5 months. A complete physical examination is performed and stool guaiac is positive. A colonoscopy is performed, and a large, sessile 4.0 cm mass with surface ulceration is found in the cecum. A biopsy of this mass microscopically shows irregular glands with crowded, tall columnar cells having marked nuclear hyperchromatism. Which of the following statements about his condition is most accurate?
 A. He has hereditary non-polyposis colon cancer
 B. A p53 mutation is present in the neoplastic cells
 C. There is lack of apoptosis from a faulty Bcl-2 gene
@@ -1392,7 +1404,7 @@ D. His relatives have hereditary adenomatous polyposis
 E. He has inherited a faulty Rb gene from one parent
 【参考答案】 B
 
-Cells of urothelial carcinoma demonstrate a single mutation causing cellular inability to hydrolyze GTP, thus resulting in cellular transformation. Which of the following oncogenes is most likely implicated in this case?
+176. Cells of urothelial carcinoma demonstrate a single mutation causing cellular inability to hydrolyze GTP, thus resulting in cellular transformation. Which of the following oncogenes is most likely implicated in this case?
 A. c-abl
 B. c-sis
 C. k-ras
@@ -1400,7 +1412,7 @@ D. c-neu
 E. c-myc
 【参考答案】 C
 
-It is known that some pre-existing conditions are found to precede development of malignant neoplasms. Which of the following conditions is most likely to be statistically unrelated to subsequent malignancy?
+177. It is known that some pre-existing conditions are found to precede development of malignant neoplasms. Which of the following conditions is most likely to be statistically unrelated to subsequent malignancy?
 A. Cervical squamous dysplasia
 B. Chronic alcoholism with hepatic cirrhosis
 C. Endometrial atypical hyperplasia
@@ -1408,7 +1420,7 @@ D. Uterine leiomyoma
 E. Chronic ulcerative colitis
 【参考答案】 D
 
-An unequivocal features of malignancy is
+178. An unequivocal features of malignancy is
 A. Cellular pleomorphism
 B. Lymphocytic infiltration at the edge of the tumor
 C. Numerous mitotic figures
@@ -1416,7 +1428,7 @@ D. Metastases
 E. Necrosis
 【参考答案】 D
 
-A 62-year-old man with an 80 pack year history of smoking experiences an episode of hemoptysis. On physical examination his face shows puffiness, there is some pedal edema and bruises on the skin, and his blood pressure is 165/100mmHg. A chest radiograph reveals a 5cm right upper lobe lung mass. A fine needle aspiration of this mass shows small cell carcinoma. A bone scan shows no metastases. Immunohistochemical staining of the tumor cells is likely to be positive for whichof the following hormones?
+179. A 62-year-old man with an 80 pack year history of smoking experiences an episode of hemoptysis. On physical examination his face shows puffiness, there is some pedal edema and bruises on the skin, and his blood pressure is 165/100 mmHg. A chest radiograph reveals a 5 cm right upper lobe lung mass. A fine needle aspiration of this mass shows small cell carcinoma. A bone scan shows no metastases. Immunohistochemical staining of the tumor cells is likely to be positive for which of the following hormones?
 A. Parathormone related peptide
 B. Erythropoietin
 C. ACTH
@@ -1424,7 +1436,7 @@ D. Insulin
 E. Gastrin
 【参考答案】 C
 
-A 25-year-old woman in excellent health found a 2 cm firm, rounded mass beneath the skin of her upper back. The overlying skin appears normal. The mass is palpable and soft. She has no symptom over many years. Which of the following neoplasms is she most likely to have?
+180. A 25-year-old woman in excellent health found a 2 cm firm, rounded mass beneath the skin of her upper back. The overlying skin appears normal. The mass is palpable and soft. She has no symptom over many years. Which of the following neoplasms is she most likely to have?
 A. Metastatic carcinoma
 B. Melanoma
 C. Leiomyoma
@@ -1432,23 +1444,23 @@ D. Lipoma
 E. Fibrosarcoma
 【参考答案】 D
 
-A 14-year-old boy has had lumps in the right neck for the past 5 months. On phys- ical examination there is painless lym- phadenopathy in the right cervical region. One of the lymph nodes is biopsied and on microscopic examination shows many lymphocytes that are large, with clumped chromatin and occasional mitoses. The characterization of this population of lym- phocytes as a neoplasm is best accom- plished by which of the following meth- ods?
-A. Immunohistochemical staining identi- fying leukocyte common antigen
+181. A 14-year-old boy has had lumps in the right neck for the past 5 months. On physical examination there is painless lymphadenopathy in the right cervical region. One of the lymph nodes is biopsied and on microscopic examination shows many lymphocytes that are large, with clumped chromatin and occasional mitoses. The characterization of this population of lymphocytes as a neoplasm is best accomplished by which of the following methods?
+A. Immunohistochemical staining identifying leukocyte common antigen
 B. Gene rearrangement studies that demonstrate clonality
-C. A differential white blood count show- ing a lymphocytosis
-D. Flow cytometry indicating a high S- phase
+C. A differential white blood count showing a lymphocytosis
+D. Flow cytometry indicating a high S-phase
 E. Demonstrating necrosis within the mass by light microscopy
 【参考答案】 B
 
-A 58-year-old man dies after a year-long illness. At autopsy the liver contains mul- tiple tumor masses from 2cm to 5cm that are mostly firm and tan, and these masses grossly exhibit umbilication with central necrosis. Which of the following state- ments would best characterize the signifi- cance of such findings?
-A. There is multicentric origin of a be- nign neoplasm
-B. The primary neoplasm is in the stom- ach
+182. A 58-year-old man dies after a year-long illness. At autopsy the liver contains multiple tumor masses from 2 cm to 5 cm that are mostly firm and tan, and these masses grossly exhibit umbilication with central necrosis. Which of the following statements would best characterize the significance of such findings?
+A. There is multicentric origin of a benign neoplasm
+B. The primary neoplasm is in the stomach
 C. A carcinogen was the underlying cause for the neoplasm
 D. The neoplasm is at an advanced stage
 E. The neoplasm is high grade
 【参考答案】 D
 
-A 17-year-old healthy girl has a 0.5 cm reddish, slightly raised nodule on the skin of the upper part of her chest found on a routine physical examination. She states that this lesion has been present for years and has not appreciably changed in size or color. Which of the following neoplasms is this nodule most likely to be?
+183. A 17-year-old healthy girl has a 0.5 cm reddish, slightly raised nodule on the skin of the upper part of her chest found on a routine physical examination. She states that this lesion has been present for years and has not appreciably changed in size or color. Which of the following neoplasms is this nodule most likely to be?
 A. Hemangioma
 B. Melanoma
 C. Rhabdosarcoma
@@ -1456,7 +1468,7 @@ D. Osteoma
 E. Lymphoma
 【参考答案】 A
 
-A 35-year-old woman has had a feeling of abdominal discomfort for the past 7 months. On pelvic examination, there is a right adnexal mass. An abdominal CT scan demonstrates a 6 cm cystic mass in- volving the right ovary with small areas of calcification. The uterus is normal in size. The right fallopian tube and ovary are re- moved surgically. Grossly, on section- ing the mass is filled with abundant hair and sebum. Microscopically, the mass has glandular spaces lined by columnar ep- ithelium, squamous epithelium with hair follicles, cartilage, and dense connective tissue. Which of the following statements regarding this type of neoplasm is most appropriate?
+184. A 35-year-old woman has had a feeling of abdominal discomfort for the past 7 months. On pelvic examination, there is a right adnexal mass. An abdominal CT scan demonstrates a 6 cm cystic mass involving the right ovary with small areas of calcification. The uterus is normal in size. The right fallopian tube and ovary are removed surgically. Grossly, on sectioning the mass is filled with abundant hair and sebum. Microscopically, the mass has glandular spaces lined by columnar epithelium, squamous epithelium with hair follicles, cartilage, and dense connective tissue. Which of the following statements regarding this type of neoplasm is most appropriate?
 A. A human papillomavirus infection preceded development of this mass
 B. Primitive immature tissues resembling those from an embryo can usually be seen
 C. Metastases are unlikely to be present.
@@ -1464,7 +1476,7 @@ D. A sarcomatous element is usually present
 E. Such a mass is often seen to arise in the testis
 【参考答案】 C
 
-Which of the following neoplasms is most likely to develop from viral oncogenesis?
+185. Which of the following neoplasms is most likely to develop from viral oncogenesis?
 A. Transtional cell carcinoma
 B. Retinoblastoma
 C. T-cell leukemia
@@ -1472,7 +1484,7 @@ D. Seminoma
 E. Hepatic angiosarcoma
 【参考答案】 C
 
-A 51-year-old man has experienced vague abdominal discomfort for the past 4 months. On physical examination he has no lymphadenopathy, and no abdominal masses or organomegaly can be palpated. Bowel sounds are present. An abdominal CT scan shows a 20cm retroperitoneal soft tissue mass obscuring the left psoas mus- cle. A stool specimen tested for occult blood is negative. Which of the follow- ing neoplasms is this man most likely to have?
+186. A 51-year-old man has experienced vague abdominal discomfort for the past 4 months. On physical examination he has no lymphadenopathy, and no abdominal masses or organomegaly can be palpated. Bowel sounds are present. An abdominal CT scan shows a 20 cm retroperitoneal soft tissue mass obscuring the left psoas muscle. A stool specimen tested for occult blood is negative. Which of the following neoplasms is this man most likely to have?
 A. Melanoma
 B. Hamartoma
 C. Adenocarcinoma
@@ -1480,31 +1492,31 @@ D. Lymphoma
 E. Liposarcoma
 【参考答案】 E
 
-Which of the following statement(s) is/are correct?
+187. Which of the following statement(s) is/are correct?
 A. The incidence of malignancy tends to increase with age
 B. Certain tumors tend to occur in certain age groups
 C. Certain tumors tend to occur in certain locations
-D. Hormones may inhibit or promote tu- mor growth
+D. Hormones may inhibit or promote tumor growth
 E. All of the above statements are correct
 【参考答案】 E
 
-Which one of the following statements is not true about paraneoplastic syndromes?
-A. They may represent the earliest mani- festation of an occult neoplasm
+188. Which one of the following statements is not true about paraneoplastic syndromes?
+A. They may represent the earliest manifestation of an occult neoplasm
 B. They may be serious and even be lethal
-C. Cushing syndrome is the most com- mon endocrinopathy
-D. They can only be seen in cancer pa- tients, not in sarcoma patients
+C. Cushing syndrome is the most common endocrinopathy
+D. They can only be seen in cancer patients, not in sarcoma patients
 E. They can mimic metastatic disease
 【参考答案】 D
 
-Which one of the following statements is not correct about tumor antigens?
-A. Tumor associated antigens are present on tumor cells and also on some nor- mal cells
-B. Tumor antigens may be normal cellu- lar proteins
+189. Which one of the following statements is not correct about tumor antigens?
+A. Tumor associated antigens are present on tumor cells and also on some normal cells
+B. Tumor antigens may be normal cellular proteins
 C. The expression of oncofetal antigens in adults is only limited to tumors
-D. CD20 is a cell type-specific differen- tiation antigen
+D. CD20 is a cell type-specific differentiation antigen
 E. All of above
 【参考答案】 C
 
-Among the following viruses, which one is an oncogenic RNA virus?
+190. Among the following viruses, which one is an oncogenic RNA virus?
 A. HIV
 B. HCV
 C. HBV
@@ -1512,47 +1524,47 @@ D. HTLV
 E. HPV
 【参考答案】 D
 
-Which of the following is true in identi- fying the steps involved in chemical car- cinogenesis?
-A. Promoters are tumorigenic by them- selves
+191. Which of the following is true in identifying the steps involved in chemical carcinogenesis?
+A. Promoters are tumorigenic by themselves
 B. The effect of promoters is reversible
 C. Initiation alone is sufficient for tumor formation
 D. Initiators are direct-acting compounds
 E. None of above
 【参考答案】 B
 
-Which of the following statements about tumor angiogenesis is correct?
+192. Which of the following statements about tumor angiogenesis is correct?
 A. Tumor blood vessels are similar to normal vasculature
 B. Tumor angiogenesis is related to the decreased production of VEGF
 C. VEGF can only be produced by tumor cells
 D. Angiogenesis is induced from a very early stage of tumor growth
-E. During angiogenesis anti-angiogenesis molecules can also be induced by tu- mor cells
+E. During angiogenesis anti-angiogenesis molecules can also be induced by tumor cells
 【参考答案】 E
 
-Which of the following statements is true about tumor suppressor genes?
-A. The function of these genes is to pre- vent tumor formation
+193. Which of the following statements is true about tumor suppressor genes?
+A. The function of these genes is to prevent tumor formation
 B. These genes were discovered by studying common diseases
 C. WT1 and VHL genes act in a manner similar to the RB gene
 D. Loss of heterozygosity involving the P16 gene is the mechanism of retinoblastoma
 E. None of above
 【参考答案】 C
 
-Which of the following does not belonged to a defective DNA repair syndrome?
+194. Which of the following does not belonged to a defective DNA repair syndrome?
 A. HNPCC
 B. Xeroderma pigmentosum
 C. Ataxiatelangectasia
-D. Li-Fraumeni syndorme
+D. Li-Fraumeni syndrome
 E. Bloom syndrome
 【参考答案】 D
 
-Which of the following features is true about metastasis?
+195. Which of the following features is true about metastasis?
 A. All cancers can metastasize, In general the more rapidly growing
-B. In general, the more rapidly growing, the greater the likelihood that cancer will metastasize
+B. In general，the more rapidly growing， the greater the likelihood that cancer will metastasize
 C. The probability of metastasis can be determined by pathologic examination of the primary tumor
 D. Nodal enlargement in proximity to a cancer definitely means lymphatic spread
 E. Sarcoma can only metastasis by hematogenous spread
 【参考答案】 B
 
-Which of the following statements is true about cancer stem cells?
+196. Which of the following statements is true about cancer stem cells?
 A. Cancer stem cells have been identified in almost all kinds of cancers
 B. Cancer stem cells have a low rate of replication
 C. Cancer stem cells constitute 20% of the cells in breast tumors
@@ -1560,7 +1572,7 @@ D. Cancer stem cells can be killed easily by chemotherapy
 E. None of above
 【参考答案】 B
 
-A benign neoplasm characterized by an abnormal amount of tissue indigenous to the area is best referred to as
+197. A benign neoplasm characterized by an abnormal amount of tissue indigenous to the area is best referred to as
 A. Teratoma
 B. Mixed tumor
 C. Hamartoma
@@ -1568,7 +1580,7 @@ D. Embryonal tumor
 E. Keloid
 【参考答案】 C
 
-The characteristic appearance of a neo- plasm depends on which of the following?
+198. The characteristic appearance of a neoplasm depends on which of the following?
 A. parenchyma
 B. mesenchyma
 C. metastasis
@@ -1576,7 +1588,7 @@ D. atypia
 E. mitosis
 【参考答案】 A
 
-A 53-year-old man has a palpable mass le- sion on digital rectal examination. Biopsy was performed. Of the following micro- scopic findings, which is most likely to in- dicate that the neoplasm is malignant?
+199. A 53-year-old man has a palpable mass lesion on digital rectal examination. Biopsy was performed. Of the following microscopic findings, which is most likely to indicate that the neoplasm is malignant?
 A. Pleomorphism
 B. Increased nuclear/cytoplasmic ratio
 C. Necrosis
@@ -1584,15 +1596,15 @@ D. Invasion
 E. Atypia
 【参考答案】 D
 
-A 55-year-old woman goes to her physi- cian for a routine physical examination. A4 cm diameter non-tender mass is palpated in her right breast. The mass appears fixed to the chest wall. Another 2 cm non- tender mass is palpable in the left axilla. A chest radiograph reveals multiple 0.5 to 2 cm nodules in both lungs. Which of the following classifications best rerpresents the stage of her disease?
-A. T1 N1 M0
-B. T1 N0 M1
-C. T2 N1 M0
-D. T3 N0 M1
-E. T4 N1 M1
+200. A 55-year-old woman goes to her physician for a routine physical examination. A 4 cm diameter non-tender mass is palpated in her right breast. The mass appears fixed to the chest wall. Another 2 cm non-tender mass is palpable in the left axilla. A chest radiograph reveals multiple 0.5 to 2 cm nodules in both lungs. Which of the following classifications best rerpresents the stage of her disease?
+A. T1N1M0
+B. T1N0M1
+C. T2N1M0
+D. T3N0M1
+E. T4N1M1
 【参考答案】 E
 
-Which of the following features is not true in describing carcinoma in situ?
+201. Which of the following features is not true in describing carcinoma in situ?
 A. Dysplastic changes involve the entire thickness of the epithelium
 B. It is preinvasive neoplasm
 C. It is intramucosal carcinoma
@@ -1600,15 +1612,15 @@ D. It is early stage carcinoma
 E. It does not metastastasize
 【参考答案】 C
 
-Which of the following features is true in describing malignant neoplasm?
+202. Which of the following features is true in describing malignant neoplasm?
 A. The presence of giant cells indicate that a tumor is malignant
 B. Lack of differentiation is a hallmark of malignant transformation
 C. The presence of mitoses indicate that a tumor is malignant
 D. The bigger the neoplasm the higher the tumor grade
-E. Anaplastic tumors do not differ cyto-logically from normal counterparts
+E. Anaplastic tumors do not differ cytologically from normal counterparts
 【参考答案】 B
 
-Which of the following conditions is a not preneoplastic disorder?
+203. Which of the following conditions is a not preneoplastic disorder?
 A. Chronic atrophic gastritis
 B. Chronic ulcerative colitis
 C. Leukoplakia of the oral cavity
@@ -1616,7 +1628,7 @@ D. Thyroid adenoma
 E. Papilloma of the penis
 【参考答案】 D
 
-Which of the following tumors is not ma- lignant?
+204. Which of the following tumors is not malignant?
 A. Mesothelioma
 B. Seminoma
 C. Osteoma
@@ -1624,15 +1636,15 @@ D. Wilm's tumor
 E. Leukemia
 【参考答案】 C
 
-The term border line tumor means:
+205. The term border line tumor means:
 A. Tumor consisting of both carcinoma and sarcoma
-B. Tumor consisting of squamous carci- noma and adenocarcinoma
+B. Tumor consisting of squamous carcinoma and adenocarcinoma
 C. Tumor consisting of epithelial tissue and meschymal tissue
 D. Tumor bordering between benign and malignant
 E. Tumor bordering between hyperplasia and carcinoma
 【参考答案】 D
 
-The patient survival rate with stage T4N1M1 neoplam 5 years from the time of diagnosis is less than 50%, regardless of therapy. Which of the following clinical findings is most likely to be characteristic of this group of patients?
+206. The patient survival rate with stage T4N1M1 neoplam 5 years from the time of diagnosis is less than 50%, regardless of therapy. Which of the following clinical findings is most likely to be characteristic of this group of patients?
 A. Cachexia
 B. Cardiac murmur
 C. Icterus
@@ -1640,7 +1652,7 @@ D. Tympany
 E. Splenomegaly
 【参考答案】 A
 
-Which of the following factors presents the greatest risk for development of malignant melanoma in the skin of hand?
+207. Which of the following factors presents the greatest risk for development of malignant melanoma in the skin of hand?
 A. Smoking tobacco
 B. Asbestos exposure
 C. Chemotherapy
@@ -1648,7 +1660,7 @@ D. Ultraviolet radiation
 E. Allergy to latex
 【参考答案】 D
 
-Angiogenesis in a neoplasm is best characterized as:
+208. Angiogenesis in a neoplasm is best characterized as:
 A. blood-borne spread of tumor cells
 B. invasion of blood vessels by tumor cells
 C. the ingrowth of new blood vessels into a growing tumor
@@ -1656,7 +1668,7 @@ D. a tumor arising from primitive blood forming tissue
 E. central necrosis seen in rapidly growing tumors resulting from the tumor outgrowing its blood supply
 【参考答案】 C
 
-Which of the following techniques used during partial colectomy for colon carcinoma can best aid the surgeon in determining whether the resection is adequate to reduce the probability of a recurrence?
+209. Which of the following techniques used during partial colectomy for colon carcinoma can best aid the surgeon in determining whether the resection is adequate to reduce the probability of a recurrence?
 A. Fine-needle aspiration
 B. Serum carcinoembryonic antigen assay
 C. Frozen section
@@ -1664,7 +1676,7 @@ D. Electron microscopy
 E. Flow cytometry
 【参考答案】 C
 
-Which of the following is a risk factor for hepatic angiosarcoma?
+210. Which of the following is a risk factor for hepatic angiosarcoma?
 A. Arsenic
 B. Asbestos
 C. Benzene
@@ -1672,23 +1684,23 @@ D. Beryllium
 E. Vinyl chloride
 【参考答案】 E
 
-Which gene is most likely to have mutation in the familial breast carcinoma?
+211. Which gene is most likely to have mutation in the familial breast carcinoma?
 A. BCL2 (antiapoptosis gene)
-B. BRCAI (DNA repair gene)
+B. BRCA1 (DNA repair gene)
 C. EGF (epidermal growth factor gene)
 D. ERBB2 (growth factor receptor gene)
 E. K-RAS (GTP-binding protein gene)
 【参考答案】 B
 
-Which of the following best describes the mechanism of sporadic colonic adenomas evolving into an invasive carcinoma?
+212. Which of the following best describes the mechanism of sporadic colonic adenomas evolving into an invasive carcinoma?
 A. Protooncogenes can be activated by chromosomal translocation
 B. Extensive regeneration of tissues increases the risk of cancer-causing mutations
 C. Malignant transformation involves accumulation of mutations in protooncogenes and tumor suppressor genes in a step-wise fashion
-D. Inherited defects in DNA repair increases the susceptibility to developcancer
+D. Inherited defects in DNA repair increase the susceptibility to develop cancer
 E. Overexpression of growth factor receptor genes is associated with poor prognosis
 【参考答案】 C
 
-Which of the following features of malignancies is related to its sensitivity to chemotherapeutic agents?
+213. Which of the following features of malignancies is related to its sensitivity to chemotherapeutic agents?
 A. High growth fraction
 B. Monoclonality
 C. Poor vascularity
@@ -1696,7 +1708,7 @@ D. Prone to metastasis
 E. Strong expression of tumor antigens
 【参考答案】 A
 
-A 14-year-old girl in a family of three children has had skin nodules over the past 5 years. On physical examination, she is of appropriate height and weight. The skin lesions are 1- to 3-cm maculopapular nodules that are erythematous to brown-colored and have areas of ulceration. Biopsy of the skin lesions shows squamous cell carcinoma. The child has no history of recurrent infections, and her parents and other relatives are not affected. Which of the following mechanisms is most likely to produce neoplasia in her condition?
+214. A 14-year-old girl in a family of three children has had skin nodules over the past 5 years. On physical examination, she is of appropriate height and weight. The skin lesions are 1- to 3-cm maculopapular nodules that are erythematous to brown-colored and have areas of ulceration. Biopsy of the skin lesions shows squamous cell carcinoma. The child has no history of recurrent infections, and her parents and other relatives are not affected. Which of the following mechanisms is most likely to produce neoplasia in her condition?
 A. Infection with human papillomavirus
 B. Inactivation of p53
 C. Ingestion of food contaminated with Aspergillus flavus
@@ -1704,7 +1716,7 @@ D. Failure of nucleotide excision repair of DNA
 E. Chromosomal translocation
 【参考答案】 D
 
-A needle biopsy of the liver shows a mucin secreting adenocarcinoma. The most likely site of origin is?
+215. A needle biopsy of the liver shows a mucin secreting adenocarcinoma. The most likely site of origin is?
 A. Bladder
 B. Cerebellum
 C. Prostate
@@ -1712,7 +1724,7 @@ D. Colon
 E. Lung
 【参考答案】 D
 
-A 55-year-old woman was diagnosed with well-differentiated ductal carcinoma of right breast and there were three firm lymph nodes palpable in the right axilla. There was no family history of cancer. 6 months later, she died of multiple metastases in the lung, liver and brain. Which of the following molecular abnormalities is most likely to be found in this setting?
+216. A 55-year-old woman was diagnosed with well-differentiated ductal carcinoma of right breast and there were three firm lymph nodes palpable in the right axilla. There was no family history of cancer. 6 months later, she died of multiple metastases in the lung, liver and brain. Which of the following molecular abnormalities is most likely to be found in this setting?
 A. Inactivation of one copy of the BRCA1 gene in breast cancer cells
 B. Amplification of the ERBB2 (HER2) gene in breast cancer cells
 C. Deletion of one copy of the p53 gene in all of the patient's cells
@@ -1720,7 +1732,7 @@ D. Deletion of the RB locus in the patient's normal somatic cells
 E. Fusion of BCR and C-ABL genes in the cancer cells
 【参考答案】 B
 
-Which of the following investigational research procedures can most clearly distinguish whether an isolated 1cm pedunculated polyp represents hyperplasia of thecolonic mucosa or a tubular adenoma?
+217. Which of the following investigational research procedures can most clearly distinguish whether an isolated 1 cm pedunculated polyp represents hyperplasia of the colonic mucosa or a tubular adenoma?
 A. Immunoperoxidase staining for keratin
 B. Immunoperoxidase staining for Ki-67
 C. Flow cytometry to determine the frequency of cells in the S phase
@@ -1728,7 +1740,7 @@ D. Histochemical staining for mucin
 E. Determination of clonality by pattern of X chromosome inactivation
 【参考答案】 E
 
-Which of the following molecular abnormalities in cervical carcinoma is most likely related to infection with HPV-16?
+218. Which of the following molecular abnormalities in cervical carcinoma is most likely related to infection with HPV-16?
 A. Trapping of the RAS protein in a GTP-bound state
 B. activation of the c-myc gene
 C. Inability to repair DNA damage
@@ -1736,7 +1748,7 @@ D. Functional inactivation of the RB1 protein
 E. Increased expression of epidermal growth factor receptor
 【参考答案】 D
 
-Which of the following factors is most likely responsible for the lymph node metastases in breast carcinoma?
+219. Which of the following factors is most likely responsible for the lymph node metastases in breast carcinoma?
 A. Increased laminin receptors on tumor cells
 B. Presence of keratin in tumor cells
 C. Diminished apoptosis of tumor cells
@@ -1744,7 +1756,7 @@ D. Tumor cell monoclonality
 E. Lymphadenitis
 【参考答案】 A
 
-A 45-year-old man has had hepatitis for 14 years, and HBsAg and anti-HCV are positive. He develops hepatocellular carcinoma. Which of the following best explains why this patient developed hepatocellular carcinoma?
+220. A 45-year-old man has had hepatitis for 14 years, and HBsAg and anti-HCV are positive. He develops hepatocellular carcinoma. Which of the following best explains why this patient developed hepatocellular carcinoma?
 A. The consistent integration of these viruses in the vicinity of protooncogenes
 B. The ability of viral genes to inactivate RB and p53 expression
 C. Viral induced injury to liver cells followed by extensive regeneration
@@ -1752,7 +1764,7 @@ D. The ability of these viruses to capture protooncogenes from the host DNA
 E. The ability of these viruses to cause immunosuppression in the host
 【参考答案】 C
 
-Which of the following maligancies does not increase in incidence in the setting of alcohol abuse?
+221. Which of the following maligancies does not increase in incidence in the setting of alcohol abuse?
 A. Oropharyngeal
 B. Laryngeal
 C. Esophageal
@@ -1760,7 +1772,7 @@ D. Gastric
 E. Hepatocellular
 【参考答案】 D
 
-Which of the following carcinomas tends to spread via vascular invasion as opposed to lymphatic invasion?
+222. Which of the following carcinomas tends to spread via vascular invasion as opposed to lymphatic invasion?
 A. lung carcinoma
 B. Renal cell carcinoma
 C. gastric carcinoma
@@ -1768,7 +1780,7 @@ D. colon carcinoma
 E. nasopharyngeal carcinoma
 【参考答案】 B
 
-In what organ has cytologic screening produced a marked reduction in mortality?
+223. In what organ has cytologic screening produced a marked reduction in mortality?
 A. Breast
 B. Lung
 C. Pancreas
@@ -1776,7 +1788,7 @@ D. Uterine cervix
 E. Stomach
 【参考答案】 D
 
-The increase in size of a neoplasm depends on the doubling time which
+224. The increase in size of a neoplasm depends on the doubling time which
 A. is related to the growth fraction and rate of cell loss
 B. is related to its clonality
 C. is the same as the length of the cell cycle
@@ -1784,7 +1796,7 @@ D. is related to the length of the cell cycle
 E. is related to the age of the patient
 【参考答案】 A
 
-Which of the following is a neoplasm of mesenchymal origin?
+225. Which of the following is a neoplasm of mesenchymal origin?
 A. leukemia
 B. seminal cell tumor
 C. fibrosarcoma
@@ -1792,7 +1804,7 @@ D. liposarcoma
 E. all of the above
 【参考答案】 E
 
-Patients with hereditary nonpolyposis colon cancer typically develop multiple lesions of the colon during middle age. Molecular analysis of the cells from these lesions shows changes in hPMS1, hPMS2, and hMLH1 genes. Which of the following principles of carcinogenesis is best illustrated by this study?
+226. Patients with hereditary nonpolyposis colon cancer typically develop multiple lesions of the colon during middle age. Molecular analysis of the cells from these lesions shows changes in hPMS1, hPMS2, and hMLH1 genes. Which of the following principles of carcinogenesis is best illustrated by this study?
 A. Tumor initiators are mutagenic
 B. Tumor promoters induce proliferation
 C. Many oncogenes are activated by translocations
@@ -1800,7 +1812,7 @@ D. Inability to repair DNA is carcinogenic
 E. Carcinogenesis is a multistep process
 【参考答案】 D
 
-A healthy 23-year-old woman undergoes a routine physical examination. A discrete, firm, rubbery, movable mass is found in the left breast. She has no axillary lymphadenopathy. The skin overlying the breast and the nipple appear normal. Which of the following neoplasms is most likely to be present?
+227. A healthy 23-year-old woman undergoes a routine physical examination. A discrete, firm, rubbery, movable mass is found in the left breast. She has no axillary lymphadenopathy. The skin overlying the breast and the nipple appear normal. Which of the following neoplasms is most likely to be present?
 A. Fibroadenoma
 B. Lipoma
 C. Intraductal carcinoma
@@ -1808,7 +1820,7 @@ D. Malignant lymphoma
 E. Leiomyoma
 【参考答案】 A
 
-A 66-year-old man has developed a chronic cough over the past 2 months. There are no abnormal physical examination findings. A chest x-ray shows a 3 cm mass in the right upper lobe. After fine needle aspiration biopsy, the mass is resected. Gross and microscopic examination of the mass is performed and it is determined that a neoplasm is present. Which of the following findings regarding this mass is most likely to be irrelevant for determining further therapy and prognosis?
+228. A 66-year-old man has developed a chronic cough over the past 2 months. There are no abnormal physical examination findings. A chest x-ray shows a 3 cm mass in the right upper lobe. After fine needle aspiration biopsy, the mass is resected. Gross and microscopic examination of the mass is performed and it is determined that a neoplasm is present. Which of the following findings regarding this mass is most likely to be irrelevant for determining further therapy and prognosis?
 A. The size of the neoplasm
 B. The differentiation of the neoplasm
 C. Is the neoplasm invading the margin of resection
@@ -1816,7 +1828,7 @@ D. How much inflammation is present in the neoplasm
 E. Is the neoplasm primary or metastatic
 【参考答案】 D
 
-A 75-year-old healthy man is found to have a palpable firm nodule in the prostate gland by rectal examination. His serum prostate specific antigen (PSA) is 19 ng/mL. The microscopic appearance seen on biopsy of the prostate will probably be most consistent with which of the following conditions?
+229. A 75-year-old healthy man is found to have a palpable firm nodule in the prostate gland by rectal examination. His serum prostate specific antigen (PSA) is 19 ng/mL. The microscopic appearance seen on biopsy of the prostate will probably be most consistent with which of the following conditions?
 A. Chronic prostatitis
 B. Adenocarcinoma
 C. Infarction
@@ -1824,7 +1836,7 @@ D. Leiomyoma
 E. Rhabdomyosarcoma
 【参考答案】 B
 
-A 47-year-old man has noted a lump on his left shoulder that has enlarged over the past 4 months. On physical examination there is an enlarged, non-tender supraclavicular lymph node. A biopsy of the node is done and on microscopic examination there is a metastatic neoplasm. Which of the following is the most likely primary neoplasm?
+230. A 47-year-old man has noted a lump on his left shoulder that has enlarged over the past 4 months. On physical examination there is an enlarged, non-tender supraclavicular lymph node. A biopsy of the node is done and on microscopic examination there is a metastatic neoplasm. Which of the following is the most likely primary neoplasm?
 A. Cerebral glioma
 B. Adenocarcinoma of colon
 C. Leiomyosarcoma of shoulder soft tissue
@@ -1832,7 +1844,7 @@ D. Fibrosarcoma of shoulder soft tissue
 E. Liposarcoma of the retroperitoneum
 【参考答案】 B
 
-A child is born with a single functional allele of a tumor suppressor gene. At the age of five the remaining normal allele is lost through a point mutation. As a result, the ability to inhibit cell cycle progression until the cell is ready to divide is lost. Which of the following neoplasms is most likely to arise via this mechanism?
+231. A child is born with a single functional allele of a tumor suppressor gene. At the age of five the remaining normal allele is lost through a point mutation. As a result, the ability to inhibit cell cycle progression until the cell is ready to divide is lost. Which of the following neoplasms is most likely to arise via this mechanism?
 A. Infiltrating ductal carcinoma of breast
 B. Small cell anaplastic carcinoma of the lung
 C. Cerebral astrocytoma metastasis
@@ -1840,15 +1852,15 @@ D. Retinoblastoma of eye
 E. Chronic myeloid leukemia
 【参考答案】 D
 
-A 35-year-old man with a family history of colon carcinoma undergoes a surveillance colonoscopy. It reveals hundreds of polyps in the colon, and two focal 0.5 cm ulcerated areas. A biopsy from one ulcer reveals irregularly shaped glands that have penetrated into the muscular layer. Which of the following molecular events is believed to occur very early in the evolution of his colonic disease process?
+232. A 35-year-old man with a family history of colon carcinoma undergoes a surveillance colonoscopy. It reveals hundreds of polyps in the colon, and two focal 0.5 cm ulcerated areas. A biopsy from one ulcer reveals irregularly shaped glands that have penetrated into the muscular layer. Which of the following molecular events is believed to occur very early in the evolution of his colonic disease process?
 A. Activation of the WNT signaling pathway
 B. Inability to hydrolyze GTP-bound RAS
 C. Mutations in mismatch repair genes
-D. K-RAS
-E. p53
+D. Loss of heterozygosity affecting the p53 gene
+E. Translocation of BCL2 from mitochondria to cytoplasm
 【参考答案】 A
 
-A 63-year-old man sees his physician because of cough and hemoptysis. He has a 65 pack-year history of smoking. A chest CT scan shows a 5-cm right hilar mass. Bronchoscopy is performed, and lung biopsy specimens show small cell anaplastic lung carcinoma. His family history shows three first-degree maternal relatives who developed leukemia, sarcoma, and carcinoma before the age of 40 years. Which of the following genes is most likely to have undergone mutation to produce these findings?
+233. A 63-year-old man sees his physician because of cough and hemoptysis. He has a 65 pack-year history of smoking. A chest CT scan shows a 5-cm right hilar mass. Bronchoscopy is performed, and lung biopsy specimens show small cell anaplastic lung carcinoma. His family history shows three first-degree maternal relatives who developed leukemia, sarcoma, and carcinoma before the age of 40 years. Which of the following genes is most likely to have undergone mutation to produce these findings?
 A. APC
 B. BCL2
 C. ERBB2
@@ -1856,10 +1868,10 @@ D. K-RAS
 E. p53
 【参考答案】 E
 
-A 40-year-old man has generalized nontender enlargement of lymph node in the groin and armpit and hepatosplenomegaly. An inguinal lymph node biopsy specimen shows a malignant tumor of lymphoid cells. Immunoperoxidase staining of the tumor cells with antibody to BCL2 is positive in the lymphocytic cell nuclei. Which of the following mechanisms has most likely produced this lymphoma?
+234. A 40-year-old man has generalized nontender enlargement of lymph node in the groin and armpit and hepatosplenomegaly. An inguinal lymph node biopsy specimen shows a malignant tumor of lymphoid cells. Immunoperoxidase staining of the tumor cells with antibody to BCL2 is positive in the lymphocytic cell nuclei. Which of the following mechanisms has most likely produced this lymphoma?
 A. Increased tyrosine kinase activity
 B. Reduced DNA repair
 C. Gene amplifications
 D. Lack of apoptosis
-E. Loss of cell cycle inhibition120
+E. Loss of cell cycle inhibition
 【参考答案】 D
