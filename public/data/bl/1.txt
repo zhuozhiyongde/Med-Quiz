@@ -1393,7 +1393,7 @@ E. M
 【参考答案】 A
 
 175. A 24-year-old man with acute appendicitis undergoes surgical removal of the inflamed appendix. The incision site is sutured. A trichrome-stained section of the site is shown in the photograph. How long after the surgery would this appearance most likely be seen?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-5.jpg)
 A. 1 day
 B. 2 to 3 days
 C. 4 to 5 days
@@ -1402,7 +1402,7 @@ E. 1 month
 【参考答案】 E
 
 176. After the sutures were removed from the wound 1 week after a surgical operation, the site became disfigured by a prominent raised, nodular scar that continued to develop over the following 2 months. Which of the following terms best describes the process that occurred during this 2-month period?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-5.jpg)
 A. Secondary union
 B. Keloid formation
 C. Resolution
@@ -1419,7 +1419,7 @@ E. Hyaluronic acid
 【参考答案】 D
 
 178. A middle-aged man experienced sudden death preceeded by severe abdominal pain with hypotension and shock. From the gross appearance of the mesentery, seen in the figure, which of the following events has most likely occurred?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-4.jpg)
 A. Acute pancreatitis
 B. Small intestinal perforation
 C. Tuberculous peritonitis (结核性腹膜炎)
@@ -1428,7 +1428,7 @@ E. Hepatitis B virus infection
 【参考答案】 A
 
 179. Which of the following substances is most likely responsible for the interaction between the cytoskeleton and the extracellular matrix in a wound healing experiment?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-4.jpg)
 A. Type IV collagen
 B. Fibronectin
 C. Epidermal growth factor
@@ -1597,7 +1597,7 @@ E. Procalcitonin
 【参考答案】 A
 
 200. At autopsy of an old woman who died from congestive heart failure, the heart weighed 620 g and showed marked left ventricular hypertrophy and severe coronary arterial atherosclerosis. Which of the following pathologic processes best accounts for the appearance of the aortic valve seen in the figure?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-1.jpg)
 A. Fatty change
 B. Amyloidosis
 C. Lipofuscin deposition
@@ -1606,7 +1606,7 @@ E. Dystrophic calcification
 【参考答案】 E
 
 201. Histologic sections of lung tissue from a 68-year-old woman with congestive heart failure and progressive breathing problems reveal numerous hemosiderin-laden cells within the alveoli. Which of the following is the cell of origin of these "heart failure cells"?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-1.jpg)
 A. Endothelial cells
 B. Eosinophils
 C. Lymphocytes
@@ -1751,7 +1751,7 @@ E. Hemosiderin
 【参考答案】 B
 
 219. A patient undergoes bone marrow transplantation for leukemia and receives partially mismatched donor marrow. One month later, she has a scaling skin rash. Examination of a skin biopsy specimen reveals the cellular change shown in the figure. This change most likely results from which of the following biochemical reactions?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-3.jpg)
 A. Increase in glycolysis
 B. Lipid peroxidation
 C. Activation of caspases
@@ -1760,7 +1760,7 @@ E. Reduction of ATP synthesis
 【参考答案】 C
 
 220. The microscopic appearance of an enlarged liver with a yellow cut surface is shown in the preceding figure. Before death, the man's total serum cholesterol and triglyceride levels were normal, but he had a decreased serum albumin concentration and increased prothrombin time (凝血酶原时间). Which of the following activities or conditions most likely led to these findings?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-3.jpg)
 A. Suffering tumor
 B. Playing basketball
 C. Drinking beer

@@ -1393,7 +1393,7 @@ E. M
 【参考答案】 A
 
 175. A 24-year-old man with acute appendicitis undergoes surgical removal of the inflamed appendix. The incision site is sutured. A trichrome-stained section of the site is shown in the photograph. How long after the surgery would this appearance most likely be seen?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-5.jpg)
 A. 1 day
 B. 2 to 3 days
 C. 4 to 5 days
@@ -1402,7 +1402,7 @@ E. 1 month
 【参考答案】 E
 
 176. After the sutures were removed from the wound 1 week after a surgical operation, the site became disfigured by a prominent raised, nodular scar that continued to develop over the following 2 months. Which of the following terms best describes the process that occurred during this 2-month period?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-5.jpg)
 A. Secondary union
 B. Keloid formation
 C. Resolution
@@ -1419,7 +1419,7 @@ E. Hyaluronic acid
 【参考答案】 D
 
 178. A middle-aged man experienced sudden death preceeded by severe abdominal pain with hypotension and shock. From the gross appearance of the mesentery, seen in the figure, which of the following events has most likely occurred?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-4.jpg)
 A. Acute pancreatitis
 B. Small intestinal perforation
 C. Tuberculous peritonitis (结核性腹膜炎)
@@ -1428,7 +1428,7 @@ E. Hepatitis B virus infection
 【参考答案】 A
 
 179. Which of the following substances is most likely responsible for the interaction between the cytoskeleton and the extracellular matrix in a wound healing experiment?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-4.jpg)
 A. Type IV collagen
 B. Fibronectin
 C. Epidermal growth factor
@@ -1597,7 +1597,7 @@ E. Procalcitonin
 【参考答案】 A
 
 200. At autopsy of an old woman who died from congestive heart failure, the heart weighed 620 g and showed marked left ventricular hypertrophy and severe coronary arterial atherosclerosis. Which of the following pathologic processes best accounts for the appearance of the aortic valve seen in the figure?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-1.jpg)
 A. Fatty change
 B. Amyloidosis
 C. Lipofuscin deposition
@@ -1606,7 +1606,7 @@ E. Dystrophic calcification
 【参考答案】 E
 
 201. Histologic sections of lung tissue from a 68-year-old woman with congestive heart failure and progressive breathing problems reveal numerous hemosiderin-laden cells within the alveoli. Which of the following is the cell of origin of these "heart failure cells"?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-1.jpg)
 A. Endothelial cells
 B. Eosinophils
 C. Lymphocytes
@@ -1751,7 +1751,7 @@ E. Hemosiderin
 【参考答案】 B
 
 219. A patient undergoes bone marrow transplantation for leukemia and receives partially mismatched donor marrow. One month later, she has a scaling skin rash. Examination of a skin biopsy specimen reveals the cellular change shown in the figure. This change most likely results from which of the following biochemical reactions?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-3.jpg)
 A. Increase in glycolysis
 B. Lipid peroxidation
 C. Activation of caspases
@@ -1760,7 +1760,7 @@ E. Reduction of ATP synthesis
 【参考答案】 C
 
 220. The microscopic appearance of an enlarged liver with a yellow cut surface is shown in the preceding figure. Before death, the man's total serum cholesterol and triglyceride levels were normal, but he had a decreased serum albumin concentration and increased prothrombin time (凝血酶原时间). Which of the following activities or conditions most likely led to these findings?
-![题目配图](https://course.huh.moe/data/bl/images/1-chap1-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/1-chap1-3.jpg)
 A. Suffering tumor
 B. Playing basketball
 C. Drinking beer
@@ -3289,7 +3289,7 @@ E. Renal vein
 【参考答案】 A
 
 411. A 65-year-old man had rheumatic heart disease 20 years ago. He presents to the emergency room complaining of breathlessness for the past three days. He woke at 3 am feeling short of breath and had to sleep in his recliner for the rest of night. On physical examination, he has swelling in his feet and ankles, distended neck veins with visible cannon waves and his liver is palpable three centimeters below the right costal margin. Based on the gross appearance of the liver seen in the figure, which of the following underling conditions is most likely to be present?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-1.jpg)
 A. Inferior vena cava obstruction
 B. Chronic renal failure
 C. Pulmonary infection
@@ -3298,7 +3298,7 @@ E. Cirrhotic portal hypertension
 【参考答案】 D
 
 412. Thrombi of large deep veins of arms may cause emboli in:
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-1.jpg)
 A. Coronary artery
 B. Mesenteric artery
 C. Pulmonary artery
@@ -3531,7 +3531,7 @@ E. Hyaline membranes line the alveolar spaces
 【参考答案】 E
 
 441. A coronary artery is shown from the autopsy of a 61-year-old patient who had acute chest pain and difficulty breathing. What is most likely to have resulted from the pathologic findings in this artery?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-2.jpg)
 A. Caseous necrosis
 B. Coagulative necrosis
 C. Apoptosis
@@ -3540,7 +3540,7 @@ E. Liquefactive necrosis
 【参考答案】 B
 
 442. When going upstairs, a 60-year-old man had severe crushing chest pain, which lasted about 45 minutes and was not relieved by nitroglycerine. A coronary angiogram revealed 75% stenosis of the left anterior descending artery. Despite aggressive resuscitative measures, his condition deteriorated and he died. Which of the following microscopic findings is most likely to be present in his left ventricular myocardium at the time of death?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-2.jpg)
 A. Extensive collagen deposition and abundant capillaries
 B. Necrosis with neutrophils and macrophages
 C. Edema and loss of cross striation
@@ -3581,7 +3581,7 @@ E. Bronchial carcinoid
 【参考答案】 B
 
 447. This is the gross appearance of a heart from autopsy of a 49-year-old man who had experienced worsening orthopnea for several months. He became dyspneic with exercise, but had no chest pain or peripheral edema. Which of the following underlying conditions do you most strongly suspect？
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-3.jpg)
 A. Dilated cardiomyopathy
 B. Viral myocarditis
 C. Rheumatic heart disease
@@ -3590,7 +3590,7 @@ E. Coronary thrombosis
 【参考答案】 D
 
 448. A 16-year-old female presented to the emergency department, following a pedestrian vehicular accident. X-ray imaging revealed multiple fractures including the right lower leg and pelvis. After treatment her condition was stable. However, approximately 2 days after initial presentation, she became tachypnea and confused, and then died. This microscopic appearance was found at autopsy. Which of the followings in the most likely explanation?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-3.jpg)
 A. Bronchopneumonia
 B. Fat embolism
 C. Metastatic carcinoma
@@ -4975,7 +4975,7 @@ E. Chronic inflammation
 【参考答案】 C
 
 621. A 48-year-old man has experienced midabdominal pain for several weeks. He is afebrile. There is mild upper abdominal tenderness on palpation, and bowel sounds are present. Stool is positive for occult blood. An upper gastrointestinal endoscopy is performed and biopsies are taken. Microscopic examination of a biopsy specimen of a duodenal lesion is shown. Which of the following terms best describes this lesion?
-![题目配图](https://course.huh.moe/data/bl/images/3-chap3-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/3-chap3-1.jpg)
 A. Abscess
 B. Caseating granuloma
 C. Chronic inflammation
@@ -4984,7 +4984,7 @@ E. Ulceration
 【参考答案】 E
 
 622. One month after an appendectomy, a 34-year-old man palpates a small nodule beneath the skin at the site of the healed right lower quadrant incision. The nodule is excised, and microscopic examination shows macrophages, collagen, a few small lymphocytes, and multinucleated giant cells. Polarizable, refractile material is seen in the nodule. Which of the following complications of the surgery best accounts for these findings?
-![题目配图](https://course.huh.moe/data/bl/images/3-chap3-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/3-chap3-1.jpg)
 A. Chronic inflammation
 B. Abscess formation
 C. Edema
@@ -6617,7 +6617,7 @@ E. Fibrosarcoma
 【参考答案】 B
 
 826. A 72-year-old female has been feeling fatigued for weeks. She has had a 10 kg weight loss in the past couple of months. She has some nausea, but no vomiting, hemoptysis, or hematemesis. She does not have a cough. She is afebrile. The most likely explanation for these findings, from the gross appearance of the liver seen here, is the presence of:
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-1.jpg)
 A. Hepatic adenomas
 B. Metastatic adenocarcinoma
 C. Hepatocellular carcinoma
@@ -6626,7 +6626,7 @@ E. Micronodular cirrhosis
 【参考答案】 B
 
 827. Which one of the following statements is most appropriate for the lesion shown here?
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-1.jpg)
 A. This tumor is always well-differentiated
 B. The growth pattern for the tumor is local invasion
 C. Metastasis may be exist when the tumor is identified
@@ -6635,7 +6635,7 @@ E. None of above
 【参考答案】 C
 
 828. A 40-year-old female has noted some intermenstrual blooding and felt pelvic discomfort. A pelvic examination is performed and the cervical lesion seen here is found and a hysterectomy performed. Which one of the following statements is most appropriate based on the appearance of this lesion?
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-3.jpg)
 A. This lesion is the result of smoking
 B. This is a benign lesion that will not recur
 C. This is a malignant lesion that will be lethal
@@ -6644,7 +6644,7 @@ E. Syphilis is the main cause of the lesion
 【参考答案】 C
 
 829. A 68-year-old male is found to have occult blood in the stool on physicial examination. A colonoscopy is performed, and the lesion seen here was found and resected. Which of the following statements is most appropriate for this patient?
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-3.jpg)
 A. His children have a high risk for a similar lesion
 B. This is a benign lesion that will not recur
 C. This lesion is the result of smoking
@@ -8597,7 +8597,7 @@ E. Increased preload caused by diastolic dysfunction of his heart
 【参考答案】 D
 
 1073. A 55-year-old woman was being evaluated for shortness of breath, ankle edema, and mild hepatomegaly in the hospital. She died 1 week later after admission. The gross appearance of the liver at autopsy is shown. Which of the following abnormalities is most likely present?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-1.jpg)
 A. Right heart failure
 B. Splenic infarction
 C. Atherosclerosis of descending aorta
@@ -8606,7 +8606,7 @@ E. A pulmonary saddle embolus
 【参考答案】 A
 
 1074. A 65-year-old man was found to have a 5-cm pulsatile mass in his abdomen during a routine physical examination. Angiography reveals a marked dilation in his aorta distal to the renal arteries. Which of the following is the most likely cause of this aneurysm?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-1.jpg)
 A. A congenital defect
 B. Hypertension
 C. Trauma
@@ -8655,7 +8655,7 @@ E. Amyloid change
 【参考答案】 B
 
 1080. A 60-year-old woman has reported increasing fatigue over the past year. Laboratory studies show a serum creatinine level of 4.7 mg/dL（normal values: male: 0.6-1.2 mg/dl, female: 0.5-1.1 mg/dl） and urea nitrogen level of 44 mg/dL (normal value: adult: 9-20 mg/dl, child: 5-18 mg/dl). An abdominal ultrasound scan shows that her kidneys are symmetrically shrunken and granular. The high-magnification microscopic appearance of the kidneys is shown. These findings are most likely to indicate which of the following underlying conditions?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-2.jpg)
 A. Benign hypertension
 B. Hypercholesterolemia
 C. Malignant hypertension
@@ -8664,7 +8664,7 @@ E. Rheumatic arteritis
 【参考答案】 A
 
 1081. A 60-year-old man has experienced chest pain at rest for the past year. The figure shows the microscopic appearance representative of the patient's left anterior descending artery. Which of the following sets of histologic features is most likely to be found in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-2.jpg)
 A. A core of foam cells covered by a cap of smooth muscle cells
 B. Collection of foam cells, necrotic areas, cholesterol clefts and calcification
 C. A lipid core, granulation tissue
@@ -8737,7 +8737,7 @@ E. Elevated cholesterol level
 【参考答案】 D
 
 1090. A 37-year-old woman dies suddenly at home. External examination of the body shows no evidence of trauma. The microscopic appearance of the proximal left anterior descending artery at autopsy is shown. Which of the following conditions is most likely to be the underlying cause of death?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-5.jpg)
 A. Marfan syndrome
 B. Rheumatic arteritis
 C. Diabetes mellitus
@@ -8746,7 +8746,7 @@ E. Advanced breast carcinoma with widespread metastases
 【参考答案】 C
 
 1091. A 33-year-old man died suddenly after a week-long illness. He experienced chest pain and then became increasingly dyspneic and nauseated and lost consciousness multiple times. External examination shows no evidence of trauma. The body height is 166 cm and he weighs 75 kg. This figure which shows the gross appearance of the chest cavity at autopsy with the pericardial sac opened, is most consistent with which of the following underlying causes of death?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-5.jpg)
 A. Dilated cardiomyopathy
 B. Transmural myocardial infarction
 C. Disseminated tuberculosis
@@ -8779,7 +8779,7 @@ E. Down syndrome
 【参考答案】 B
 
 1095. A 55-year-old man experienced chest pain with exertion 3 years ago, and an angiogram showed 75% occlusion of his left anterior descending artery. He was prescribed long acting nitrates and beta blockers, and he remained asymptomatic until the past week. He experienced sudden cardiac arrest when he was admitted to hospital yesterday. Which of the following laboratory findings is most characteristic of the disease affecting this patient?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-7.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-7.jpg)
 A. High double-stranded DNA autoantibody titer
 B. Positive ANCA determination
 C. Increased creatine kinase-MB fraction (CK-MB)
@@ -8788,7 +8788,7 @@ E. Elevated renin level
 【参考答案】 C
 
 1096. A 50-year-old man has had increasing dyspnea for the past 2 days. He experiences sudden cardiac arrest and cannot be resuscitated. The light microscopic appearance of the left ventricular free wall at autopsy is shown above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-7.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-7.jpg)
 A. Viral myocarditis
 B. Acute rheumatic myocarditis
 C. Myocardial infarction
@@ -8813,7 +8813,7 @@ E. ECHO virus infection
 【参考答案】 B
 
 1099. A 28-year-old man was found dead at home. An external examination by the medical examiner showed splinter hemorrhages under the fingernails and no signs of trauma. The gross appearance of the heart at autopsy is shown. Which of the following conditions is most likely to have been the cause of his death?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-8.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-8.jpg)
 A. Acute infective endocarditis
 B. Acute rhematic heart disease
 C. Acute myocardial infarction
@@ -8822,7 +8822,7 @@ E. Viral myocarditis
 【参考答案】 A
 
 1100. A 65-year-old man with a history of diabetes mellitus had chest pain and an elevated ST level 1 year ago. He was treated in the hospital with antiarrhythmic agents for 1 week. An echocardiogram showed an ejection fraction of 28%. He now has markedly reduced exercise tolerance. Diffuse crackles are heard on auscultation of the lungs. The representative gross appearance of the heart is shown in the following figure. Which of the following complications of this disease is the patient most likely to develop?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-9.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-9.jpg)
 A. Infective endocarditis
 B. Chronic valvular disease of the heart
 C. Hypertrophic cardiomyopathy
@@ -8831,7 +8831,7 @@ E. Systemic thromboembolism
 【参考答案】 E
 
 1101. A 16-year-old girl died suddenly when she just finished a running. She had been healthy all her life and complained only of limited episodes of chest pain in games during the current schoo1 year. Which of the following pathologic findings of the heart is the medical examiner most likely to find?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-9.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-9.jpg)
 A. Large, friable vegetations with destruction of aortic valve cusps
 B. Thickening of the endocardium with white color change
 C. Mitral valvular stenosis with left atrial enlargement
@@ -12264,7 +12264,7 @@ E. None of above
 【参考答案】 A
 
 1530. A 72-year-old woman notes increasing jaundice and nausea for the past month. She reports 10 Kg weight loss during the past 5 months. On physical examination she is afebrile, but scleral icterus is present. There is no abdominal pain on palpation. She has active bowel sounds. A stool sample tested for occult blood is negative. Laboratory tests reveal normal levels of total protein and albumin, and increased levels of serum alkaline phosphatase, AST, ALT, total bilirubin, and direct bilirubin. Her serum level of CA19-9 antigen is also increased. Which of the following conditions is she most likely to have?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-02.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-02.jpg)
 A. Carcinoma of the head of the pancreas
 B. Chronic pancreatits
 C. Chronic hepatitis D
@@ -12273,7 +12273,7 @@ E. Colorectal carcinoma metastasizes to the liver
 【参考答案】 A
 
 1531. A 50 year-old woman comes to her physician because of colicky right upper quadrant pain for the past week. She has nausea, but no vomiting or diarrhea. On physical examination, she is afebrile. There is marked tenderness in the right upper quadrant. The liver span is normal. An abdominal ultrasound scan shows calculi within the lumen of the gallbladder, and the gallbladder wall appears thickened. The patient's gallbladder is removed by laparoscopic cholecystectomy and has the appearance shown above. Which of the following mechanisms is most likely to have played a role in development of this disease?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-02.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-02.jpg)
 A. Ascaris lumbricoides within bile ducts
 B. Bile supersaturated with cholesterol
 C. Active gallbladder motility
@@ -12282,7 +12282,7 @@ E. Ingestion of foods rich in fat
 【参考答案】 B
 
 1532. A 45-year-old man sees his physician because he has had nausea and colicky right upper quadrant pain for the past 2 days. On physical examination, his temperature is 38.7°C. No scleral icterus or generalized jaundice is noted. Laboratory studies show a WBC count of 10.5 × 10^9/L with 75% segmented neutrophils, 8% bands, 10% lymphocytes, and 7% monocytes. Serum levels of AST and ALT are within normal limits. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-03.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-03.jpg)
 A. Acute HAV infection
 B. Acute appendicitis
 C. Acute pancreatitis
@@ -12291,7 +12291,7 @@ E. Acute perforation of a peptic ulcer
 【参考答案】 D
 
 1533. A 44-year-old farmer from south China presents with right upper quadrant abdominal pain and is found to have ascites. CT scan reveals a nodular liver. Laboratory tests reveal increased levels of AST and ALT together with decreased levels of albumin and total protein. A liver biopsy is performed and findings are as shown above. Which of the follow-ing is the most likely cause of his disease?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-03.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-03.jpg)
 A. Mycobacterium tuberculosis
 B. Amebic protozoa
 C. Hydatid worm
@@ -12348,7 +12348,7 @@ E. Cholelithiasis
 【参考答案】 B
 
 1540. A 45-year-old woman from south China experienced increasing malaise and 10 kg weight loss in the last year of her life. She became increasingly obtunded, lapsed into a coma, and died. At autopsy, the liver has the gross appearance shown above. Ingestion of which of the following is most likely to have played a role in the development of this condition?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-04.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-04.jpg)
 A. Not fully cooked river-snail
 B. Mildewed peanuts
 C. Contraceptive agent
@@ -12357,7 +12357,7 @@ E. Nitrites
 【参考答案】 B
 
 1541. A 51-year-old man has had increasing malaise and swelling of the lower legs for the past 4 months. On physical examination, he is afebrile and normotensive. There is pitting edema to the knees. The abdomen is slightly distended with a fluid wave, but there is no tenderness. The liver span is increased. Laboratory studies show decreased levels of total serum protein and albumin, increased serum levels of AST, ALT, and total bilirubin. A liver biopsy is performed, and the microscopic appearance of a trichrome stained specimen is shown above. Which of the following is most likely to have caused this illness?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-04.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-04.jpg)
 A. HAV infection
 B. HBV infection
 C. HCV infection
@@ -12470,7 +12470,7 @@ E. Anti-HDV
 【参考答案】 A
 
 1555. A 56-year-old man from Henan province has experienced fatigue and a 15-kg weight loss over the past 5 months. Physical examination yields no remarkable findings. Laboratory test results are positive for HBsAg and negative for anti-HCV and anti-HAV and there is an increased level of serum alpha fetoprotein. An abdominal CT scan shows a 10-cm solid mass in the left lobe of the liver which is nodular. A liver biopsy of the lesion is performed and shown above. Which of the following is not true for this patient?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-06.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-06.jpg)
 A. The mass is a primary hepatocellular carcinoma
 B. The mass developed in the setting of cirrhosis
 C. High fat diet is an accelator for the development of this mass
@@ -12479,7 +12479,7 @@ E. The prognosis is very poor
 【参考答案】 C
 
 1556. To your knowledge, for patients known to be infected with various forms of infectious hepatitis, which of the following is the best predictor for the development of chronic liver disease and progression to cirrhosis?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-06.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-06.jpg)
 A. Type of the infected hepatitis virus
 B. Degree of transaminase enzymes are increased
 C. Length of time that transaminase enzymes remain elevated
@@ -12512,7 +12512,7 @@ E. Carcinoid tumor
 【参考答案】 C
 
 1560. A 20-year-old woman has had nausea and vague epigastric abdominal pain for the past 24 hours, but now the pain has become more severe and localized to right lower abdomen. On physical examination, her temperature is 38.5°C. There is haphalgesia and rebound tenderness in the right lower quadrant. A stool sample is negative for occult blood. Abdominal plain film radiographs show no free air. The result of a serum pregnancy test is negative. Which of the following laboratory findings is most likely present in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-07.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-07.jpg)
 A. Hyperamylasemia
 B. Increased serum carcinoembryonic antigen
 C. Positive urea breath test
@@ -12521,7 +12521,7 @@ E. Clostridium difficile toxin in stool sample
 【参考答案】 D
 
 1561. A 53-year-old woman has been feeling increasingly tired for 3 months. She has had vague abdomimal pain for the past month. On physical examination, her stool is positive for occult blood. Abnormal laboratory findings include an elevated CEA level. Colonoscopy is performed and biopsy is taken from a 4 cm ulcerative mass in the cecum. The microscopic features are shown above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-07.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-07.jpg)
 A. Mucinous carcinoma
 B. Signet ring cell carcinoma
 C. Medullary carcinoma
@@ -12546,7 +12546,7 @@ E. None of above
 【参考答案】 B
 
 1564. A 70-year-old man sees his physician for change in bowel habits. On physical examination, there are no remarkable findings. A colonoscopy is performed and shows a 5-cm sessile mass in the upper portion of the descending colon. The histologic examination of a biopsy specimen from the lesion confirms it is a benign neoplasm with villiform structure and moderate to severe epithelial dysplasia. The patient refuses further workup and treatment. Five years later, he is see in the emergency room because of intestinal obstruction. On surgical exploration, there is a 7 cm mass encircling the descending colon and multiple enlarged lymph nodes are detected in the mesentery. Which of the following neoplasms is he now most likely to have?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-08.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-08.jpg)
 A. Villous adenoma
 B. Squamous cell carcinoma
 C. Adenocarcinoma
@@ -12555,7 +12555,7 @@ E. Carcinoid tumor
 【参考答案】 C
 
 1565. A 19-year-old man is advised to see his physician because genetic screening has detected a disease in other family members. On physical examination, a stool sample is positive for occult blood. A colonoscopy is performed, followed by a colectomy. The gross appearance of the mucosal surface of the colectomy specimen is shown above. Which of the following genetic changes is the patient most likely to have?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-08.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-08.jpg)
 A. Germ-line mutation of APC gene
 B. p53 gene mutation
 C. K-RAS gene mutation
@@ -12572,7 +12572,7 @@ E. Germ-line transmission of a defective APC gene
 【参考答案】 B
 
 1567. A 55-year-old man has a routine health maintenance examination. Physical examination is unremarkable except that the stool sample is positive for occult blood. Colonoscopy is performed and a 1.5 cm pedunculated polyp with erosion is noted in the sigmoid colon. Microscopic examination reveals a tubulovillous adenoma. Which of the following is not true?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-10.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-10.jpg)
 A. This is a precurosor lesion of colon cancer
 B. High fat diet is a risk factor
 C. Polypectomy is adequate
@@ -12581,7 +12581,7 @@ E. It is more common in the left-side colon than that in right-side colon
 【参考答案】 D
 
 1568. A 20-year-old man is healthy but has a family history of colon cancer at a young age. There are no abnormal physical examination findings. He undergoes colonoscopy and there are countless polyps ranging in size from 0.2 to 1 cm. A representative microscopic picture of these polyps is shown above. Which of the following diseases is he most likely to have?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-10.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-10.jpg)
 A. Familial adenomatous polyposis
 B. Hereditary non-polyposis colon carcinoma syndrome
 C. Carcinoid syndrome
@@ -12606,7 +12606,7 @@ E. Crohn's disease
 【参考答案】 C
 
 1571. A 45-year-old man has had recurrent low volume, bloody, mucoid diarrhea for 13 years accompanied by lower abdominal pain. Physical examination only reveals mild diffuse lower abdominal tenderness but no masses. His stool is positive for occult blood. Colonoscopy reveals erythematous, friable colonic mucosa extending from the rectum to the splenic flexure with formation of pseudopolyps. Colonic biopsies reveal mucosal ulceration with crypt abscesses and low grade dysplasia. Which of the following complications is he most likely to develop?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-11.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-11.jpg)
 A. Bowel perforation and peritonitis
 B. Perirectal fistula formation
 C. Ischemic bowel necrosis
@@ -12615,7 +12615,7 @@ E. Colonic adenocarcinoma
 【参考答案】 E
 
 1572. A 62-year-old man comes to his physician because of rectal bleeding. No other symptoms are present. Physical examination is unremarkable. Laboratory tests show an elevated CEA level. Colonoscopy is performed and there is a 3 cm ulcerative mass which occupies up to 3/4 of the colonic wall. The mass is resected and the gross findings are as shown above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-11.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-11.jpg)
 A. Hyperplastic polyp
 B. Tubular adenoma
 C. Villous adenoma
@@ -12648,7 +12648,7 @@ E. Amebiasis
 【参考答案】 C
 
 1576. A 31-year-old man presents with a history of intermittent bloody diarrhea for 3 years. On physical examination, there is no abdominal tenderness or masses. Laboratory studies show no ova or parasites in the stool but it is positive for occult blood. Colonoscopy shows friable, erythematous mucosa with numerous polypoid lesions extending from the rectum to the mid-transverse colon. A biopsy specimen shows acute mucosal inflammation with crypt abscesses and epithelial cell necrosis. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-12.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-12.jpg)
 A. Ulcerative colitis with pseudopolyps
 B. Crohn disease with pseudopolyps
 C. Familial adenomatous polyposis
@@ -12657,7 +12657,7 @@ E. Ischemic colitis
 【参考答案】 A
 
 1577. A 25-year-old woman has had bloody, mucoid, low-volume diarrhea for the past 7 weeks. She has 5-7 stools per day. She has no other major medical problems. On physical examination there are no lesions palpable on digital rectal examination, and only mucus and blood with few leukocytes are found. Colonoscopy reveals a friable, erythematous mucosa with focal ulceration that extends from the rectum to the sigmoid colon. Biopsies are taken and a representative photo is shown above. Which of the following histologic terms should be used to describe the morphologic changes highlighted by the stars?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-12.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-12.jpg)
 A. Pseudomembrane
 B. Crypt abscess
 C. Noncaseating granuloma
@@ -12674,7 +12674,7 @@ E. Ischemic colitis
 【参考答案】 E
 
 1579. A 50-year-old woman was treated in the hospital for servere bronchopneumonia. She required multiple antibiotics and was intubated and mechanically ventilated. Three weeks after hospitalization, she has abdominal distention. Bowel sounds are absent, and an abdominal radiograph shows dilated loops of small bowel suggestive of ileus. She has a low volume of bloody stool. At laparotomy, a portion of distal ileum and the cecum are resected. The gross appearance of the mucosal surface is shown in the figure above. Which of the following is the most likely cause of her diarrhea?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-13.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-13.jpg)
 A. Ischemia
 B. Entamoeba histolytica
 C. Salmonella enteritidis
@@ -12683,7 +12683,7 @@ E. Dysentery bacterium
 【参考答案】 D
 
 1580. A 67-year-old woman sees her physician because she has had fever and back pain for the past 2 days. Physical examination reveals tenderness at the right costovertebral angle. Laboratory studies show leukocytosis and pyuria with WBC casts. She has been receiving broad spectrum antibiotics for the past 14 days. She now develops lower abdominal pain and a severe diarrhea. Clostridium difficile toxin is identified in a stool specimen. Which of the following conditions does she most likely have now?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-13.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-13.jpg)
 A. Appendicitis
 B. Ischemic colitis
 C. Pseudomembranous enteritis
@@ -12772,7 +12772,7 @@ E. Pancreas
 【参考答案】 A
 
 1591. A 55-year-old man has experienced severe epigastric pain, vomiting, and a 10-kg weight loss over the past 3 months. Physical examination reveals fixed left supraclavicular lymphadenopathy. Upper gastrointestinal endoscopy is done and confirms the present of a moderately differentiated adenocarcinoma. A palliative operation is performed to relieve his symptoms. A 6-cm ulcerative mass is located in the gastric antrum. The tumor has penetrated through the gastric wall is adherent to the transverse colon. The liver appears normal. There are numerous small white nodules on the serosal surface of intestine, spleen and peritoneum. Which of the following conditions may not have occurred in this patient's tumor?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-14.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-14.jpg)
 A. Local invasion
 B. Lymphatic spread
 C. Hematgenous spread
@@ -12781,7 +12781,7 @@ E. Perforation
 【参考答案】 C
 
 1592. A 60-year-old man has experienced severe nausea, vomiting, and a 5 kg weight loss over the past 3 months. Physical examination is unremarkable. Upper gastrointestinal endoscopy is done followed by partial gastrectomy. The gross picture of the tumor is shown above. Which of the following gross types does this tumor belong to?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-14.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-14.jpg)
 A. Polypoid type
 B. Fungating type
 C. Ulcerative type
@@ -12822,7 +12822,7 @@ E. A diet rich in Vitamin C
 【参考答案】 D
 
 1597. A 62-year-old woman has had nausea, vomiting, and mid-epigastric pain for 6 months. On physical examination, there are no significant findings. An upper gastrointestinal radiographic series shows gastric outlet obstruction. Upper gastrointestinal endoscopy shows a huge ulcerated mass at the antrum. The resection specimen is shown as above. Which of the following neoplasms is most likely to be seen under microscope?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-15.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-15.jpg)
 A. Adenocarcinoma
 B. Gastrointestinal stromal tumor
 C. Squamous cell carcinoma
@@ -12831,7 +12831,7 @@ E. Leiomyosarcoma
 【参考答案】 A
 
 1598. A 55-year-old man has had persistent nausea for 5 years with occasional vomiting. On physical examination there are no abnormal findings. He undergoes an upper GI endoscopy, and a small area of gastric mucosa is noted in the fundus which shows loss of rugal folds. Partial gastrectomy reveals the microscopic change shown above and the lesion is confined to submucosa. An upper GI endoscopy performed 5 years previously showed a pattern of gastritis and microscopically there was chronic inflammation with the presence of Helicobacter pylori. Which of the following interpretations is most applicable to his neoplasm?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-15.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-15.jpg)
 A. Metastases are limited to regional lymph nodes
 B. The incidence is high in East Asia
 C. The 5-year survival rate following resection is <80%
@@ -12888,7 +12888,7 @@ E. Elevated serum gastrin
 【参考答案】 D
 
 1605. A 42-year-old woman has had nausea and epigastirc pain for the past two years. She has been feeling increasingly tired in the recent 6 months. Physical examination is unremarkable. Laboratory studies show a hemoglobin of 9.2 g/dL, hematocrit 28.5%, MCV 122 μm^3, platelet count 247,000/mm^3, and WBC count 5500/mm^3. The reticulocyte index is low. Upper GI endoscopy is performed and multiple biopsies are taken. Microscopic examination shows chronic atrophic gastritis in some of the biopsy specimens and silver stains do not show any positive organisms. The biopsies that show atrophic gastritis are most likely taken from which portion of the stomach?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-17.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-17.jpg)
 A. Pylorus
 B. Antrum
 C. Body
@@ -12897,7 +12897,7 @@ E. Gastroesophageal junction
 【参考答案】 C
 
 1606. A middle aged man complains for 2 month of gastric distention and vague pain. He has a history of acute gastritis and had a positive urea breath test 4 years ago. His physician suggested he have a course of antibiotic treatment but he did not do so. Physical examination is unremarkable. Upper GI endoscopy shows the antral mucosa is pale，thin and interspersed with erythema. No ulceration or mass is present. A biopsy is taken and a tissue section with a special stain is shown above. Which of the following is correct?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-17.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-17.jpg)
 A. It is a silver stain
 B. The purple stain represents intestinal mucin
 C. The blue stain represents neutral mucin
@@ -12930,7 +12930,7 @@ E. Pernicious anemia
 【参考答案】 E
 
 1610. A 65-year-old woman takes large quantities of Aspirin because of chronic arthritis. Recently, she has had epigastric pain with nausea and vomiting and an episode of hematemesis. There are no remarkable findings on physical examination. A gastric biopsy specimen is most likely to show which of the following lesions?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-18.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-18.jpg)
 A. Epithelial dysplasia
 B. Acute gastritis
 C. Atrophic gastritis
@@ -12939,7 +12939,7 @@ E. Hypertrophic gastritis
 【参考答案】 B
 
 1611. A 45-year-old woman has had nausea and vomiting for several months. On physical examination, there is no abdominal tenderness, and bowel sounds are present. Upper gastrointestinal endoscopy shows erythematous areas of mucosa with thickening of the rugal folds in the gastric antrum. The microscopic appearance of a gastric biopsy specimen with a Steiner silver stain is shown in the preceding figure. Which of the following organisms is most likely to be present on the luminal surface?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-18.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-18.jpg)
 A. Clostridiun difficile
 B. Herpes simplex
 C. Staphylococcus aureus
@@ -12964,7 +12964,7 @@ E. None of above
 【参考答案】 D
 
 1614. A 53-year-old male presents with increasing dysphagia and retrosternal pain. He has also noticed a 7-kg weight loss over the past 3 months. On physical examination, there are no remarkable findings. Upper gastrointestinal endoscopy reveals a 4 cm length of narrowing of the mid-esophagus lined by coarse mucosa. Esophagectomy is performed and microscopic examination confirms the presence of an advanced stage carcinoma. Which of the following appropriately describes the gross appearance of this carcinoma?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-19.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-19.jpg)
 A. Polypoid pattern
 B. Fungating pattern
 C. Ulcerative pattern
@@ -12973,7 +12973,7 @@ E. Depressed pattern
 【参考答案】 D
 
 1615. A 55-year-old man has had dysphagia for 6 months. On physical examination there are no abnormal findings. He undergoes an upper GI endoscopy, and a small shallow ulcer is noted in the middle portion of the esophagus. Biopsies from this area show a moderately differentiated squamous cell carcinoma. Esophagectomy is performed. The microscopic changes are as shown above and no metastases are found. Which of the following interpretations is most applicable to his neoplasm?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-19.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-19.jpg)
 A. It has a high potential to metastasize to the liver
 B. The incidence is high in Western countries
 C. The 5-year survival following resection is > 80%
@@ -12982,7 +12982,7 @@ E. Its precursor lesion is Barrett's esophagus
 【参考答案】 D
 
 1616. A 58-year-old man has had increasing difficulty swallowing for the past 6 months. He has lost 5 kg in the past 2 months. No abnormal physical examination findings are noted. Upper GI endoscopy reveals a nearly circumferential mass with overlying ulceration in the mid esophageal region. Biopsy of the mass reveals pink polygonal cells with marked hyperchromatism and pleomorphism. Which of the following is the most likely risk factor for development of his disease?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-21.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-21.jpg)
 A. Iron deficiency
 B. Reflux esophagitis
 C. Helicobacter pylori infection
@@ -12991,7 +12991,7 @@ E. Chronic alcoholism
 【参考答案】 E
 
 1617. A 50-year-old male farmer from Henan province presents with increasing dysphagia and has noticed a 6 kg weight loss over the past 2 months. His grandfather and father both died in their late 50's with similar symptoms. On physical examination, there are no remarkable findings. Upper gastrointestinal endoscopy shows a 4 cm ulcerative mass in the mid-esophagus that occupies 1/2 of the esophageal lumen. Esophagectomy is performed, and the gross appearance of the lesion is shown in the preceding figure. Which of the following is most likely to be seen on microscopic sections of this mass?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-21.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-21.jpg)
 A. Columnar epithelium with goblet cells
 B. Adenocarcinoma
 C. Dense collagenous scar
@@ -13008,7 +13008,7 @@ E. Malignant neoplasm which has neuroendocrine granules within the cytoplasm
 【参考答案】 A
 
 1619. A 49-year-old man has complained of "heartburn" after meals for the past decade. There are no remarkable findings on physical examination. Upper gastrointestinal endoscopy is performed, and a biopsy specimen is taken above the gastroesophageal junction. Microscopically, the mucosa shows columnar metaplasia with goblet cells. Which of the following description is not correct for this disease?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-22.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-22.jpg)
 A. It is caused by gastroesophageal reflux
 B. The diagnosis for this condition is Barrett's esophagus
 C. The morphologic changes referred to as squamous metaplasia
@@ -13017,7 +13017,7 @@ E. The patient is at risk for developing adenocarcinoma
 【参考答案】 C
 
 1620. A 49-year-old man has had progressive difficulty on swallowing during the past 6 months. No significant findings are observed on physical examination. Upper gastrointestinal endoscopy shows areas of velvety erythematous mucosa above the Z-line. A biopsy specimen from the lower esophagus has the microscopic appearance shown in the preceding figure. Which of the following is the most likely consequence of this disease?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-22.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-22.jpg)
 A. Esophageal stricture
 B. Adenocarcinoma
 C. Hematemesis
@@ -13034,7 +13034,7 @@ E. Adenocarcinoma
 【参考答案】 C
 
 1622. A 35-year-old woman has experienced "heartburn" and sour regurgitation following meals for the past 2 years. There are no abnormal findings on physical examination. Upper GI endoscopy is performed. There are 2 to 3 cm long tongues of erythematous mucosa extending from the gastroesophageal junction at the Z line upward into the lower esophagus. Biopsies of this region are performed and the microscopic pictures is shown above. Which of the following interpretations is most appropriate for this woman's findings?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-23.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-23.jpg)
 A. She has a congenital anomaly
 B. Her risk for squamous cell carcinoma is increased
 C. Her consumption of alcohol is high
@@ -13043,7 +13043,7 @@ E. Formation of a diverticulum may occur
 【参考答案】 D
 
 1623. A 28-year-old HIV positive woman has had pain on swallowing for the past week. No abnormal physical examination findings are noted. Upper GI endoscopy is performed. There are multiple small ulcers in the lower esophagus. Inclusions are found in the biopsies from these ulcers. She is most likely to have infection with which of the following organisms?
-![题目配图](https://course.huh.moe/data/bl/images/7-chap7-23.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/7-chap7-23.jpg)
 A. Helicobacter pylori
 B. Candida albicans
 C. Aspergillus
@@ -14428,7 +14428,7 @@ E. Rupture of the tubular basement membrane
 【参考答案】 E
 
 1796. A 50-year-old woman has had flank pain for the past 2 days. Physical examination shows bilateral costovertebral angle tenderness. Urinalysis shows 2+ hematuria, and no protein, glucose, or ketones. An abdominal ultrasound scan shows bilaterally enlarged kidneys that have been replaced completely by 0.5- to 0.3-cm cysts. Which of the following complication is most likely to develop in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-3.jpg)
 A. Hypertension
 B. Renal cell carcinoma
 C. Nephrotic syndrome
@@ -14437,7 +14437,7 @@ E. Renal infarction
 【参考答案】 A
 
 1797. A 77-year-old man has had increasing difficulties with urination for the past 2 years. He has difficulty starting and stopping the urine stream. On physical examination, his temperature is 37.0°C and blood pressure is 130/85 mmHg. The representative gross appearance of the bladder is shown. Which of the following laboratory findings is most likely to be reported in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-3.jpg)
 A. Positive ANA test result
 B. Urine culture positive for Mycobacterium tuberculosis
 C. Hemoglobin concentration 225 g/dL
@@ -14502,7 +14502,7 @@ E. WT-1 gene
 【参考答案】 E
 
 1805. A 58-year-old man presents with left-sided costovertebral pain and gross hematuria. A large mass is found in the upper pole of one of his kidneys, as seen in the picture. Which of the following histologic changes is most likely to be seen when examining microscopic sections from this mass?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-1.jpg)
 A. Groups and sheets of transitional epithelial cells
 B. Immature tubules and abortive glomerular formation
 C. Malignant undifferentiated mesenchymal cells
@@ -14511,7 +14511,7 @@ E. Uniform cells with clear cytoplasm containing glycogen and lipid
 【参考答案】 C
 
 1806. A 56-year-old man presents with severe headaches, nausea, and vomiting. He also relates seeing spots before his eyes and is found to have a diastolic blood pressure of 160 mmHg. Microscopic examination of a renal biopsy demonstrates hyperplastic arteriolitis. Gross examination of his kidneys is most likely to reveal which one of the following changes?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. A finely granular appearance on the surface
 B. Multiple small petechial hemorrhages on the surface
 C. Diffuse, irregular cortical scars overlying dilated calyces
@@ -14520,7 +14520,7 @@ E. Depressed cortical areas overlying necrotic papillae of varying stages
 【参考答案】 B
 
 1807. A 67-year-old woman presents with signs of slowly progressive renal failure. Physical examination reveals mild hypertension, while laboratory tests find increased serum creatinine and BUN with mild proteinuria. A few scat-tered neutrophils and rare bacteria are seen microscopically in her urine. Grossly both of her kidneys are small and irregular with dilation of the renal pelvis and clubbing of the calyces, and these changes are similar in appearance to those seen in the picture below. Histologic sections from her kidneys reveal chronic inflammation of the interstitium. Which one of the following additional microscopic findings should be present in these histologic sections?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. The renal papillae should have numerous activated macrophages
 B. The tubules should be dilated and filled with colloid casts
 C. The afferent and efferent arterioles should demonstrate fibroelastic hyperplasia
@@ -14705,7 +14705,7 @@ E. Squamous cell carcinoma in situ
 【参考答案】 D
 
 1830. The kidney shown in the photomicrograph below exhibits a tumor that originated in the upper pole. Histologic sections from this lesion would most likely reveal which of the following carcinomas?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-1.jpg)
 A. Squamous cell carcinoma
 B. Small cell carcinoma
 C. Signet cell carcinoma
@@ -14714,7 +14714,7 @@ E. Transitional cell carcinoma
 【参考答案】 D
 
 1831. What is the most likely cause of the combination of generalized edema, hypoalbuminemia, hypercholesterolemia, marked proteinuria, with fatty casts and oval fat bodies in the urine?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-1.jpg)
 A. Acute renal failure
 B. Nephrotic syndrome
 C. Nephritic syndrome
@@ -14763,7 +14763,7 @@ E. Granular deposits of antibodies in the glomerular basement membrane
 【参考答案】 E
 
 1837. The gross appearance of the kidney shown below is most compatible with which of the following conditions?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. Chronic glomerulonephritis
 B. Acute glomerulonephritis
 C. Chronic pyelonephritis
@@ -14772,7 +14772,7 @@ E. Cystic renal dysplasia
 【参考答案】 C
 
 1838. Histologic sections of a kidney reveal patchy necrosis of epithelial cells of both the proximal and distal tubules with flattening of the epithelial cells, rupture of the basement membrane (tubulorrhexis), and marked interstitial edema. Acute inflammatory cells are not seen. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. Acute pyelonephritis
 B. Acute tubular necrosis
 C. Chronic pyelonephritis
@@ -16421,7 +16421,7 @@ E. 滋养层细胞增生
 【参考答案】 B
 
 2044. A 45-year-old woman has had a small amount of vaginal bleeding and a brownish, foul-smelling discharge for the past month. On pelvic examination, there is a 3-cm lesion on the ectocervix. Microscopic findings of this lesion are shown in the figure. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-1.jpg)
 A. Sertoli-Leydig cell tumor
 B. Mature cystic teratoma
 C. Adenocarcinoma
@@ -16430,7 +16430,7 @@ E. Granulosa cell tumor
 【参考答案】 C
 
 2045. A 35-year-old woman has had increasing abdominal enlargement for the past 6 months. On physical examination, there is abdominal distention with a fluid wave. A pelvic ultrasound scan shows bilateral cystic ovarian masses, 10 cm on the right and 7 cm on the left. The masses are surgically removed. On gross examination, the excised masses are unilocular cysts filled with clear fluid, and papillary projections extend into the central lumen of these cysts. Microscopic examination shows that the papillae are covered with atypical cuboidal cells that invade underlying stroma. Psammoma bodies are present. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-1.jpg)
 A. Sertoli-Leydig cell tumor
 B. Mature cystic teratoma
 C. Cystadenocarcinoma
@@ -16615,7 +16615,7 @@ E. Sertoli cell tumor
 【参考答案】 C
 
 2068. A 40-year-old woman has noticed progressive enlargement of the abdomen over the past 5 months. Physical examination shows no palpable masses, but a fluid wave is present. An abdominal ultrasound scan shows a 15-cm multilobular mass that involves the right adnexal region. The mass is surgically removed, and the gross features of the excised mass are shown above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-2.jpg)
 A. Immature teratoma
 B. Serous cystadenocarcinoma
 C. Granulosa cell tumor
@@ -16624,7 +16624,7 @@ E. Dysgerminoma
 【参考答案】 B
 
 2069. A 54-year-old woman has had weight loss accompanied by abdominal enlargement for the past 6 months. She is concerned because of a family history of ovarian carcinoma. On physical examination, there are no lesions of the cervix, and the uterus is normal in size, but there is a left adnexal mass. An abdominal ultrasound scan shows a l0-cm cystic mass in the left adnexal region, with scattered 1-cm peritoneal nodules. Cytologic studies of peritoneal fluid show malignant cells consistent with a cystadenocarcinoma. Which of the following mutated genes is most likely a factor in the development of this neoplasm?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-2.jpg)
 A. RAS
 B. BRCA1
 C. ERBB2 (HER2)
@@ -16705,7 +16705,7 @@ E. Papillary carcinoma
 【参考答案】 B
 
 2079. A 70-year-old man comes to his physician for a routine health examination. On palpation, his prostate is normal in size. However, laboratory studies show an elevated level of serum prostate-specific antigen (PSA). Which of the following histologic findings in a subsequent biopsy of the prostate is most likely to account for the patient's elevated PSA?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-3.jpg)
 A. Hyperplastic nodules of the stroma and glands lined by two layers of epithelium
 B. Poorly differentiated glands lined by a single layer of epithelium and packed back to back
 C. Foci of chronic inflammatory cells in the stroma and in normal-appearing glands
@@ -16714,7 +16714,7 @@ E. Multiple caseating granulomas
 【参考答案】 B
 
 2080. A healthy 52-year-old woman has had a feeling of pelvic heaviness for the past 11 months. There is no history of abnormal bleeding. Her physician palpates an enlarged nodular uterus on pelvic examination. Pelvic CT imaging shows multiple solid, uterine masses. A total abdominal hysterectomy is performed. Based on the gross appearance of the mass shown above, which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-3.jpg)
 A. Metastases
 B. Endometriosis
 C. Infiltrative leiomyosarcoma
@@ -16731,7 +16731,7 @@ E. Lipoma
 【参考答案】 C
 
 2082. A 32-year-old man has noticed an increased feeling of heaviness in his scrotum for the past 10 months. On physical examination, the left testis is three times the size of the right testis and is firm on palpation. An ultrasound scan shows a 6-cm solid mass within the body of the left testis. Laboratory studies include an elevated serum α-fetoprotein level. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-4.jpg)
 A. Yolk sac tumor
 B. Leydig cell tumor
 C. Seminoma
@@ -16740,7 +16740,7 @@ E. Embryonal carcinoma cells
 【参考答案】 A
 
 2083. A 31-year-old woman has had dull, constant, abdominal pain for 6 months. On physical examination, the only finding is a right adnexal mass. The right fallopian tube and ovary are surgically excised. The gross and histologic appearance of the ovary are shown in the figure above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-4.jpg)
 A. Mucinous cystadenoma
 B. Choriocarcinoma
 C. Dysgerminoma
@@ -16837,7 +16837,7 @@ E. Transitional zone
 【参考答案】 C
 
 2095. A 45-year-old woman has had menometrorrhagia for the past 3 months. On physical examination, there are no remarkable findings. The microscopic appearance of an endometrial biopsy specimen is shown in the photomicrograph above. Which of the following conditions is most likely to produce these findings?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-5.jpg)
 A. Ovarian mature cystic teratoma
 B. Chronic endometritis
 C. Failure of ovulation
@@ -16846,7 +16846,7 @@ E. Use of oral contraceptives
 【参考答案】 C
 
 2096. A 23-year-old woman presents with a rubbery, freely movable 2-cm mass in the upper outer quadrant of the left breast. Which of the following histologic features is most likely to be seen when examining a biopsy spec-imen from this mass?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-5.jpg)
 A. Large numbers of neutrophils
 B. Large numbers of plasma cells
 C. Duct ectasia with inspissation of breast secretions
@@ -17830,7 +17830,7 @@ E. This disease may disseminate to various sites
 【参考答案】 C
 
 2219. The histological findings shown here at high power microscopically were present in the nasal cavity. The patient is a 48-year-old male with low grade fever, night sweats, fatigue and weight loss. He has a medical history of chronic nasopharyngitis. Which of the following immunophenotypes is most likely?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-1.jpg)
 A. CD3-, CD20+, CD2+
 B. CD3+, CD56+, Granzyme B+, TIA-1+
 C. CD3+, CD30+, CD20-
@@ -17839,7 +17839,7 @@ E. CD3+, CD20+, CD68+
 【参考答案】 B
 
 2220. Which of the following diseases is a T-cell lymphoma?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-1.jpg)
 A. Letterer-Siwe disease
 B. Hand-Schuller-Christian disease
 C. Histiocytic sarcoma
@@ -17904,7 +17904,7 @@ E. Hodgkin lymphoma
 【参考答案】 D
 
 2228. This is the microscopic appearance of a neoplasm in the colon found on examination of a 40-year-old man who had abdominal distension for several months. This appearance is most suggestive of which diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-2.jpg)
 A. MALT lymphoma
 B. Diffuse large B-cell lymphoma
 C. Follicular lymphoma
@@ -17913,7 +17913,7 @@ E. Mantle cell lymphoma
 【参考答案】 B
 
 2229. Which of the following regarding follicular lymphoma in incorrect?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-2.jpg)
 A. Originates from marginal zone cells
 B. Usually has a nodal pattern
 C. It is an indolent neoplasm
@@ -17938,7 +17938,7 @@ E. None of above
 【参考答案】 E
 
 2232. A 35-year-old man who is a decorator, has had systematic lymphadenopathy for 6 months. He had a right cervical lymph node biopsy after there was no response to treatment with antibiotics. The histological findings are shown here. The cells express CD10, CD20 and BCL6. The most likely diagnosis is:
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-3.jpg)
 A. Follicular lymphoma
 B. Burkitt lymphoma
 C. Classical Hodgkin lymphoma
@@ -17947,7 +17947,7 @@ E. Mantle cell lymphoma
 【参考答案】 D
 
 2233. Which of the following cells proliferates in eosinophilic granuloma?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-3.jpg)
 A. lymphocytes
 B. Macrophages
 C. Pasmacytes
@@ -18076,7 +18076,7 @@ E. MCCHL > LRCHL > NSCHL > LDCHL
 【参考答案】 B
 
 2249. The histological findings shown here at low power(left side) and high power (right side) microscopically were present in a cervical lymph node that was biopsied. The patient is a 33-year-old woman with low grade fever, night sweats, fatigue and non-tender cervical and supraclavicular lymphadenopathy. This appearance is most consistent with:
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-4.jpg)
 A. Chronic lymphocytic leukemia/small lymphocytic lymphoma
 B. Nodular sclerosis classical Hodgkin lymphoma
 C. Burkitt lymphoma
@@ -18085,7 +18085,7 @@ E. Lymphoid reactive hyperplasis
 【参考答案】 B
 
 2250. This microscopic appearance of an enlarged, non-tender right cervical lymph node found on physical examination of a 38-year-old man which had been present for several months is most suggestive of a diagnosis of:
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-4.jpg)
 A. Chronic lymphocytic leukemia/small lymphocytic lymphoma
 B. Metastatic carcinoma
 C. Burkitt lymphoma

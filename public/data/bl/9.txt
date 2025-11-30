@@ -1281,7 +1281,7 @@ E. 滋养层细胞增生
 【参考答案】 B
 
 161. A 45-year-old woman has had a small amount of vaginal bleeding and a brownish, foul-smelling discharge for the past month. On pelvic examination, there is a 3-cm lesion on the ectocervix. Microscopic findings of this lesion are shown in the figure. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-1.jpg)
 A. Sertoli-Leydig cell tumor
 B. Mature cystic teratoma
 C. Adenocarcinoma
@@ -1290,7 +1290,7 @@ E. Granulosa cell tumor
 【参考答案】 C
 
 162. A 35-year-old woman has had increasing abdominal enlargement for the past 6 months. On physical examination, there is abdominal distention with a fluid wave. A pelvic ultrasound scan shows bilateral cystic ovarian masses, 10 cm on the right and 7 cm on the left. The masses are surgically removed. On gross examination, the excised masses are unilocular cysts filled with clear fluid, and papillary projections extend into the central lumen of these cysts. Microscopic examination shows that the papillae are covered with atypical cuboidal cells that invade underlying stroma. Psammoma bodies are present. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-1.jpg)
 A. Sertoli-Leydig cell tumor
 B. Mature cystic teratoma
 C. Cystadenocarcinoma
@@ -1475,7 +1475,7 @@ E. Sertoli cell tumor
 【参考答案】 C
 
 185. A 40-year-old woman has noticed progressive enlargement of the abdomen over the past 5 months. Physical examination shows no palpable masses, but a fluid wave is present. An abdominal ultrasound scan shows a 15-cm multilobular mass that involves the right adnexal region. The mass is surgically removed, and the gross features of the excised mass are shown above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-2.jpg)
 A. Immature teratoma
 B. Serous cystadenocarcinoma
 C. Granulosa cell tumor
@@ -1484,7 +1484,7 @@ E. Dysgerminoma
 【参考答案】 B
 
 186. A 54-year-old woman has had weight loss accompanied by abdominal enlargement for the past 6 months. She is concerned because of a family history of ovarian carcinoma. On physical examination, there are no lesions of the cervix, and the uterus is normal in size, but there is a left adnexal mass. An abdominal ultrasound scan shows a l0-cm cystic mass in the left adnexal region, with scattered 1-cm peritoneal nodules. Cytologic studies of peritoneal fluid show malignant cells consistent with a cystadenocarcinoma. Which of the following mutated genes is most likely a factor in the development of this neoplasm?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-2.jpg)
 A. RAS
 B. BRCA1
 C. ERBB2 (HER2)
@@ -1565,7 +1565,7 @@ E. Papillary carcinoma
 【参考答案】 B
 
 196. A 70-year-old man comes to his physician for a routine health examination. On palpation, his prostate is normal in size. However, laboratory studies show an elevated level of serum prostate-specific antigen (PSA). Which of the following histologic findings in a subsequent biopsy of the prostate is most likely to account for the patient's elevated PSA?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-3.jpg)
 A. Hyperplastic nodules of the stroma and glands lined by two layers of epithelium
 B. Poorly differentiated glands lined by a single layer of epithelium and packed back to back
 C. Foci of chronic inflammatory cells in the stroma and in normal-appearing glands
@@ -1574,7 +1574,7 @@ E. Multiple caseating granulomas
 【参考答案】 B
 
 197. A healthy 52-year-old woman has had a feeling of pelvic heaviness for the past 11 months. There is no history of abnormal bleeding. Her physician palpates an enlarged nodular uterus on pelvic examination. Pelvic CT imaging shows multiple solid, uterine masses. A total abdominal hysterectomy is performed. Based on the gross appearance of the mass shown above, which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-3.jpg)
 A. Metastases
 B. Endometriosis
 C. Infiltrative leiomyosarcoma
@@ -1591,7 +1591,7 @@ E. Lipoma
 【参考答案】 C
 
 199. A 32-year-old man has noticed an increased feeling of heaviness in his scrotum for the past 10 months. On physical examination, the left testis is three times the size of the right testis and is firm on palpation. An ultrasound scan shows a 6-cm solid mass within the body of the left testis. Laboratory studies include an elevated serum α-fetoprotein level. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-4.jpg)
 A. Yolk sac tumor
 B. Leydig cell tumor
 C. Seminoma
@@ -1600,7 +1600,7 @@ E. Embryonal carcinoma cells
 【参考答案】 A
 
 200. A 31-year-old woman has had dull, constant, abdominal pain for 6 months. On physical examination, the only finding is a right adnexal mass. The right fallopian tube and ovary are surgically excised. The gross and histologic appearance of the ovary are shown in the figure above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-4.jpg)
 A. Mucinous cystadenoma
 B. Choriocarcinoma
 C. Dysgerminoma
@@ -1697,7 +1697,7 @@ E. Transitional zone
 【参考答案】 C
 
 212. A 45-year-old woman has had menometrorrhagia for the past 3 months. On physical examination, there are no remarkable findings. The microscopic appearance of an endometrial biopsy specimen is shown in the photomicrograph above. Which of the following conditions is most likely to produce these findings?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-5.jpg)
 A. Ovarian mature cystic teratoma
 B. Chronic endometritis
 C. Failure of ovulation
@@ -1706,7 +1706,7 @@ E. Use of oral contraceptives
 【参考答案】 C
 
 213. A 23-year-old woman presents with a rubbery, freely movable 2-cm mass in the upper outer quadrant of the left breast. Which of the following histologic features is most likely to be seen when examining a biopsy spec-imen from this mass?
-![题目配图](https://course.huh.moe/data/bl/images/9-chap9-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/9-chap9-5.jpg)
 A. Large numbers of neutrophils
 B. Large numbers of plasma cells
 C. Duct ectasia with inspissation of breast secretions

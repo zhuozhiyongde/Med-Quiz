@@ -1457,7 +1457,7 @@ E. Renal vein
 【参考答案】 A
 
 183. A 65-year-old man had rheumatic heart disease 20 years ago. He presents to the emergency room complaining of breathlessness for the past three days. He woke at 3 am feeling short of breath and had to sleep in his recliner for the rest of night. On physical examination, he has swelling in his feet and ankles, distended neck veins with visible cannon waves and his liver is palpable three centimeters below the right costal margin. Based on the gross appearance of the liver seen in the figure, which of the following underling conditions is most likely to be present?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-1.jpg)
 A. Inferior vena cava obstruction
 B. Chronic renal failure
 C. Pulmonary infection
@@ -1466,7 +1466,7 @@ E. Cirrhotic portal hypertension
 【参考答案】 D
 
 184. Thrombi of large deep veins of arms may cause emboli in:
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-1.jpg)
 A. Coronary artery
 B. Mesenteric artery
 C. Pulmonary artery
@@ -1699,7 +1699,7 @@ E. Hyaline membranes line the alveolar spaces
 【参考答案】 E
 
 213. A coronary artery is shown from the autopsy of a 61-year-old patient who had acute chest pain and difficulty breathing. What is most likely to have resulted from the pathologic findings in this artery?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-2.jpg)
 A. Caseous necrosis
 B. Coagulative necrosis
 C. Apoptosis
@@ -1708,7 +1708,7 @@ E. Liquefactive necrosis
 【参考答案】 B
 
 214. When going upstairs, a 60-year-old man had severe crushing chest pain, which lasted about 45 minutes and was not relieved by nitroglycerine. A coronary angiogram revealed 75% stenosis of the left anterior descending artery. Despite aggressive resuscitative measures, his condition deteriorated and he died. Which of the following microscopic findings is most likely to be present in his left ventricular myocardium at the time of death?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-2.jpg)
 A. Extensive collagen deposition and abundant capillaries
 B. Necrosis with neutrophils and macrophages
 C. Edema and loss of cross striation
@@ -1749,7 +1749,7 @@ E. Bronchial carcinoid
 【参考答案】 B
 
 219. This is the gross appearance of a heart from autopsy of a 49-year-old man who had experienced worsening orthopnea for several months. He became dyspneic with exercise, but had no chest pain or peripheral edema. Which of the following underlying conditions do you most strongly suspect？
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-3.jpg)
 A. Dilated cardiomyopathy
 B. Viral myocarditis
 C. Rheumatic heart disease
@@ -1758,7 +1758,7 @@ E. Coronary thrombosis
 【参考答案】 D
 
 220. A 16-year-old female presented to the emergency department, following a pedestrian vehicular accident. X-ray imaging revealed multiple fractures including the right lower leg and pelvis. After treatment her condition was stable. However, approximately 2 days after initial presentation, she became tachypnea and confused, and then died. This microscopic appearance was found at autopsy. Which of the followings in the most likely explanation?
-![题目配图](https://course.huh.moe/data/bl/images/2-chap2-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/2-chap2-3.jpg)
 A. Bronchopneumonia
 B. Fat embolism
 C. Metastatic carcinoma

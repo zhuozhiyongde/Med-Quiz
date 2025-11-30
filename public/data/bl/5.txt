@@ -1401,7 +1401,7 @@ E. Increased preload caused by diastolic dysfunction of his heart
 【参考答案】 D
 
 176. A 55-year-old woman was being evaluated for shortness of breath, ankle edema, and mild hepatomegaly in the hospital. She died 1 week later after admission. The gross appearance of the liver at autopsy is shown. Which of the following abnormalities is most likely present?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-1.jpg)
 A. Right heart failure
 B. Splenic infarction
 C. Atherosclerosis of descending aorta
@@ -1410,7 +1410,7 @@ E. A pulmonary saddle embolus
 【参考答案】 A
 
 177. A 65-year-old man was found to have a 5-cm pulsatile mass in his abdomen during a routine physical examination. Angiography reveals a marked dilation in his aorta distal to the renal arteries. Which of the following is the most likely cause of this aneurysm?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-1.jpg)
 A. A congenital defect
 B. Hypertension
 C. Trauma
@@ -1459,7 +1459,7 @@ E. Amyloid change
 【参考答案】 B
 
 183. A 60-year-old woman has reported increasing fatigue over the past year. Laboratory studies show a serum creatinine level of 4.7 mg/dL（normal values: male: 0.6-1.2 mg/dl, female: 0.5-1.1 mg/dl） and urea nitrogen level of 44 mg/dL (normal value: adult: 9-20 mg/dl, child: 5-18 mg/dl). An abdominal ultrasound scan shows that her kidneys are symmetrically shrunken and granular. The high-magnification microscopic appearance of the kidneys is shown. These findings are most likely to indicate which of the following underlying conditions?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-2.jpg)
 A. Benign hypertension
 B. Hypercholesterolemia
 C. Malignant hypertension
@@ -1468,7 +1468,7 @@ E. Rheumatic arteritis
 【参考答案】 A
 
 184. A 60-year-old man has experienced chest pain at rest for the past year. The figure shows the microscopic appearance representative of the patient's left anterior descending artery. Which of the following sets of histologic features is most likely to be found in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-2.jpg)
 A. A core of foam cells covered by a cap of smooth muscle cells
 B. Collection of foam cells, necrotic areas, cholesterol clefts and calcification
 C. A lipid core, granulation tissue
@@ -1541,7 +1541,7 @@ E. Elevated cholesterol level
 【参考答案】 D
 
 193. A 37-year-old woman dies suddenly at home. External examination of the body shows no evidence of trauma. The microscopic appearance of the proximal left anterior descending artery at autopsy is shown. Which of the following conditions is most likely to be the underlying cause of death?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-5.jpg)
 A. Marfan syndrome
 B. Rheumatic arteritis
 C. Diabetes mellitus
@@ -1550,7 +1550,7 @@ E. Advanced breast carcinoma with widespread metastases
 【参考答案】 C
 
 194. A 33-year-old man died suddenly after a week-long illness. He experienced chest pain and then became increasingly dyspneic and nauseated and lost consciousness multiple times. External examination shows no evidence of trauma. The body height is 166 cm and he weighs 75 kg. This figure which shows the gross appearance of the chest cavity at autopsy with the pericardial sac opened, is most consistent with which of the following underlying causes of death?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-5.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-5.jpg)
 A. Dilated cardiomyopathy
 B. Transmural myocardial infarction
 C. Disseminated tuberculosis
@@ -1583,7 +1583,7 @@ E. Down syndrome
 【参考答案】 B
 
 198. A 55-year-old man experienced chest pain with exertion 3 years ago, and an angiogram showed 75% occlusion of his left anterior descending artery. He was prescribed long acting nitrates and beta blockers, and he remained asymptomatic until the past week. He experienced sudden cardiac arrest when he was admitted to hospital yesterday. Which of the following laboratory findings is most characteristic of the disease affecting this patient?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-7.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-7.jpg)
 A. High double-stranded DNA autoantibody titer
 B. Positive ANCA determination
 C. Increased creatine kinase-MB fraction (CK-MB)
@@ -1592,7 +1592,7 @@ E. Elevated renin level
 【参考答案】 C
 
 199. A 50-year-old man has had increasing dyspnea for the past 2 days. He experiences sudden cardiac arrest and cannot be resuscitated. The light microscopic appearance of the left ventricular free wall at autopsy is shown above. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-7.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-7.jpg)
 A. Viral myocarditis
 B. Acute rheumatic myocarditis
 C. Myocardial infarction
@@ -1617,7 +1617,7 @@ E. ECHO virus infection
 【参考答案】 B
 
 202. A 28-year-old man was found dead at home. An external examination by the medical examiner showed splinter hemorrhages under the fingernails and no signs of trauma. The gross appearance of the heart at autopsy is shown. Which of the following conditions is most likely to have been the cause of his death?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-8.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-8.jpg)
 A. Acute infective endocarditis
 B. Acute rhematic heart disease
 C. Acute myocardial infarction
@@ -1626,7 +1626,7 @@ E. Viral myocarditis
 【参考答案】 A
 
 203. A 65-year-old man with a history of diabetes mellitus had chest pain and an elevated ST level 1 year ago. He was treated in the hospital with antiarrhythmic agents for 1 week. An echocardiogram showed an ejection fraction of 28%. He now has markedly reduced exercise tolerance. Diffuse crackles are heard on auscultation of the lungs. The representative gross appearance of the heart is shown in the following figure. Which of the following complications of this disease is the patient most likely to develop?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-9.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-9.jpg)
 A. Infective endocarditis
 B. Chronic valvular disease of the heart
 C. Hypertrophic cardiomyopathy
@@ -1635,7 +1635,7 @@ E. Systemic thromboembolism
 【参考答案】 E
 
 204. A 16-year-old girl died suddenly when she just finished a running. She had been healthy all her life and complained only of limited episodes of chest pain in games during the current schoo1 year. Which of the following pathologic findings of the heart is the medical examiner most likely to find?
-![题目配图](https://course.huh.moe/data/bl/images/5-chap5-9.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/5-chap5-9.jpg)
 A. Large, friable vegetations with destruction of aortic valve cusps
 B. Thickening of the endocardium with white color change
 C. Mitral valvular stenosis with left atrial enlargement

@@ -753,7 +753,7 @@ E. This disease may disseminate to various sites
 【参考答案】 C
 
 95. The histological findings shown here at high power microscopically were present in the nasal cavity. The patient is a 48-year-old male with low grade fever, night sweats, fatigue and weight loss. He has a medical history of chronic nasopharyngitis. Which of the following immunophenotypes is most likely?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-1.jpg)
 A. CD3-, CD20+, CD2+
 B. CD3+, CD56+, Granzyme B+, TIA-1+
 C. CD3+, CD30+, CD20-
@@ -762,7 +762,7 @@ E. CD3+, CD20+, CD68+
 【参考答案】 B
 
 96. Which of the following diseases is a T-cell lymphoma?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-1.jpg)
 A. Letterer-Siwe disease
 B. Hand-Schuller-Christian disease
 C. Histiocytic sarcoma
@@ -827,7 +827,7 @@ E. Hodgkin lymphoma
 【参考答案】 D
 
 104. This is the microscopic appearance of a neoplasm in the colon found on examination of a 40-year-old man who had abdominal distension for several months. This appearance is most suggestive of which diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-2.jpg)
 A. MALT lymphoma
 B. Diffuse large B-cell lymphoma
 C. Follicular lymphoma
@@ -836,7 +836,7 @@ E. Mantle cell lymphoma
 【参考答案】 B
 
 105. Which of the following regarding follicular lymphoma in incorrect?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-2.jpg)
 A. Originates from marginal zone cells
 B. Usually has a nodal pattern
 C. It is an indolent neoplasm
@@ -861,7 +861,7 @@ E. None of above
 【参考答案】 E
 
 108. A 35-year-old man who is a decorator, has had systematic lymphadenopathy for 6 months. He had a right cervical lymph node biopsy after there was no response to treatment with antibiotics. The histological findings are shown here. The cells express CD10, CD20 and BCL6. The most likely diagnosis is:
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-3.jpg)
 A. Follicular lymphoma
 B. Burkitt lymphoma
 C. Classical Hodgkin lymphoma
@@ -870,7 +870,7 @@ E. Mantle cell lymphoma
 【参考答案】 D
 
 109. Which of the following cells proliferates in eosinophilic granuloma?
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-3.jpg)
 A. lymphocytes
 B. Macrophages
 C. Pasmacytes
@@ -999,7 +999,7 @@ E. MCCHL > LRCHL > NSCHL > LDCHL
 【参考答案】 B
 
 125. The histological findings shown here at low power(left side) and high power (right side) microscopically were present in a cervical lymph node that was biopsied. The patient is a 33-year-old woman with low grade fever, night sweats, fatigue and non-tender cervical and supraclavicular lymphadenopathy. This appearance is most consistent with:
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-4.jpg)
 A. Chronic lymphocytic leukemia/small lymphocytic lymphoma
 B. Nodular sclerosis classical Hodgkin lymphoma
 C. Burkitt lymphoma
@@ -1008,7 +1008,7 @@ E. Lymphoid reactive hyperplasis
 【参考答案】 B
 
 126. This microscopic appearance of an enlarged, non-tender right cervical lymph node found on physical examination of a 38-year-old man which had been present for several months is most suggestive of a diagnosis of:
-![题目配图](https://course.huh.moe/data/bl/images/10-chap10-4.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/10-chap10-4.jpg)
 A. Chronic lymphocytic leukemia/small lymphocytic lymphoma
 B. Metastatic carcinoma
 C. Burkitt lymphoma

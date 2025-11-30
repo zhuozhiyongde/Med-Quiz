@@ -1297,7 +1297,7 @@ E. Fibrosarcoma
 【参考答案】 B
 
 163. A 72-year-old female has been feeling fatigued for weeks. She has had a 10 kg weight loss in the past couple of months. She has some nausea, but no vomiting, hemoptysis, or hematemesis. She does not have a cough. She is afebrile. The most likely explanation for these findings, from the gross appearance of the liver seen here, is the presence of:
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-1.jpg)
 A. Hepatic adenomas
 B. Metastatic adenocarcinoma
 C. Hepatocellular carcinoma
@@ -1306,7 +1306,7 @@ E. Micronodular cirrhosis
 【参考答案】 B
 
 164. Which one of the following statements is most appropriate for the lesion shown here?
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-1.jpg)
 A. This tumor is always well-differentiated
 B. The growth pattern for the tumor is local invasion
 C. Metastasis may be exist when the tumor is identified
@@ -1315,7 +1315,7 @@ E. None of above
 【参考答案】 C
 
 165. A 40-year-old female has noted some intermenstrual blooding and felt pelvic discomfort. A pelvic examination is performed and the cervical lesion seen here is found and a hysterectomy performed. Which one of the following statements is most appropriate based on the appearance of this lesion?
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-3.jpg)
 A. This lesion is the result of smoking
 B. This is a benign lesion that will not recur
 C. This is a malignant lesion that will be lethal
@@ -1324,7 +1324,7 @@ E. Syphilis is the main cause of the lesion
 【参考答案】 C
 
 166. A 68-year-old male is found to have occult blood in the stool on physicial examination. A colonoscopy is performed, and the lesion seen here was found and resected. Which of the following statements is most appropriate for this patient?
-![题目配图](https://course.huh.moe/data/bl/images/4-chap4-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/4-chap4-3.jpg)
 A. His children have a high risk for a similar lesion
 B. This is a benign lesion that will not recur
 C. This lesion is the result of smoking

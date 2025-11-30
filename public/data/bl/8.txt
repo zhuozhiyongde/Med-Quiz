@@ -1345,7 +1345,7 @@ E. Rupture of the tubular basement membrane
 【参考答案】 E
 
 169. A 50-year-old woman has had flank pain for the past 2 days. Physical examination shows bilateral costovertebral angle tenderness. Urinalysis shows 2+ hematuria, and no protein, glucose, or ketones. An abdominal ultrasound scan shows bilaterally enlarged kidneys that have been replaced completely by 0.5- to 0.3-cm cysts. Which of the following complication is most likely to develop in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-3.jpg)
 A. Hypertension
 B. Renal cell carcinoma
 C. Nephrotic syndrome
@@ -1354,7 +1354,7 @@ E. Renal infarction
 【参考答案】 A
 
 170. A 77-year-old man has had increasing difficulties with urination for the past 2 years. He has difficulty starting and stopping the urine stream. On physical examination, his temperature is 37.0°C and blood pressure is 130/85 mmHg. The representative gross appearance of the bladder is shown. Which of the following laboratory findings is most likely to be reported in this patient?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-3.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-3.jpg)
 A. Positive ANA test result
 B. Urine culture positive for Mycobacterium tuberculosis
 C. Hemoglobin concentration 225 g/dL
@@ -1419,7 +1419,7 @@ E. WT-1 gene
 【参考答案】 E
 
 178. A 58-year-old man presents with left-sided costovertebral pain and gross hematuria. A large mass is found in the upper pole of one of his kidneys, as seen in the picture. Which of the following histologic changes is most likely to be seen when examining microscopic sections from this mass?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-1.jpg)
 A. Groups and sheets of transitional epithelial cells
 B. Immature tubules and abortive glomerular formation
 C. Malignant undifferentiated mesenchymal cells
@@ -1428,7 +1428,7 @@ E. Uniform cells with clear cytoplasm containing glycogen and lipid
 【参考答案】 C
 
 179. A 56-year-old man presents with severe headaches, nausea, and vomiting. He also relates seeing spots before his eyes and is found to have a diastolic blood pressure of 160 mmHg. Microscopic examination of a renal biopsy demonstrates hyperplastic arteriolitis. Gross examination of his kidneys is most likely to reveal which one of the following changes?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. A finely granular appearance on the surface
 B. Multiple small petechial hemorrhages on the surface
 C. Diffuse, irregular cortical scars overlying dilated calyces
@@ -1437,7 +1437,7 @@ E. Depressed cortical areas overlying necrotic papillae of varying stages
 【参考答案】 B
 
 180. A 67-year-old woman presents with signs of slowly progressive renal failure. Physical examination reveals mild hypertension, while laboratory tests find increased serum creatinine and BUN with mild proteinuria. A few scat-tered neutrophils and rare bacteria are seen microscopically in her urine. Grossly both of her kidneys are small and irregular with dilation of the renal pelvis and clubbing of the calyces, and these changes are similar in appearance to those seen in the picture below. Histologic sections from her kidneys reveal chronic inflammation of the interstitium. Which one of the following additional microscopic findings should be present in these histologic sections?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. The renal papillae should have numerous activated macrophages
 B. The tubules should be dilated and filled with colloid casts
 C. The afferent and efferent arterioles should demonstrate fibroelastic hyperplasia
@@ -1622,7 +1622,7 @@ E. Squamous cell carcinoma in situ
 【参考答案】 D
 
 203. The kidney shown in the photomicrograph below exhibits a tumor that originated in the upper pole. Histologic sections from this lesion would most likely reveal which of the following carcinomas?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-1.jpg)
 A. Squamous cell carcinoma
 B. Small cell carcinoma
 C. Signet cell carcinoma
@@ -1631,7 +1631,7 @@ E. Transitional cell carcinoma
 【参考答案】 D
 
 204. What is the most likely cause of the combination of generalized edema, hypoalbuminemia, hypercholesterolemia, marked proteinuria, with fatty casts and oval fat bodies in the urine?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-1.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-1.jpg)
 A. Acute renal failure
 B. Nephrotic syndrome
 C. Nephritic syndrome
@@ -1680,7 +1680,7 @@ E. Granular deposits of antibodies in the glomerular basement membrane
 【参考答案】 E
 
 210. The gross appearance of the kidney shown below is most compatible with which of the following conditions?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. Chronic glomerulonephritis
 B. Acute glomerulonephritis
 C. Chronic pyelonephritis
@@ -1689,7 +1689,7 @@ E. Cystic renal dysplasia
 【参考答案】 C
 
 211. Histologic sections of a kidney reveal patchy necrosis of epithelial cells of both the proximal and distal tubules with flattening of the epithelial cells, rupture of the basement membrane (tubulorrhexis), and marked interstitial edema. Acute inflammatory cells are not seen. Which of the following is the most likely diagnosis?
-![题目配图](https://course.huh.moe/data/bl/images/8-chap8-2.jpg)
+![题目配图](https://quiz.huh.moe/data/bl/images/8-chap8-2.jpg)
 A. Acute pyelonephritis
 B. Acute tubular necrosis
 C. Chronic pyelonephritis
