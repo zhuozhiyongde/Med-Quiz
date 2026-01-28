@@ -15,12 +15,15 @@ import {
     PlayCircle,
     Copy,
     CheckCheck,
+    BookOpen,
+    Eye,
+    EyeOff,
 } from 'lucide-react';
 import type { QuizData, Question, AnswerRecord } from '../types';
 import { ThemeToggle } from './ThemeToggle';
 import { Footer } from './Footer';
 
-type QuizMode = 'sequential' | 'random';
+type QuizMode = 'sequential' | 'random' | 'recite';
 type QuizState = 'start' | 'quiz' | 'result';
 
 interface SavedProgress {
@@ -60,6 +63,7 @@ export function Quiz({ data }: QuizProps) {
     const [optionsOrderMap, setOptionsOrderMap] = useState<Map<number, string[]>>(new Map());
     const [isLoaded, setIsLoaded] = useState(false);
     const [isPartialSubmit, setIsPartialSubmit] = useState(false); // 是否为提前交卷
+    const [hideWrongOptions, setHideWrongOptions] = useState(false); // 背诵模式下是否隐藏错误选项
     const [copied, setCopied] = useState(false); // 复制成功状态
     const [copiedWrongIndex, setCopiedWrongIndex] = useState<number | null>(null); // 复制成功的错题索引
 
@@ -314,6 +318,17 @@ export function Quiz({ data }: QuizProps) {
                 handleNext();
                 return;
             }
+
+            // 背诵模式下，空格键用于切换下一题，其他快捷键无效
+            if (mode === 'recite') {
+                if (e.code === 'Space') {
+                    e.preventDefault();
+                    handleNext();
+                }
+                return;
+            }
+
+            // 正常答题模式
             if (e.code === 'Space') {
                 e.preventDefault();
                 if (hasSubmitted) {
@@ -368,7 +383,7 @@ export function Quiz({ data }: QuizProps) {
 
         window.addEventListener('keydown', handleKeyDown);
         return () => window.removeEventListener('keydown', handleKeyDown);
-    }, [state, hasSubmitted, currentQuestion, selectedAnswers, currentOptionsOrder, handlePrev, handleNext]);
+    }, [state, mode, hasSubmitted, currentQuestion, selectedAnswers, currentOptionsOrder, handlePrev, handleNext]);
 
     const handleRestart = () => {
         localStorage.removeItem(STORAGE_KEY);
@@ -442,7 +457,7 @@ export function Quiz({ data }: QuizProps) {
                             </div>
                         </div>
 
-                        <div className="flex gap-3">
+                        <div className="flex gap-3 mb-3">
                             <button
                                 onClick={() => startQuiz('sequential')}
                                 className="flex-1 h-10 bg-theme-text text-theme-bg font-medium rounded-md hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
@@ -456,6 +471,12 @@ export function Quiz({ data }: QuizProps) {
                                 随机练习
                             </button>
                         </div>
+                        <button
+                            onClick={() => startQuiz('recite')}
+                            className="w-full h-10 border border-green-500/50 text-green-500 font-medium rounded-md hover:bg-green-500/10 transition-colors flex items-center justify-center gap-2">
+                            <BookOpen className="w-4 h-4" />
+                            背诵模式（直接显示答案）
+                        </button>
                     </div>
 
                     <Footer showShortcuts={true} />
@@ -699,29 +720,41 @@ export function Quiz({ data }: QuizProps) {
                 {/* 进度条 */}
                 <div className="h-1 bg-theme-elevated rounded-full mb-4 md:mb-6 overflow-hidden">
                     <div
-                        className="h-full bg-theme-text transition-all duration-300"
-                        style={{ width: `${(answersMap.size / questions.length) * 100}%` }}
+                        className={`h-full transition-all duration-300 ${mode === 'recite' ? 'bg-green-500' : 'bg-theme-text'}`}
+                        style={{ width: `${mode === 'recite' ? ((currentIndex + 1) / questions.length) * 100 : (answersMap.size / questions.length) * 100}%` }}
                     />
                 </div>
 
                 {/* 头部信息 */}
                 <div className="flex items-center justify-between mb-4 md:mb-6">
                     <div className="flex items-center gap-2 md:gap-3 flex-wrap">
-                        <button
-                            onClick={handleExit}
-                            className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-red-500 hover:border-red-500/30 transition-colors flex items-center gap-1"
-                            title="放弃回答，重置进度">
-                            <LogOut className="w-3 h-3" />
-                            放弃
-                        </button>
-                        <button
-                            onClick={handleEarlySubmit}
-                            disabled={answersMap.size === 0}
-                            className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-accent hover:border-theme-accent/30 transition-colors flex items-center gap-1 disabled:opacity-30 disabled:cursor-not-allowed"
-                            title="提前交卷，保存进度">
-                            <Send className="w-3 h-3" />
-                            交卷
-                        </button>
+                        {mode === 'recite' ? (
+                            <button
+                                onClick={handleExit}
+                                className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-accent hover:border-theme-accent/30 transition-colors flex items-center gap-1"
+                                title="退出背诵模式">
+                                <LogOut className="w-3 h-3" />
+                                退出
+                            </button>
+                        ) : (
+                            <>
+                                <button
+                                    onClick={handleExit}
+                                    className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-red-500 hover:border-red-500/30 transition-colors flex items-center gap-1"
+                                    title="放弃回答，重置进度">
+                                    <LogOut className="w-3 h-3" />
+                                    放弃
+                                </button>
+                                <button
+                                    onClick={handleEarlySubmit}
+                                    disabled={answersMap.size === 0}
+                                    className="px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-accent hover:border-theme-accent/30 transition-colors flex items-center gap-1 disabled:opacity-30 disabled:cursor-not-allowed"
+                                    title="提前交卷，保存进度">
+                                    <Send className="w-3 h-3" />
+                                    交卷
+                                </button>
+                            </>
+                        )}
                         <span className="text-xs md:text-sm text-theme-text">
                             {currentIndex + 1}
                             <span className="text-theme-text-muted"> / {questions.length}</span>
@@ -734,12 +767,36 @@ export function Quiz({ data }: QuizProps) {
                             }`}>
                             {currentQuestion.type === 'single' ? '单选' : '多选'}
                         </span>
+                        {mode === 'recite' && (
+                            <span className="px-1.5 md:px-2 py-0.5 text-[10px] md:text-xs rounded border bg-green-500/10 text-green-500 border-green-500/30">
+                                背诵模式
+                            </span>
+                        )}
                     </div>
-                    <div className="flex items-center gap-3">
-                        <div className="text-xs md:text-sm">
-                            <span className="text-green-500">{stats.correct}</span>
-                            <span className="text-theme-text-muted"> / {stats.total}</span>
-                        </div>
+                    <div className="flex items-center gap-2 md:gap-3">
+                        {mode === 'recite' && (
+                            <button
+                                onClick={() => setHideWrongOptions((prev) => !prev)}
+                                className={`flex items-center gap-1 px-2 py-1 text-[10px] md:text-xs rounded border transition-colors ${
+                                    hideWrongOptions
+                                        ? 'bg-green-500/10 text-green-500 border-green-500/30'
+                                        : 'bg-theme-elevated text-theme-text-muted border-theme-border hover:text-theme-text'
+                                }`}
+                                title={hideWrongOptions ? '显示所有选项' : '隐藏错误选项'}>
+                                {hideWrongOptions ? (
+                                    <EyeOff className="w-3 h-3" />
+                                ) : (
+                                    <Eye className="w-3 h-3" />
+                                )}
+                                <span className="hidden sm:inline">{hideWrongOptions ? '仅显示答案' : '显示全部'}</span>
+                            </button>
+                        )}
+                        {mode !== 'recite' && (
+                            <div className="text-xs md:text-sm">
+                                <span className="text-green-500">{stats.correct}</span>
+                                <span className="text-theme-text-muted"> / {stats.total}</span>
+                            </div>
+                        )}
                         <ThemeToggle />
                     </div>
                 </div>
@@ -768,28 +825,45 @@ export function Quiz({ data }: QuizProps) {
                             const isSelected = selectedAnswers.includes(key);
                             const isCorrectAnswer = currentQuestion.answers.includes(key);
                             const displayKey = String(idx + 1);
+                            const isReciteMode = mode === 'recite';
+
+                            // 背诵模式下隐藏错误选项
+                            if (isReciteMode && hideWrongOptions && !isCorrectAnswer) {
+                                return null;
+                            }
 
                             let optionStyle =
                                 'border-theme-border hover:border-theme-border-light hover:bg-theme-elevated';
-                            if (isSelected && !hasSubmitted) {
-                                optionStyle = 'border-theme-text bg-theme-text/5';
-                            }
-                            if (hasSubmitted) {
+
+                            // 背诵模式：直接标注正确答案
+                            if (isReciteMode) {
                                 if (isCorrectAnswer) {
                                     optionStyle = 'border-green-500 bg-green-500/10';
-                                } else if (isSelected) {
-                                    optionStyle = 'border-red-500 bg-red-500/10';
+                                }
+                            } else {
+                                // 正常答题模式
+                                if (isSelected && !hasSubmitted) {
+                                    optionStyle = 'border-theme-text bg-theme-text/5';
+                                }
+                                if (hasSubmitted) {
+                                    if (isCorrectAnswer) {
+                                        optionStyle = 'border-green-500 bg-green-500/10';
+                                    } else if (isSelected) {
+                                        optionStyle = 'border-red-500 bg-red-500/10';
+                                    }
                                 }
                             }
 
                             return (
                                 <button
                                     key={key}
-                                    onClick={() => handleSelect(key)}
-                                    className={`w-full flex items-center gap-4 p-3 md:p-4 rounded-md border transition-all text-left ${optionStyle} cursor-pointer`}>
+                                    onClick={() => !isReciteMode && handleSelect(key)}
+                                    className={`w-full flex items-center gap-4 p-3 md:p-4 rounded-md border transition-all text-left ${optionStyle} ${isReciteMode ? 'cursor-default' : 'cursor-pointer'}`}>
                                     <span
                                         className={`flex items-center justify-center w-6 h-6 md:w-7 md:h-7 rounded-full text-xs md:text-sm font-medium flex-shrink-0 ${
-                                            hasSubmitted && isCorrectAnswer
+                                            isReciteMode && isCorrectAnswer
+                                                ? 'bg-green-500 text-white'
+                                                : hasSubmitted && isCorrectAnswer
                                                 ? 'bg-green-500 text-white'
                                                 : hasSubmitted && isSelected
                                                 ? 'bg-red-500 text-white'
@@ -801,7 +875,9 @@ export function Quiz({ data }: QuizProps) {
                                     </span>
                                     <span
                                         className={`flex-1 text-sm md:text-base ${
-                                            hasSubmitted && isCorrectAnswer
+                                            isReciteMode && isCorrectAnswer
+                                                ? 'text-green-500'
+                                                : hasSubmitted && isCorrectAnswer
                                                 ? 'text-green-500'
                                                 : hasSubmitted && isSelected && !isCorrectAnswer
                                                 ? 'text-red-500'
@@ -809,10 +885,13 @@ export function Quiz({ data }: QuizProps) {
                                         }`}>
                                         {value}
                                     </span>
-                                    {hasSubmitted && isCorrectAnswer && (
+                                    {(isReciteMode && isCorrectAnswer) && (
                                         <Check className="w-5 h-5 text-green-500 flex-shrink-0" />
                                     )}
-                                    {hasSubmitted && isSelected && !isCorrectAnswer && (
+                                    {!isReciteMode && hasSubmitted && isCorrectAnswer && (
+                                        <Check className="w-5 h-5 text-green-500 flex-shrink-0" />
+                                    )}
+                                    {!isReciteMode && hasSubmitted && isSelected && !isCorrectAnswer && (
                                         <X className="w-5 h-5 text-red-500 flex-shrink-0" />
                                     )}
                                 </button>
@@ -823,7 +902,12 @@ export function Quiz({ data }: QuizProps) {
 
                 {/* 操作提示 */}
                 <div className="text-[10px] md:text-xs text-theme-text-muted mb-3 md:mb-4 px-1">
-                    {currentQuestion.type === 'single' ? (
+                    {mode === 'recite' ? (
+                        <span>
+                            💡 背诵模式：答案已直接标出，使用左右方向键或点击按钮切换题目。
+                            {currentQuestion.explanation && ' 下方有解析。'}
+                        </span>
+                    ) : currentQuestion.type === 'single' ? (
                         <span>
                             💡 点击选项作答（未选情况下空格自动选出正确答案），出结果后，点击任意选项或空格继续下一题
                         </span>
@@ -832,8 +916,8 @@ export function Quiz({ data }: QuizProps) {
                     )}
                 </div>
 
-                {/* 反馈区域 */}
-                {hasSubmitted && (
+                {/* 反馈区域 - 正常答题模式 */}
+                {mode !== 'recite' && hasSubmitted && (
                     <div
                         className={`rounded-lg p-4 md:p-5 mb-4 md:mb-6 border ${
                             isCorrect ? 'bg-green-500/5 border-green-500/20' : 'bg-red-500/5 border-red-500/20'
@@ -892,6 +976,37 @@ export function Quiz({ data }: QuizProps) {
                     </div>
                 )}
 
+                {/* 反馈区域 - 背诵模式 */}
+                {mode === 'recite' && currentQuestion.explanation && (
+                    <div className="rounded-lg p-4 md:p-5 mb-4 md:mb-6 border bg-green-500/5 border-green-500/20">
+                        <div className="flex items-center justify-between mb-2 md:mb-3">
+                            <div className="font-medium text-sm md:text-base flex items-center gap-2 text-green-500">
+                                <BookOpen className="w-5 h-5" />
+                                答案解析
+                            </div>
+                            <button
+                                onClick={handleCopyQuestion}
+                                className="flex items-center gap-1 px-2 py-1 text-[10px] md:text-xs rounded bg-theme-elevated text-theme-text-muted border border-theme-border hover:text-theme-text hover:border-theme-border-light transition-colors"
+                                title="复制题目和答案">
+                                {copied ? (
+                                    <>
+                                        <CheckCheck className="w-3 h-3 text-green-500" />
+                                        <span className="text-green-500">已复制</span>
+                                    </>
+                                ) : (
+                                    <>
+                                        <Copy className="w-3 h-3" />
+                                        <span>复制本题</span>
+                                    </>
+                                )}
+                            </button>
+                        </div>
+                        <div className="text-xs md:text-sm text-theme-text-muted">
+                            {replaceOptionLetters(currentQuestion.explanation, currentOptionsOrder)}
+                        </div>
+                    </div>
+                )}
+
                 {/* 操作按钮 */}
                 <div className="flex items-center justify-between gap-2 md:gap-3">
                     <button
@@ -903,7 +1018,7 @@ export function Quiz({ data }: QuizProps) {
                     </button>
 
                     <div className="flex gap-2 md:gap-3">
-                        {!hasSubmitted && currentQuestion.type === 'multiple' && (
+                        {mode !== 'recite' && !hasSubmitted && currentQuestion.type === 'multiple' && (
                             <button
                                 onClick={handleConfirmMultiple}
                                 disabled={selectedAnswers.length === 0}
@@ -921,6 +1036,12 @@ export function Quiz({ data }: QuizProps) {
                             <span className="hidden sm:inline">下一题</span>
                             <ArrowRight className="w-4 h-4" />
                         </button>
+                    ) : mode === 'recite' ? (
+                        <button
+                            onClick={handleExit}
+                            className="h-9 md:h-10 px-4 md:px-6 text-xs md:text-sm bg-theme-text text-theme-bg font-medium rounded-md hover:opacity-90 transition-opacity">
+                            完成背诵
+                        </button>
                     ) : (
                         <button
                             onClick={handleFinish}
@@ -931,8 +1052,8 @@ export function Quiz({ data }: QuizProps) {
                     )}
                 </div>
 
-                {/* 未答题提示 */}
-                {!allAnswered && (
+                {/* 未答题提示 - 仅在非背诵模式下显示 */}
+                {mode !== 'recite' && !allAnswered && (
                     <p className="text-center text-theme-text-muted text-xs md:text-sm mt-3 md:mt-4">
                         还有 {questions.length - answersMap.size} 题未作答
                     </p>
